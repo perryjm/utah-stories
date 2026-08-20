@@ -157,8 +157,8 @@ if [ ! -x "$CLAUDE_BIN" ]; then
   CLAUDE_BIN="$resolved_claude_bin"
 fi
 
-log "Starting: claude -p /ksl-feed --execution-mode auto"
-if "$CLAUDE_BIN" -p "/ksl-feed" --execution-mode auto >> "$LOG_FILE" 2>&1; then
+log "Starting: claude -p /ksl-feed --permission-mode auto"
+if "$CLAUDE_BIN" -p "/ksl-feed" --permission-mode auto >> "$LOG_FILE" 2>&1; then
   log "Claude completed successfully."
 else
   claude_status=$?
