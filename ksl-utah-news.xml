@@ -6,8 +6,26 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:30:51 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:38:25 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Teen dies after falling around 100 feet while hiking Devils Castle Trail</title>
+      <link>https://www.ksl.com/article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail</guid>
+      <description><![CDATA[A 16-year-old boy died Wednesday after apparently falling more than 100 feet while hiking the Devil's Castle Trail near Alta, KSL reported. The trail is a popular but exposed scramble route above Albion Basin in Little Cottonwood Canyon. Details on the circumstances of the fall and the emergency response were still emerging Wednesday night, and further information on the teen's identity had not yet been released.]]></description>
+      <dc:creator>KSL.com</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 22:35:00 -0600</pubDate>
+    </item>
+
+    <item>
+      <title>Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in</title>
+      <link>https://www.ksl.com/article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in</guid>
+      <description><![CDATA[Utah ski resorts and forecasters are watching what could become one of the strongest El Niño events on record heading into the 2026-27 winter, with Park City Mountain Resort targeting a Nov. 20 opening. Forecaster Evan Thayer of OpenSnow and Ski Utah said there's a chance this could be the strongest El Niño in 500 years, but cautioned that Utah's mid-latitude location makes the storm pattern's effect on snowfall unpredictable, pointing to the historic 1982-83 season as a boom year and 2015-16 as a bust. Thayer said El Niño winters often start slow before strengthening in February and March, and warned that the warmer temperatures the pattern tends to bring could offset any gains in precipitation. Resort officials say they're focusing on snowmaking capacity to bridge the uncertainty regardless of how the season plays out.]]></description>
+      <dc:creator>Shelby Lofton, KSL</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 22:27:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Twin brothers identified in Kearns funeral shooting</title>
