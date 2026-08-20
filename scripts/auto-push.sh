@@ -1,6 +1,6 @@
 #!/bin/bash
 # Auto-syncs the utah-stories repo to GitHub.
-# Installed as a macOS launchd job, runs daily at 6:30am.
+# Installed as a macOS launchd job, runs every 2 hours (on the :30).
 # Commits and pushes ONLY if there are actual changes in the working tree.
 
 set -uo pipefail
