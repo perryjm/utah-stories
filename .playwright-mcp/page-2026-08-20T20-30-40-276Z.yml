@@ -1,0 +1,469 @@
+- generic [active] [ref=f2376e1]:
+  - generic [ref=f2376e2]:
+    - generic [ref=f2376e7]:
+      - link "Skip to content" [ref=f2376e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f2376e10]:
+        - link "KSL home" [ref=f2376e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f2376e12]
+        - navigation "Primary" [ref=f2376e13]:
+          - link "News" [ref=f2376e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f2376e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f2376e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f2376e21] [cursor=pointer]
+        - generic [ref=f2376e23]:
+          - generic [ref=f2376e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f2376e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f2376e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f2376e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f2376e30]: 99°
+          - button "Search" [ref=f2376e31] [cursor=pointer]
+          - link "Log in" [ref=f2376e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611467%2Flogan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+    - generic [ref=f2376e34]:
+      - generic [ref=f2376e35]:
+        - navigation [ref=f2376e36]:
+          - combobox [ref=f2376e38] [cursor=pointer]:
+            - option "Utah" [selected]
+            - option "Features"
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f2376e40]:
+            - listitem [ref=f2376e41]:
+              - link "Home" [ref=f2376e42] [cursor=pointer]:
+                - /url: /news/utah
+            - listitem [ref=f2376e43]:
+              - link "Counties" [ref=f2376e44] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f2376e45]:
+              - link "Police & Courts" [ref=f2376e46] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - listitem [ref=f2376e47]:
+              - link "Business" [ref=f2376e48] [cursor=pointer]:
+                - /url: /news/business
+            - listitem [ref=f2376e49]:
+              - link "Politics" [ref=f2376e50] [cursor=pointer]:
+                - /url: /news/politics
+            - listitem [ref=f2376e51]:
+              - link "Education" [ref=f2376e52] [cursor=pointer]:
+                - /url: /news/utah/education
+            - listitem [ref=f2376e53]:
+              - link "Science" [ref=f2376e54] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - listitem [ref=f2376e55]:
+              - link "Environment" [ref=f2376e56] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - listitem [ref=f2376e57]:
+              - link [ref=f2376e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f2376e59]
+        - generic [ref=f2376e60]:
+          - generic [ref=f2376e65]:
+            - heading "Logan man swims length of Bear Lake, prepares to cross English Channel" [level=1] [ref=f2376e66]
+            - heading "By Mike Anderson, KSL | Updated - Aug. 20, 2026 at 6:17 a.m. | Posted - Aug. 18, 2026 at 6:55 p.m." [level=4] [ref=f2376e69]
+          - generic [ref=f2376e71]:
+            - iframe [ref=f2376e74]:
+              - application "Video Player - Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f2377e2]:
+                - generic [ref=f2377e4]:
+                  - generic [ref=f2377e6] [cursor=pointer]
+                  - iframe [ref=f2377e11]:
+                    
+                  - generic [ref=f2377e12]: 0 seconds of 2 minutes, 13 secondsVolume 0%
+                  - generic:
+                    - button "Loading" [ref=f2377e13] [cursor=pointer]
+                    - generic:
+                      - slider "Seek"
+                      - generic:
+                        - button "Play" [ref=f2377e14] [cursor=pointer]
+                        - group "Unmute button" [ref=f2377e15] [cursor=pointer]:
+                          - slider "Volume"
+                        - button "Fullscreen" [ref=f2377e16] [cursor=pointer]
+                        - status: Loading ad
+                        - text: /
+            - generic:
+              - separator [ref=f2376e75]
+              - generic [ref=f2376e76]: "44"
+              - list:
+                - listitem:
+                  - link "" [ref=f2376e78] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2376e79] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2376e80] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2376e81] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel?print=1
+              - generic [ref=f2376e82] [cursor=pointer]:
+                - generic [ref=f2376e83]: 
+                - generic [ref=f2376e84]: Save Story
+              - separator [ref=f2376e85]
+            - generic [ref=f2376e87]:
+              - button "Leer en español" [ref=f2376e88] [cursor=pointer]
+              - generic [ref=f2376e89]:
+                - 'button "Listen: 2 Minutes" [ref=f2376e91] [cursor=pointer]':
+                  - generic [ref=f2376e94]: "Listen:"
+                  - generic [ref=f2376e95]: 2 Minutes
+                - generic [ref=f2376e530]:
+                  - button "Play" [ref=f2376e531] [cursor=pointer]
+                  - button "Volume" [ref=f2376e535] [cursor=pointer]
+                  - slider [ref=f2376e541]
+                  - generic [ref=f2376e542]: 02:47
+            - article [ref=f2376e544]:
+              - generic [ref=f2376e545]:
+                - generic [ref=f2376e546]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f2376e548] [cursor=pointer]
+                - list [ref=f2376e550]:
+                  - listitem [ref=f2376e551]: Brayden Jarrett swam 19.5 miles across Bear Lake in 11 hours.
+                  - listitem [ref=f2376e552]: Jarrett plans to swim the English Channel in June 2027, a 21-mile challenge.
+                  - listitem [ref=f2376e553]: He trains at Utah State University and Hyrum Reservoir to prepare for this feat.
+              - generic [ref=f2376e554]:
+                - paragraph [ref=f2376e555]: GARDEN CITY, Rich County — Brayden Jarrett reached a major milestone as an open water swimmer Saturday — spanning the length of Bear Lake, 19.5 miles, in just over 11 hours.
+                - paragraph [ref=f2376e556]: "\"It felt amazing,\" Jarrett said. \"Just that feeling of, you know, you did something. You did something hard.\""
+                - paragraph [ref=f2376e557]: Jarrett's journey started early Saturday morning. He was followed on a jet ski by his father and Gordon Gridley, a Davis County swimmer who serves as an official for the Marathon Swimming Federation, which is expected to ultimately ratify his accomplishment in the coming weeks. During the first several hours, he said his training supported him well.
+                - 'figure "Brayden Jarrett was accompanied and guided by a jet ski at Bear Lake on Saturday. (Photo: Gordon Gridley)" [ref=f2376e558]':
+                  - generic "Brayden Jarrett was accompanied and guided by a jet ski at Bear Lake on Saturday." [ref=f2376e559] [cursor=pointer]:
+                    - img "Brayden Jarrett was accompanied and guided by a jet ski at Bear Lake on Saturday." [ref=f2376e561]
+                - paragraph [ref=f2376e563]: "\"I got in the water, and I just started swimming, and it was really boring, let me tell you. Really, really boring,\" Jarrett laughed. That ultimately changed, however. \"5.5 hours in, there was a thunderstorm coming in. The waters were really rough, and I just had to push through it\""
+                - paragraph [ref=f2376e567]: Jarrett said his shoulders became sore, but he persisted. Gridley and his father provided moral support, food and water.
+                - paragraph [ref=f2376e568]: "\"Sometimes you hit a wall, you don't want to go anymore, but you know, they're there right next to you cheering you on,\" he said."
+                - paragraph [ref=f2376e569]: And in that lies, in large part, why Jarrett loves swimming on the open water so much.
+                - paragraph [ref=f2376e570]: "\"That's just mainly what it taught me, is that I'm in control of my circumstances,\" he said. \"Like, if I want to do this, then I can do it. There's nothing stopping me.\""
+                - paragraph [ref=f2376e571]: Jarrett's love for swimming started at a very young age, but his ambitions for open water came more recently as he set his sights on the English Channel, which is about 21 miles across at the narrowest portion.
+                - paragraph [ref=f2376e572]: "\"It's been four years that I've had that goal in my mind, but I haven't really thought too much about it until this past year,\" Jarrett explained."
+                - paragraph [ref=f2376e573]: He said that in that goal, there are greater challenges ahead, and more reasons to train.
+                - 'figure "Brayden Jarrett at Hyrum Reservoir on Tuesday, where he often trains for his open water swims. (Photo: Mike Anderson, KSL)" [ref=f2376e574]':
+                  - generic "Brayden Jarrett at Hyrum Reservoir on Tuesday, where he often trains for his open water swims." [ref=f2376e575] [cursor=pointer]:
+                    - img "Brayden Jarrett at Hyrum Reservoir on Tuesday, where he often trains for his open water swims." [ref=f2376e577]
+                - paragraph [ref=f2376e579]: "\"In the ocean, the currents are going to be probably a lot more stronger,\" Jarrett said. \"The English Channel, that's a big shipping lane. There's going to be big vessels. There's going to be a big boat next to me guiding me, and there's going to be saltwater, and it's going to be cold.\""
+                - paragraph [ref=f2376e580]: Jarrett regularly trains at the pool inside the HPER building at Utah State University, and in Hyrum Reservoir. Ahead of taking on the channel, however, he'll need to swim for six hours around Alcatraz this November, for a continuous swim in water that is 61 degrees or colder.
+                - paragraph [ref=f2376e581]: In the Meantime, his journey between England and France is set for June 2027, as those swims are in high enough demand that they need to be set up three years in advance. Still, Jarrett is confident that he will be ready, as long as he keeps setting goals and reaching them along the way. That's also a part of the process that he loves.
+                - paragraph [ref=f2376e585]: "\"It just helps me feel purpose,\" Jarrett said. \"Because when you do something hard like that mental aspect, what it gives you is just no other feeling. I don't know how to describe it.\""
+              - generic [ref=f2376e587]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Most recent Health stories" [level=3] [ref=f2376e588]
+              - generic [ref=f2376e589]:
+                - list [ref=f2376e590]:
+                  - listitem [ref=f2376e591]:
+                    - heading [level=4] [ref=f2376e592]:
+                      - link "Utah State Hospital needs 'significant' increase in beds, lawmakers told" [ref=f2376e593] [cursor=pointer]:
+                        - /url: /article/51611919/utah-state-hospital-needs-significant-increase-in-beds-lawmakers-told
+                - list [ref=f2376e594]:
+                  - listitem [ref=f2376e595]:
+                    - heading [level=4] [ref=f2376e596]:
+                      - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f2376e597] [cursor=pointer]':
+                        - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                - list [ref=f2376e598]:
+                  - listitem [ref=f2376e599]:
+                    - heading [level=4] [ref=f2376e600]:
+                      - link "Running is really getting their kids somewhere" [ref=f2376e601] [cursor=pointer]:
+                        - /url: /article/51611860/running-is-really-getting-their-kids-somewhere
+              - generic [ref=f2376e602]:
+                - heading "Related topics" [level=3] [ref=f2376e603]
+                - generic [ref=f2376e604]:
+                  - link "Outdoors" [ref=f2376e606] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/outdoors
+                  - link "Uplifting" [ref=f2376e608] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/features/uplifting
+                  - link "Utah" [ref=f2376e610] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Northern Utah" [ref=f2376e612] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/northern
+                  - link "Health" [ref=f2376e614] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/health
+              - generic [ref=f2376e615]:
+                - generic [ref=f2376e616]:
+                  - generic [ref=f2376e617]:
+                    - img "Mike Anderson, KSL" [ref=f2376e618]
+                    - text: Mike Anderson
+                  - list [ref=f2376e620]:
+                    - listitem [ref=f2376e621]:
+                      - link "" [ref=f2376e622] [cursor=pointer]:
+                        - /url: https://www.facebook.com/MikeAndersonKSL
+                    - listitem [ref=f2376e623]:
+                      - link "" [ref=f2376e624] [cursor=pointer]:
+                        - /url: https://www.instagram.com/https://www.instagram.com/mikeandersonksl/?hl=en/
+                    - listitem [ref=f2376e625]:
+                      - link "" [ref=f2376e626] [cursor=pointer]:
+                        - /url: mailto:manderson@ksl.com
+                - generic [ref=f2376e627]: Mike Anderson often doubles as his own photographer, shooting and editing most of his stories. You can watch his stories on KSL 5 News at 4 p.m., 5 p.m. and 6 p.m.
+              - button "Comments header with 0 pending and 44 total comments" [ref=f2376e630] [cursor=pointer]:
+                - generic [ref=f2376e631]:
+                  - generic [ref=f2376e632]: "44"
+                  - generic [ref=f2376e634]: Comments
+                - img "Expand comments" [ref=f2376e635]
+              - generic [ref=f2376e641]:
+                - generic [ref=f2376e642]:
+                  - generic [ref=f2376e643]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f2376e645] [cursor=pointer]
+                - generic [ref=f2376e650]:
+                  - status "Loading" [ref=f2376e654] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f2376e656] [cursor=pointer]:
+                      - button "Read more" [ref=f2376e657]: READ MORE
+                      - generic [ref=f2376e658]:
+                        - button "Play" [disabled] [ref=f2376e659]
+                        - button "Unmute" [ref=f2376e663]
+                        - button "Enter Fullscreen" [ref=f2376e666]
+                    - generic [ref=f2376e669]:
+                      - slider "Progress Bar" [ref=f2376e671] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f2376e672]
+                      - button "Unmute" [ref=f2376e677] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f2376e681] [cursor=pointer]: "25"
+                      - button "-00:30" [ref=f2376e683] [cursor=pointer]
+                      - button "Quality Selector" [ref=f2376e684] [cursor=pointer]
+                      - button "Subtitles" [ref=f2376e687] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f2376e690] [cursor=pointer]
+              - generic [ref=f2376e694]:
+                - heading "More stories you may be interested in" [level=2] [ref=f2376e695]
+                - list:
+                  - listitem [ref=f2376e696]:
+                    - link [ref=f2376e697] [cursor=pointer]:
+                      - /url: /article/51611433/bats-prompt-concern-ahead-of-back-to-school-at-stansbury-park-elementary-school
+                      - img "Bats prompt concern ahead of back-to-school at Stansbury Park Elementary School" [ref=f2376e698]
+                    - heading [level=6] [ref=f2376e699]:
+                      - link "Bats prompt concern ahead of back-to-school at Stansbury Park Elementary School" [ref=f2376e700] [cursor=pointer]:
+                        - /url: /article/51611433/bats-prompt-concern-ahead-of-back-to-school-at-stansbury-park-elementary-school
+                  - listitem [ref=f2376e701]:
+                    - link [ref=f2376e702] [cursor=pointer]:
+                      - /url: /article/news/utah/health/hhs-actively-reviewing-mike-lees-push-for-a-new-type-1-diabetes-treatment/51611333
+                      - img "HHS 'actively reviewing' Mike Lee's push for a new Type 1 diabetes treatment" [ref=f2376e703]
+                    - heading [level=6] [ref=f2376e704]:
+                      - link "HHS 'actively reviewing' Mike Lee's push for a new Type 1 diabetes treatment" [ref=f2376e705] [cursor=pointer]:
+                        - /url: /article/news/utah/health/hhs-actively-reviewing-mike-lees-push-for-a-new-type-1-diabetes-treatment/51611333
+                  - listitem [ref=f2376e706]:
+                    - link [ref=f2376e707] [cursor=pointer]:
+                      - /url: /article/51606321/how-a-utah-startup-is-changing-the-shoe-industry
+                      - img "How a Utah startup is changing the shoe industry" [ref=f2376e708]
+                    - heading [level=6] [ref=f2376e709]:
+                      - link "How a Utah startup is changing the shoe industry" [ref=f2376e710] [cursor=pointer]:
+                        - /url: /article/51606321/how-a-utah-startup-is-changing-the-shoe-industry
+          - generic [ref=f2376e711]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f2376e715]
+              - list [ref=f2376e716]:
+                - listitem [ref=f2376e717]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f2376e718] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f2376e719]:
+                    - generic [ref=f2376e720]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f2376e721] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f2376e722]:
+                        - generic [ref=f2376e724]: "78"
+                - listitem [ref=f2376e725]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f2376e726] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f2376e727]:
+                    - generic [ref=f2376e728]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f2376e729] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f2376e730]:
+                        - generic [ref=f2376e732]: "68"
+                - listitem [ref=f2376e733]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f2376e734] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f2376e735]:
+                    - generic [ref=f2376e736]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f2376e737] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f2376e738]:
+                        - generic [ref=f2376e740]: "14"
+                - listitem [ref=f2376e741]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f2376e742] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f2376e743]:
+                    - generic [ref=f2376e744]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f2376e745] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f2376e746]:
+                        - generic [ref=f2376e748]: "75"
+                - listitem [ref=f2376e749]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f2376e750] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f2376e751]:
+                    - generic [ref=f2376e752]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f2376e753] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f2376e754]:
+                        - generic [ref=f2376e756]: "15"
+                - listitem [ref=f2376e757]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f2376e758] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f2376e759]:
+                    - generic [ref=f2376e760]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f2376e761] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f2376e762]:
+                        - generic [ref=f2376e764]: "44"
+                - listitem [ref=f2376e765]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f2376e766] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f2376e767]:
+                    - generic [ref=f2376e768]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f2376e769] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f2376e770]:
+                        - generic [ref=f2376e772]: "46"
+                - listitem [ref=f2376e773]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f2376e774] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f2376e775]:
+                    - generic [ref=f2376e776]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f2376e777] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f2376e778]:
+                        - generic [ref=f2376e780]: "56"
+                - listitem [ref=f2376e781]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f2376e782] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f2376e783]:
+                    - generic [ref=f2376e784]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f2376e785] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f2376e786]:
+                        - generic [ref=f2376e788]: "14"
+                - listitem [ref=f2376e789]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f2376e790] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f2376e791]:
+                    - generic [ref=f2376e792]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f2376e793] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f2376e794]:
+                        - generic [ref=f2376e796]: "38"
+            - generic [ref=f2376e798]:
+              - generic [ref=f2376e799]:
+                - heading "STAY IN THE KNOW" [level=3] [ref=f2376e801]
+                - generic [ref=f2376e802]:
+                  - text: Get informative articles and interesting stories delivered to your inbox weekly.
+                  - strong [ref=f2376e803]: Subscribe to the KSL.com Trending 5.
+                - generic [ref=f2376e804]:
+                  - textbox "Enter your email" [ref=f2376e805]
+                  - button "Sign Me Up" [ref=f2376e806] [cursor=pointer]
+                - generic [ref=f2376e807]:
+                  - text: By subscribing, you acknowledge and agree to KSL.com's
+                  - link "Terms of Use" [ref=f2376e808] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+                  - text: and
+                  - link "Privacy Notice" [ref=f2376e809] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+                  - text: .
+              - img "Newsletter Signup" [ref=f2376e811]
+            - generic [ref=f2376e815]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f2376e816]
+              - generic [ref=f2376e817] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f2376e818]
+                - img "Play button" [ref=f2376e821]
+      - generic [ref=f2376e825]:
+        - generic [ref=f2376e826]:
+          - generic [ref=f2376e827]:
+            - link [ref=f2376e828] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f2376e830]
+            - list [ref=f2376e831]:
+              - listitem [ref=f2376e832]:
+                - link "" [ref=f2376e833] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f2376e834]:
+                - link "" [ref=f2376e835] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f2376e836]:
+                - link "" [ref=f2376e837] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f2376e838]:
+                - link "" [ref=f2376e839] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f2376e840]:
+                - link "" [ref=f2376e841] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f2376e842]:
+                - link "" [ref=f2376e843] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f2376e844]:
+                - link "" [ref=f2376e845] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f2376e846]:
+            - link "Mobile Apps" [ref=f2376e847] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f2376e848] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f2376e849] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f2376e850] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f2376e851] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f2376e852]:
+          - link "Terms of use" [ref=f2376e853] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f2376e854] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f2376e855] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f2376e856] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f2376e857] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f2376e858] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f2376e859] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f2376e860] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f2376e861] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f2376e862] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f2376e863] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f2376e864]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f2376e866]:
+    - generic [ref=f2376e868]:
+      - generic [ref=f2376e870]:
+        - heading "Cookie Notice" [level=2] [ref=f2376e871]
+        - generic [ref=f2376e872]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f2376e873] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f2376e874] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f2376e875] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f2376e877]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f2376e878] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f2376e879] [cursor=pointer]
+    - button "OK" [ref=f2376e881] [cursor=pointer]
+  - iframe [ref=f2376e882]:
+    

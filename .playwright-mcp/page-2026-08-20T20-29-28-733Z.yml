@@ -1,0 +1,531 @@
+- generic [active] [ref=f1394e1]:
+  - generic [ref=f1394e2]:
+    - generic [ref=f1394e7]:
+      - link "Skip to content" [ref=f1394e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f1394e10]:
+        - link "KSL home" [ref=f1394e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f1394e12]
+        - navigation "Primary" [ref=f1394e13]:
+          - link "News" [ref=f1394e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f1394e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f1394e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f1394e21] [cursor=pointer]
+        - generic [ref=f1394e23]:
+          - generic [ref=f1394e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f1394e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f1394e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f1394e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f1394e30]: 99°
+          - button "Search" [ref=f1394e31] [cursor=pointer]
+          - link "Log in" [ref=f1394e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51612097%2Fbabylon-fire-closure-area-reopened-after-burning-for-nearly-2-months
+    - generic [ref=f1394e34]:
+      - generic [ref=f1394e35]:
+        - navigation [ref=f1394e36]:
+          - combobox [ref=f1394e38] [cursor=pointer]:
+            - option "Utah"
+            - option "Features"
+            - option "Counties" [selected]
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f1394e40]:
+            - listitem [ref=f1394e41]:
+              - link "Home" [ref=f1394e42] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f1394e43]:
+              - link "Southern Utah" [ref=f1394e44] [cursor=pointer]:
+                - /url: /news/utah/counties/southern
+            - listitem [ref=f1394e45]:
+              - link "Tooele" [ref=f1394e46] [cursor=pointer]:
+                - /url: /news/utah/counties/tooele
+            - listitem [ref=f1394e47]:
+              - link "Salt Lake" [ref=f1394e48] [cursor=pointer]:
+                - /url: /news/utah/counties/salt-lake
+            - listitem [ref=f1394e49]:
+              - link "Davis" [ref=f1394e50] [cursor=pointer]:
+                - /url: /news/utah/counties/davis
+            - listitem [ref=f1394e51]:
+              - link "Weber" [ref=f1394e52] [cursor=pointer]:
+                - /url: /news/utah/counties/weber
+            - listitem [ref=f1394e53]:
+              - link "Utah" [ref=f1394e54] [cursor=pointer]:
+                - /url: /news/utah/counties/utah
+            - listitem [ref=f1394e55]:
+              - link "Summit/Wasatch" [ref=f1394e56] [cursor=pointer]:
+                - /url: /news/utah/counties/summit-wasatch
+            - listitem [ref=f1394e57]:
+              - link [ref=f1394e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f1394e59]
+        - generic [ref=f1394e60]:
+          - generic [ref=f1394e65]:
+            - heading "Babylon Fire closure area reopened after burning for nearly 2 months" [level=1] [ref=f1394e66]
+            - heading "By Joe R. Wirthlin Jr, KSL | Updated - Aug. 20, 2026 at 11:35 a.m. | Posted - Aug. 20, 2026 at 9:18 a.m." [level=4] [ref=f1394e69]
+          - generic [ref=f1394e71]:
+            - generic [ref=f1394e72]:
+              - img "The Babylon Fire is pictured near Blanding on Sunday, June 28." [ref=f1394e76]
+              - heading "The Babylon Fire is pictured near Blanding on Sunday, June 28. (Canyon Lands National Park)" [level=4] [ref=f1394e78]
+            - generic:
+              - separator [ref=f1394e79]
+              - generic [ref=f1394e80]: "1"
+              - list:
+                - listitem:
+                  - link "" [ref=f1394e82] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1394e83] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1394e84] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1394e85] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51612097/babylon-fire-closure-area-reopened-after-burning-for-nearly-2-months?print=1
+              - generic [ref=f1394e86] [cursor=pointer]:
+                - generic [ref=f1394e87]: 
+                - generic [ref=f1394e88]: Save Story
+              - separator [ref=f1394e89]
+            - generic [ref=f1394e91]:
+              - button "Leer en español" [ref=f1394e92] [cursor=pointer]
+              - generic [ref=f1394e93]:
+                - 'button "Listen: 4 Minutes" [ref=f1394e95] [cursor=pointer]':
+                  - generic [ref=f1394e98]: "Listen:"
+                  - generic [ref=f1394e99]: 4 Minutes
+                - generic [ref=f1394e534]:
+                  - button "Play" [ref=f1394e535] [cursor=pointer]
+                  - button "Volume" [ref=f1394e539] [cursor=pointer]
+                  - slider [ref=f1394e545]
+                  - generic [ref=f1394e546]: 04:34
+            - article [ref=f1394e548]:
+              - generic [ref=f1394e549]:
+                - generic [ref=f1394e550]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f1394e552] [cursor=pointer]
+                - list [ref=f1394e554]:
+                  - listitem [ref=f1394e555]: The Babylon Fire in Ephraim reached 100% containment after burning 107,189 acres.
+                  - listitem [ref=f1394e556]: The U.S. Forest Service lifted the Manti-La Sal National Forest closure on Thursday.
+                  - listitem [ref=f1394e557]: Stage two fire restrictions remain, prohibiting campfires and certain equipment use.
+              - generic [ref=f1394e558]:
+                - paragraph [ref=f1394e559]: EPHRAIM — The Babylon Fire reached 100% containment after burning more than 100,000 acres, prompting the U.S. Forest Service to rescind the special closure area for the Manti-La Sal National Forest on Thursday.
+                - paragraph [ref=f1394e560]: The Monticello Ranger District was reopened, meaning all lands within the area are open to the public, according to Forest Service Public Affairs Officer Holly Shyrer.
+                - paragraph [ref=f1394e561]:
+                  - text: The Babylon Fire
+                  - link "began naturally on June 25" [ref=f1394e562] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51600276/forest-service-determines-what-sparked-utahs-largest-fire-so-far-this-year
+                  - text: and burned 107,189 acres before the U.S. Forest Service announced it was
+                  - link "100% contained on Friday" [ref=f1394e563] [cursor=pointer]:
+                    - /url: https://www.facebook.com/mantilasalnationalforest/posts/pfbid02cKWbhCQ5vXQmTL5Pq6w2CstfL5bXfHhvqFu1nRa1n1HwjkpNkWqohuwSVdcgtY8nl
+                  - text: . This does not mean the fire is completely out. Rather, the fire has been surrounded by a
+                  - link "combination of natural and man-made firebreaks" [ref=f1394e564] [cursor=pointer]:
+                    - /url: https://wfca.com/wildfire-articles/wildfire-articles-wildfire-containment-defined/
+                  - text: ", meaning it is unlikely to continue to grow beyond the containment lines."
+                - paragraph [ref=f1394e565]: While the land is open for public use, isolated pockets of smoke may still be visible throughout the area. Forest Service personnel will continue to work in the previously closed area to prevent new wildfire starts.
+                - paragraph [ref=f1394e569]: Shyrer told KSL it's important to check the weather and have good situational awareness if a person chooses to go into one of these areas.
+                - paragraph [ref=f1394e570]: While the roads within the previously closed areas had been cleared of fallen logs, Shyrer said standing dead trees "may be a bit unstable" and fall if a person gets too close.
+                - paragraph [ref=f1394e571]:
+                  - link "Multiple structures" [ref=f1394e572] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51583408/4-structures-destroyed-as-crews-continue-to-fight-babylon-fire
+                  - text: were lost in the fire, which surpassed 100,000 acres on July 7, becoming the
+                  - link "first fire" [ref=f1394e573] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51595025/babylon-fire-becomes-first-utah-fire-to-reach-100000-acre-mark-in-8-years
+                  - text: to do so in eight years. In early July, the Babylon Fire was near the top of the
+                  - link "largest active fires list" [ref=f1394e574] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51594531/nations-new-largest-active-fire-is-also-burning-in-utah
+                  - text: in the U.S., per the National Interagency Fire Center.
+                - paragraph [ref=f1394e575]:
+                  - text: Preliminary research released Aug. 5 from the University of Utah's
+                  - link "School of Environment, Society and Sustainability" [ref=f1394e576] [cursor=pointer]:
+                    - /url: https://ess.utah.edu/
+                  - text: found the Babylon Fire contributed to the
+                  - link "nearly 290,000 acres" [ref=f1394e577] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/utah-sets-new-record-for-woodland-area-lost-to-wildfires-by-a-wide-margin-u-researchers-say/51606308
+                  - text: of woodland and forested land combined that have already burned this year, more than in any other year on record.
+                - paragraph [ref=f1394e578]:
+                  - text: The entire Manti-La Sal National Forest remains under
+                  - link "stage two fire restrictions" [ref=f1394e579] [cursor=pointer]:
+                    - /url: https://www.fs.usda.gov/sites/nfs/files/r04/manti-lasal/publication/alerts/Stage%202%20Manti-La%20Sal_FORESTWIDE_2026.pdf
+                  - text: ", which are designed to ensure public safety and reduce the risk of new wildfire starts."
+                - paragraph [ref=f1394e580]: "These restrictions prohibit:"
+                - paragraph
+                - list [ref=f1394e581]:
+                  - listitem [ref=f1394e582]: Campfires, charcoal grills, wood stoves, smudge pots and briquette-fueled fires
+                  - listitem [ref=f1394e583]: Chainsaws or other internal combustion equipment used for cutting, road work or wood gathering
+                  - listitem [ref=f1394e584]: Smoking outdoors
+                  - listitem [ref=f1394e585]: Welding, grinding or using open-flame torches
+                  - listitem [ref=f1394e586]: Driving or parking off designated routes (unless on bare ground within 10 feet)
+                  - listitem [ref=f1394e587]: Exploding targets, fireworks or pyrotechnics
+                  - listitem [ref=f1394e588]: Blasting or the use of explosives
+                  - listitem [ref=f1394e589]: Tracer or incendiary ammunition
+                  - listitem [ref=f1394e590]: Operating engines without proper spark arrestors.
+                - paragraph
+                - paragraph [ref=f1394e591]: "Other activities are available under the restrictions, including:"
+                - paragraph
+                - list [ref=f1394e592]:
+                  - listitem [ref=f1394e593]: Gas or liquid-fueled stoves, grills or fire pits with on/off switches (with 10 feet of cleared space)
+                  - listitem [ref=f1394e594]: Smoking inside an enclosed vehicle or building
+                  - listitem [ref=f1394e595]: Parking only in designated areas or on ground completely free of vegetation
+                  - listitem [ref=f1394e596]:
+                    - text: Activities authorized under
+                    - link "Project Activity Levels" [ref=f1394e597] [cursor=pointer]:
+                      - /url: https://www.fs.usda.gov/r04/manti-lasal/fire/understanding-project-activity-levels-manti-la-sal-national-forest
+                  - listitem [ref=f1394e598]: Official duties by Federal, State or Local emergency personnel
+                - paragraph
+                - paragraph
+                - heading "Other wildfires" [level=2] [ref=f1394e599]
+                - paragraph
+                - generic [ref=f1394e600]:
+                  - link:
+                    - /url: https://www.ksl.com/article/51611327/utahs-10-largest-fires-this-year-have-already-cost-nearly-217m-to-battle
+                  - heading [level=2] [ref=f1394e601]:
+                    - link "Utah's 10 largest fires this year have already cost nearly $217M to battle" [ref=f1394e602] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/51611327/utahs-10-largest-fires-this-year-have-already-cost-nearly-217m-to-battle
+                - paragraph
+                - heading [level=3] [ref=f1394e603]
+                - paragraph
+                - paragraph [ref=f1394e604]: More than 500,000 acres across the state have burned during the 2026 Fire Season, according to Utah Fire Info. Several of the season's largest wildfires continue to burn across the state.
+                - paragraph
+                - list [ref=f1394e605]:
+                  - listitem [ref=f1394e606]:
+                    - text: The
+                    - link "Cottonwood Fire" [ref=f1394e607] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/cottonwood-fire-destroys-southern-utah-ski-resort/51539013?_gl=1*cd1mxh*_gcl_au*MTYxMzQyNDE0LjE3ODUyNDc0MjQ.*_ga*MjI0NjgwNDc5LjE3ODcyMzg0Nzg.*_ga_JW89DL7T5D*czE3ODcyNDEzNTAkbzIkZzEkdDE3ODcyNDcwMDEkajQ2JGwwJGgw
+                    - text: ", which began on June 22, has burned 97,464 acres and has reached 95% containment."
+                  - listitem [ref=f1394e608]:
+                    - text: The
+                    - link "Widemouth 2 Fire" [ref=f1394e609] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/incident-involving-aircraft-reported-at-widemouth-2-fire/51607358?_gl=1*qw8i6q*_gcl_au*MTYxMzQyNDE0LjE3ODUyNDc0MjQ.*_ga*MjI0NjgwNDc5LjE3ODcyMzg0Nzg.*_ga_JW89DL7T5D*czE3ODcyNDEzNTAkbzIkZzEkdDE3ODcyNDcwMjMkajI0JGwwJGgw
+                    - text: ", which began naturally on July 27, has burned 129,741 acres and has reached 93% containment."
+                  - listitem [ref=f1394e610]:
+                    - text: The
+                    - link "Black Canyon Fire" [ref=f1394e611] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/new-evacuations-ordered-as-black-canyon-fire-grows/51605385?_gl=1*1w3jl9f*_gcl_au*MTYxMzQyNDE0LjE3ODUyNDc0MjQ.*_ga*MjI0NjgwNDc5LjE3ODcyMzg0Nzg.*_ga_JW89DL7T5D*czE3ODcyNDEzNTAkbzIkZzEkdDE3ODcyNDcwODkkajE4JGwwJGgw
+                    - text: ", which began naturally on July 30, has burned 3264 acres and has reached 51% containment."
+                  - listitem [ref=f1394e612]:
+                    - text: The
+                    - link "Rocky Canyon Fire" [ref=f1394e613] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/crews-reach-23-containment-of-rocky-canyon-fire-but-over-500-remain-evacuated/51608435?_gl=1*1bl58yf*_gcl_au*MTYxMzQyNDE0LjE3ODUyNDc0MjQ.*_ga*MjI0NjgwNDc5LjE3ODcyMzg0Nzg.*_ga_JW89DL7T5D*czE3ODcyNDEzNTAkbzIkZzEkdDE3ODcyNDcxMDUkajIkbDAkaDA.
+                    - text: ", which was human-caused and began on Aug. 7, has burned 16,464 acres and has reached 88% containment."
+                  - listitem [ref=f1394e614]:
+                    - text: The
+                    - link "Dugway Fire" [ref=f1394e615] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/dugway-fire-sparks-near-mouth-of-weber-canyon/51611638?_gl=1*18c1atf*_gcl_au*MTYxMzQyNDE0LjE3ODUyNDc0MjQ.*_ga*MjI0NjgwNDc5LjE3ODcyMzg0Nzg.*_ga_JW89DL7T5D*czE3ODcyNDEzNTAkbzIkZzEkdDE3ODcyNDcxNDkkajIzJGwwJGgw
+                    - text: ", which began on Wednesday, has burned approximately 20 acres and has reached 90% containment."
+                - paragraph
+                - paragraph [ref=f1394e619]: Lucas Minton, wildland fire chief for Weber Fire District, said Thursday the Dugway Fire in Weber Canyon poses "minimal to no threat" to the public. However, he said it will continue to emit smoke as firefighters extinguish burning debris piles inside the burn area.
+                - paragraph [ref=f1394e620]: "\"People are going to see that from the interior of the fire but it's in the interior of the fire, no threat,\" Minton said. No damage to structures was reported due to the blaze."
+                - paragraph [ref=f1394e621]:
+                  - strong [ref=f1394e622]: "Contributing:"
+                  - text: Tim Vandenack and Bryanna Willis
+              - generic [ref=f1394e624]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Most recent Utah wildfires stories" [level=3] [ref=f1394e625]
+              - generic [ref=f1394e626]:
+                - list [ref=f1394e627]:
+                  - listitem [ref=f1394e628]:
+                    - heading [level=4] [ref=f1394e629]:
+                      - link "Fire in Uintah brings reminders of 2017 blaze, as firefighters preserve homes" [ref=f1394e630] [cursor=pointer]:
+                        - /url: /article/51611638/dugway-fire-sparks-near-mouth-of-weber-canyon
+                - list [ref=f1394e631]:
+                  - listitem [ref=f1394e632]:
+                    - heading [level=4] [ref=f1394e633]:
+                      - 'link "''Mayday, Mayday, Mayday'': Report outlines moments before fatal crash at Utah wildfire" [ref=f1394e634] [cursor=pointer]':
+                        - /url: /article/51611408/national-transportation-safety-board-releases-details-of-deadly-helicopter-crash-that-killed-2-pilots
+                - list [ref=f1394e635]:
+                  - listitem [ref=f1394e636]:
+                    - heading [level=4] [ref=f1394e637]:
+                      - link "Utah's 10 largest fires this year have already cost nearly $217M to battle" [ref=f1394e638] [cursor=pointer]:
+                        - /url: /article/51611327/utahs-10-largest-fires-this-year-have-already-cost-nearly-217m-to-battle
+              - generic [ref=f1394e639]:
+                - heading "Related topics" [level=3] [ref=f1394e640]
+                - generic [ref=f1394e641]:
+                  - link "Utah wildfires" [ref=f1394e643] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/stream/utah-wildfires
+                  - link "Utah" [ref=f1394e645] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Central Utah" [ref=f1394e647] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/central
+                  - link "Outdoors" [ref=f1394e649] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/outdoors
+              - generic [ref=f1394e651]:
+                - generic [ref=f1394e652]: Joe Wirthlin
+                - list [ref=f1394e654]:
+                  - listitem [ref=f1394e655]:
+                    - link "" [ref=f1394e656] [cursor=pointer]:
+                      - /url: mailto:jwirthlin@bonneville.com
+              - button "Comments header with 0 pending and 1 total comments" [ref=f1394e660] [cursor=pointer]:
+                - generic [ref=f1394e661]:
+                  - generic [ref=f1394e662]: "1"
+                  - generic [ref=f1394e664]: Comments
+                - img "Expand comments" [ref=f1394e665]
+              - generic [ref=f1394e671]:
+                - generic [ref=f1394e672]:
+                  - generic [ref=f1394e673]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f1394e675] [cursor=pointer]
+                - generic [ref=f1394e680]:
+                  - status "Loading" [ref=f1394e684] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f1394e686] [cursor=pointer]:
+                      - button "Read more" [ref=f1394e687]: READ MORE
+                      - generic [ref=f1394e688]:
+                        - button "Play" [disabled] [ref=f1394e689]
+                        - button "Unmute" [ref=f1394e693]
+                        - button "Enter Fullscreen" [ref=f1394e696]
+                    - generic [ref=f1394e699]:
+                      - slider "Progress Bar" [ref=f1394e701] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f1394e702]
+                      - button "Unmute" [ref=f1394e707] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f1394e711] [cursor=pointer]: "25"
+                      - button "-00:30" [ref=f1394e713] [cursor=pointer]
+                      - button "Quality Selector" [ref=f1394e714] [cursor=pointer]
+                      - button "Subtitles" [ref=f1394e717] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f1394e720] [cursor=pointer]
+              - generic [ref=f1394e724]:
+                - heading "More stories you may be interested in" [level=2] [ref=f1394e725]
+                - list:
+                  - listitem [ref=f1394e726]:
+                    - link [ref=f1394e727] [cursor=pointer]:
+                      - /url: /article/51609898/firefighting-community-honors-pilots-killed-in-crash-near-widemouth-2-fire
+                      - img "Firefighting community honors pilots killed in crash near Widemouth 2 fire" [ref=f1394e728]
+                    - heading [level=6] [ref=f1394e729]:
+                      - link "Firefighting community honors pilots killed in crash near Widemouth 2 fire" [ref=f1394e730] [cursor=pointer]:
+                        - /url: /article/51609898/firefighting-community-honors-pilots-killed-in-crash-near-widemouth-2-fire
+                  - listitem [ref=f1394e731]:
+                    - link [ref=f1394e732] [cursor=pointer]:
+                      - /url: /article/51607723/treacherous-conditions-complicated-recovery-efforts-of-firefighters-killed-in-utah-helicopter-crash
+                      - img "Treacherous conditions complicated effort to recover firefighters killed in Utah helicopter crash" [ref=f1394e733]
+                    - heading [level=6] [ref=f1394e734]:
+                      - link "Treacherous conditions complicated effort to recover firefighters killed in Utah helicopter crash" [ref=f1394e735] [cursor=pointer]:
+                        - /url: /article/51607723/treacherous-conditions-complicated-recovery-efforts-of-firefighters-killed-in-utah-helicopter-crash
+                  - listitem [ref=f1394e736]:
+                    - link [ref=f1394e737] [cursor=pointer]:
+                      - /url: /article/51606321/how-a-utah-startup-is-changing-the-shoe-industry
+                      - img "How a Utah startup is changing the shoe industry" [ref=f1394e738]
+                    - heading [level=6] [ref=f1394e739]:
+                      - link "How a Utah startup is changing the shoe industry" [ref=f1394e740] [cursor=pointer]:
+                        - /url: /article/51606321/how-a-utah-startup-is-changing-the-shoe-industry
+          - generic [ref=f1394e741]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f1394e745]
+              - list [ref=f1394e746]:
+                - listitem [ref=f1394e747]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f1394e748] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f1394e749]:
+                    - generic [ref=f1394e750]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f1394e751] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f1394e752]:
+                        - generic [ref=f1394e754]: "78"
+                - listitem [ref=f1394e755]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f1394e756] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f1394e757]:
+                    - generic [ref=f1394e758]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f1394e759] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f1394e760]:
+                        - generic [ref=f1394e762]: "68"
+                - listitem [ref=f1394e763]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f1394e764] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f1394e765]:
+                    - generic [ref=f1394e766]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f1394e767] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f1394e768]:
+                        - generic [ref=f1394e770]: "14"
+                - listitem [ref=f1394e771]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f1394e772] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f1394e773]:
+                    - generic [ref=f1394e774]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f1394e775] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f1394e776]:
+                        - generic [ref=f1394e778]: "75"
+                - listitem [ref=f1394e779]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f1394e780] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f1394e781]:
+                    - generic [ref=f1394e782]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f1394e783] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f1394e784]:
+                        - generic [ref=f1394e786]: "14"
+                - listitem [ref=f1394e787]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f1394e788] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f1394e789]:
+                    - generic [ref=f1394e790]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f1394e791] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f1394e792]:
+                        - generic [ref=f1394e794]: "44"
+                - listitem [ref=f1394e795]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f1394e796] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f1394e797]:
+                    - generic [ref=f1394e798]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f1394e799] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f1394e800]:
+                        - generic [ref=f1394e802]: "46"
+                - listitem [ref=f1394e803]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f1394e804] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f1394e805]:
+                    - generic [ref=f1394e806]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f1394e807] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f1394e808]:
+                        - generic [ref=f1394e810]: "56"
+                - listitem [ref=f1394e811]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f1394e812] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f1394e813]:
+                    - generic [ref=f1394e814]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f1394e815] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f1394e816]:
+                        - generic [ref=f1394e818]: "14"
+                - listitem [ref=f1394e819]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f1394e820] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f1394e821]:
+                    - generic [ref=f1394e822]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f1394e823] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f1394e824]:
+                        - generic [ref=f1394e826]: "38"
+            - generic [ref=f1394e828]:
+              - generic [ref=f1394e829]:
+                - heading "STAY IN THE KNOW" [level=3] [ref=f1394e831]
+                - generic [ref=f1394e832]:
+                  - text: Get informative articles and interesting stories delivered to your inbox weekly.
+                  - strong [ref=f1394e833]: Subscribe to the KSL.com Trending 5.
+                - generic [ref=f1394e834]:
+                  - textbox "Enter your email" [ref=f1394e835]
+                  - button "Sign Me Up" [ref=f1394e836] [cursor=pointer]
+                - generic [ref=f1394e837]:
+                  - text: By subscribing, you acknowledge and agree to KSL.com's
+                  - link "Terms of Use" [ref=f1394e838] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+                  - text: and
+                  - link "Privacy Notice" [ref=f1394e839] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+                  - text: .
+              - img "Newsletter Signup" [ref=f1394e841]
+            - generic [ref=f1394e845]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f1394e846]
+              - generic [ref=f1394e847] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f1394e848]
+                - img "Play button" [ref=f1394e851]
+      - generic [ref=f1394e855]:
+        - generic [ref=f1394e856]:
+          - generic [ref=f1394e857]:
+            - link [ref=f1394e858] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f1394e860]
+            - list [ref=f1394e861]:
+              - listitem [ref=f1394e862]:
+                - link "" [ref=f1394e863] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f1394e864]:
+                - link "" [ref=f1394e865] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f1394e866]:
+                - link "" [ref=f1394e867] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f1394e868]:
+                - link "" [ref=f1394e869] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f1394e870]:
+                - link "" [ref=f1394e871] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f1394e872]:
+                - link "" [ref=f1394e873] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f1394e874]:
+                - link "" [ref=f1394e875] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f1394e876]:
+            - link "Mobile Apps" [ref=f1394e877] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f1394e878] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f1394e879] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f1394e880] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f1394e881] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f1394e882]:
+          - link "Terms of use" [ref=f1394e883] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f1394e884] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f1394e885] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f1394e886] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f1394e887] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f1394e888] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f1394e889] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f1394e890] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f1394e891] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f1394e892] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f1394e893] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f1394e894]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f1394e896]:
+    - generic [ref=f1394e898]:
+      - generic [ref=f1394e900]:
+        - heading "Cookie Notice" [level=2] [ref=f1394e901]
+        - generic [ref=f1394e902]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f1394e903] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f1394e904] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f1394e905] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f1394e907]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f1394e908] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f1394e909] [cursor=pointer]
+    - button "OK" [ref=f1394e911] [cursor=pointer]
+  - iframe [ref=f1394e912]:
+    

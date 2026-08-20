@@ -1,0 +1,458 @@
+- generic [active] [ref=f1235e1]:
+  - generic [ref=f1235e2]:
+    - generic [ref=f1235e7]:
+      - link "Skip to content" [ref=f1235e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f1235e10]:
+        - link "KSL home" [ref=f1235e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f1235e12]
+        - navigation "Primary" [ref=f1235e13]:
+          - link "News" [ref=f1235e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f1235e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f1235e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f1235e21] [cursor=pointer]
+        - generic [ref=f1235e23]:
+          - generic [ref=f1235e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f1235e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f1235e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f1235e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f1235e30]: 99°
+          - button "Search" [ref=f1235e31] [cursor=pointer]
+          - link "Log in" [ref=f1235e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611918%2Fsaratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+    - generic [ref=f1235e34]:
+      - generic [ref=f1235e35]:
+        - navigation [ref=f1235e36]:
+          - combobox [ref=f1235e38] [cursor=pointer]:
+            - option "Utah"
+            - option "Features"
+            - option "Counties" [selected]
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f1235e40]:
+            - listitem [ref=f1235e41]:
+              - link "Home" [ref=f1235e42] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f1235e43]:
+              - link "Southern Utah" [ref=f1235e44] [cursor=pointer]:
+                - /url: /news/utah/counties/southern
+            - listitem [ref=f1235e45]:
+              - link "Tooele" [ref=f1235e46] [cursor=pointer]:
+                - /url: /news/utah/counties/tooele
+            - listitem [ref=f1235e47]:
+              - link "Salt Lake" [ref=f1235e48] [cursor=pointer]:
+                - /url: /news/utah/counties/salt-lake
+            - listitem [ref=f1235e49]:
+              - link "Davis" [ref=f1235e50] [cursor=pointer]:
+                - /url: /news/utah/counties/davis
+            - listitem [ref=f1235e51]:
+              - link "Weber" [ref=f1235e52] [cursor=pointer]:
+                - /url: /news/utah/counties/weber
+            - listitem [ref=f1235e53]:
+              - link "Utah" [ref=f1235e54] [cursor=pointer]:
+                - /url: /news/utah/counties/utah
+            - listitem [ref=f1235e55]:
+              - link "Summit/Wasatch" [ref=f1235e56] [cursor=pointer]:
+                - /url: /news/utah/counties/summit-wasatch
+            - listitem [ref=f1235e57]:
+              - link [ref=f1235e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f1235e59]
+        - generic [ref=f1235e60]:
+          - generic [ref=f1235e65]:
+            - heading "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [level=1] [ref=f1235e66]
+            - heading "By Arianne Brown, KSL | Posted - Aug. 20, 2026 at 12:01 p.m." [level=4] [ref=f1235e69]
+          - generic [ref=f1235e71]:
+            - generic [ref=f1235e72]:
+              - img "Zion Silva, 6, is being hailed a hero after saving his 4-yearar-old brother, Leo from falling from a two-story window. Sadly, Zion is in the hospital recovering from serious injuries that resulted in himself falling." [ref=f1235e76]
+              - heading "Zion Silva, 6, is being hailed a hero after saving his 4-yearar-old brother, Leo from falling from a two-story window. Sadly, Zion is in the hospital recovering from serious injuries that resulted in himself falling. (Carlos Sliva)" [level=4] [ref=f1235e78]
+            - generic:
+              - separator [ref=f1235e79]
+              - generic [ref=f1235e80] [cursor=pointer]:
+                - generic [ref=f1235e81]: 
+                - generic [ref=f1235e82]: 5 photos
+              - generic [ref=f1235e83]: "14"
+              - list:
+                - listitem:
+                  - link "" [ref=f1235e85] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1235e86] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1235e87] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1235e88] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries?print=1
+              - generic [ref=f1235e89] [cursor=pointer]:
+                - generic [ref=f1235e90]: 
+                - generic [ref=f1235e91]: Save Story
+              - separator [ref=f1235e92]
+            - generic [ref=f1235e94]:
+              - button "Leer en español" [ref=f1235e95] [cursor=pointer]
+              - generic [ref=f1235e96]:
+                - 'button "Listen: 3 Minutes" [ref=f1235e98] [cursor=pointer]':
+                  - generic [ref=f1235e101]: "Listen:"
+                  - generic [ref=f1235e102]: 3 Minutes
+                - generic [ref=f1235e537]:
+                  - button "Play" [ref=f1235e538] [cursor=pointer]
+                  - button "Volume" [ref=f1235e542] [cursor=pointer]
+                  - slider [ref=f1235e548]
+                  - generic [ref=f1235e549]: 03:09
+            - article [ref=f1235e551]:
+              - generic [ref=f1235e552]:
+                - generic [ref=f1235e553]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f1235e555] [cursor=pointer]
+                - list [ref=f1235e557]:
+                  - listitem [ref=f1235e558]: A 6-year-old boy saved his younger brother from falling out a window.
+                  - listitem [ref=f1235e559]: The boy, Zion, is hospitalized with severe injuries from his own fall.
+                  - listitem [ref=f1235e560]: A GoFundMe was started to assist with Zion's medical expenses.
+              - generic [ref=f1235e561]:
+                - paragraph [ref=f1235e562]: SARATOGA SPRINGS — A 6-year-old boy is being hailed a hero after saving his 4-year-old brother from falling from a two-story window. Sadly, the 6-year-old is in the hospital recovering from serious injuries that resulted from his own fall.
+                - paragraph [ref=f1235e563]: The accident happened on Sunday, when the Silva family of Lehi was visiting family for a birthday party. According to father, Carlos Silva, his two sons Leo, 4, and Zion, 6, were in an upstairs bedroom looking at a cousin who was outside.
+                - paragraph [ref=f1235e564]: "\"My niece, who witnessed it, said that they were leaning against the window, trying to see her,\" Silva said. \"That's when the screen caved in and Zion fell to the concrete path below.\""
+                - paragraph [ref=f1235e565]: Silva recalled rushing to his son's aid, along with his brother who is a nurse practitioner, after they were told of the incident.
+                - paragraph [ref=f1235e566]: "\"As a parent, you go into a mode that you hope you never have to go into, but I became very attentive to what he needed,\" Silva said. \"My brother immediately started to assess what was going on, and we could see that there was a wound on (Zion's) forehead and a lot of blood. He was also unconscious for about 30 seconds.\""
+                - paragraph [ref=f1235e570]: The ambulance soon came, and Zion was sent via Life Flight to Primary Children's Hospital, where it was found that he had a fractured skull, a separation between his neck and spine, and a broken clavicle.
+                - paragraph [ref=f1235e571]: "\"The fracture in his skull is on the right side, and is pretty intense,\" Silva said. \"There are a lot of arteries that pass right by your orbital bone, and all were unscathed — like, none of them were damaged. This was a huge blessing and something that doctors were really concerned about.\""
+                - paragraph [ref=f1235e572]: While little Zion was being cared for in the hospital, his little brother started talking more about what happened on Sunday.
+                - paragraph [ref=f1235e573]: "\"After the accident, Leo was pretty light about what happened and said, 'Zion is OK. He fell, but he's moving. The police put a band-aid on his head,'\" Silva recalled. \"Over time, (Leo) started to tell family members more and more of what he saw and how he felt.\""
+                - paragraph [ref=f1235e574]: That's when the story came out.
+                - paragraph [ref=f1235e575]: "\"Leo said, 'Zion saved me. When Zion fell, he pushed me away,'\" Silva recalled while holding back tears."
+                - paragraph [ref=f1235e576]: Silva said that when he heard what Zion had done to save his younger brother, it caused his whole family to get emotional.
+                - paragraph [ref=f1235e577]: "\"When we found out, we were all a mess,\" he said. \"Everyone has made him cards saying, 'You're a superhero.' It's been really sweet.\""
+                - paragraph [ref=f1235e578]: Zion is still in the hospital and has missed his first several days of first grade in a dual immersion classroom, which his dad said he was really excited to start.
+                - paragraph [ref=f1235e579]: "\"We're still monitoring things and he's off sedating medication but is still on pain and anti-seizure medication, but things are looking in a good direction,\" Silva said."
+                - paragraph [ref=f1235e580]:
+                  - text: Friends have set up a
+                  - link "GoFundMe" [ref=f1235e581] [cursor=pointer]:
+                    - /url: https://www.gofundme.com/f/support-zions-recovery-after-his-fall-e2nz9?attribution_id=sl:80c261af-91e0-49ac-8c46-0f26f4d0f8f8&lang=en_US&ts=1787076563&utm_campaign=fp_sharesheet&utm_content=amp30-no-carousel&utm_medium=customer&utm_source=copy_link
+                  - text: "* to help with medical expenses."
+                - paragraph
+                - separator [ref=f1235e585]
+                - paragraph
+                - paragraph [ref=f1235e586]:
+                  - emphasis [ref=f1235e587]: "*KSL.com does not assure that the money deposited into the account will be applied for the benefit of the persons named as beneficiaries. If you are considering a deposit to the account, you should consult your own advisers and otherwise proceed at your own risk."
+              - heading "Photos" [level=3] [ref=f1235e589]
+              - generic [ref=f1235e591]:
+                - img "Zion Silva, 6, is being hailed as a hero after saving his 4-year-old brother, Leo, from falling from a two-story window. Sadly, Zion is in the hospital recovering from serious injuries that resulted from his own fall. - Carlos Sliva" [ref=f1235e593] [cursor=pointer]
+                - paragraph [ref=f1235e595] [cursor=pointer]: Show All 5 Photos
+              - generic [ref=f1235e596]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Most recent Utah Counties stories" [level=3] [ref=f1235e597]
+              - generic [ref=f1235e598]:
+                - list [ref=f1235e599]:
+                  - listitem [ref=f1235e600]:
+                    - heading [level=4] [ref=f1235e601]:
+                      - link "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f1235e602] [cursor=pointer]:
+                        - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                - list [ref=f1235e603]:
+                  - listitem [ref=f1235e604]:
+                    - heading [level=4] [ref=f1235e605]:
+                      - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=f1235e606] [cursor=pointer]:
+                        - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+                - list [ref=f1235e607]:
+                  - listitem [ref=f1235e608]:
+                    - heading [level=4] [ref=f1235e609]:
+                      - link "Babylon Fire closure area reopened after burning for nearly 2 months" [ref=f1235e610] [cursor=pointer]:
+                        - /url: /article/51612097/babylon-fire-closure-area-reopened-after-burning-for-nearly-2-months
+              - generic [ref=f1235e611]:
+                - heading "Related topics" [level=3] [ref=f1235e612]
+                - generic [ref=f1235e613]:
+                  - link "Utah County" [ref=f1235e615] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/utah
+                  - link "Utah" [ref=f1235e617] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Features" [ref=f1235e619] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/features
+              - generic [ref=f1235e620]:
+                - generic [ref=f1235e621]:
+                  - generic [ref=f1235e622]:
+                    - img "Arianne Brown, KSL" [ref=f1235e623]
+                    - text: Arianne Brown
+                  - list [ref=f1235e625]:
+                    - listitem [ref=f1235e626]:
+                      - link "" [ref=f1235e627] [cursor=pointer]:
+                        - /url: https://www.instagram.com/@ariannebrownksl/
+                    - listitem [ref=f1235e628]:
+                      - link "" [ref=f1235e629] [cursor=pointer]:
+                        - /url: mailto:arbrown@ksl.com
+                - generic [ref=f1235e630]: Arianne Brown is a reporter covering southern Utah communities, with a focus on heart-warming stories and local happenings. She has been a reporter for 14 years.
+              - button "Comments header with 0 pending and 14 total comments" [ref=f1235e633] [cursor=pointer]:
+                - generic [ref=f1235e634]:
+                  - generic [ref=f1235e635]: "14"
+                  - generic [ref=f1235e637]: Comments
+                - img "Expand comments" [ref=f1235e638]
+              - generic [ref=f1235e644]:
+                - generic [ref=f1235e645]:
+                  - generic [ref=f1235e646]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f1235e648] [cursor=pointer]
+                - generic [ref=f1235e653]:
+                  - status "Loading" [ref=f1235e657] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f1235e659] [cursor=pointer]:
+                      - button "Read more" [ref=f1235e660]: READ MORE
+                      - generic [ref=f1235e661]:
+                        - button "Play" [disabled] [ref=f1235e662]
+                        - button "Unmute" [ref=f1235e666]
+                        - button "Enter Fullscreen" [ref=f1235e669]
+                    - generic [ref=f1235e672]:
+                      - slider "Progress Bar" [ref=f1235e674] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f1235e675]
+                      - button "Unmute" [ref=f1235e680] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f1235e684] [cursor=pointer]: "25"
+                      - button "-00:30" [ref=f1235e686] [cursor=pointer]
+                      - button "Quality Selector" [ref=f1235e687] [cursor=pointer]
+                      - button "Subtitles" [ref=f1235e690] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f1235e693] [cursor=pointer]
+              - generic [ref=f1235e697]:
+                - heading "More stories you may be interested in" [level=2] [ref=f1235e698]
+                - list:
+                  - listitem [ref=f1235e699]:
+                    - link [ref=f1235e700] [cursor=pointer]:
+                      - /url: /article/51612097/babylon-fire-closure-area-reopened-after-burning-for-nearly-2-months
+                      - img "Babylon Fire closure area reopened after burning for nearly 2 months" [ref=f1235e701]
+                    - heading [level=6] [ref=f1235e702]:
+                      - link "Babylon Fire closure area reopened after burning for nearly 2 months" [ref=f1235e703] [cursor=pointer]:
+                        - /url: /article/51612097/babylon-fire-closure-area-reopened-after-burning-for-nearly-2-months
+                  - listitem [ref=f1235e704]:
+                    - link [ref=f1235e705] [cursor=pointer]:
+                      - /url: /article/51611832/238m-upgrade-of-5600-south-i-15-interchange-in-roy-nearly-done-other-projects-continue
+                      - img "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue" [ref=f1235e706]
+                    - heading [level=6] [ref=f1235e707]:
+                      - link "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue" [ref=f1235e708] [cursor=pointer]:
+                        - /url: /article/51611832/238m-upgrade-of-5600-south-i-15-interchange-in-roy-nearly-done-other-projects-continue
+                  - listitem [ref=f1235e709]:
+                    - link [ref=f1235e710] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                      - img "Twin brothers identified in Kearns funeral shooting" [ref=f1235e711]
+                    - heading [level=6] [ref=f1235e712]:
+                      - link "Twin brothers identified in Kearns funeral shooting" [ref=f1235e713] [cursor=pointer]:
+                        - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+          - generic [ref=f1235e714]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f1235e718]
+              - list [ref=f1235e719]:
+                - listitem [ref=f1235e720]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f1235e721] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f1235e722]:
+                    - generic [ref=f1235e723]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f1235e724] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f1235e725]:
+                        - generic [ref=f1235e727]: "78"
+                - listitem [ref=f1235e728]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f1235e729] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f1235e730]:
+                    - generic [ref=f1235e731]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f1235e732] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f1235e733]:
+                        - generic [ref=f1235e735]: "68"
+                - listitem [ref=f1235e736]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f1235e737] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f1235e738]:
+                    - generic [ref=f1235e739]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f1235e740] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f1235e741]:
+                        - generic [ref=f1235e743]: "14"
+                - listitem [ref=f1235e744]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f1235e745] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f1235e746]:
+                    - generic [ref=f1235e747]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f1235e748] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f1235e749]:
+                        - generic [ref=f1235e751]: "75"
+                - listitem [ref=f1235e752]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f1235e753] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f1235e754]:
+                    - generic [ref=f1235e755]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f1235e756] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f1235e757]:
+                        - generic [ref=f1235e759]: "14"
+                - listitem [ref=f1235e760]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f1235e761] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f1235e762]:
+                    - generic [ref=f1235e763]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f1235e764] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f1235e765]:
+                        - generic [ref=f1235e767]: "44"
+                - listitem [ref=f1235e768]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f1235e769] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f1235e770]:
+                    - generic [ref=f1235e771]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f1235e772] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f1235e773]:
+                        - generic [ref=f1235e775]: "46"
+                - listitem [ref=f1235e776]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f1235e777] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f1235e778]:
+                    - generic [ref=f1235e779]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f1235e780] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f1235e781]:
+                        - generic [ref=f1235e783]: "56"
+                - listitem [ref=f1235e784]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f1235e785] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f1235e786]:
+                    - generic [ref=f1235e787]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f1235e788] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f1235e789]:
+                        - generic [ref=f1235e791]: "14"
+                - listitem [ref=f1235e792]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f1235e793] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f1235e794]:
+                    - generic [ref=f1235e795]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f1235e796] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f1235e797]:
+                        - generic [ref=f1235e799]: "38"
+            - generic [ref=f1235e801]:
+              - generic [ref=f1235e802]:
+                - heading "STAY IN THE KNOW" [level=3] [ref=f1235e804]
+                - generic [ref=f1235e805]:
+                  - text: Get informative articles and interesting stories delivered to your inbox weekly.
+                  - strong [ref=f1235e806]: Subscribe to the KSL.com Trending 5.
+                - generic [ref=f1235e807]:
+                  - textbox "Enter your email" [ref=f1235e808]
+                  - button "Sign Me Up" [ref=f1235e809] [cursor=pointer]
+                - generic [ref=f1235e810]:
+                  - text: By subscribing, you acknowledge and agree to KSL.com's
+                  - link "Terms of Use" [ref=f1235e811] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+                  - text: and
+                  - link "Privacy Notice" [ref=f1235e812] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+                  - text: .
+              - img "Newsletter Signup" [ref=f1235e814]
+            - generic [ref=f1235e818]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f1235e819]
+              - generic [ref=f1235e820] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f1235e821]
+                - img "Play button" [ref=f1235e824]
+      - generic [ref=f1235e828]:
+        - generic [ref=f1235e829]:
+          - generic [ref=f1235e830]:
+            - link [ref=f1235e831] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f1235e833]
+            - list [ref=f1235e834]:
+              - listitem [ref=f1235e835]:
+                - link "" [ref=f1235e836] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f1235e837]:
+                - link "" [ref=f1235e838] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f1235e839]:
+                - link "" [ref=f1235e840] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f1235e841]:
+                - link "" [ref=f1235e842] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f1235e843]:
+                - link "" [ref=f1235e844] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f1235e845]:
+                - link "" [ref=f1235e846] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f1235e847]:
+                - link "" [ref=f1235e848] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f1235e849]:
+            - link "Mobile Apps" [ref=f1235e850] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f1235e851] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f1235e852] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f1235e853] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f1235e854] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f1235e855]:
+          - link "Terms of use" [ref=f1235e856] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f1235e857] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f1235e858] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f1235e859] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f1235e860] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f1235e861] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f1235e862] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f1235e863] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f1235e864] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f1235e865] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f1235e866] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f1235e867]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f1235e869]:
+    - generic [ref=f1235e871]:
+      - generic [ref=f1235e873]:
+        - heading "Cookie Notice" [level=2] [ref=f1235e874]
+        - generic [ref=f1235e875]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f1235e876] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f1235e877] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f1235e878] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f1235e880]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f1235e881] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f1235e882] [cursor=pointer]
+    - button "OK" [ref=f1235e884] [cursor=pointer]
+  - iframe [ref=f1235e886]:
+    

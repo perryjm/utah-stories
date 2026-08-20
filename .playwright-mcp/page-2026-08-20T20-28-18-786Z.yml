@@ -1,0 +1,620 @@
+- generic [ref=f505e1]:
+  - iframe [ref=f505e3]:
+    
+  - generic [ref=f505e4]:
+    - generic [ref=f505e9]:
+      - link "Skip to content" [ref=f505e10] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f505e12]:
+        - link "KSL home" [ref=f505e13] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f505e14]
+        - navigation "Primary" [ref=f505e15]:
+          - link "News" [ref=f505e16] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f505e18] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f505e20] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f505e23] [cursor=pointer]
+        - generic [ref=f505e25]:
+          - generic [ref=f505e26]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f505e27] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f505e29] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f505e31] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f505e32]: 99°
+          - button "Search" [ref=f505e33] [cursor=pointer]
+          - link "Log in" [ref=f505e35] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+    - generic [ref=f505e36]:
+      - generic [ref=f505e37]:
+        - navigation [ref=f505e38]:
+          - combobox [ref=f505e40] [cursor=pointer]:
+            - option "Utah" [selected]
+            - option "Features"
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f505e42]:
+            - listitem [ref=f505e43]:
+              - link "Home" [ref=f505e44] [cursor=pointer]:
+                - /url: /news/utah
+            - listitem [ref=f505e45]:
+              - link "Counties" [ref=f505e46] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f505e47]:
+              - link "Police & Courts" [ref=f505e48] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - listitem [ref=f505e49]:
+              - link "Business" [ref=f505e50] [cursor=pointer]:
+                - /url: /news/business
+            - listitem [ref=f505e51]:
+              - link "Politics" [ref=f505e52] [cursor=pointer]:
+                - /url: /news/politics
+            - listitem [ref=f505e53]:
+              - link "Education" [ref=f505e54] [cursor=pointer]:
+                - /url: /news/utah/education
+            - listitem [ref=f505e55]:
+              - link "Science" [ref=f505e56] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - listitem [ref=f505e57]:
+              - link "Environment" [ref=f505e58] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - listitem [ref=f505e59]:
+              - link [ref=f505e60] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f505e61]
+        - generic [ref=f505e62]:
+          - generic [ref=f505e66]:
+            - iframe [ref=f505e68]:
+              - generic [ref=f534e5]:
+                - iframe [ref=f534e8]:
+                  - iframe [ref=f621e2]:
+                    - generic [ref=f635e1]:
+                      - generic [ref=f635e4]:
+                        - generic [ref=f635e7]:
+                          - link [ref=f635e8] [cursor=pointer]:
+                            - /url: https://exch.quantserve.com/r?&a=p-1RYxePXT9bCS2&labels=_qc.clk,_click.adserver.rtb,_click.rand.769231837&rtbip=192.184.70.189&rtb_id=CUOYMMDH9lAUER1QMMDH9lAUGDy9JsNBBnjg6zkdl2I&redirecturl3=https://servedby.flashtalking.com/click/8/225291;7892497;6327760;211;0/?gdpr=0&ft_impID=62B6BA58-303E-210F-3B50-18310DC25855&ft_custom=cYgC_wOqbqlpnC7xVtgkoVXbN_RvqP9hEus=&g=6806AF086C6FA3&random=638146.7296109963&ft_width=728&ft_height=90&url=https://www.adobe.com/acrobat/free-trial-download.html?sdid=3SH19YWX&mv=display&mv2=display
+                          - iframe [ref=f635e9]:
+                            - generic:
+                              - link:
+                                - /url: javascript:void(0);
+                                - generic [ref=f669e1] [cursor=pointer]
+                          - link "Privacy Notification" [ref=f635e11] [cursor=pointer]:
+                            - /url: https://www.flashtalking.com/consumer-privacy
+                        - link [ref=f635e13] [cursor=pointer]:
+                          - /url: http://pixel.quantcount.com/r?a=p-9fYuixa7g_Hm2;rand=769231837;labels=_click.creative.iab,_qc.iab.clk.p-1RYxePXT9bCS2.0.10399295;redirecturl2=http://www.quantcast.com/adchoices
+                      - iframe
+                      - iframe [ref=f635e17]:
+                        
+                      - iframe
+                - iframe [ref=f534e11]:
+                  - iframe [ref=f688e2]:
+                    - generic [ref=f689e1]:
+                      - generic:
+                        - generic [ref=f689e3]:
+                          - iframe [ref=f689e6]:
+                            - generic [ref=f696e1] [cursor=pointer]:
+                              - figure
+                              - figure
+                              - figure
+                              - figure
+                              - generic [ref=f696e9]:
+                                - generic [ref=f696e10]: New users get NFL Sunday Ticket
+                                - generic [ref=f696e11]:
+                                  - text: for 8 payments of $47.25
+                                  - emphasis [ref=f696e12]: $30/mo
+                              - generic [ref=f696e13]: Get it now
+                              - generic [ref=f696e19]: $47.25/mo for returning users.New users $240/yr. Avail varies.YouTube TV reg. Terms apply.No cancels.
+                          - generic [ref=f689e7]:
+                            - generic:
+                              - generic [ref=f689e8] [cursor=pointer]
+                              - button [ref=f689e15] [cursor=pointer]
+                        - iframe
+                - link [ref=f534e15] [cursor=pointer]:
+                  - /url: https://sidestage.com/iceland/Cinematic-Iceland/ashley-drew
+            - generic [ref=f505e69]:
+              - generic:
+                - generic:
+                  - link "Advertise with us" [ref=f505e70] [cursor=pointer]:
+                    - /url: https://www.deseretdigital.com/advertising
+                  - button "Report ad" [ref=f505e72] [cursor=pointer]
+          - generic [ref=f505e73]:
+            - heading "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore" [level=1] [ref=f505e74]
+            - heading "By Logan Stefanich, KSL | Posted - Aug. 20, 2026 at 1:29 p.m." [level=4] [ref=f505e77]
+          - generic [ref=f505e79]:
+            - generic [ref=f505e80]:
+              - img "The Great Salt Lake seen in Magna, April 21. The feds have awarded a California company a $100 million federal grant to build and operate a commercial lithium extraction and refining facility on the Great Salt Lake's northeastern shore." [ref=f505e84]
+              - heading "The Great Salt Lake seen in Magna, April 21. The feds have awarded a California company a $100 million federal grant to build and operate a commercial lithium extraction and refining facility on the Great Salt Lake's northeastern shore. (Tess Crowley, Deseret News)" [level=4] [ref=f505e86]
+            - generic:
+              - separator [ref=f505e87]
+              - generic [ref=f505e88]: "21"
+              - list:
+                - listitem:
+                  - link "" [ref=f505e90] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f505e91] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f505e92] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f505e93] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51614351/california-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore?print=1
+              - generic [ref=f505e94] [cursor=pointer]:
+                - generic [ref=f505e95]: 
+                - generic [ref=f505e96]: Save Story
+              - separator [ref=f505e97]
+            - button "Leer en español" [ref=f505e98] [cursor=pointer]
+            - article [ref=f505e99]:
+              - paragraph [ref=f505e100]: "Estimated read time: 3-4 minutes"
+              - generic [ref=f505e101]:
+                - generic [ref=f505e102]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f505e104] [cursor=pointer]
+                - list [ref=f505e106]:
+                  - listitem [ref=f505e107]: The U.S. Department of Energy awarded $100 million to Waterleaf P1 HoldCo to develop a lithium extraction and refining facility near the Great Salt Lake.
+                  - listitem [ref=f505e108]: The project aims to double U.S. lithium production reducing reliance on foreign sources.
+                  - listitem [ref=f505e109]: Utah is poised to lead in critical minerals with 80% of critical minerals present in the state.
+              - generic [ref=f505e110]:
+                - paragraph [ref=f505e111]: SALT LAKE CITY — The U.S. Department of Energy on Thursday announced Waterleaf P1 HoldCo, a subsidiary of California-based Lilac Solutions, was awarded a $100 million federal grant to build and operate a commercial lithium extraction and refining facility on the Great Salt Lake's northeastern shore.
+                - paragraph [ref=f505e112]:
+                  - text: The project was one of seven selected to receive funding from a $500 million grant pool administered by the department to "expand critical mineral and material processing, battery manufacturing, and recycling capacity in the United States," according to a department
+                  - link "release" [ref=f505e113] [cursor=pointer]:
+                    - /url: https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery
+                  - text: .
+                - paragraph [ref=f505e114]: The first phase of the projects aims to double current U.S. lithium production and set the groundwork for future expansion, the department said.
+                - paragraph [ref=f505e115]: With the U.S. rapidly expanding domestic sources of critical minerals in hopes of reducing reliance on foreign sources, Utah is not just following suit but positioning itself to be a domestic leader in the critical minerals race.
+                - paragraph [ref=f505e116]:
+                  - text: In January, Utah Gov. Spencer Cox announced the
+                  - link "launch of \"Mission Critical\"" [ref=f505e117] [cursor=pointer]:
+                    - /url: https://www.deseret.com/politics/2026/01/20/utah-legislature-and-governor-propose-plan-to-break-up-china-dominance-on-critical-minerals/
+                  - text: to reduce America's dependence on China for materials essential to national security and to make the Beehive State the top destination for critical mineral extraction and processing.
+                - generic [ref=f505e120]:
+                  - iframe [ref=f505e122]:
+                    - iframe [ref=f535e11]:
+                      
+                  - generic [ref=f505e123]:
+                    - generic:
+                      - generic:
+                        - link "Advertise with us" [ref=f505e124] [cursor=pointer]:
+                          - /url: https://www.deseretdigital.com/advertising
+                        - button "Report ad" [ref=f505e126] [cursor=pointer]
+                - paragraph [ref=f505e127]:
+                  - text: China controls over 90% of the world's refinery production of key components in electronics, according to
+                  - link "data" [ref=f505e128] [cursor=pointer]:
+                    - /url: https://www.instituteforenergyresearch.org/international-issues/china-will-remain-the-worlds-dominant-critical-mineral-processing-supplier-through-2030/
+                  - text: from the Institute for Energy Research. The country also produces about 70% of the world's rare earth elements and more than 60% of global titanium mining and aluminum smelter production.
+                - paragraph [ref=f505e129]:
+                  - text: And the statewide push continued in April when the University of Utah's board of trustees voted to establish the
+                  - link "Institute for Critical and Strategic Minerals" [ref=f505e130] [cursor=pointer]:
+                    - /url: https://attheu.utah.edu/facultystaff/u-announces-new-institute-for-critical-and-strategic-minerals/
+                  - text: .
+                - paragraph [ref=f505e131]: "\"The overall plan and strategy is deceptively simple, which is trying to onshore as much of the critical minerals extraction, processing and commercial availability as possible in the United States. Lithium is obviously one of the most important critical minerals, and we've had trouble over time getting fully domestic production of lithium,\" Department of Energy Deputy Secretary James Danly told reporters Thursday during a press conference in Salt Lake City."
+                - paragraph
+                - iframe [ref=f505e133]:
+                  - article [ref=f514e4] [cursor=pointer]:
+                    - link "Visit this post on X":
+                      - /url: https://x.com/GovCox/status/2065190796295549168?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                    - generic [ref=f514e5]:
+                      - link [ref=f514e14]:
+                        - /url: https://twitter.com/GovCox
+                      - generic [ref=f514e20]:
+                        - link [ref=f514e21]:
+                          - /url: https://twitter.com/GovCox
+                          - generic [ref=f514e22]:
+                            - generic [ref=f514e23]: Governor Cox
+                            - img "Verified account" [ref=f514e27]
+                        - generic [ref=f514e30]:
+                          - link "@GovCox" [ref=f514e31]:
+                            - /url: https://twitter.com/GovCox
+                          - generic [ref=f514e34]:
+                            - generic [ref=f514e35]: ·
+                            - link "Follow" [ref=f514e36]:
+                              - /url: https://x.com/intent/follow?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore&screen_name=GovCox
+                      - link "View on X" [ref=f514e37]:
+                        - /url: https://x.com/GovCox/status/2065190796295549168?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                    - generic [ref=f514e42]:
+                      - text: Our state is home to 40 of the 50 minerals critical to America’s economy and national security, which means Utah is uniquely positioned to lead as we strengthen domestic supply chains and reduce our dependence on foreign adversaries. From research and innovation to responsible
+                      - link "Show more" [ref=f514e43]:
+                        - /url: https://x.com/GovCox/status/2065190796295549168?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                    - link [ref=f514e46]:
+                      - /url: https://x.com/GovCox/status/2065190796295549168/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                      - generic "Image" [ref=f514e50]:
+                        - img "Image" [ref=f514e52]
+                    - generic [ref=f514e53]:
+                      - link "3:53 PM · Jun 11, 2026" [ref=f514e58]:
+                        - /url: https://x.com/GovCox/status/2065190796295549168?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                        - time [ref=f514e59]: 3:53 PM · Jun 11, 2026
+                      - link "X Ads info and privacy" [ref=f514e60]:
+                        - /url: https://help.x.com/x-for-websites-ads-info-and-privacy
+                    - generic [ref=f514e64]:
+                      - link "Like. This post has 32 likes" [ref=f514e65]:
+                        - /url: https://x.com/intent/like?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore&tweet_id=2065190796295549168
+                        - generic [ref=f514e70]: "32"
+                      - link "Reply to this post on X" [ref=f514e71]:
+                        - /url: https://x.com/intent/tweet?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore&in_reply_to=2065190796295549168
+                        - generic [ref=f514e76]: Reply
+                      - button "Copy link" [ref=f514e77]
+                    - link "Read 17 replies" [ref=f514e84]:
+                      - /url: https://x.com/GovCox/status/2065190796295549168?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2065190796295549168%7Ctwgr%5Ef4ecf7639e2264dae8c1cb8035eb7935e34788cb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614351%2Fcalifornia-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                - paragraph
+                - paragraph [ref=f505e134]: Utah, Danly said, is particularly ripe for critical mineral production.
+                - paragraph [ref=f505e135]: "\"Eighty percent of the list of critical minerals are here one way or another in deposits in the state,\" Danly said. \"I think Utah is likely to be one of the leaders in critical mineral efforts simply because of the natural resources and the willingness of the state to partner with the federal government.\""
+                - paragraph [ref=f505e136]: Of course, with the freshly announced lithium extraction and refining facility's positioning on the shore of the Great Salt Lake, both water use and contamination are potential areas of concerns.
+                - paragraph [ref=f505e137]: According to the Department of Energy's grant announcement, the facility will return processed brine "back to the lake with no net water loss."
+                - paragraph [ref=f505e138]: Environmental Protection Agency Deputy Administrator David Fotouhi said the agency has been working closely with the state "on all issues related to the Great Salt Lake."
+                - generic [ref=f505e141]:
+                  - iframe [ref=f505e143]:
+                    - generic [ref=f536e1]:
+                      - generic [ref=f536e4]:
+                        - generic [ref=f536e12]:
+                          - generic "Advertisement" [ref=f536e13]
+                          - iframe [ref=f536e15]:
+                            - generic [ref=f576e2] [cursor=pointer]
+                        - button "Mute/Unmute" [ref=f536e16] [cursor=pointer]
+                      - iframe [ref=f536e19]:
+                        
+                  - generic [ref=f505e144]:
+                    - generic:
+                      - generic:
+                        - link "Advertise with us" [ref=f505e145] [cursor=pointer]:
+                          - /url: https://www.deseretdigital.com/advertising
+                        - button "Report ad" [ref=f505e147] [cursor=pointer]
+                - paragraph [ref=f505e148]: "\"It's an ongoing discussion, and the federal government is standing with the state to address these issues directly,\" Fotouhi said."
+              - generic [ref=f505e150]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Most recent Environment stories" [level=3] [ref=f505e151]
+              - generic [ref=f505e152]:
+                - list [ref=f505e153]:
+                  - listitem [ref=f505e154]:
+                    - heading [level=4] [ref=f505e155]:
+                      - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=f505e156] [cursor=pointer]:
+                        - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+                - list [ref=f505e157]:
+                  - listitem [ref=f505e158]:
+                    - heading [level=4] [ref=f505e159]:
+                      - link "Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says" [ref=f505e160] [cursor=pointer]:
+                        - /url: /article/51611776/utah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says
+                - list [ref=f505e161]:
+                  - listitem [ref=f505e162]:
+                    - heading [level=4] [ref=f505e163]:
+                      - link "Former teacher, 93, among the deaths blamed on storm as Hawaii residents struggle to clean up" [ref=f505e164] [cursor=pointer]:
+                        - /url: /article/51611517/former-teacher-93-among-the-deaths-blamed-on-storm-as-hawaii-residents-struggle-to-clean-up
+              - generic [ref=f505e165]:
+                - heading "Related topics" [level=3] [ref=f505e166]
+                - generic [ref=f505e167]:
+                  - link "Utah" [ref=f505e169] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Environment" [ref=f505e171] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/environment
+                  - link "Business" [ref=f505e173] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/business
+              - generic [ref=f505e174]:
+                - generic [ref=f505e175]:
+                  - generic [ref=f505e176]:
+                    - img "Logan Stefanich, KSL" [ref=f505e177]
+                    - text: Logan Stefanich
+                  - list [ref=f505e179]:
+                    - listitem [ref=f505e180]:
+                      - link "" [ref=f505e181] [cursor=pointer]:
+                        - /url: https://www.facebook.com/kslcom
+                    - listitem [ref=f505e182]:
+                      - link "" [ref=f505e183] [cursor=pointer]:
+                        - /url: //www.twitter.com/https://x.com/loganstefanich
+                    - listitem [ref=f505e184]:
+                      - link "" [ref=f505e185] [cursor=pointer]:
+                        - /url: mailto:lstefanich@ksl.com
+                - generic [ref=f505e186]: Logan Stefanich is a reporter with KSL, covering northern Utah communities, education, business and tech news.
+              - button "Comments header with 0 pending and 21 total comments" [ref=f505e189] [cursor=pointer]:
+                - generic [ref=f505e190]:
+                  - generic [ref=f505e191]: "21"
+                  - generic [ref=f505e193]: Comments
+                - img "Expand comments" [ref=f505e194]
+              - generic [ref=f505e200]:
+                - generic [ref=f505e201]:
+                  - generic [ref=f505e202]: Up Next - Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f505e204] [cursor=pointer]
+                - generic [ref=f505e209]:
+                  - generic [ref=f505e210]:
+                    - generic [ref=f505e214]:
+                      - generic "Advertisement" [ref=f505e215]
+                      - iframe [ref=f505e217]:
+                        - generic [ref=f529e1]:
+                          - button [ref=f529e3]:
+                            - img [ref=f529e4] [cursor=pointer]
+                          - iframe [ref=f529e6]:
+                            - generic [ref=f593e3] [cursor=pointer]
+                    - status "Loading" [ref=f505e218] [cursor=pointer]
+                  - generic:
+                    - text: Up Next -
+                    - generic [ref=f505e220]:
+                      - slider "Progress Bar" [disabled] [ref=f505e222] [cursor=pointer]: "5"
+                      - button "Pause" [ref=f505e223] [cursor=pointer]
+                      - button "Unmute" [ref=f505e228] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f505e232] [cursor=pointer]: "25"
+                      - button "-00:14" [ref=f505e234] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f505e235] [cursor=pointer]
+              - generic [ref=f505e239]:
+                - heading "More stories you may be interested in" [level=2] [ref=f505e240]
+                - list:
+                  - listitem [ref=f505e241]:
+                    - link [ref=f505e242] [cursor=pointer]:
+                      - /url: /article/51611433/bats-prompt-concern-ahead-of-back-to-school-at-stansbury-park-elementary-school
+                      - img "Bats prompt concern ahead of back-to-school at Stansbury Park Elementary School" [ref=f505e243]
+                    - heading [level=6] [ref=f505e244]:
+                      - link "Bats prompt concern ahead of back-to-school at Stansbury Park Elementary School" [ref=f505e245] [cursor=pointer]:
+                        - /url: /article/51611433/bats-prompt-concern-ahead-of-back-to-school-at-stansbury-park-elementary-school
+                  - listitem [ref=f505e246]:
+                    - link [ref=f505e247] [cursor=pointer]:
+                      - /url: /article/51608991/utah-seeks-to-make-14-native-fish-species-catchable-among-other-proposed-fishing-changes
+                      - img "Utah seeks to make 14 native fish species catchable among other proposed fishing changes" [ref=f505e248]
+                    - heading [level=6] [ref=f505e249]:
+                      - link "Utah seeks to make 14 native fish species catchable among other proposed fishing changes" [ref=f505e250] [cursor=pointer]:
+                        - /url: /article/51608991/utah-seeks-to-make-14-native-fish-species-catchable-among-other-proposed-fishing-changes
+                  - listitem [ref=f505e251]:
+                    - link [ref=f505e252] [cursor=pointer]:
+                      - /url: /article/51610070/crews-remove-hunters-in-black-canyon-fire-closure-area
+                      - img "Crews remove hunters in Black Canyon Fire closure area" [ref=f505e253]
+                    - heading [level=6] [ref=f505e254]:
+                      - link "Crews remove hunters in Black Canyon Fire closure area" [ref=f505e255] [cursor=pointer]:
+                        - /url: /article/51610070/crews-remove-hunters-in-black-canyon-fire-closure-area
+          - generic [ref=f505e256]:
+            - generic [ref=f505e259]:
+              - iframe [ref=f505e261]:
+                - generic [ref=f537e2]:
+                  - iframe [ref=f537e5]:
+                    - generic [ref=f550e7] [cursor=pointer]:
+                      - generic [ref=f550e10]: View Salt Lake City Homes >
+                      - generic [ref=f550e12]:
+                        - generic [ref=f550e13]: Homes From
+                        - generic [ref=f550e14]: $544K to $915K
+                  - generic [ref=f537e6]:
+                    - generic:
+                      - generic [ref=f537e7] [cursor=pointer]
+                      - button [ref=f537e14] [cursor=pointer]
+              - generic [ref=f505e262]:
+                - generic:
+                  - generic:
+                    - link "Advertise with us" [ref=f505e263] [cursor=pointer]:
+                      - /url: https://www.deseretdigital.com/advertising
+                    - button "Report ad" [ref=f505e265] [cursor=pointer]
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f505e266]
+              - list [ref=f505e267]:
+                - listitem [ref=f505e268]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f505e269] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f505e270]:
+                    - generic [ref=f505e271]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f505e272] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f505e273]:
+                        - generic [ref=f505e275]: "78"
+                - listitem [ref=f505e276]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f505e277] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f505e278]:
+                    - generic [ref=f505e279]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f505e280] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f505e281]:
+                        - generic [ref=f505e283]: "68"
+                - listitem [ref=f505e284]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f505e285] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f505e286]:
+                    - generic [ref=f505e287]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f505e288] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f505e289]:
+                        - generic [ref=f505e291]: "14"
+                - listitem [ref=f505e292]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f505e293] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f505e294]:
+                    - generic [ref=f505e295]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f505e296] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f505e297]:
+                        - generic [ref=f505e299]: "75"
+                - listitem [ref=f505e300]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f505e301] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f505e302]:
+                    - generic [ref=f505e303]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f505e304] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f505e305]:
+                        - generic [ref=f505e307]: "14"
+                - listitem [ref=f505e308]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f505e309] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f505e310]:
+                    - generic [ref=f505e311]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f505e312] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f505e313]:
+                        - generic [ref=f505e315]: "44"
+                - listitem [ref=f505e316]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f505e317] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f505e318]:
+                    - generic [ref=f505e319]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f505e320] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f505e321]:
+                        - generic [ref=f505e323]: "46"
+                - listitem [ref=f505e324]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f505e325] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f505e326]:
+                    - generic [ref=f505e327]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f505e328] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f505e329]:
+                        - generic [ref=f505e331]: "56"
+                - listitem [ref=f505e332]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f505e333] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f505e334]:
+                    - generic [ref=f505e335]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f505e336] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f505e337]:
+                        - generic [ref=f505e339]: "14"
+                - listitem [ref=f505e340]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f505e341] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f505e342]:
+                    - generic [ref=f505e343]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f505e344] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f505e345]:
+                        - generic [ref=f505e347]: "38"
+            - generic [ref=f505e348]:
+              - link [ref=f505e350] [cursor=pointer]:
+                - /url: /beyond/beyond-business
+                - img "KSL.com Beyond Business" [ref=f505e352]
+              - generic:
+                - link "KSL.com Beyond Series":
+                  - /url: /sports/beyond-the-game
+                  - generic:
+                    - img "KSL.com Beyond Series"
+            - generic [ref=f505e355]:
+              - iframe [ref=f505e357]:
+                - generic [ref=f538e1]:
+                  - iframe [ref=f538e7]:
+                    - generic [ref=f552e1]:
+                      - generic [ref=f552e5] [cursor=pointer]: "*Important details"
+                      - generic [ref=f552e13]:
+                        - text: 2026 Ford Bronco Sport
+                        - superscript [ref=f552e14]: ®
+                      - generic [ref=f552e15]: Your Local Ford Stores
+                      - generic [ref=f552e20]:
+                        - generic [ref=f552e21]:
+                          - generic [ref=f552e22]: $
+                          - text: 2,500
+                        - generic [ref=f552e23]: CASHBACK*
+                      - generic [ref=f552e24] [cursor=pointer]
+                  - iframe
+                  - generic:
+                    - generic:
+                      - generic [ref=f538e8] [cursor=pointer]
+                      - generic [ref=f538e10] [cursor=pointer]
+              - generic [ref=f505e358]:
+                - generic:
+                  - generic:
+                    - link "Advertise with us" [ref=f505e359] [cursor=pointer]:
+                      - /url: https://www.deseretdigital.com/advertising
+                    - button "Report ad" [ref=f505e361] [cursor=pointer]
+            - generic [ref=f505e362]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f505e363]
+              - generic [ref=f505e364] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f505e365]
+                - img "Play button" [ref=f505e368]
+      - generic [ref=f505e372]:
+        - generic [ref=f505e373]:
+          - generic [ref=f505e374]:
+            - link [ref=f505e375] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f505e377]
+            - list [ref=f505e378]:
+              - listitem [ref=f505e379]:
+                - link "" [ref=f505e380] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f505e381]:
+                - link "" [ref=f505e382] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f505e383]:
+                - link "" [ref=f505e384] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f505e385]:
+                - link "" [ref=f505e386] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f505e387]:
+                - link "" [ref=f505e388] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f505e389]:
+                - link "" [ref=f505e390] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f505e391]:
+                - link "" [ref=f505e392] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f505e393]:
+            - link "Mobile Apps" [ref=f505e394] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f505e395] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f505e396] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f505e397] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f505e398] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f505e399]:
+          - link "Terms of use" [ref=f505e400] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f505e401] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f505e402] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f505e403] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f505e404] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f505e405] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f505e406] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f505e407] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f505e408] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f505e409] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f505e410] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f505e411]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f505e413]:
+    - generic [ref=f505e415]:
+      - generic [ref=f505e417]:
+        - heading "Cookie Notice" [level=2] [ref=f505e418]
+        - generic [ref=f505e419]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f505e420] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f505e421] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f505e422] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f505e424]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f505e425] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f505e426] [cursor=pointer]
+    - button "OK" [ref=f505e428] [cursor=pointer]
+  - iframe [ref=f505e429]:
+    

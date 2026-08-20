@@ -1,8 +1,9 @@
 logs/
+__pycache__/
 
 # Local KSL feed runbook and process lock
 .ksl-feed-runbook.sqlite3*
-.ksl-feed-sync.lock/
+.ksl-feed-sync.lock
 
 # macOS Finder/system junk
 .DS_Store

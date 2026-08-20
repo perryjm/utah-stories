@@ -1,0 +1,444 @@
+- generic [active] [ref=f2121e1]:
+  - generic [ref=f2121e2]:
+    - generic [ref=f2121e7]:
+      - link "Skip to content" [ref=f2121e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f2121e10]:
+        - link "KSL home" [ref=f2121e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f2121e12]
+        - navigation "Primary" [ref=f2121e13]:
+          - link "News" [ref=f2121e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f2121e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f2121e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f2121e21] [cursor=pointer]
+        - generic [ref=f2121e23]:
+          - generic [ref=f2121e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f2121e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f2121e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f2121e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f2121e30]: 99°
+          - button "Search" [ref=f2121e31] [cursor=pointer]
+          - link "Log in" [ref=f2121e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses
+    - generic [ref=f2121e34]:
+      - generic [ref=f2121e35]:
+        - navigation [ref=f2121e36]:
+          - combobox [ref=f2121e38] [cursor=pointer]:
+            - option "Utah"
+            - option "Features"
+            - option "Counties" [selected]
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f2121e40]:
+            - listitem [ref=f2121e41]:
+              - link "Home" [ref=f2121e42] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f2121e43]:
+              - link "Southern Utah" [ref=f2121e44] [cursor=pointer]:
+                - /url: /news/utah/counties/southern
+            - listitem [ref=f2121e45]:
+              - link "Tooele" [ref=f2121e46] [cursor=pointer]:
+                - /url: /news/utah/counties/tooele
+            - listitem [ref=f2121e47]:
+              - link "Salt Lake" [ref=f2121e48] [cursor=pointer]:
+                - /url: /news/utah/counties/salt-lake
+            - listitem [ref=f2121e49]:
+              - link "Davis" [ref=f2121e50] [cursor=pointer]:
+                - /url: /news/utah/counties/davis
+            - listitem [ref=f2121e51]:
+              - link "Weber" [ref=f2121e52] [cursor=pointer]:
+                - /url: /news/utah/counties/weber
+            - listitem [ref=f2121e53]:
+              - link "Utah" [ref=f2121e54] [cursor=pointer]:
+                - /url: /news/utah/counties/utah
+            - listitem [ref=f2121e55]:
+              - link "Summit/Wasatch" [ref=f2121e56] [cursor=pointer]:
+                - /url: /news/utah/counties/summit-wasatch
+            - listitem [ref=f2121e57]:
+              - link [ref=f2121e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f2121e59]
+        - generic [ref=f2121e60]:
+          - generic [ref=f2121e65]:
+            - heading "Proposed Sugar House business district receives pushback from businesses" [level=1] [ref=f2121e66]
+            - heading "By Carter Williams, KSL | Posted - Aug. 20, 2026 at 7:32 a.m." [level=4] [ref=f2121e69]
+          - generic [ref=f2121e71]:
+            - generic [ref=f2121e72]:
+              - img "The Sugar House business district is pictured in Salt Lake City on Nov. 28, 2023. A proposed special assessment for improvements within the business district has created mixed feelings among business owners." [ref=f2121e76]
+              - heading "The Sugar House business district is pictured in Salt Lake City on Nov. 28, 2023. A proposed special assessment for improvements within the business district has created mixed feelings among business owners. (Kristin Murphy, Deseret News)" [level=4] [ref=f2121e78]
+            - generic:
+              - separator [ref=f2121e79]
+              - generic [ref=f2121e80]: "31"
+              - list:
+                - listitem:
+                  - link "" [ref=f2121e82] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2121e83] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2121e84] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2121e85] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses?print=1
+              - generic [ref=f2121e86] [cursor=pointer]:
+                - generic [ref=f2121e87]: 
+                - generic [ref=f2121e88]: Save Story
+              - separator [ref=f2121e89]
+            - generic [ref=f2121e91]:
+              - button "Leer en español" [ref=f2121e92] [cursor=pointer]
+              - generic [ref=f2121e93]:
+                - 'button "Listen: 3 Minutes" [ref=f2121e95] [cursor=pointer]':
+                  - generic [ref=f2121e98]: "Listen:"
+                  - generic [ref=f2121e99]: 3 Minutes
+                - generic [ref=f2121e534]:
+                  - button "Play" [ref=f2121e535] [cursor=pointer]
+                  - button "Volume" [ref=f2121e539] [cursor=pointer]
+                  - slider [ref=f2121e545]
+                  - generic [ref=f2121e546]: 03:54
+            - article [ref=f2121e548]:
+              - generic [ref=f2121e549]:
+                - generic [ref=f2121e550]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f2121e552] [cursor=pointer]
+                - list [ref=f2121e554]:
+                  - listitem [ref=f2121e555]: A handful of Sugar House businesses opposed proposed special assessment area during protest hearing.
+                  - listitem [ref=f2121e556]: Business owners argue the fees won't benefit them amid ongoing financial struggles.
+                  - listitem [ref=f2121e557]: Approval requires support from 60% of business property value in the area.
+              - generic [ref=f2121e558]:
+                - paragraph [ref=f2121e559]: SALT LAKE CITY — A Sugar House business-led plan to create a special assessment area within the heart of the Salt Lake City neighborhood's business district is facing some pushback from other Sugar House businesses.
+                - paragraph [ref=f2121e560]:
+                  - text: A handful of business owners attended a protest hearing on Tuesday, which is part of the lengthy and complicated process initiated by the Sugar House Chamber of Commerce
+                  - link "earlier this year" [ref=f2121e561] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51503892/sugar-house-chamber-seeks-special-assessment-to-spur-new-events-signage-and-lighting
+                  - text: .
+                - paragraph [ref=f2121e562]: The proposal calls for a small tax-like collection from commercial properties within the district that can fund new events, signage and holiday lighting used throughout the district, as well as public safety ambassadors and other services. It's similar to a district in downtown, which created the Downtown Alliance.
+                - paragraph [ref=f2121e563]: The proposed district would span from 700 East to 1300 East, and Ramona Avenue and as far south as I-80. While proponents say it could help boost activity in the area, business owners who attended the Salt Lake City Council meeting argued against it.
+                - paragraph [ref=f2121e567]: Some said they don't believe their businesses should be included in the assessment district because they're not sure their office buildings and commercial services would benefit from potential services.
+                - paragraph [ref=f2121e568]: Many businesses are still struggling from the impacts of wholesale road and utility repairs that ended last year, said Melva Sine, president and CEO of the Utah Restaurant Association. She said she was asked by members to speak, saying that surviving restaurants have exhausted their reserves and don't believe the new road configuration has helped with traffic.
+                - paragraph [ref=f2121e569]: All of it comes as labor costs, wholesale food prices, rent and other expenses are up, which is why she said businesses need hardship grants and not new assessment fees.
+                - paragraph [ref=f2121e570]: "\"Recovery is not finished in the Sugar House area,\" Sine said. \"These businesses are still struggling. ... We feel like we need to have support for the Sugar House area, but we don't feel like — and the restaurants don't feel like — they should be paying for something and fixing a problem they didn't create.\""
+                - paragraph [ref=f2121e571]: The construction project to improve 1100 East/Highland Drive within the area began in 2023. A section project targeting 2100 South ended last year, and the two overlapped at one point.
+                - paragraph [ref=f2121e572]: Construction carried on for so long that it drove customers away, said Jeff Goddard, owner of Gutherie Bicycle. He doesn't see how events would get people to his business unless it's getting people to know that construction is over.
+                - paragraph [ref=f2121e573]: "\"I don't see this exorbitant amount of fees to the existing businesses is really going to help us stay open,\" he said."
+                - heading "Related:" [level=2] [ref=f2121e574]
+                - generic [ref=f2121e575]:
+                  - link:
+                    - /url: https://www.ksl.com/article/51503892/sugar-house-chamber-seeks-special-assessment-to-spur-new-events-signage-and-lighting
+                  - heading [level=2] [ref=f2121e576]:
+                    - link "Sugar House chamber seeks special assessment to spur new events, signage and lighting" [ref=f2121e577] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/51503892/sugar-house-chamber-seeks-special-assessment-to-spur-new-events-signage-and-lighting
+                  - text: Sugar House business leaders are exploring a new way to fund and promote the business district through a concept Salt Lake City first used in 1991.
+                - paragraph [ref=f2121e578]: Sugar House Chamber of Commerce officials told KSL in the spring that they want to create an entity that could oversee farmers' markets, food festivals and other events that draw people to Sugar House, building on how they celebrated the end of construction in 2025 and mirroring the Downtown Alliance.
+                - paragraph [ref=f2121e579]: If approved, one assessment would go toward that, while another would focus on signage and holiday lighting, which could also draw people to the district, beginning as early as 2027.
+                - paragraph [ref=f2121e583]: "\"We just think it will solve a whole lot of problems, including dealing with a growing number of people who are in the neighborhood, patronizing the different stores, shops, bars and restaurants, along with creating a heightened sense of vibrancy,\" said James Roberts, co-chairman of the Sugar House Chamber of Commerce, at the time."
+                - 'figure "A map of the proposed Sugar House special assessment area. The commercial buildings in red would be assessed a small tax that would go toward promotion of the area, if approved. (Photo: Salt Lake City Department of Economic Developement)" [ref=f2121e584]':
+                  - generic "A map of the proposed Sugar House special assessment area. The commercial buildings in red would be assessed a small tax that would go toward promotion of the area, if approved." [ref=f2121e585] [cursor=pointer]:
+                    - img "A map of the proposed Sugar House special assessment area. The commercial buildings in red would be assessed a small tax that would go toward promotion of the area, if approved." [ref=f2121e587]
+                - paragraph [ref=f2121e589]: It's unclear how the negative sentiment from the protest period will affect the 48-step process since it began.
+                - paragraph [ref=f2121e590]: Salt Lake City Councilwoman Sarah Young, who represents the Sugar House neighborhood, pointed out that the protest hearing is only part of the process, and the final decision won't be made by the Salt Lake City Council.
+                - paragraph [ref=f2121e591]: It's up to business owners to create the assessment area and determine the services that would be provided. Support from at least 60% of the business property value within the area is needed to designate the Sugar House Business District, among other things.
+                - paragraph [ref=f2121e592]: "\"Ultimately, this is a decision that is made by those who would be impacted. It's not a decision that's made exclusively up here by the councilmembers,\" Young said on Tuesday."
+              - generic [ref=f2121e594]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Related stories" [level=3] [ref=f2121e595]
+              - list [ref=f2121e597]:
+                - listitem [ref=f2121e598]:
+                  - heading [level=4] [ref=f2121e599]:
+                    - link "Sugar House chamber seeks special assessment to spur new events, signage and lighting" [ref=f2121e600] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/51503892/sugar-house-chamber-seeks-special-assessment-to-spur-new-events-signage-and-lighting
+              - heading "Most recent Salt Lake County stories" [level=3] [ref=f2121e601]
+              - generic [ref=f2121e602]:
+                - list [ref=f2121e603]:
+                  - listitem [ref=f2121e604]:
+                    - heading [level=4] [ref=f2121e605]:
+                      - link "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f2121e606] [cursor=pointer]:
+                        - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                - list [ref=f2121e607]:
+                  - listitem [ref=f2121e608]:
+                    - heading [level=4] [ref=f2121e609]:
+                      - link "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [ref=f2121e610] [cursor=pointer]:
+                        - /url: /article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+                - list [ref=f2121e611]:
+                  - listitem [ref=f2121e612]:
+                    - heading [level=4] [ref=f2121e613]:
+                      - link "Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says" [ref=f2121e614] [cursor=pointer]:
+                        - /url: /article/51611776/utah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says
+              - generic [ref=f2121e615]:
+                - heading "Related topics" [level=3] [ref=f2121e616]
+                - generic [ref=f2121e617]:
+                  - link "Utah" [ref=f2121e619] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Salt Lake County" [ref=f2121e621] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/salt-lake
+                  - link "Business" [ref=f2121e623] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/business
+              - generic [ref=f2121e624]:
+                - generic [ref=f2121e625]:
+                  - generic [ref=f2121e626]:
+                    - img "Carter Williams, KSL" [ref=f2121e627]
+                    - text: Carter Williams
+                  - list [ref=f2121e629]:
+                    - listitem [ref=f2121e630]:
+                      - link "" [ref=f2121e631] [cursor=pointer]:
+                        - /url: http://www.facebook.com/kslcom/
+                    - listitem [ref=f2121e632]:
+                      - link "" [ref=f2121e633] [cursor=pointer]:
+                        - /url: mailto:cwilliams@ksl.com
+                - generic [ref=f2121e634]: Carter Williams is a reporter for KSL. He covers Salt Lake City, statewide transportation issues, outdoors, the environment and weather. He is a graduate of Southern Utah University.
+              - button "Comments header with 0 pending and 31 total comments" [ref=f2121e637] [cursor=pointer]:
+                - generic [ref=f2121e638]:
+                  - generic [ref=f2121e639]: "31"
+                  - generic [ref=f2121e641]: Comments
+                - img "Expand comments" [ref=f2121e642]
+              - status "Loading" [ref=f2121e655] [cursor=pointer]
+              - generic [ref=f2121e658]:
+                - heading "More stories you may be interested in" [level=2] [ref=f2121e659]
+                - list:
+                  - listitem [ref=f2121e660]:
+                    - link [ref=f2121e661] [cursor=pointer]:
+                      - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                      - img "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f2121e662]
+                    - heading [level=6] [ref=f2121e663]:
+                      - link "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f2121e664] [cursor=pointer]:
+                        - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                  - listitem [ref=f2121e665]:
+                    - link [ref=f2121e666] [cursor=pointer]:
+                      - /url: /article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+                      - img "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [ref=f2121e667]
+                    - heading [level=6] [ref=f2121e668]:
+                      - link "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [ref=f2121e669] [cursor=pointer]:
+                        - /url: /article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+                  - listitem [ref=f2121e670]:
+                    - link [ref=f2121e671] [cursor=pointer]:
+                      - /url: /article/news/utah/politics/utah-finds-a-new-economic-and-ecological-partner-in-argentina/51611774
+                      - img "Utah finds a new economic and ecological partner in Argentina" [ref=f2121e672]
+                    - heading [level=6] [ref=f2121e673]:
+                      - link "Utah finds a new economic and ecological partner in Argentina" [ref=f2121e674] [cursor=pointer]:
+                        - /url: /article/news/utah/politics/utah-finds-a-new-economic-and-ecological-partner-in-argentina/51611774
+          - generic [ref=f2121e675]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f2121e679]
+              - list [ref=f2121e680]:
+                - listitem [ref=f2121e681]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f2121e682] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f2121e683]:
+                    - generic [ref=f2121e684]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f2121e685] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f2121e686]:
+                        - generic [ref=f2121e688]: "78"
+                - listitem [ref=f2121e689]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f2121e690] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f2121e691]:
+                    - generic [ref=f2121e692]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f2121e693] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f2121e694]:
+                        - generic [ref=f2121e696]: "68"
+                - listitem [ref=f2121e697]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f2121e698] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f2121e699]:
+                    - generic [ref=f2121e700]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f2121e701] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f2121e702]:
+                        - generic [ref=f2121e704]: "14"
+                - listitem [ref=f2121e705]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f2121e706] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f2121e707]:
+                    - generic [ref=f2121e708]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f2121e709] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f2121e710]:
+                        - generic [ref=f2121e712]: "75"
+                - listitem [ref=f2121e713]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f2121e714] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f2121e715]:
+                    - generic [ref=f2121e716]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f2121e717] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f2121e718]:
+                        - generic [ref=f2121e720]: "14"
+                - listitem [ref=f2121e721]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f2121e722] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f2121e723]:
+                    - generic [ref=f2121e724]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f2121e725] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f2121e726]:
+                        - generic [ref=f2121e728]: "44"
+                - listitem [ref=f2121e729]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f2121e730] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f2121e731]:
+                    - generic [ref=f2121e732]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f2121e733] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f2121e734]:
+                        - generic [ref=f2121e736]: "46"
+                - listitem [ref=f2121e737]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f2121e738] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f2121e739]:
+                    - generic [ref=f2121e740]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f2121e741] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f2121e742]:
+                        - generic [ref=f2121e744]: "56"
+                - listitem [ref=f2121e745]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f2121e746] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f2121e747]:
+                    - generic [ref=f2121e748]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f2121e749] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f2121e750]:
+                        - generic [ref=f2121e752]: "14"
+                - listitem [ref=f2121e753]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f2121e754] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f2121e755]:
+                    - generic [ref=f2121e756]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f2121e757] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f2121e758]:
+                        - generic [ref=f2121e760]: "38"
+            - generic [ref=f2121e762]:
+              - generic [ref=f2121e763]:
+                - heading "STAY IN THE KNOW" [level=3] [ref=f2121e765]
+                - generic [ref=f2121e766]:
+                  - text: Get informative articles and interesting stories delivered to your inbox weekly.
+                  - strong [ref=f2121e767]: Subscribe to the KSL.com Trending 5.
+                - generic [ref=f2121e768]:
+                  - textbox "Enter your email" [ref=f2121e769]
+                  - button "Sign Me Up" [ref=f2121e770] [cursor=pointer]
+                - generic [ref=f2121e771]:
+                  - text: By subscribing, you acknowledge and agree to KSL.com's
+                  - link "Terms of Use" [ref=f2121e772] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+                  - text: and
+                  - link "Privacy Notice" [ref=f2121e773] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+                  - text: .
+              - img "Newsletter Signup" [ref=f2121e775]
+            - generic [ref=f2121e779]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f2121e780]
+              - generic [ref=f2121e781] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f2121e782]
+                - img "Play button" [ref=f2121e785]
+      - generic [ref=f2121e789]:
+        - generic [ref=f2121e790]:
+          - generic [ref=f2121e791]:
+            - link [ref=f2121e792] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f2121e794]
+            - list [ref=f2121e795]:
+              - listitem [ref=f2121e796]:
+                - link "" [ref=f2121e797] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f2121e798]:
+                - link "" [ref=f2121e799] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f2121e800]:
+                - link "" [ref=f2121e801] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f2121e802]:
+                - link "" [ref=f2121e803] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f2121e804]:
+                - link "" [ref=f2121e805] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f2121e806]:
+                - link "" [ref=f2121e807] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f2121e808]:
+                - link "" [ref=f2121e809] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f2121e810]:
+            - link "Mobile Apps" [ref=f2121e811] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f2121e812] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f2121e813] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f2121e814] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f2121e815] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f2121e816]:
+          - link "Terms of use" [ref=f2121e817] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f2121e818] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f2121e819] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f2121e820] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f2121e821] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f2121e822] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f2121e823] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f2121e824] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f2121e825] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f2121e826] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f2121e827] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f2121e828]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f2121e830]:
+    - generic [ref=f2121e832]:
+      - generic [ref=f2121e834]:
+        - heading "Cookie Notice" [level=2] [ref=f2121e835]
+        - generic [ref=f2121e836]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f2121e837] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f2121e838] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f2121e839] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f2121e841]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f2121e842] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f2121e843] [cursor=pointer]
+    - button "OK" [ref=f2121e845] [cursor=pointer]
+  - iframe [ref=f2121e847]:
+    

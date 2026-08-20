@@ -1,0 +1,499 @@
+- generic [ref=f857e1]:
+  - generic [ref=f857e2]:
+    - generic [ref=f857e7]:
+      - link "Skip to content" [ref=f857e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f857e10]:
+        - link "KSL home" [ref=f857e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f857e12]
+        - navigation "Primary" [ref=f857e13]:
+          - link "News" [ref=f857e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f857e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f857e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f857e21] [cursor=pointer]
+        - generic [ref=f857e23]:
+          - generic [ref=f857e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f857e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f857e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f857e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f857e30]: 99°
+          - button "Search" [ref=f857e31] [cursor=pointer]
+          - link "Log in" [ref=f857e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611920%2Fwatch-live-gov-spencer-cox-holds-monthly-news-conference
+    - generic [ref=f857e34]:
+      - generic [ref=f857e35]:
+        - navigation [ref=f857e36]:
+          - combobox [ref=f857e38] [cursor=pointer]:
+            - option "Utah" [selected]
+            - option "Features"
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f857e40]:
+            - listitem [ref=f857e41]:
+              - link "Home" [ref=f857e42] [cursor=pointer]:
+                - /url: /news/utah
+            - listitem [ref=f857e43]:
+              - link "Counties" [ref=f857e44] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f857e45]:
+              - link "Police & Courts" [ref=f857e46] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - listitem [ref=f857e47]:
+              - link "Business" [ref=f857e48] [cursor=pointer]:
+                - /url: /news/business
+            - listitem [ref=f857e49]:
+              - link "Politics" [ref=f857e50] [cursor=pointer]:
+                - /url: /news/politics
+            - listitem [ref=f857e51]:
+              - link "Education" [ref=f857e52] [cursor=pointer]:
+                - /url: /news/utah/education
+            - listitem [ref=f857e53]:
+              - link "Science" [ref=f857e54] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - listitem [ref=f857e55]:
+              - link "Environment" [ref=f857e56] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - listitem [ref=f857e57]:
+              - link [ref=f857e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f857e59]
+        - generic [ref=f857e60]:
+          - generic [ref=f857e65]:
+            - heading "Utah governor 'deeply troubled' by Flock camera concerns, orders privacy review" [level=1] [ref=f857e66]
+            - heading "By Daniel Woodruff and Bridger Beal-Cvetko, KSL | UPDATED - Aug. 20, 2026 at 1:16 p.m. | Posted - Aug. 20, 2026 at 9:51 a.m." [level=4] [ref=f857e69]
+          - generic [ref=f857e71]:
+            - generic [ref=f857e72]:
+              - img "Gov. Spencer Cox speaks at his monthly news conference during the PBS Utah Governor’s Monthly News Conference held at the Eccles Broadcast Center in Salt Lake City on March 19." [ref=f857e76]
+              - heading "Gov. Spencer Cox speaks at his monthly news conference during the PBS Utah Governor’s Monthly News Conference held at the Eccles Broadcast Center in Salt Lake City on March 19. (Trent Nelson)" [level=4] [ref=f857e78]
+            - generic:
+              - separator [ref=f857e79]
+              - generic [ref=f857e80]: "58"
+              - list:
+                - listitem:
+                  - link "" [ref=f857e82] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f857e83] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f857e84] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f857e85] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51611920/watch-live-gov-spencer-cox-holds-monthly-news-conference?print=1
+              - generic [ref=f857e86] [cursor=pointer]:
+                - generic [ref=f857e87]: 
+                - generic [ref=f857e88]: Save Story
+              - separator [ref=f857e89]
+            - button "Leer en español" [ref=f857e90] [cursor=pointer]
+            - article [ref=f857e91]:
+              - paragraph [ref=f857e92]: "Estimated read time: 3-4 minutes"
+              - generic [ref=f857e93]:
+                - generic [ref=f857e94]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f857e96] [cursor=pointer]
+                - list [ref=f857e98]:
+                  - listitem [ref=f857e99]: Gov. Spencer Cox ordered reviews of license plate cameras amid privacy concerns.
+                  - listitem [ref=f857e100]: Cox supports legislation if gaps exist in Utah's camera usage regulations.
+                  - listitem [ref=f857e101]: Cox's approval rating dropped to 41% as he addressed multiple state issues.
+              - generic [ref=f857e102]:
+                - paragraph [ref=f857e103]: SALT LAKE CITY — Amid heightened scrutiny on cameras that automatically track license plates, Utah Gov. Spencer Cox has ordered two state entities to conduct a review and ensure that those cameras are not being misused.
+                - paragraph [ref=f857e104]: During his monthly news conference on Thursday, Cox said he was "deeply troubled" by concerns raised by Utah Civic Compact about the frequency with which 10 such cameras owned by Weber County were accessed over several years.
+                - paragraph [ref=f857e105]:
+                  - iframe [ref=f857e107]:
+                    - generic [ref=f861e1]:
+                      - generic "YouTube Video Player" [ref=f861e3]
+                      - generic [ref=f861e5]:
+                        - generic:
+                          - generic:
+                            - generic [ref=f861e6] [cursor=pointer]
+                            - button "Play video" [ref=f861e10] [cursor=pointer]
+                            - button "Hide player controls" [ref=f861e12] [cursor=pointer]
+                            - generic [ref=f861e14]:
+                              - generic [ref=f861e19]:
+                                - generic [ref=f861e20]:
+                                  - link "Governor's Monthly News Conference [August 20, 2026]" [ref=f861e21] [cursor=pointer]:
+                                    - /url: https://www.youtube.com/watch?v=39Tm5Zqb7rM
+                                  - link "PBS Utah" [ref=f861e22] [cursor=pointer]:
+                                    - /url: /channel/UCfxmAPP9r2I_FjFONgX6mug
+                                - generic [ref=f861e24]:
+                                  - button [ref=f861e25] [cursor=pointer]
+                                  - generic [ref=f861e27]:
+                                    - generic: PBS Utah
+                                    - generic: 16.6K subscribers
+                              - generic [ref=f861e28]:
+                                - button "Share" [ref=f861e31] [cursor=pointer]
+                                - link "Watch on YouTube" [ref=f861e42] [cursor=pointer]:
+                                  - /url: https://www.youtube.com/watch?v=39Tm5Zqb7rM
+                                  - generic [ref=f861e43]: Watch on
+                - paragraph [ref=f857e108]: The group released public information from the Weber County Sheriff's Office that showed that since early 2022, those cameras were searched more than 5 million times, mostly by out-of-state law enforcement agencies.
+                - paragraph [ref=f857e109]: Often called Flock cameras, hundreds of them line the Wasatch Front and other parts of the state. Police tout them as effective in finding suspect vehicles and investigating crimes. But opponents say they lead to government surveillance and an invasion of privacy. Many of the automatic license plate reader cameras are owned by a company called Flock Safety.
+                - paragraph [ref=f857e113]: In response to concerns, Cox said he has ordered the Utah Privacy Governing Board and the Utah Privacy Commission to take a closer look.
+                - paragraph [ref=f857e114]: "\"I've asked them to do a review of all of our rules and regulations around these cameras,\" the governor said, \"especially how they're being used with local agencies to make sure that they are not being abused.\""
+                - paragraph [ref=f857e115]: Cox added that he wants the public to understand how and when those cameras are used and, if abuse takes place, that people are held accountable.
+                - paragraph [ref=f857e116]: "\"We're not going to allow that here,\" he said."
+                - paragraph
+                - heading "New legislation needed?" [level=2] [ref=f857e117]
+                - paragraph
+                - paragraph [ref=f857e118]:
+                  - text: Last week, in releasing the public information about
+                  - link "the Weber County cameras" [ref=f857e119] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51609507/group-cites-striking-weber-county-data-on-flock-cameras-as-reason-for-lawmakers-to-act
+                  - text: ", Utah Civic Compact leaders urged state lawmakers to tighten Utah code to ensure that out-of-state agencies follow the rules Utah has set for accessing and using data from those cameras."
+                - paragraph [ref=f857e120]: Cox insisted Utah law already has guardrails in place around the use of those cameras, but he questioned whether it was being followed.
+                - paragraph [ref=f857e121]: "\"If there are some gaps, then yes, I would absolutely support legislation,\" Cox said, \"but I think the legislation we have in place should allow us to protect people's privacy and make sure they're not being abused.\""
+                - paragraph [ref=f857e122]: Utah lawmakers considered a bill in 2025 that would have further regulated automatic license plate readers, but it failed to pass before the session ended. Another related bill in 2026 did not receive a hearing.
+                - paragraph
+                - heading "Other topics" [level=2] [ref=f857e123]
+                - paragraph
+                - paragraph [ref=f857e124]: It was Cox's first PBS Utah news conference this summer and the first since several Republican incumbents in the state lost their seats amid a growing anti-incumbency movement in the June primary elections.
+                - paragraph [ref=f857e125]: Cox was also recently underwater with voters in an approval poll by Deseret News and the Hinckley Institute of Politics this week. That poll, which shows his approval rating at 41% compared to 51% in January, marks the first time the governor has had a negative approval rating, but continues a recent downward trend.
+                - paragraph [ref=f857e126]:
+                  - text: During the news conference, the governor touched on several other topics, including regulating data centers in Utah, the state's
+                  - link "ongoing drought and water supply" [ref=f857e127] [cursor=pointer]:
+                    - /url: www.ksl.com/article/51614315
+                  - text: issues, how leaders are working to prevent large wildfires, and gas and housing prices.
+                - paragraph [ref=f857e131]:
+                  - text: Cox also revealed he
+                  - link "became a grandfather" [ref=f857e132] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51614352/utah-gov-spencer-cox-becomes-grandfather-for-first-time?bust=1
+                  - text: this week for the first time.
+                - paragraph [ref=f857e133]:
+                  - text: You can watch the governor's full news conference on the
+                  - link "KSL YouTube page" [ref=f857e134] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=NSqsWHWAnF0
+                  - text: .
+              - generic [ref=f857e136]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Most recent Utah stories" [level=3] [ref=f857e137]
+              - generic [ref=f857e138]:
+                - list [ref=f857e139]:
+                  - listitem [ref=f857e140]:
+                    - heading [level=4] [ref=f857e141]:
+                      - link "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f857e142] [cursor=pointer]:
+                        - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                - list [ref=f857e143]:
+                  - listitem [ref=f857e144]:
+                    - heading [level=4] [ref=f857e145]:
+                      - link "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore" [ref=f857e146] [cursor=pointer]:
+                        - /url: /article/51614351/california-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                - list [ref=f857e147]:
+                  - listitem [ref=f857e148]:
+                    - heading [level=4] [ref=f857e149]:
+                      - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=f857e150] [cursor=pointer]:
+                        - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+              - generic [ref=f857e151]:
+                - heading "Related topics" [level=3] [ref=f857e152]
+                - generic [ref=f857e153]:
+                  - link "Utah" [ref=f857e155] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Politics" [ref=f857e157] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/politics
+              - generic [ref=f857e158]:
+                - generic [ref=f857e159]:
+                  - generic [ref=f857e160]:
+                    - img "Daniel Woodruff, KSL" [ref=f857e161]
+                    - text: Daniel Woodruff
+                  - list [ref=f857e163]:
+                    - listitem [ref=f857e164]:
+                      - link "" [ref=f857e165] [cursor=pointer]:
+                        - /url: https://www.facebook.com/DanielMWoodruff
+                    - listitem [ref=f857e166]:
+                      - link "" [ref=f857e167] [cursor=pointer]:
+                        - /url: //www.twitter.com/https://x.com/danielmwoodruff
+                    - listitem [ref=f857e168]:
+                      - link "" [ref=f857e169] [cursor=pointer]:
+                        - /url: https://www.instagram.com/https://www.instagram.com/danielmwoodruff/
+                    - listitem [ref=f857e170]:
+                      - link "" [ref=f857e171] [cursor=pointer]:
+                        - /url: mailto:dwoodruff@ksl.com
+                - generic [ref=f857e172]: Daniel Woodruff reports for KSL 5 News at 4 p.m., 5 p.m. and 6 p.m. and fill-in anchors at KSL.
+                - generic [ref=f857e173]:
+                  - generic [ref=f857e174]:
+                    - img "Bridger Beal-Cvetko, KSL" [ref=f857e175]
+                    - text: Bridger Beal-Cvetko
+                  - list [ref=f857e177]:
+                    - listitem [ref=f857e178]:
+                      - link "" [ref=f857e179] [cursor=pointer]:
+                        - /url: //www.twitter.com/https://twitter.com/BealBridger
+                    - listitem [ref=f857e180]:
+                      - link "" [ref=f857e181] [cursor=pointer]:
+                        - /url: mailto:bbealcvetko@ksl.com
+                - generic [ref=f857e182]: Bridger Beal-Cvetko is a reporter for KSL. He covers politics, Salt Lake County communities and breaking news. Bridger has worked for the Deseret News and graduated from Utah Valley University.
+              - button "Comments header with 0 pending and 58 total comments" [ref=f857e185] [cursor=pointer]:
+                - generic [ref=f857e186]:
+                  - generic [ref=f857e187]: "58"
+                  - generic [ref=f857e189]: Comments
+                - img "Expand comments" [ref=f857e190]
+              - generic [ref=f857e196]:
+                - generic [ref=f857e197]:
+                  - generic [ref=f857e198]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f857e200] [cursor=pointer]
+                - generic [ref=f857e205]:
+                  - status "Loading" [ref=f857e209] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f857e211] [cursor=pointer]:
+                      - button "Read more" [ref=f857e212]: READ MORE
+                      - generic [ref=f857e213]:
+                        - button "Play" [disabled] [ref=f857e214]
+                        - button "Unmute" [ref=f857e218]
+                        - button "Enter Fullscreen" [ref=f857e221]
+                    - generic [ref=f857e224]:
+                      - slider "Progress Bar" [ref=f857e226] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f857e227]
+                      - button "Unmute" [ref=f857e232] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f857e236] [cursor=pointer]: "25"
+                      - button "-00:30" [ref=f857e238] [cursor=pointer]
+                      - button "Quality Selector" [ref=f857e239] [cursor=pointer]
+                      - button "Subtitles" [ref=f857e242] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f857e245] [cursor=pointer]
+              - generic [ref=f857e249]:
+                - heading "More stories you may be interested in" [level=2] [ref=f857e250]
+                - list:
+                  - listitem [ref=f857e251]:
+                    - link [ref=f857e252] [cursor=pointer]:
+                      - /url: /article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses
+                      - img "Proposed Sugar House business district receives pushback from businesses" [ref=f857e253]
+                    - heading [level=6] [ref=f857e254]:
+                      - link "Proposed Sugar House business district receives pushback from businesses" [ref=f857e255] [cursor=pointer]:
+                        - /url: /article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses
+                  - listitem [ref=f857e256]:
+                    - link [ref=f857e257] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                      - img "Twin brothers identified in Kearns funeral shooting" [ref=f857e258]
+                    - heading [level=6] [ref=f857e259]:
+                      - link "Twin brothers identified in Kearns funeral shooting" [ref=f857e260] [cursor=pointer]:
+                        - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - listitem [ref=f857e261]:
+                    - link [ref=f857e262] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                      - 'img "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f857e263]'
+                    - heading [level=6] [ref=f857e264]:
+                      - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f857e265] [cursor=pointer]':
+                        - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+          - generic [ref=f857e266]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f857e270]
+              - list [ref=f857e271]:
+                - listitem [ref=f857e272]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f857e273] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f857e274]:
+                    - generic [ref=f857e275]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f857e276] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f857e277]:
+                        - generic [ref=f857e279]: "78"
+                - listitem [ref=f857e280]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f857e281] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f857e282]:
+                    - generic [ref=f857e283]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f857e284] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f857e285]:
+                        - generic [ref=f857e287]: "68"
+                - listitem [ref=f857e288]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f857e289] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f857e290]:
+                    - generic [ref=f857e291]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f857e292] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f857e293]:
+                        - generic [ref=f857e295]: "14"
+                - listitem [ref=f857e296]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f857e297] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f857e298]:
+                    - generic [ref=f857e299]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f857e300] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f857e301]:
+                        - generic [ref=f857e303]: "75"
+                - listitem [ref=f857e304]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f857e305] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f857e306]:
+                    - generic [ref=f857e307]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f857e308] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f857e309]:
+                        - generic [ref=f857e311]: "14"
+                - listitem [ref=f857e312]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f857e313] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f857e314]:
+                    - generic [ref=f857e315]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f857e316] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f857e317]:
+                        - generic [ref=f857e319]: "44"
+                - listitem [ref=f857e320]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f857e321] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f857e322]:
+                    - generic [ref=f857e323]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f857e324] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f857e325]:
+                        - generic [ref=f857e327]: "46"
+                - listitem [ref=f857e328]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f857e329] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f857e330]:
+                    - generic [ref=f857e331]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f857e332] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f857e333]:
+                        - generic [ref=f857e335]: "56"
+                - listitem [ref=f857e336]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f857e337] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f857e338]:
+                    - generic [ref=f857e339]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f857e340] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f857e341]:
+                        - generic [ref=f857e343]: "14"
+                - listitem [ref=f857e344]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f857e345] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f857e346]:
+                    - generic [ref=f857e347]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f857e348] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f857e349]:
+                        - generic [ref=f857e351]: "38"
+            - generic [ref=f857e353]:
+              - generic [ref=f857e354]:
+                - heading "STAY IN THE KNOW" [level=3] [ref=f857e356]
+                - generic [ref=f857e357]:
+                  - text: Get informative articles and interesting stories delivered to your inbox weekly.
+                  - strong [ref=f857e358]: Subscribe to the KSL.com Trending 5.
+                - generic [ref=f857e359]:
+                  - textbox "Enter your email" [ref=f857e360]
+                  - button "Sign Me Up" [ref=f857e361] [cursor=pointer]
+                - generic [ref=f857e362]:
+                  - text: By subscribing, you acknowledge and agree to KSL.com's
+                  - link "Terms of Use" [ref=f857e363] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+                  - text: and
+                  - link "Privacy Notice" [ref=f857e364] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+                  - text: .
+              - img "Newsletter Signup" [ref=f857e366]
+            - generic [ref=f857e370]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f857e371]
+              - generic [ref=f857e372] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f857e373]
+                - img "Play button" [ref=f857e376]
+      - generic [ref=f857e380]:
+        - generic [ref=f857e381]:
+          - generic [ref=f857e382]:
+            - link [ref=f857e383] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f857e385]
+            - list [ref=f857e386]:
+              - listitem [ref=f857e387]:
+                - link "" [ref=f857e388] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f857e389]:
+                - link "" [ref=f857e390] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f857e391]:
+                - link "" [ref=f857e392] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f857e393]:
+                - link "" [ref=f857e394] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f857e395]:
+                - link "" [ref=f857e396] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f857e397]:
+                - link "" [ref=f857e398] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f857e399]:
+                - link "" [ref=f857e400] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f857e401]:
+            - link "Mobile Apps" [ref=f857e402] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f857e403] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f857e404] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f857e405] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f857e406] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f857e407]:
+          - link "Terms of use" [ref=f857e408] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f857e409] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f857e410] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f857e411] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f857e412] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f857e413] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f857e414] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f857e415] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f857e416] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f857e417] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f857e418] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f857e419]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f857e421]:
+    - generic [ref=f857e423]:
+      - generic [ref=f857e425]:
+        - heading "Cookie Notice" [level=2] [ref=f857e426]
+        - generic [ref=f857e427]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f857e428] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f857e429] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f857e430] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f857e432]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f857e433] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f857e434] [cursor=pointer]
+    - button "OK" [ref=f857e436] [cursor=pointer]
+  - iframe [ref=f857e437]:
+    

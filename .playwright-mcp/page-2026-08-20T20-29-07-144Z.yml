@@ -1,0 +1,568 @@
+- generic [ref=f1067e1]:
+  - iframe [ref=f1067e3]:
+    
+  - generic [ref=f1067e4]:
+    - generic [ref=f1067e9]:
+      - link "Skip to content" [ref=f1067e10] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f1067e12]:
+        - link "KSL home" [ref=f1067e13] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f1067e14]
+        - navigation "Primary" [ref=f1067e15]:
+          - link "News" [ref=f1067e16] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f1067e18] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f1067e20] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f1067e23] [cursor=pointer]
+        - generic [ref=f1067e25]:
+          - generic [ref=f1067e26]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f1067e27] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f1067e29] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f1067e31] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f1067e32]: 99°
+          - button "Search" [ref=f1067e33] [cursor=pointer]
+          - link "Log in" [ref=f1067e35] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614352%2Futah-gov-spencer-cox-becomes-grandfather-for-first-time
+    - generic [ref=f1067e36]:
+      - generic [ref=f1067e37]:
+        - navigation [ref=f1067e38]:
+          - combobox [ref=f1067e40] [cursor=pointer]:
+            - option "Utah"
+            - option "Features" [selected]
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f1067e42]:
+            - listitem [ref=f1067e43]:
+              - link "Home" [ref=f1067e44] [cursor=pointer]:
+                - /url: /news/features
+            - listitem [ref=f1067e45]:
+              - link "Have You Seen This?" [ref=f1067e46] [cursor=pointer]:
+                - /url: /news/features/hyst
+            - listitem [ref=f1067e47]:
+              - link "Entertainment" [ref=f1067e48] [cursor=pointer]:
+                - /url: /news/entertainment
+            - listitem [ref=f1067e49]:
+              - link "Outdoors" [ref=f1067e50] [cursor=pointer]:
+                - /url: /news/outdoors
+            - listitem [ref=f1067e51]:
+              - link "Your Life - Your Health" [ref=f1067e52] [cursor=pointer]:
+                - /url: /news/features/your-life-your-health
+            - listitem [ref=f1067e53]:
+              - link "Uplifting" [ref=f1067e54] [cursor=pointer]:
+                - /url: /news/features/uplifting
+            - listitem [ref=f1067e55]:
+              - link [ref=f1067e56] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f1067e57]
+        - generic [ref=f1067e58]:
+          - generic [ref=f1067e62]:
+            - iframe [ref=f1067e64]:
+              - generic [ref=f1094e3]:
+                - link [ref=f1094e4] [cursor=pointer]:
+                  - /url: https://t.company-target.com/t/c?ad=CiRjOWU4OWExYS05Y2Q1LTExZjEtYTVlZi1kY2RkZDMxNWRhMTgQuYc9GKedQiCZ9wEouIx0MJ21nxM6JDg1NjFjMjAyLThmNjgtNGY0Mi05MDIyLTQwZGYxZDU0YTk1ZEICaXhI9ANQFGIobm9faW50ZW50LGRlbWFuZGJhc2UuY29tL3ZhcmlhbnQ6ZGlzYWJsZWoLd3d3LmtzbC5jb21yA1VTQXoFVVMtVVSCAQ4yMTYuNDkuMTgxLjI1MpAB2ASgARSwATLIAQHQAbxpgAKM63yKAgUzMTY0MZICCHVzLXdlc3Qy.o5mEPQ&dst=https%3A%2F%2Fwww.pluralsight.com%2Fresource-center%2Freports%2Fhow-to-achieve-ai-roi%3Futm_source%3Ddemandbase%26utm_medium%3Ddisplay%26utm_campaign%3Dai%26utm_term%3Db2b-global-aia%26utm_content%3Dai-roi
+                  - iframe [ref=f1094e6]:
+                    - link [ref=f1098e2] [cursor=pointer]:
+                      - /url: https://www.pluralsight.com/solutions/ai-academy
+                - link [ref=f1094e8] [cursor=pointer]:
+                  - /url: https://www.demandbase.com/privacy
+                  - img "AdChoices" [ref=f1094e9]
+            - generic [ref=f1067e65]:
+              - generic:
+                - generic:
+                  - link "Advertise with us" [ref=f1067e66] [cursor=pointer]:
+                    - /url: https://www.deseretdigital.com/advertising
+                  - button "Report ad" [ref=f1067e68] [cursor=pointer]
+          - generic [ref=f1067e69]:
+            - heading "Utah Gov. Spencer Cox becomes a grandfather" [level=1] [ref=f1067e70]
+            - heading "By Daniel Woodruff, KSL | Posted - Aug. 20, 2026 at 12:03 p.m." [level=4] [ref=f1067e73]
+          - generic [ref=f1067e75]:
+            - generic [ref=f1067e76]:
+              - img "Utah Gov. Spencer Cox holds his new grandson, Finneas Spencer Cox, in a photo posted on social media." [ref=f1067e80]
+              - heading "Utah Gov. Spencer Cox holds his new grandson, Finneas Spencer Cox, in a photo posted on social media. (Utah Gov. Spencer Cox via X)" [level=4] [ref=f1067e82]
+            - generic:
+              - separator [ref=f1067e83]
+              - generic [ref=f1067e84]: "41"
+              - list:
+                - listitem:
+                  - link "" [ref=f1067e86] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1067e87] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1067e88] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1067e89] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51614352/utah-gov-spencer-cox-becomes-grandfather-for-first-time?bust=1?print=1
+              - generic [ref=f1067e90] [cursor=pointer]:
+                - generic [ref=f1067e91]: 
+                - generic [ref=f1067e92]: Save Story
+              - separator [ref=f1067e93]
+            - generic [ref=f1067e95]:
+              - button "Leer en español" [ref=f1067e96] [cursor=pointer]
+              - generic [ref=f1067e97]:
+                - 'button "Listen: 1 Minute" [ref=f1067e99] [cursor=pointer]':
+                  - generic [ref=f1067e102]: "Listen:"
+                  - generic [ref=f1067e103]: 1 Minute
+                - generic [ref=f1067e538]:
+                  - button "Play" [ref=f1067e539] [cursor=pointer]
+                  - button "Volume" [ref=f1067e543] [cursor=pointer]
+                  - slider [ref=f1067e549]
+                  - generic [ref=f1067e550]: 01:23
+            - article [ref=f1067e552]:
+              - generic [ref=f1067e553]:
+                - paragraph [ref=f1067e554]: SALT LAKE CITY — Utah's governor is now a grandfather.
+                - paragraph [ref=f1067e555]: Gov. Spencer Cox's first grandchild, Finneas Spencer Cox, was born on Wednesday, the governor confirmed during his monthly news conference.
+                - paragraph [ref=f1067e556]: Cox, 51, who is the father of four children, became emotional as he talked about becoming a grandparent for the first time.
+                - paragraph [ref=f1067e557]:
+                  - text: "\"It was one of the best days of my life,\" he said Thursday, in between answering questions about a variety of topics including"
+                  - link "data centers" [ref=f1067e558] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51611776/utah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says
+                  - text: ", a now-scuttled large"
+                  - link "ICE detention facility" [ref=f1067e559] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51611923/feds-officially-acknowledge-utah-immigrant-detention-center-plans-have-been-abandoned
+                  - text: ", and ongoing"
+                  - link "drought" [ref=f1067e560] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51601041/rain-offers-relief-but-little-help-for-reservoirs-during-drought
+                  - text: .
+                - paragraph [ref=f1067e561]: The governor acknowledged his mind during the news conference was "totally somewhere else," thinking about his new grandson, and he paused and became teary-eyed as he discussed the child's birth.
+                - paragraph [ref=f1067e562]: "\"He had a little hard time breathing when he came out,\" Cox said, \"so those are scary moments, but he's doing great.\""
+                - paragraph [ref=f1067e563]:
+                  - text: Cox
+                  - link "posted" [ref=f1067e564] [cursor=pointer]:
+                    - /url: https://x.com/SpencerJCox/status/2090272433655906375?s=20
+                  - text: a photo of himself with his grandson on social media Thursday morning, calling it the "purest joy."
+                - generic [ref=f1067e567]:
+                  - iframe [ref=f1067e569]:
+                    - iframe [ref=f1095e11]:
+                      
+                  - generic [ref=f1067e570]:
+                    - generic:
+                      - generic:
+                        - link "Advertise with us" [ref=f1067e571] [cursor=pointer]:
+                          - /url: https://www.deseretdigital.com/advertising
+                        - button "Report ad" [ref=f1067e573] [cursor=pointer]
+                - paragraph [ref=f1067e574]:
+                  - text: Before moving on to other topics, the governor also addressed Utah's
+                  - link "declining fertility rates" [ref=f1067e575] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/news/features/family/utah-still-tops-the-nation-in-number-of-children-but-its-lead-is-shrinking/51292703
+                  - text: .
+                - paragraph [ref=f1067e576]: "\"I hope everybody gets a chance to be a grandparent someday. I really do,\" he said. \"I worry, with the demographic changes in our country, people are getting married later, they're having kids later, or not having kids at all or not getting married at all.\""
+                - paragraph [ref=f1067e577]: The governor added, "There's nothing more important than family. It's the most important institution, I think, in our country."
+                - paragraph
+                - iframe [ref=f1067e578]:
+                  - generic [ref=f1073e5]:
+                    - generic [ref=f1073e6]:
+                      - generic [ref=f1073e7]:
+                        - link [ref=f1073e8] [cursor=pointer]:
+                          - /url: https://www.instagram.com/ksl_newsradio/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                          - img "ksl_newsradio" [ref=f1073e9]
+                        - link [ref=f1073e10] [cursor=pointer]:
+                          - /url: https://www.instagram.com/kslnews/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                          - img "kslnews" [ref=f1073e11]
+                      - generic [ref=f1073e12]:
+                        - generic [ref=f1073e13]:
+                          - link "kslnews" [ref=f1073e14] [cursor=pointer]:
+                            - /url: https://www.instagram.com/kslnews/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                          - generic [ref=f1073e16]: and
+                          - link "ksl_newsradio" [ref=f1073e17] [cursor=pointer]:
+                            - /url: https://www.instagram.com/ksl_newsradio/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                        - generic [ref=f1073e19]: Original audio
+                      - link "View profile" [ref=f1073e21] [cursor=pointer]:
+                        - /url: https://www.instagram.com/kslnews/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                    - generic [ref=f1073e22]:
+                      - link "Instagram post shared by @kslnews" [ref=f1073e23] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                        - img "Instagram post shared by @kslnews"
+                      - generic [ref=f1073e25]:
+                        - button "Play" [ref=f1073e29]
+                        - button "Control" [ref=f1073e30] [cursor=pointer]
+                    - generic [ref=f1073e31]:
+                      - link "kslnews kslnews Verified 11,959 posts · 195K followers" [ref=f1073e32] [cursor=pointer]:
+                        - /url: https://www.instagram.com/kslnews/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                        - generic [ref=f1073e33]:
+                          - img "kslnews" [ref=f1073e34]
+                          - generic [ref=f1073e35]:
+                            - generic [ref=f1073e36]:
+                              - generic [ref=f1073e37]: kslnews
+                              - generic [ref=f1073e38]: Verified
+                            - generic [ref=f1073e40]: 11,959 posts · 195K followers
+                      - link "View more on Instagram" [ref=f1073e46] [cursor=pointer]:
+                        - /url: https://www.instagram.com/kslnews/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                    - generic [ref=f1073e47]:
+                      - link "Like" [ref=f1073e48] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                      - link "Comment" [ref=f1073e50] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                      - link "Share" [ref=f1073e53] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                      - link "Save" [ref=f1073e56] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                    - link "63 likes" [ref=f1073e60] [cursor=pointer]:
+                      - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                    - generic [ref=f1073e61]:
+                      - link "kslnews" [ref=f1073e62] [cursor=pointer]:
+                        - /url: https://www.instagram.com/kslnews/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                      - text: "Utah's governor is now a grandfather. Gov. Spencer Cox's first grandchild, Finneas Spencer Cox, was born on Wednesday, the governor confirmed during his monthly news conference. Cox, 51, who is the father of four children, became emotional as he talked about becoming a grandparent for the first time. 📷: Utah Gov. Spencer Cox via X"
+                      - link "View all 48 comments" [ref=f1073e64] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                    - generic [ref=f1073e65]:
+                      - link "Add a comment..." [ref=f1073e66] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                      - link "Instagram" [ref=f1073e67] [cursor=pointer]:
+                        - /url: https://www.instagram.com/reel/DcRfuS4gV_L/?utm_source=ig_embed&ig_rid=A4VSdt5xWTZOffSu5iVmMh1
+                - paragraph
+              - heading "Most recent Family stories" [level=3] [ref=f1067e580]
+              - generic [ref=f1067e581]:
+                - list [ref=f1067e582]:
+                  - listitem [ref=f1067e583]:
+                    - heading [level=4] [ref=f1067e584]:
+                      - link "Running is really getting their kids somewhere" [ref=f1067e585] [cursor=pointer]:
+                        - /url: /article/51611860/running-is-really-getting-their-kids-somewhere
+                - list [ref=f1067e586]:
+                  - listitem [ref=f1067e587]:
+                    - heading [level=4] [ref=f1067e588]:
+                      - link "Utah parents urged to talk to kids about fentanyl as school year begins" [ref=f1067e589] [cursor=pointer]:
+                        - /url: /article/51611476/utah-parents-urged-to-talk-to-kids-about-fentanyl-as-school-year-begins
+                - list [ref=f1067e590]:
+                  - listitem [ref=f1067e591]:
+                    - heading [level=4] [ref=f1067e592]:
+                      - link "A few tips on how moms and dads can help kids manage back-to-school jitters" [ref=f1067e593] [cursor=pointer]:
+                        - /url: /article/news/utah/education/a-few-tips-on-how-moms-and-dads-can-help-kids-manage-back-to-school-jitters/51611035
+              - generic [ref=f1067e594]:
+                - heading "Related topics" [level=3] [ref=f1067e595]
+                - generic [ref=f1067e596]:
+                  - link "Family" [ref=f1067e598] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/features/family
+                  - link "Politics" [ref=f1067e600] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/politics
+                  - link "Utah" [ref=f1067e602] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+              - generic [ref=f1067e603]:
+                - generic [ref=f1067e604]:
+                  - generic [ref=f1067e605]:
+                    - img "Daniel Woodruff, KSL" [ref=f1067e606]
+                    - text: Daniel Woodruff
+                  - list [ref=f1067e608]:
+                    - listitem [ref=f1067e609]:
+                      - link "" [ref=f1067e610] [cursor=pointer]:
+                        - /url: https://www.facebook.com/DanielMWoodruff
+                    - listitem [ref=f1067e611]:
+                      - link "" [ref=f1067e612] [cursor=pointer]:
+                        - /url: //www.twitter.com/https://x.com/danielmwoodruff
+                    - listitem [ref=f1067e613]:
+                      - link "" [ref=f1067e614] [cursor=pointer]:
+                        - /url: https://www.instagram.com/https://www.instagram.com/danielmwoodruff/
+                    - listitem [ref=f1067e615]:
+                      - link "" [ref=f1067e616] [cursor=pointer]:
+                        - /url: mailto:dwoodruff@ksl.com
+                - generic [ref=f1067e617]: Daniel Woodruff reports for KSL 5 News at 4 p.m., 5 p.m. and 6 p.m. and fill-in anchors at KSL.
+              - button "Comments header with 0 pending and 41 total comments" [ref=f1067e620] [cursor=pointer]:
+                - generic [ref=f1067e621]:
+                  - generic [ref=f1067e622]: "41"
+                  - generic [ref=f1067e624]: Comments
+                - img "Expand comments" [ref=f1067e625]
+              - generic [ref=f1067e631]:
+                - generic [ref=f1067e632]:
+                  - generic [ref=f1067e633]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f1067e635] [cursor=pointer]
+                - generic [ref=f1067e640]:
+                  - status "Loading" [ref=f1067e644] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f1067e646] [cursor=pointer]:
+                      - button "Read more" [ref=f1067e647]: READ MORE
+                      - generic [ref=f1067e648]:
+                        - button "Play" [disabled] [ref=f1067e649]
+                        - button "Unmute" [ref=f1067e653]
+                        - button "Enter Fullscreen" [ref=f1067e656]
+                    - generic [ref=f1067e659]:
+                      - slider "Progress Bar" [ref=f1067e661] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f1067e662]
+                      - button "Unmute" [ref=f1067e667] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f1067e671] [cursor=pointer]: "25"
+                      - button "-00:00" [ref=f1067e673] [cursor=pointer]
+                      - button "Quality Selector" [ref=f1067e674] [cursor=pointer]
+                      - button "Subtitles" [ref=f1067e677] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f1067e680] [cursor=pointer]
+              - generic [ref=f1067e684]:
+                - heading "More stories you may be interested in" [level=2] [ref=f1067e685]
+                - list:
+                  - listitem [ref=f1067e686]:
+                    - link [ref=f1067e687] [cursor=pointer]:
+                      - /url: /article/51609702/are-mortgage-rates-heading-down
+                      - img "Are mortgage rates heading down?" [ref=f1067e688]
+                    - heading [level=6] [ref=f1067e689]:
+                      - link "Are mortgage rates heading down?" [ref=f1067e690] [cursor=pointer]:
+                        - /url: /article/51609702/are-mortgage-rates-heading-down
+                  - listitem [ref=f1067e691]:
+                    - link [ref=f1067e692] [cursor=pointer]:
+                      - /url: /article/news/utah/a-century-old-family-mystery--and-2-shipwrecks--inspired-this-utah-authors-debut-novel/51610118
+                      - img "A century-old family mystery — and 2 shipwrecks — inspired this Utah author's debut novel" [ref=f1067e693]
+                    - heading [level=6] [ref=f1067e694]:
+                      - link "A century-old family mystery — and 2 shipwrecks — inspired this Utah author's debut novel" [ref=f1067e695] [cursor=pointer]:
+                        - /url: /article/news/utah/a-century-old-family-mystery--and-2-shipwrecks--inspired-this-utah-authors-debut-novel/51610118
+                  - listitem [ref=f1067e696]:
+                    - link [ref=f1067e697] [cursor=pointer]:
+                      - /url: /article/51609557/kids-keep-getting-hurt-and-killed-on-e-bikes-should-parents-be-held-responsible
+                      - img "Kids keep getting hurt and killed on e-bikes. Should parents be held responsible?" [ref=f1067e698]
+                    - heading [level=6] [ref=f1067e699]:
+                      - link "Kids keep getting hurt and killed on e-bikes. Should parents be held responsible?" [ref=f1067e700] [cursor=pointer]:
+                        - /url: /article/51609557/kids-keep-getting-hurt-and-killed-on-e-bikes-should-parents-be-held-responsible
+          - generic [ref=f1067e701]:
+            - generic [ref=f1067e704]:
+              - iframe [ref=f1067e706]:
+                - generic [ref=f1096e1]:
+                  - link [ref=f1096e2] [cursor=pointer]:
+                    - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsty-yvOB3cyZmrHcstuA9nLevnQvjE7SvR9OJNw1F_Ik5lnPDoG_-dRsipC2AcX_2Nkl7h-XNYPQzc7-CwgTCTYGG9X2rGUNg_c8hdIRgPrXJbHX9tgRBBZVzVnqIpRY03bqxl1waSLJhKKTsrvCJfA98ghXhi6E7IvBzXfA1EFZOdrFA8EWKQUDvOWVsUWz_EVNs2JYHxwNWarCcykrE6ENAbNTS8ScDWI5JVW2Ep1QHFkkYHfrOjauoBba7A1LfHa-82HkvgkK8d_m_RgjVqpjqwKnvgmEX9ysbWMiZvmhywLJXU2r3j1Q1ZxGf14a9GIF_NWKvzuk-dUQKDT5E1bCbCZ3oqZwCqmlB6uKPCb1yzKDi9clr7X0fmhWwS4wmgwtoUg7JBJ0FiDFekCrA_AzwhoET87bPhsrgJ2HFfmHkQ95v6jMtzRsQ&sai=AMfl-YTYbM9MEo4uGtCpRXK13NQKoQAdfNSx_Z4ecDRHJm3F3tx8ttUhqnM6p6Rd3b5ReBpBy0d3Z_PuShuP92Nba4B4wGk91KUrMERXuJHC5mGCfsHh33ZTe45rXlysauBpVkbuaE6SmqenAggYkWZH8qye8YptrGeLNVudnVkvICUtbTtMfHzQG1HzYPDVCn0CyFWcWOyp2ZLi1Kw3eME_Staicgz-n18U9FVwlssrL3nwL25MngBf0uwkyXBWtIN0_OLeEovrGmOox_xxRuf5znTJU9xUmU09ySOpkHflBeiyq9qIj-tDq0nO0BmbYqxcFYaOqGd9YjeKBAdP_gSobRSKGtLLaJKZWYVQvrzzNxrP4mIqFGDb2w0&sig=Cg0ArKJSzB-Ht7hTFEeZ&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://brotherjosephagain.com/%3Futm_source%3Dksl%26utm_medium%3Ddisplay
+                  - generic [ref=f1096e3] [cursor=pointer]
+                  - button [ref=f1096e10] [cursor=pointer]
+              - generic [ref=f1067e707]:
+                - generic:
+                  - generic:
+                    - link "Advertise with us" [ref=f1067e708] [cursor=pointer]:
+                      - /url: https://www.deseretdigital.com/advertising
+                    - button "Report ad" [ref=f1067e710] [cursor=pointer]
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f1067e711]
+              - list [ref=f1067e712]:
+                - listitem [ref=f1067e713]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f1067e714] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f1067e715]:
+                    - generic [ref=f1067e716]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f1067e717] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f1067e718]:
+                        - generic [ref=f1067e720]: "78"
+                - listitem [ref=f1067e721]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f1067e722] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f1067e723]:
+                    - generic [ref=f1067e724]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f1067e725] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f1067e726]:
+                        - generic [ref=f1067e728]: "68"
+                - listitem [ref=f1067e729]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f1067e730] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f1067e731]:
+                    - generic [ref=f1067e732]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f1067e733] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f1067e734]:
+                        - generic [ref=f1067e736]: "14"
+                - listitem [ref=f1067e737]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f1067e738] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f1067e739]:
+                    - generic [ref=f1067e740]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f1067e741] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f1067e742]:
+                        - generic [ref=f1067e744]: "75"
+                - listitem [ref=f1067e745]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f1067e746] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f1067e747]:
+                    - generic [ref=f1067e748]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f1067e749] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f1067e750]:
+                        - generic [ref=f1067e752]: "14"
+                - listitem [ref=f1067e753]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f1067e754] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f1067e755]:
+                    - generic [ref=f1067e756]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f1067e757] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f1067e758]:
+                        - generic [ref=f1067e760]: "44"
+                - listitem [ref=f1067e761]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f1067e762] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f1067e763]:
+                    - generic [ref=f1067e764]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f1067e765] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f1067e766]:
+                        - generic [ref=f1067e768]: "46"
+                - listitem [ref=f1067e769]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f1067e770] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f1067e771]:
+                    - generic [ref=f1067e772]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f1067e773] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f1067e774]:
+                        - generic [ref=f1067e776]: "56"
+                - listitem [ref=f1067e777]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f1067e778] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f1067e779]:
+                    - generic [ref=f1067e780]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f1067e781] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f1067e782]:
+                        - generic [ref=f1067e784]: "14"
+                - listitem [ref=f1067e785]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f1067e786] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f1067e787]:
+                    - generic [ref=f1067e788]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f1067e789] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f1067e790]:
+                        - generic [ref=f1067e792]: "38"
+            - generic [ref=f1067e793]:
+              - link [ref=f1067e795] [cursor=pointer]:
+                - /url: /sports/beyond-the-game
+                - img "KSL.com Beyond Series" [ref=f1067e797]
+              - generic:
+                - link "KSL.com Beyond Business":
+                  - /url: /beyond/beyond-business
+                  - generic:
+                    - img "KSL.com Beyond Business"
+            - generic [ref=f1067e800]:
+              - iframe [ref=f1067e802]:
+                - generic [ref=f1097e1]:
+                  - iframe [ref=f1097e7]:
+                    - generic [ref=f1106e1]:
+                      - generic [ref=f1106e5] [cursor=pointer]: "*Important details"
+                      - generic [ref=f1106e13]:
+                        - text: 2026 Ford Bronco Sport
+                        - superscript [ref=f1106e14]: ®
+                      - generic [ref=f1106e15]: Your Local Ford Stores
+                      - generic [ref=f1106e20]:
+                        - generic [ref=f1106e21]:
+                          - generic [ref=f1106e22]: $
+                          - text: 2,500
+                        - generic [ref=f1106e23]: CASHBACK*
+                      - generic [ref=f1106e24] [cursor=pointer]
+                  - iframe
+                  - generic:
+                    - generic:
+                      - generic [ref=f1097e8] [cursor=pointer]
+                      - generic [ref=f1097e10] [cursor=pointer]
+              - generic [ref=f1067e803]:
+                - generic:
+                  - generic:
+                    - link "Advertise with us" [ref=f1067e804] [cursor=pointer]:
+                      - /url: https://www.deseretdigital.com/advertising
+                    - button "Report ad" [ref=f1067e806] [cursor=pointer]
+            - generic [ref=f1067e807]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f1067e808]
+              - generic [ref=f1067e809] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f1067e810]
+                - img "Play button" [ref=f1067e813]
+      - generic [ref=f1067e817]:
+        - generic [ref=f1067e818]:
+          - generic [ref=f1067e819]:
+            - link [ref=f1067e820] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f1067e822]
+            - list [ref=f1067e823]:
+              - listitem [ref=f1067e824]:
+                - link "" [ref=f1067e825] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f1067e826]:
+                - link "" [ref=f1067e827] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f1067e828]:
+                - link "" [ref=f1067e829] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f1067e830]:
+                - link "" [ref=f1067e831] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f1067e832]:
+                - link "" [ref=f1067e833] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f1067e834]:
+                - link "" [ref=f1067e835] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f1067e836]:
+                - link "" [ref=f1067e837] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f1067e838]:
+            - link "Mobile Apps" [ref=f1067e839] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f1067e840] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f1067e841] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f1067e842] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f1067e843] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f1067e844]:
+          - link "Terms of use" [ref=f1067e845] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f1067e846] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f1067e847] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f1067e848] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f1067e849] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f1067e850] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f1067e851] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f1067e852] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f1067e853] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f1067e854] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f1067e855] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f1067e856]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f1067e858]:
+    - generic [ref=f1067e860]:
+      - generic [ref=f1067e862]:
+        - heading "Cookie Notice" [level=2] [ref=f1067e863]
+        - generic [ref=f1067e864]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f1067e865] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f1067e866] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f1067e867] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f1067e869]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f1067e870] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f1067e871] [cursor=pointer]
+    - button "OK" [ref=f1067e873] [cursor=pointer]
+  - iframe [ref=f1067e874]:
+    

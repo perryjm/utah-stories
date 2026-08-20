@@ -1,0 +1,482 @@
+- generic [active] [ref=f1867e1]:
+  - generic [ref=f1867e2]:
+    - generic [ref=f1867e7]:
+      - link "Skip to content" [ref=f1867e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f1867e10]:
+        - link "KSL home" [ref=f1867e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f1867e12]
+        - navigation "Primary" [ref=f1867e13]:
+          - link "News" [ref=f1867e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f1867e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f1867e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f1867e21] [cursor=pointer]
+        - generic [ref=f1867e23]:
+          - generic [ref=f1867e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f1867e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f1867e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f1867e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f1867e30]: 99°
+          - button "Search" [ref=f1867e31] [cursor=pointer]
+          - link "Log in" [ref=f1867e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611776%2Futah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says
+    - generic [ref=f1867e34]:
+      - generic [ref=f1867e35]:
+        - navigation [ref=f1867e36]:
+          - combobox [ref=f1867e38] [cursor=pointer]:
+            - option "Utah" [selected]
+            - option "Features"
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f1867e40]:
+            - listitem [ref=f1867e41]:
+              - link "Home" [ref=f1867e42] [cursor=pointer]:
+                - /url: /news/utah
+            - listitem [ref=f1867e43]:
+              - link "Counties" [ref=f1867e44] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f1867e45]:
+              - link "Police & Courts" [ref=f1867e46] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - listitem [ref=f1867e47]:
+              - link "Business" [ref=f1867e48] [cursor=pointer]:
+                - /url: /news/business
+            - listitem [ref=f1867e49]:
+              - link "Politics" [ref=f1867e50] [cursor=pointer]:
+                - /url: /news/politics
+            - listitem [ref=f1867e51]:
+              - link "Education" [ref=f1867e52] [cursor=pointer]:
+                - /url: /news/utah/education
+            - listitem [ref=f1867e53]:
+              - link "Science" [ref=f1867e54] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - listitem [ref=f1867e55]:
+              - link "Environment" [ref=f1867e56] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - listitem [ref=f1867e57]:
+              - link [ref=f1867e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f1867e59]
+        - generic [ref=f1867e60]:
+          - generic [ref=f1867e65]:
+            - heading "Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says" [level=1] [ref=f1867e66]
+            - heading "By Bridger Beal-Cvetko, KSL | Posted - Aug. 20, 2026 at 8:07 a.m." [level=4] [ref=f1867e69]
+          - generic [ref=f1867e71]:
+            - generic [ref=f1867e72]:
+              - img "An agency leader said there are \"major gaps\" in Utah's regulation of data center development, particularly when it comes to the impacts new projects will have on local temperatures and noise." [ref=f1867e76]
+              - heading "An agency leader said there are \"major gaps\" in Utah's regulation of data center development, particularly when it comes to the impacts new projects will have on local temperatures and noise. (Laura Seitz, Deseret News)" [level=4] [ref=f1867e78]
+            - generic:
+              - separator [ref=f1867e79]
+              - generic [ref=f1867e80]: "63"
+              - list:
+                - listitem:
+                  - link "" [ref=f1867e82] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1867e83] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1867e84] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1867e85] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51611776/utah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says?print=1
+              - generic [ref=f1867e86] [cursor=pointer]:
+                - generic [ref=f1867e87]: 
+                - generic [ref=f1867e88]: Save Story
+              - separator [ref=f1867e89]
+            - generic [ref=f1867e91]:
+              - button "Leer en español" [ref=f1867e92] [cursor=pointer]
+              - generic [ref=f1867e93]:
+                - 'button "Listen: 4 Minutes" [ref=f1867e95] [cursor=pointer]':
+                  - generic [ref=f1867e98]: "Listen:"
+                  - generic [ref=f1867e99]: 4 Minutes
+                - generic [ref=f1867e534]:
+                  - button "Play" [ref=f1867e535] [cursor=pointer]
+                  - button "Volume" [ref=f1867e539] [cursor=pointer]
+                  - slider [ref=f1867e545]
+                  - generic [ref=f1867e546]: 04:01
+            - article [ref=f1867e548]:
+              - generic [ref=f1867e549]:
+                - generic [ref=f1867e550]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f1867e552] [cursor=pointer]
+                - list [ref=f1867e554]:
+                  - listitem [ref=f1867e555]: Utah lacks regulations for noise and temperature impacts from new data centers, an agency head told lawmakers.
+                  - listitem [ref=f1867e556]: Tim Davis, commissioner of environmental quality, highlighted gaps in permitting on heat and noise generated by data centers.
+                  - listitem [ref=f1867e557]: A lawmaker expressed concern about lack of clarity over who is accountable for approving new data center developments.
+              - generic [ref=f1867e558]:
+                - paragraph [ref=f1867e559]: SALT LAKE CITY — An agency leader said there are "major gaps" in Utah's regulation of data center development, particularly when it comes to the impacts new projects will have on local temperatures and noise.
+                - paragraph [ref=f1867e560]: Tim Davis, the commissioner of the Utah Department of Environmental Quality, told lawmakers Wednesday that the controversial large data center proposed in Box Elder County has yet to begin the process of getting air quality permits, and said projects that might increase pollution along the Wasatch Front will struggle to get approved.
+                - paragraph [ref=f1867e561]: "\"Along the Wasatch Front ... we're already out of compliance with the Clean Air Act, specifically for ozone,\" he told the Economic Development and Workforce Services Interim Committee Wednesday. \"It would be difficult, if not impossible, for a major new natural gas source to generate along the Wasatch Front. ... If they go off of the Wasatch Front — that's where we're really trying to steer these projects that are generating natural gas.\""
+                - paragraph [ref=f1867e565]:
+                  - text: Davis spoke at one of three separate meetings on Capitol Hill Wednesday to discuss data center development, in light of a broad uproar over the Stratos Project Area in Box Elder County, which contributed to several elected officials
+                  - link "being unseated" [ref=f1867e566] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51540078/how-a-data-center-helped-topple-one-of-utahs-most-powerful-lawmakers
+                  - text: in
+                  - link "primary elections" [ref=f1867e567] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51538423/stuart-adams-trevor-lee-dan-mccay-lose-reelection-bids-in-utah-legislature
+                  - text: earlier this summer.
+                - paragraph
+                - iframe [ref=f1867e569]:
+                  - application "Video Player - Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says" [ref=f1868e2]:
+                    - generic [ref=f1868e4]:
+                      - generic [ref=f1868e6] [cursor=pointer]
+                      - generic [ref=f1868e8]: 0 seconds of 1 minute, 49 secondsVolume 0%
+                - text: Daniella Rivera, KSL
+                - paragraph
+                - paragraph [ref=f1867e570]:
+                  - text: Jake Garfield, deputy director of the Utah Office of Energy Development, praised Utah's law passed in 2025 requiring
+                  - link "large data centers" [ref=f1867e571] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/news/business/is-a-data-center-vibe-shift-upon-us/51608185
+                  - text: to find alternative power sources besides connecting to the rest of the power grid.
+                - paragraph [ref=f1867e572]: He called the law an "American-leading piece of data center legislation as it's protecting ratepayers and ensuring that large loads pay for the cost of that, that they are not putting their costs on ratepayers."
+                - paragraph [ref=f1867e573]: Utah lawmakers also approved a bill earlier this year regulating water use for new data center developments.
+                - paragraph [ref=f1867e574]:
+                  - text: But the state doesn't currently have regulations in place governing how much noise
+                  - link "data centers" [ref=f1867e575] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51608196/new-data-centers-present-opportunities-and-challenges-to-utahs-tax-system-researcher-says
+                  - text: can produce or how much heat they can emit, according to Davis. Large data centers that rely on natural gas or other fuel sources may dramatically increase temperatures in nearby areas, according to
+                  - link "researchers" [ref=f1867e576] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/news/utah/proposed-mega-data-center-draws-concerns-over-heat-island-effect/51591529
+                  - text: .
+                - paragraph [ref=f1867e577]: Heat and noise are among the "major gaps" in the state's approach to data center permitting, Davis said, and they're issues that he plans to examine with help from state universities and other agencies.
+                - paragraph [ref=f1867e578]: "\"That is one of the other issues, in addition to heat, that I've talked about with ... universities to address,\" he said, when asked about the amount of noise data centers can generate. \"We don't have noise regulatory authority. ... Putting things that are compatible next to each other is important. I've had multi-million dollar homes sited right next to an existing landfill and you can imagine the people who live in those houses are not happy about the smells of the landfill, even though the landfill was there first.\""
+                - paragraph [ref=f1867e579]: Officials said they still don't have full clarity on the plans for the Stratos Project Area, which is backed by celebrity investor Kevin O'Leary. Davis said that project still has several hurdles to clear and said he has not met with O'Leary's team, but has extended an invitation.
+                - heading "Related:" [level=2] [ref=f1867e583]
+                - generic [ref=f1867e584]:
+                  - link:
+                    - /url: https://www.ksl.com/article/51611520/residents-voice-concerns-over-proposed-data-center-regulations-in-spanish-fork
+                  - heading [level=2] [ref=f1867e585]:
+                    - link "Residents voice concerns over self-powered data center proposal in Spanish Fork" [ref=f1867e586] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/51611520/residents-voice-concerns-over-proposed-data-center-regulations-in-spanish-fork
+                  - text: The Spanish Fork City Council debated potential data center regulations during a meeting Tuesday.
+                - paragraph [ref=f1867e587]: "\"I ask any company (that) wants to do anything ... come and talk to us early so that we can help figure out how,\" he said. \"I have invited them to come sit down with us on air quality. They've not done it. So we have not even started our process.\""
+                - paragraph [ref=f1867e588]: He also stressed that multiple agencies are involved in approving data center projects and no single agency has complete power to approve a new development.
+                - paragraph [ref=f1867e589]: But that presented its own set of concerns from Rep. Doug Fiefia, R-Herriman.
+                - paragraph [ref=f1867e590]: "\"If no single agency approves a data center, then who's accountable when something falls through the cracks?\" he asked."
+                - paragraph [ref=f1867e591]: "\"If there's a million people I have to contact, well, then I never really get to the right person that I have a question or concern to,\" he added. \"That's the concern I have from constituents is there's a lot of hands in the kitchen, and we don't know who's responsible for what.\""
+                - paragraph [ref=f1867e592]: Davis said the state is looking at ways to coordinate better.
+                - paragraph [ref=f1867e593]: "\"That's something we recognize that we can do,\" he said. \"We haven't talked about it as much in the back end, but that's something we can certainly do going forward.\""
+                - paragraph [ref=f1867e594]: Wednesday's hearings on data center policy may not lead to any immediate changes, but will likely shape future policy on development when lawmakers return for their annual general session in January.
+                - paragraph [ref=f1867e595]:
+                  - strong [ref=f1867e596]: "Contributing:"
+                  - text: Daniella Rivera
+              - generic [ref=f1867e598]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Related stories" [level=3] [ref=f1867e599]
+              - list [ref=f1867e601]:
+                - listitem [ref=f1867e602]:
+                  - heading [level=4] [ref=f1867e603]:
+                    - link "Schultz backs Box Elder referendum as Utah lawmakers vote to study data center impact" [ref=f1867e604] [cursor=pointer]:
+                      - /url: https://www.ksl.com/article/51500330/schultz-backs-box-elder-referendum-as-utah-lawmakers-vote-to-study-data-center-impact
+              - heading "Most recent Utah Legislature stories" [level=3] [ref=f1867e605]
+              - generic [ref=f1867e606]:
+                - list [ref=f1867e607]:
+                  - listitem [ref=f1867e608]:
+                    - heading [level=4] [ref=f1867e609]:
+                      - link "Utah Senate president threatens critics with defamation lawsuits" [ref=f1867e610] [cursor=pointer]:
+                        - /url: /article/51611757/utah-senate-president-threatens-critics-with-defamation-lawsuits
+                - list [ref=f1867e611]:
+                  - listitem [ref=f1867e612]:
+                    - heading [level=4] [ref=f1867e613]:
+                      - link "Utah's 10 largest fires this year have already cost nearly $217M to battle" [ref=f1867e614] [cursor=pointer]:
+                        - /url: /article/51611327/utahs-10-largest-fires-this-year-have-already-cost-nearly-217m-to-battle
+                - list [ref=f1867e615]:
+                  - listitem [ref=f1867e616]:
+                    - heading [level=4] [ref=f1867e617]:
+                      - link "A popular Sugar House deli is relocating, but it needs a waiver to keep its current menu" [ref=f1867e618] [cursor=pointer]:
+                        - /url: /article/51601553/a-popular-sugar-house-deli-is-relocating-but-it-needs-a-waiver-to-keep-its-current-menu
+              - generic [ref=f1867e619]:
+                - heading "Related topics" [level=3] [ref=f1867e620]
+                - generic [ref=f1867e621]:
+                  - link "Utah Legislature" [ref=f1867e623] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/stream/utah-legislature
+                  - link "Data Centers" [ref=f1867e625] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/stream/data-centers
+                  - link "Utah" [ref=f1867e627] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Politics" [ref=f1867e629] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/politics
+                  - link "Environment" [ref=f1867e631] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/environment
+                  - link "Northern Utah" [ref=f1867e633] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/northern
+                  - link "Salt Lake County" [ref=f1867e635] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/salt-lake
+              - generic [ref=f1867e636]:
+                - generic [ref=f1867e637]:
+                  - generic [ref=f1867e638]:
+                    - img "Bridger Beal-Cvetko, KSL" [ref=f1867e639]
+                    - text: Bridger Beal-Cvetko
+                  - list [ref=f1867e641]:
+                    - listitem [ref=f1867e642]:
+                      - link "" [ref=f1867e643] [cursor=pointer]:
+                        - /url: //www.twitter.com/https://twitter.com/BealBridger
+                    - listitem [ref=f1867e644]:
+                      - link "" [ref=f1867e645] [cursor=pointer]:
+                        - /url: mailto:bbealcvetko@ksl.com
+                - generic [ref=f1867e646]: Bridger Beal-Cvetko is a reporter for KSL. He covers politics, Salt Lake County communities and breaking news. Bridger has worked for the Deseret News and graduated from Utah Valley University.
+              - button "Comments header with 0 pending and 63 total comments" [ref=f1867e649] [cursor=pointer]:
+                - generic [ref=f1867e650]:
+                  - generic [ref=f1867e651]: "63"
+                  - generic [ref=f1867e653]: Comments
+                - img "Expand comments" [ref=f1867e654]
+              - generic [ref=f1867e660]:
+                - generic [ref=f1867e661]:
+                  - generic [ref=f1867e662]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f1867e664] [cursor=pointer]
+                - generic [ref=f1867e669]:
+                  - status "Loading" [ref=f1867e673] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f1867e675] [cursor=pointer]:
+                      - button "Read more" [ref=f1867e676]: READ MORE
+                      - generic [ref=f1867e677]:
+                        - button "Play" [disabled] [ref=f1867e678]
+                        - button "Unmute" [ref=f1867e682]
+                        - button "Enter Fullscreen" [ref=f1867e685]
+                    - generic [ref=f1867e688]:
+                      - slider "Progress Bar" [ref=f1867e690] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f1867e691]
+                      - button "Unmute" [ref=f1867e696] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f1867e700] [cursor=pointer]: "25"
+                      - button "-00:30" [ref=f1867e702] [cursor=pointer]
+                      - button "Quality Selector" [ref=f1867e703] [cursor=pointer]
+                      - button "Subtitles" [ref=f1867e706] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f1867e709] [cursor=pointer]
+              - generic [ref=f1867e713]:
+                - heading "More stories you may be interested in" [level=2] [ref=f1867e714]
+                - list:
+                  - listitem [ref=f1867e715]:
+                    - link [ref=f1867e716] [cursor=pointer]:
+                      - /url: /article/51611920/watch-live-gov-spencer-cox-holds-monthly-news-conference
+                      - img "Utah governor 'deeply troubled' by Flock camera concerns, orders privacy review" [ref=f1867e717]
+                    - heading [level=6] [ref=f1867e718]:
+                      - link "Utah governor 'deeply troubled' by Flock camera concerns, orders privacy review" [ref=f1867e719] [cursor=pointer]:
+                        - /url: /article/51611920/watch-live-gov-spencer-cox-holds-monthly-news-conference
+                  - listitem [ref=f1867e720]:
+                    - link [ref=f1867e721] [cursor=pointer]:
+                      - /url: /article/51611832/238m-upgrade-of-5600-south-i-15-interchange-in-roy-nearly-done-other-projects-continue
+                      - img "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue" [ref=f1867e722]
+                    - heading [level=6] [ref=f1867e723]:
+                      - link "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue" [ref=f1867e724] [cursor=pointer]:
+                        - /url: /article/51611832/238m-upgrade-of-5600-south-i-15-interchange-in-roy-nearly-done-other-projects-continue
+                  - listitem [ref=f1867e725]:
+                    - link [ref=f1867e726] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                      - img "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f1867e727]
+                    - heading [level=6] [ref=f1867e728]:
+                      - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f1867e729] [cursor=pointer]:
+                        - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+          - generic [ref=f1867e730]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f1867e734]
+              - list [ref=f1867e735]:
+                - listitem [ref=f1867e736]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f1867e737] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f1867e738]:
+                    - generic [ref=f1867e739]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f1867e740] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f1867e741]:
+                        - generic [ref=f1867e743]: "78"
+                - listitem [ref=f1867e744]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f1867e745] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f1867e746]:
+                    - generic [ref=f1867e747]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f1867e748] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f1867e749]:
+                        - generic [ref=f1867e751]: "68"
+                - listitem [ref=f1867e752]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f1867e753] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f1867e754]:
+                    - generic [ref=f1867e755]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f1867e756] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f1867e757]:
+                        - generic [ref=f1867e759]: "14"
+                - listitem [ref=f1867e760]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f1867e761] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f1867e762]:
+                    - generic [ref=f1867e763]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f1867e764] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f1867e765]:
+                        - generic [ref=f1867e767]: "75"
+                - listitem [ref=f1867e768]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f1867e769] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f1867e770]:
+                    - generic [ref=f1867e771]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f1867e772] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f1867e773]:
+                        - generic [ref=f1867e775]: "14"
+                - listitem [ref=f1867e776]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f1867e777] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f1867e778]:
+                    - generic [ref=f1867e779]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f1867e780] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f1867e781]:
+                        - generic [ref=f1867e783]: "44"
+                - listitem [ref=f1867e784]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f1867e785] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f1867e786]: Posted Aug. 19 - 9:40 p.m.
+                - listitem [ref=f1867e788]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f1867e789] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f1867e790]:
+                    - generic [ref=f1867e791]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f1867e792] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f1867e793]:
+                        - generic [ref=f1867e795]: "56"
+                - listitem [ref=f1867e796]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f1867e797] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f1867e798]:
+                    - generic [ref=f1867e799]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f1867e800] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f1867e801]:
+                        - generic [ref=f1867e803]: "14"
+                - listitem [ref=f1867e804]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f1867e805] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f1867e806]:
+                    - generic [ref=f1867e807]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f1867e808] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f1867e809]:
+                        - generic [ref=f1867e811]: "38"
+            - generic [ref=f1867e812]:
+              - link [ref=f1867e814] [cursor=pointer]:
+                - /url: /beyond/beyond-business
+                - img "KSL.com Beyond Business" [ref=f1867e816]
+              - generic:
+                - link "KSL.com Beyond Series":
+                  - /url: /sports/beyond-the-game
+                  - generic:
+                    - img "KSL.com Beyond Series"
+            - generic [ref=f1867e820]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f1867e821]
+              - generic [ref=f1867e822] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f1867e823]
+                - img "Play button" [ref=f1867e826]
+      - generic [ref=f1867e830]:
+        - generic [ref=f1867e831]:
+          - generic [ref=f1867e832]:
+            - link [ref=f1867e833] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f1867e835]
+            - list [ref=f1867e836]:
+              - listitem [ref=f1867e837]:
+                - link "" [ref=f1867e838] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f1867e839]:
+                - link "" [ref=f1867e840] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f1867e841]:
+                - link "" [ref=f1867e842] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f1867e843]:
+                - link "" [ref=f1867e844] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f1867e845]:
+                - link "" [ref=f1867e846] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f1867e847]:
+                - link "" [ref=f1867e848] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f1867e849]:
+                - link "" [ref=f1867e850] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f1867e851]:
+            - link "Mobile Apps" [ref=f1867e852] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f1867e853] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f1867e854] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f1867e855] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f1867e856] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f1867e857]:
+          - link "Terms of use" [ref=f1867e858] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f1867e859] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f1867e860] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f1867e861] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f1867e862] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f1867e863] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f1867e864] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f1867e865] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f1867e866] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f1867e867] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f1867e868] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f1867e869]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f1867e871]:
+    - generic [ref=f1867e873]:
+      - generic [ref=f1867e875]:
+        - heading "Cookie Notice" [level=2] [ref=f1867e876]
+        - generic [ref=f1867e877]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f1867e878] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f1867e879] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f1867e880] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f1867e882]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f1867e883] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f1867e884] [cursor=pointer]
+    - button "OK" [ref=f1867e886] [cursor=pointer]
+  - iframe [ref=f1867e887]:
+    

@@ -1,0 +1,430 @@
+- generic [active] [ref=f1651e1]:
+  - generic [ref=f1651e2]:
+    - generic [ref=f1651e7]:
+      - link "Skip to content" [ref=f1651e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f1651e10]:
+        - link "KSL home" [ref=f1651e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f1651e12]
+        - navigation "Primary" [ref=f1651e13]:
+          - link "News" [ref=f1651e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f1651e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f1651e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f1651e21] [cursor=pointer]
+        - generic [ref=f1651e23]:
+          - generic [ref=f1651e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f1651e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f1651e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f1651e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f1651e30]: 99°
+          - button "Search" [ref=f1651e31] [cursor=pointer]
+          - link "Log in" [ref=f1651e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51614284%2Ftaylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+    - generic [ref=f1651e34]:
+      - generic [ref=f1651e35]:
+        - navigation [ref=f1651e36]:
+          - combobox [ref=f1651e38] [cursor=pointer]:
+            - option "Utah" [selected]
+            - option "Features"
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f1651e40]:
+            - listitem [ref=f1651e41]:
+              - link "Home" [ref=f1651e42] [cursor=pointer]:
+                - /url: /news/utah
+            - listitem [ref=f1651e43]:
+              - link "Counties" [ref=f1651e44] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f1651e45]:
+              - link "Police & Courts" [ref=f1651e46] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - listitem [ref=f1651e47]:
+              - link "Business" [ref=f1651e48] [cursor=pointer]:
+                - /url: /news/business
+            - listitem [ref=f1651e49]:
+              - link "Politics" [ref=f1651e50] [cursor=pointer]:
+                - /url: /news/politics
+            - listitem [ref=f1651e51]:
+              - link "Education" [ref=f1651e52] [cursor=pointer]:
+                - /url: /news/utah/education
+            - listitem [ref=f1651e53]:
+              - link "Science" [ref=f1651e54] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - listitem [ref=f1651e55]:
+              - link "Environment" [ref=f1651e56] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - listitem [ref=f1651e57]:
+              - link [ref=f1651e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f1651e59]
+        - generic [ref=f1651e60]:
+          - generic [ref=f1651e65]:
+            - heading "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [level=1] [ref=f1651e66]
+            - heading "By Pat Reavy, KSL | Posted - Aug. 20, 2026 at 11:26 a.m." [level=4] [ref=f1651e69]
+          - generic [ref=f1651e71]:
+            - generic [ref=f1651e72]:
+              - img "A Taylorsville man who allegedly held a woman against her will for three days and abused her has been charged with 19 felonies and a misdemeanor." [ref=f1651e76]
+              - heading "A Taylorsville man who allegedly held a woman against her will for three days and abused her has been charged with 19 felonies and a misdemeanor. (Jinga, Shutterstock)" [level=4] [ref=f1651e78]
+            - generic:
+              - separator [ref=f1651e79]
+              - generic [ref=f1651e80]: "9"
+              - list:
+                - listitem:
+                  - link "" [ref=f1651e82] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1651e83] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1651e84] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f1651e85] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges?print=1
+              - generic [ref=f1651e86] [cursor=pointer]:
+                - generic [ref=f1651e87]: 
+                - generic [ref=f1651e88]: Save Story
+              - separator [ref=f1651e89]
+            - generic [ref=f1651e91]:
+              - button "Leer en español" [ref=f1651e92] [cursor=pointer]
+              - generic [ref=f1651e93]:
+                - 'button "Listen: 3 Minutes" [ref=f1651e95] [cursor=pointer]':
+                  - generic [ref=f1651e98]: "Listen:"
+                  - generic [ref=f1651e99]: 3 Minutes
+                - generic [ref=f1651e534]:
+                  - button "Play" [ref=f1651e535] [cursor=pointer]
+                  - button "Volume" [ref=f1651e539] [cursor=pointer]
+                  - slider [ref=f1651e545]
+                  - generic [ref=f1651e546]: 03:06
+            - article [ref=f1651e548]:
+              - generic [ref=f1651e549]:
+                - generic [ref=f1651e550]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f1651e552] [cursor=pointer]
+                - list [ref=f1651e554]:
+                  - listitem [ref=f1651e555]: A Taylorsville man faces 19 felony charges for allegedly holding a woman hostage.
+                  - listitem [ref=f1651e556]: Charges include aggravated kidnapping, rape, and assault, with the victim suffering several injuries.
+                  - listitem [ref=f1651e557]: The woman was able to call 911 after three days.
+              - generic [ref=f1651e558]:
+                - paragraph [ref=f1651e559]: TAYLORSVILLE — A 26-year-old Taylorsville man accused of holding a woman against her will for several days and abusing her is facing 19 felony charges.
+                - paragraph [ref=f1651e560]: The man was charged Aug. 7 in 3rd District Court with aggravated kidnaping, two counts of forcible sodomy, object rape, two counts of rape and attempted object rape, all first-degree felonies; forcible sexual abuse and aggravated assault, second-degree felonies; violating a protective order, two counts of aggravated assault, three counts of voyeurism, two counts of propelling a bodily substance and two counts of assault, third-degree felonies; and being a restricted person in possession of a weapon, a class A misdemeanor.
+                - paragraph [ref=f1651e561]: KSL is not naming the defendant in order to protect the identity of the victim.
+                - paragraph [ref=f1651e562]: "\"The defendant, in this matter, held the victim hostage for approximately three days, and during that time he brutally assaulted her both physically and sexually. The victim reported that over the course of three days, the defendant held a knife to her throat multiple times, poked her with the knife in her neck and her back, cut her arm, strangled her, suffocated her, raped her, and held her captive because of her bruises,\" according to charging documents."
+                - paragraph [ref=f1651e566]: Police found the woman on July 31 after being asked to conduct a welfare check. When officers found her, "she was observed with bruising throughout her body," the charges state. At the hospital, it was noted that the woman "had over 40 separate injuries to her body."
+                - paragraph [ref=f1651e567]: The woman told investigators that she arrived at the man's residence on July 29 and he strangled her, then continued to get more upset throughout the day and was "acting manic" and she "felt impending doom," she told police, according to the charges.
+                - paragraph [ref=f1651e568]: On July 30, the man "grabbed a knife, held it to her throat, and told her he would kill her by slitting her throat" and "at some point, (he) cut her arm with the knife and told her that 'this is what he would do to her neck' and that he 'would stab her in the back and would slash her throat,'" charging documents state.
+                - paragraph [ref=f1651e569]: The charges detail other abuses the woman allegedly suffered during the three days, and notes that on July 31 they drove to a gas station and the man told her to "stay in the car because of her bruises and told her to get down and cover up so that no one could see."
+                - paragraph [ref=f1651e570]: At some point on July 31, the man fell asleep and the garage door was open. The woman "ran outside and was able to call 911. She said (he) caught her and asked who she was on the phone with, but she told him that she was on the phone with her dad. At this point, the police showed up," according to the charges.
+                - paragraph [ref=f1651e571]: Prosecutors state in their charges that the woman has a continuous protective order against the man, whom she has known for about a decade, due to prior domestic violence-related convictions in which she was the victim.
+                - paragraph [ref=f1651e575]: "\"The defendant entered into two separate domestic violence plea in abeyances involving the same victim,\" according to the charges. \"Additionally, the defendant has a pending domestic violence matter involving a different victim, in the 4th District Court."
+                - paragraph [ref=f1651e576]: "\"The defendant, aside from his domestic violence history, has an extensive drug history with misdemeanor convictions,\" charging documents state."
+                - paragraph [ref=f1651e577]: "{#dv}"
+              - generic [ref=f1651e579]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Most recent Police & Courts stories" [level=3] [ref=f1651e580]
+              - generic [ref=f1651e581]:
+                - list [ref=f1651e582]:
+                  - listitem [ref=f1651e583]:
+                    - heading [level=4] [ref=f1651e584]:
+                      - link "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f1651e585] [cursor=pointer]:
+                        - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                - list [ref=f1651e586]:
+                  - listitem [ref=f1651e587]:
+                    - heading [level=4] [ref=f1651e588]:
+                      - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f1651e589] [cursor=pointer]:
+                        - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                - list [ref=f1651e590]:
+                  - listitem [ref=f1651e591]:
+                    - heading [level=4] [ref=f1651e592]:
+                      - link "Twin brothers identified in Kearns funeral shooting" [ref=f1651e593] [cursor=pointer]:
+                        - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+              - generic [ref=f1651e594]:
+                - heading "Related topics" [level=3] [ref=f1651e595]
+                - generic [ref=f1651e596]:
+                  - link "Police & Courts" [ref=f1651e598] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/police-and-courts
+                  - link "Utah" [ref=f1651e600] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Salt Lake County" [ref=f1651e602] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/salt-lake
+              - generic [ref=f1651e603]:
+                - generic [ref=f1651e604]:
+                  - generic [ref=f1651e605]:
+                    - img "Pat Reavy, KSL" [ref=f1651e606]
+                    - text: Pat Reavy
+                  - list [ref=f1651e608]:
+                    - listitem [ref=f1651e609]:
+                      - link "" [ref=f1651e610] [cursor=pointer]:
+                        - /url: https://www.facebook.com/kslcom
+                    - listitem [ref=f1651e611]:
+                      - link "" [ref=f1651e612] [cursor=pointer]:
+                        - /url: mailto:preavy@deseretdigital.com
+                - generic [ref=f1651e613]: Pat Reavy interned with KSL in 1989 and has been a full-time journalist for either KSL or Deseret News since 1991. For the past 25 years, he has worked primarily the cops and courts beat.
+              - button "Comments header with 0 pending and 9 total comments" [ref=f1651e616] [cursor=pointer]:
+                - generic [ref=f1651e617]:
+                  - generic [ref=f1651e618]: "9"
+                  - generic [ref=f1651e620]: Comments
+                - img "Expand comments" [ref=f1651e621]
+              - generic [ref=f1651e627]:
+                - generic [ref=f1651e628]:
+                  - generic [ref=f1651e629]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f1651e631] [cursor=pointer]
+                - generic [ref=f1651e636]:
+                  - status "Loading" [ref=f1651e640] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f1651e642] [cursor=pointer]:
+                      - button "Read more" [ref=f1651e643]: READ MORE
+                      - generic [ref=f1651e644]:
+                        - button "Play" [disabled] [ref=f1651e645]
+                        - button "Unmute" [ref=f1651e649]
+                        - button "Enter Fullscreen" [ref=f1651e652]
+                    - generic [ref=f1651e655]:
+                      - slider "Progress Bar" [ref=f1651e657] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f1651e658]
+                      - button "Unmute" [ref=f1651e663] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f1651e667] [cursor=pointer]: "25"
+                      - button "-00:30" [ref=f1651e669] [cursor=pointer]
+                      - button "Quality Selector" [ref=f1651e670] [cursor=pointer]
+                      - button "Subtitles" [ref=f1651e673] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f1651e676] [cursor=pointer]
+              - generic [ref=f1651e680]:
+                - heading "More stories you may be interested in" [level=2] [ref=f1651e681]
+                - list:
+                  - listitem [ref=f1651e682]:
+                    - link [ref=f1651e683] [cursor=pointer]:
+                      - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                      - img "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f1651e684]
+                    - heading [level=6] [ref=f1651e685]:
+                      - link "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=f1651e686] [cursor=pointer]:
+                        - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+                  - listitem [ref=f1651e687]:
+                    - link [ref=f1651e688] [cursor=pointer]:
+                      - /url: /article/51611793/4-charged-in-long-term-investigation-into-utah-street-gang
+                      - img "4 charged in 'long-term investigation' into Utah street gang" [ref=f1651e689]
+                    - heading [level=6] [ref=f1651e690]:
+                      - link "4 charged in 'long-term investigation' into Utah street gang" [ref=f1651e691] [cursor=pointer]:
+                        - /url: /article/51611793/4-charged-in-long-term-investigation-into-utah-street-gang
+                  - listitem [ref=f1651e692]:
+                    - link [ref=f1651e693] [cursor=pointer]:
+                      - /url: /article/51611740/documented-gang-member-faces-26-felony-drug-and-gun-related-charges
+                      - img "Documented gang member faces 26 felony drug and gun-related charges" [ref=f1651e694]
+                    - heading [level=6] [ref=f1651e695]:
+                      - link "Documented gang member faces 26 felony drug and gun-related charges" [ref=f1651e696] [cursor=pointer]:
+                        - /url: /article/51611740/documented-gang-member-faces-26-felony-drug-and-gun-related-charges
+          - generic [ref=f1651e697]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f1651e701]
+              - list [ref=f1651e702]:
+                - listitem [ref=f1651e703]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f1651e704] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f1651e705]:
+                    - generic [ref=f1651e706]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f1651e707] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f1651e708]:
+                        - generic [ref=f1651e710]: "78"
+                - listitem [ref=f1651e711]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f1651e712] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f1651e713]:
+                    - generic [ref=f1651e714]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f1651e715] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f1651e716]:
+                        - generic [ref=f1651e718]: "68"
+                - listitem [ref=f1651e719]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f1651e720] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f1651e721]:
+                    - generic [ref=f1651e722]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f1651e723] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f1651e724]:
+                        - generic [ref=f1651e726]: "14"
+                - listitem [ref=f1651e727]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f1651e728] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f1651e729]:
+                    - generic [ref=f1651e730]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f1651e731] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f1651e732]:
+                        - generic [ref=f1651e734]: "75"
+                - listitem [ref=f1651e735]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f1651e736] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f1651e737]:
+                    - generic [ref=f1651e738]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f1651e739] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f1651e740]:
+                        - generic [ref=f1651e742]: "14"
+                - listitem [ref=f1651e743]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f1651e744] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f1651e745]:
+                    - generic [ref=f1651e746]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f1651e747] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f1651e748]:
+                        - generic [ref=f1651e750]: "44"
+                - listitem [ref=f1651e751]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f1651e752] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f1651e753]:
+                    - generic [ref=f1651e754]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f1651e755] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f1651e756]:
+                        - generic [ref=f1651e758]: "46"
+                - listitem [ref=f1651e759]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f1651e760] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f1651e761]:
+                    - generic [ref=f1651e762]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f1651e763] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f1651e764]:
+                        - generic [ref=f1651e766]: "56"
+                - listitem [ref=f1651e767]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f1651e768] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f1651e769]:
+                    - generic [ref=f1651e770]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f1651e771] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f1651e772]:
+                        - generic [ref=f1651e774]: "14"
+                - listitem [ref=f1651e775]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f1651e776] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f1651e777]:
+                    - generic [ref=f1651e778]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f1651e779] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f1651e780]:
+                        - generic [ref=f1651e782]: "38"
+            - generic [ref=f1651e783]:
+              - link [ref=f1651e785] [cursor=pointer]:
+                - /url: /beyond/beyond-business
+                - img "KSL.com Beyond Business" [ref=f1651e787]
+              - generic:
+                - link "KSL.com Beyond Series":
+                  - /url: /sports/beyond-the-game
+                  - generic:
+                    - img "KSL.com Beyond Series"
+            - generic [ref=f1651e791]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f1651e792]
+              - generic [ref=f1651e793] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f1651e794]
+                - img "Play button" [ref=f1651e797]
+      - generic [ref=f1651e801]:
+        - generic [ref=f1651e802]:
+          - generic [ref=f1651e803]:
+            - link [ref=f1651e804] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f1651e806]
+            - list [ref=f1651e807]:
+              - listitem [ref=f1651e808]:
+                - link "" [ref=f1651e809] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f1651e810]:
+                - link "" [ref=f1651e811] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f1651e812]:
+                - link "" [ref=f1651e813] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f1651e814]:
+                - link "" [ref=f1651e815] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f1651e816]:
+                - link "" [ref=f1651e817] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f1651e818]:
+                - link "" [ref=f1651e819] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f1651e820]:
+                - link "" [ref=f1651e821] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f1651e822]:
+            - link "Mobile Apps" [ref=f1651e823] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f1651e824] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f1651e825] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f1651e826] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f1651e827] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f1651e828]:
+          - link "Terms of use" [ref=f1651e829] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f1651e830] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f1651e831] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f1651e832] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f1651e833] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f1651e834] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f1651e835] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f1651e836] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f1651e837] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f1651e838] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f1651e839] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f1651e840]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=f1651e842]:
+    - generic [ref=f1651e844]:
+      - generic [ref=f1651e846]:
+        - heading "Cookie Notice" [level=2] [ref=f1651e847]
+        - generic [ref=f1651e848]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f1651e849] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f1651e850] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f1651e851] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f1651e853]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f1651e854] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f1651e855] [cursor=pointer]
+    - button "OK" [ref=f1651e857] [cursor=pointer]
+  - iframe [ref=f1651e858]:
+    

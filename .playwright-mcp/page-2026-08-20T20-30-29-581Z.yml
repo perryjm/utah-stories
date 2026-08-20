@@ -1,0 +1,490 @@
+- generic [active] [ref=f2278e1]:
+  - generic [ref=f2278e2]:
+    - generic [ref=f2278e7]:
+      - link "Skip to content" [ref=f2278e8] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=f2278e10]:
+        - link "KSL home" [ref=f2278e11] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=f2278e12]
+        - navigation "Primary" [ref=f2278e13]:
+          - link "News" [ref=f2278e14] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=f2278e16] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=f2278e18] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=f2278e21] [cursor=pointer]
+        - generic [ref=f2278e23]:
+          - generic [ref=f2278e24]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=f2278e25] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=f2278e27] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=f2278e29] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=f2278e30]: 99°
+          - button "Search" [ref=f2278e31] [cursor=pointer]
+          - link "Log in" [ref=f2278e33] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Farticle%2Fnews%2Fbusiness%2Fsen-curtis-talks-public-transit-expansion-ahead-of-temple-open-house-and-olympics%2F51611823
+    - generic [ref=f2278e34]:
+      - generic [ref=f2278e35]:
+        - navigation [ref=f2278e36]:
+          - combobox [ref=f2278e38] [cursor=pointer]:
+            - option "Utah" [selected]
+            - option "Features"
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=f2278e40]:
+            - listitem [ref=f2278e41]:
+              - link "Home" [ref=f2278e42] [cursor=pointer]:
+                - /url: /news/utah
+            - listitem [ref=f2278e43]:
+              - link "Counties" [ref=f2278e44] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=f2278e45]:
+              - link "Police & Courts" [ref=f2278e46] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - listitem [ref=f2278e47]:
+              - link "Business" [ref=f2278e48] [cursor=pointer]:
+                - /url: /news/business
+            - listitem [ref=f2278e49]:
+              - link "Politics" [ref=f2278e50] [cursor=pointer]:
+                - /url: /news/politics
+            - listitem [ref=f2278e51]:
+              - link "Education" [ref=f2278e52] [cursor=pointer]:
+                - /url: /news/utah/education
+            - listitem [ref=f2278e53]:
+              - link "Science" [ref=f2278e54] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - listitem [ref=f2278e55]:
+              - link "Environment" [ref=f2278e56] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - listitem [ref=f2278e57]:
+              - link [ref=f2278e58] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=f2278e59]
+        - generic [ref=f2278e60]:
+          - generic [ref=f2278e65]:
+            - heading "Sen. Curtis talks public transit expansion ahead of temple open house and Olympics" [level=1] [ref=f2278e66]
+            - heading "By Emily Walker, Deseret News | Posted - Aug. 20, 2026 at 6:36 a.m." [level=4] [ref=f2278e69]
+          - generic [ref=f2278e71]:
+            - generic [ref=f2278e72]:
+              - img "Sen. John Curtis, left, and Andrew Gruber, executive director of Wasatch Front Regional Council, walk to a TRAX platform during a meeting with leaders from Utah Transit Authority and the Wasatch Front Regional Council in Salt Lake City on Wednesday." [ref=f2278e76]
+              - heading "Sen. John Curtis, left, and Andrew Gruber, executive director of Wasatch Front Regional Council, walk to a TRAX platform during a meeting with leaders from Utah Transit Authority and the Wasatch Front Regional Council in Salt Lake City on Wednesday. (Laura Seitz, Deseret News)" [level=4] [ref=f2278e78]
+            - generic:
+              - separator [ref=f2278e79]
+              - generic [ref=f2278e80]: "29"
+              - list:
+                - listitem:
+                  - link "" [ref=f2278e82] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2278e83] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2278e84] [cursor=pointer]:
+                    - /url: ""
+                - listitem:
+                  - link "" [ref=f2278e85] [cursor=pointer]:
+                    - /url: https://www.ksl.com/article/news/business/sen-curtis-talks-public-transit-expansion-ahead-of-temple-open-house-and-olympics/51611823?print=1
+              - generic [ref=f2278e86] [cursor=pointer]:
+                - generic [ref=f2278e87]: 
+                - generic [ref=f2278e88]: Save Story
+              - separator [ref=f2278e89]
+            - generic [ref=f2278e91]:
+              - button "Leer en español" [ref=f2278e92] [cursor=pointer]
+              - generic [ref=f2278e93]:
+                - 'button "Listen: 4 Minutes" [ref=f2278e95] [cursor=pointer]':
+                  - generic [ref=f2278e98]: "Listen:"
+                  - generic [ref=f2278e99]: 4 Minutes
+                - generic [ref=f2278e534]:
+                  - button "Play" [ref=f2278e535] [cursor=pointer]
+                  - button "Volume" [ref=f2278e539] [cursor=pointer]
+                  - slider [ref=f2278e545]
+                  - generic [ref=f2278e546]: 04:53
+            - article [ref=f2278e548]:
+              - generic [ref=f2278e549]:
+                - generic [ref=f2278e550]:
+                  - text: KEY TAKEAWAYS
+                  - img "ChevronUp icon" [ref=f2278e552] [cursor=pointer]
+                - list [ref=f2278e554]:
+                  - listitem [ref=f2278e555]: Utah's FrontRunner 2X project advances to the engineering phase for $1.3 billion funding.
+                  - listitem [ref=f2278e556]: Sen. Curtis emphasizes public transit's role in handling temple open house and Olympics.
+                  - listitem [ref=f2278e557]: Transit-oriented development aims to boost housing affordability and support Utah's growth.
+              - generic [ref=f2278e558]:
+                - paragraph [ref=f2278e559]: SALT LAKE CITY — As Utah prepares to host millions of visitors for the Salt Lake Temple open house and the 2034 Winter Olympics, its railways are undergoing a major change.
+                - paragraph [ref=f2278e560]:
+                  - text: The Federal Transit Administration recently approved the
+                  - link "FrontRunner 2X" [ref=f2278e561] [cursor=pointer]:
+                    - /url: https://connect.udot.utah.gov/2026/08/07/frontrunner-2x-advances-to-final-phase-of-process-for-nearly-1-3-billion-federal-grant/
+                  - text: project to enter the engineering phase, moving it one step closer to securing nearly $1.3 billion in federal funding. The project will add 26.1 miles of double tracks in 11 locations in Utah, which would support trains running every 15 minutes during high-traffic hours and every 30 minutes throughout the rest of the day.
+                - 'figure "Passengers disembark a FrontRunner at the Intermodal Hub in Salt Lake City on Aug. 7. The Federal Transit Administration approved FrontRunner 2X to enter the Engineering phase of its Capital Investment Grants program, moving the project closer to securing nearly $1.3 billion in federal funding. The project will add 26.1 miles of double track in 11 locations, a new station, 10 trainsets and a new maintenance facility. Once complete, these improvements will support 15-minute service during peak periods and 30-minute service throughout the day. (Photo: Laura Seitz, Deseret News)" [ref=f2278e562]':
+                  - generic "Passengers disembark a FrontRunner at the Intermodal Hub in Salt Lake City on Aug. 7. The Federal Transit Administration approved FrontRunner 2X to enter the Engineering phase of its Capital Investment Grants program, moving the project closer to securing nearly $1.3 billion in federal funding. The project will add 26.1 miles of double track in 11 locations, a new station, 10 trainsets and a new maintenance facility. Once complete, these improvements will support 15-minute service during peak periods and 30-minute service throughout the day." [ref=f2278e563] [cursor=pointer]:
+                    - img "Passengers disembark a FrontRunner at the Intermodal Hub in Salt Lake City on Aug. 7. The Federal Transit Administration approved FrontRunner 2X to enter the Engineering phase of its Capital Investment Grants program, moving the project closer to securing nearly $1.3 billion in federal funding. The project will add 26.1 miles of double track in 11 locations, a new station, 10 trainsets and a new maintenance facility. Once complete, these improvements will support 15-minute service during peak periods and 30-minute service throughout the day." [ref=f2278e565]
+                - paragraph [ref=f2278e567]: "\"The difference between waiting an hour or 15 minutes is a big deal,\" said Utah Sen. John Curtis on Wednesday during a discussion with leaders of the Wasatch Front Regional Council. \"If it's coming every 15 minutes versus every hour, you almost don't even need to check a schedule, right? You know, in your worst case, you're going to be waiting 14 minutes, and that's a very different thing for people than waiting 50 minutes.\""
+                - paragraph [ref=f2278e571]: Curtis, known for his use of public transit while serving as the mayor of Provo, has helped move forward several pieces of legislation to support improvement in Utah's public transit. The upcoming open house and Olympics create "a real urgency" for transit renovation, Curtis said during a stop in Salt Lake City.
+                - paragraph [ref=f2278e572]: "\"We've done a whole bunch, and there's a lot ahead of us to do,\" Curtis said to the Deseret News. \"The rapid growth that we're expecting as a state, with the temple open house, the Olympics, demands that we get this right. And so part of what we're doing today is looking ahead and making sure that we're not only good for today, but good for the future.\""
+                - paragraph [ref=f2278e573]: In addition to supporting an influx of visitors, expansion in public transit could benefit Utah residents both on and off the train tracks.
+                - paragraph
+                - heading "Public transit development will improve housing affordability in Utah" [level=2] [ref=f2278e574]
+                - paragraph
+                - 'figure "Sen. John Curtis speaks to leaders from Utah Transit Authority and the Wasatch Front Regional Council at a TRAX platform in Salt Lake City on Wednesday. (Photo: Laura Seitz, Deseret News)" [ref=f2278e575]':
+                  - generic "Sen. John Curtis speaks to leaders from Utah Transit Authority and the Wasatch Front Regional Council at a TRAX platform in Salt Lake City on Wednesday." [ref=f2278e576] [cursor=pointer]:
+                    - img "Sen. John Curtis speaks to leaders from Utah Transit Authority and the Wasatch Front Regional Council at a TRAX platform in Salt Lake City on Wednesday." [ref=f2278e578]
+                - paragraph [ref=f2278e580]:
+                  - text: The growth of housing development around public transit, supported by the
+                  - link "Build Housing, Unlock Benefits and Services Act" [ref=f2278e581] [cursor=pointer]:
+                    - /url: https://www.curtis.senate.gov/press-releases/curtis-blunt-rochester-introduce-bill-to-spur-housing-construction-near-transportation-hubs/
+                  - text: ", is expected to boost affordability for Utah residents."
+                - paragraph [ref=f2278e582]: "\"I think it's fair to say if we went around the state, we would hear affordability and housing, affordability and housing everywhere we went,\" Curtis said. \"This bill and the other things that we're talking about hit those directly on the head.\""
+                - paragraph [ref=f2278e586]: The bill provides funding and speeds up the construction timelines for projects that promote transit-oriented development, a style of city planning that places housing, shopping sites, jobs and entertainment venues near public transit locations.
+                - paragraph [ref=f2278e587]: Federal support will bring transit-oriented development "in at an affordable level," Curtis said, because putting residents near public facilities means "all of their costs come down."
+                - paragraph [ref=f2278e588]:
+                  - text: "\"Utah is growing quickly, and that growth must be paired with smart, coordinated transportation planning and more attainable housing,\" Curtis said"
+                  - link "in a press release" [ref=f2278e589] [cursor=pointer]:
+                    - /url: https://www.curtis.senate.gov/press-releases/curtis-blunt-rochester-introduce-bill-to-spur-housing-construction-near-transportation-hubs/
+                  - text: ", adding that the Build HUBS Act \"helps us maximize transportation investments, makes better use of public land, and empowers local leaders to use existing infrastructure programs more effectively to build housing where it matters and makes sense.\""
+                - paragraph
+                - heading "Legislation is moving forward to support transit renovation in growing cities" [level=2] [ref=f2278e590]
+                - paragraph
+                - 'figure "A TRAX train moves past Temple Square in Salt Lake City on Wednesday. (Photo: Laura Seitz, Deseret News)" [ref=f2278e591]':
+                  - generic "A TRAX train moves past Temple Square in Salt Lake City on Wednesday." [ref=f2278e592] [cursor=pointer]:
+                    - img "A TRAX train moves past Temple Square in Salt Lake City on Wednesday." [ref=f2278e594]
+                - paragraph [ref=f2278e596]: The current process for how the federal government evaluates transit projects seeking funding through the Federal Transit Administration's Capital Investment Grants program bases funding on existing population density ridership, meaning cities just starting to grow are at a disadvantage in trying to secure financial support.
+                - paragraph [ref=f2278e597]: "\"Ridership numbers don't necessarily reflect the needs of the community,\" Curtis said. \"If it's just strictly rider-based, and ridership is important, then we miss those communities who have done two things: planned and are growing.\""
+                - paragraph [ref=f2278e598]:
+                  - text: The
+                  - link "Promoting Access to Transit in High-Growth Communities Act" [ref=f2278e599] [cursor=pointer]:
+                    - /url: https://www.congress.gov/bill/119th-congress/senate-bill/5114/all-info
+                  - text: ", introduced by Curtis, moves to reform this process and allow cities that are just starting to grow greater resources to receive funding for proactive construction that matches predicted population growth."
+                - paragraph [ref=f2278e600]:
+                  - text: Between 2015 and 2025, Utah's population
+                  - link "increased by 17.9%" [ref=f2278e601] [cursor=pointer]:
+                    - /url: https://usafacts.org/answers/is-the-population-growing-or-shrinking/state/utah/
+                  - text: ", according to USA Facts, and the state's population is projected to be"
+                  - link "more than 5 million" [ref=f2278e602] [cursor=pointer]:
+                    - /url: https://unifiedplan.org/growth-change-in-utah/
+                  - text: by 2050, with much of the growth concentrated in urban Wasatch Front areas.
+                - paragraph [ref=f2278e603]: "\"We're faced with this enormous growth in the popularity of the state,\" Curtis said. \"And we all know with the Olympics coming that the demands are going to be even higher, which puts pressure on us not just to do what we've done here, but to just keep going.\""
+                - paragraph [ref=f2278e604]: Companion legislation for the PATH Act was introduced in the House by Utah Reps. Burgess Owens and Mike Kennedy.
+                - paragraph
+                - heading "Curtis says transit growth will benefit everyone" [level=2] [ref=f2278e605]
+                - paragraph
+                - 'figure "Andrew Gruber, executive director of Wasatch Front Regional Council, left, Sen. John Curtis, and Dawn Ramsey, chair of the Wasatch Front Regional Council and the mayor of South Jordan, speak during a meeting with leaders from Utah Transit Authority and WFRC in Salt Lake City on Wednesday. (Photo: Laura Seitz, Deseret News)" [ref=f2278e606]':
+                  - generic "Andrew Gruber, executive director of Wasatch Front Regional Council, left, Sen. John Curtis, and Dawn Ramsey, chair of the Wasatch Front Regional Council and the mayor of South Jordan, speak during a meeting with leaders from Utah Transit Authority and WFRC in Salt Lake City on Wednesday." [ref=f2278e607] [cursor=pointer]:
+                    - img "Andrew Gruber, executive director of Wasatch Front Regional Council, left, Sen. John Curtis, and Dawn Ramsey, chair of the Wasatch Front Regional Council and the mayor of South Jordan, speak during a meeting with leaders from Utah Transit Authority and WFRC in Salt Lake City on Wednesday." [ref=f2278e609]
+                - paragraph [ref=f2278e611]: Curtis said legislation to support transit development will move forward "rather quickly" and produce widespread benefit, even for residents who do not regularly use public transit.
+                - paragraph [ref=f2278e615]: "\"Even if people don't like transit, they need to realize that every person that rides transit is a car not on the street, so even if you never use transit, you're one of the beneficiaries of it simply because the other people do,\" Curtis said. \"So let's get it done.\""
+              - generic [ref=f2278e617]: The Key Takeaways for this article were generated with the assistance of large language models and reviewed by our editorial team. The article, itself, is solely human-written.
+              - heading "Most recent Utah transportation stories" [level=3] [ref=f2278e618]
+              - generic [ref=f2278e619]:
+                - list [ref=f2278e620]:
+                  - listitem [ref=f2278e621]:
+                    - heading [level=4] [ref=f2278e622]:
+                      - link "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue" [ref=f2278e623] [cursor=pointer]:
+                        - /url: /article/51611832/238m-upgrade-of-5600-south-i-15-interchange-in-roy-nearly-done-other-projects-continue
+                - list [ref=f2278e624]:
+                  - listitem [ref=f2278e625]:
+                    - heading [level=4] [ref=f2278e626]:
+                      - link "UTA considers first base fare rate increase in over a decade" [ref=f2278e627] [cursor=pointer]:
+                        - /url: /article/51607022/uta-considers-first-base-fare-rate-increase-in-over-a-decade
+                - list [ref=f2278e628]:
+                  - listitem [ref=f2278e629]:
+                    - heading [level=4] [ref=f2278e630]:
+                      - 'link "''It''s run its course'': Utah ready to sell Lake Powell ferry as reservoir hits new low" [ref=f2278e631] [cursor=pointer]':
+                        - /url: /article/51611696/its-run-its-course-utah-ready-to-sell-lake-powell-ferry-as-reservoir-hits-new-low
+              - generic [ref=f2278e632]:
+                - heading "Related topics" [level=3] [ref=f2278e633]
+                - generic [ref=f2278e634]:
+                  - link "Utah government" [ref=f2278e636] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/stream/utah-government
+                  - link "Utah transportation" [ref=f2278e638] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/stream/utah-transportation
+                  - link "2034 Utah Winter Olympics" [ref=f2278e640] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/stream/2034-salt-lake-city-utah-winter-olympics
+                  - link "Utah congressional delegation" [ref=f2278e642] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/stream/utah-congressional-delegation
+                  - link "Business" [ref=f2278e644] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/business
+                  - link "Utah" [ref=f2278e646] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah
+                  - link "Salt Lake County" [ref=f2278e648] [cursor=pointer]:
+                    - /url: https://www.ksl.com/news/utah/counties/salt-lake
+                  - link "Olympics" [ref=f2278e650] [cursor=pointer]:
+                    - /url: https://www.ksl.com/sports/olympics
+              - generic [ref=f2278e652]:
+                - generic [ref=f2278e653]: Emily Walker
+                - generic:
+                  - list
+              - button "Comments header with 0 pending and 29 total comments" [ref=f2278e657] [cursor=pointer]:
+                - generic [ref=f2278e658]:
+                  - generic [ref=f2278e659]: "29"
+                  - generic [ref=f2278e661]: Comments
+                - img "Expand comments" [ref=f2278e662]
+              - generic [ref=f2278e668]:
+                - generic [ref=f2278e669]:
+                  - generic [ref=f2278e670]: Utah-Based Bricks And Minifigs Reaches Settlement With Family Whose Allegations Went Viral
+                  - button "Close" [ref=f2278e672] [cursor=pointer]
+                - generic [ref=f2278e677]:
+                  - status "Loading" [ref=f2278e681] [cursor=pointer]
+                  - generic:
+                    - generic [ref=f2278e683] [cursor=pointer]:
+                      - button "Read more" [ref=f2278e684]: READ MORE
+                      - generic [ref=f2278e685]:
+                        - button "Play" [disabled] [ref=f2278e686]
+                        - button "Unmute" [ref=f2278e690]
+                        - button "Enter Fullscreen" [ref=f2278e693]
+                    - generic [ref=f2278e696]:
+                      - slider "Progress Bar" [ref=f2278e698] [cursor=pointer]: "0"
+                      - button "Play" [disabled] [ref=f2278e699]
+                      - button "Unmute" [ref=f2278e704] [cursor=pointer]
+                      - slider "Volume Bar" [ref=f2278e708] [cursor=pointer]: "25"
+                      - button "-00:30" [ref=f2278e710] [cursor=pointer]
+                      - button "Quality Selector" [ref=f2278e711] [cursor=pointer]
+                      - button "Subtitles" [ref=f2278e714] [cursor=pointer]
+                      - button "Enter Fullscreen" [ref=f2278e717] [cursor=pointer]
+              - generic [ref=f2278e721]:
+                - heading "More stories you may be interested in" [level=2] [ref=f2278e722]
+                - list:
+                  - listitem [ref=f2278e723]:
+                    - link [ref=f2278e724] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                      - img "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f2278e725]
+                    - heading [level=6] [ref=f2278e726]:
+                      - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f2278e727] [cursor=pointer]:
+                        - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - listitem [ref=f2278e728]:
+                    - link [ref=f2278e729] [cursor=pointer]:
+                      - /url: /article/news/outdoors/the-department-of-interior-just-opened-90-million-acres-to-hunting-and-fishing/51611461
+                      - img "The Department of Interior just opened 90 million acres to hunting and fishing" [ref=f2278e730]
+                    - heading [level=6] [ref=f2278e731]:
+                      - link "The Department of Interior just opened 90 million acres to hunting and fishing" [ref=f2278e732] [cursor=pointer]:
+                        - /url: /article/news/outdoors/the-department-of-interior-just-opened-90-million-acres-to-hunting-and-fishing/51611461
+                  - listitem [ref=f2278e733]:
+                    - link [ref=f2278e734] [cursor=pointer]:
+                      - /url: /article/51497684/utah-summer-games-celebrates-40-years-of-shaping-athletes-and-olympic-dreams
+                      - img "Utah Summer Games celebrates 40 years of shaping athletes and Olympic dreams" [ref=f2278e735]
+                    - heading [level=6] [ref=f2278e736]:
+                      - link "Utah Summer Games celebrates 40 years of shaping athletes and Olympic dreams" [ref=f2278e737] [cursor=pointer]:
+                        - /url: /article/51497684/utah-summer-games-celebrates-40-years-of-shaping-athletes-and-olympic-dreams
+          - generic [ref=f2278e738]:
+            - generic:
+              - heading "Most Viewed" [level=3] [ref=f2278e742]
+              - list [ref=f2278e743]:
+                - listitem [ref=f2278e744]:
+                  - link "Twin brothers identified in Kearns funeral shooting" [ref=f2278e745] [cursor=pointer]:
+                    - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                  - generic [ref=f2278e746]:
+                    - generic [ref=f2278e747]: Updated Aug. 20 - 7:01 a.m.|
+                    - link [ref=f2278e748] [cursor=pointer]:
+                      - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting#comment_1
+                      - img [ref=f2278e749]:
+                        - generic [ref=f2278e751]: "78"
+                - listitem [ref=f2278e752]:
+                  - link "Utah-based Bricks and Minifigs reaches settlement with family whose allegations went viral" [ref=f2278e753] [cursor=pointer]:
+                    - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral
+                  - generic [ref=f2278e754]:
+                    - generic [ref=f2278e755]: Posted Aug. 19 - 7:02 p.m.|
+                    - link [ref=f2278e756] [cursor=pointer]:
+                      - /url: /article/51611898/utah-based-bricks-and-minifigs-reaches-settlement-with-family-whose-allegations-went-viral#comment_1
+                      - img [ref=f2278e757]:
+                        - generic [ref=f2278e759]: "68"
+                - listitem [ref=f2278e760]:
+                  - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=f2278e761] [cursor=pointer]:
+                    - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                  - generic [ref=f2278e762]:
+                    - generic [ref=f2278e763]: Posted Aug. 19 - 10:32 p.m.|
+                    - link [ref=f2278e764] [cursor=pointer]:
+                      - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail#comment_1
+                      - img [ref=f2278e765]:
+                        - generic [ref=f2278e767]: "14"
+                - listitem [ref=f2278e768]:
+                  - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=f2278e769] [cursor=pointer]:
+                    - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                  - generic [ref=f2278e770]:
+                    - generic [ref=f2278e771]: Posted Aug. 19 - 10:27 p.m.|
+                    - link [ref=f2278e772] [cursor=pointer]:
+                      - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in#comment_1
+                      - img [ref=f2278e773]:
+                        - generic [ref=f2278e775]: "75"
+                - listitem [ref=f2278e776]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=f2278e777] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - generic [ref=f2278e778]:
+                    - generic [ref=f2278e779]: Posted Aug. 20 - 12:01 p.m.|
+                    - link [ref=f2278e780] [cursor=pointer]:
+                      - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries#comment_1
+                      - img [ref=f2278e781]:
+                        - generic [ref=f2278e783]: "15"
+                - listitem [ref=f2278e784]:
+                  - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=f2278e785] [cursor=pointer]:
+                    - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                  - generic [ref=f2278e786]:
+                    - generic [ref=f2278e787]: Updated Aug. 20 - 6:17 a.m.|
+                    - link [ref=f2278e788] [cursor=pointer]:
+                      - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel#comment_1
+                      - img [ref=f2278e789]:
+                        - generic [ref=f2278e791]: "44"
+                - listitem [ref=f2278e792]:
+                  - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=f2278e793] [cursor=pointer]:
+                    - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                  - generic [ref=f2278e794]:
+                    - generic [ref=f2278e795]: Posted Aug. 19 - 9:40 p.m.|
+                    - link [ref=f2278e796] [cursor=pointer]:
+                      - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash#comment_1
+                      - img [ref=f2278e797]:
+                        - generic [ref=f2278e799]: "46"
+                - listitem [ref=f2278e800]:
+                  - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=f2278e801] [cursor=pointer]':
+                    - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                  - generic [ref=f2278e802]:
+                    - generic [ref=f2278e803]: Posted Aug. 19 - 9:02 p.m.|
+                    - link [ref=f2278e804] [cursor=pointer]:
+                      - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school#comment_1
+                      - img [ref=f2278e805]:
+                        - generic [ref=f2278e807]: "56"
+                - listitem [ref=f2278e808]:
+                  - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=f2278e809] [cursor=pointer]:
+                    - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                  - generic [ref=f2278e810]:
+                    - generic [ref=f2278e811]: Updated Aug. 19 - 9:57 p.m.|
+                    - link [ref=f2278e812] [cursor=pointer]:
+                      - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public#comment_1
+                      - img [ref=f2278e813]:
+                        - generic [ref=f2278e815]: "14"
+                - listitem [ref=f2278e816]:
+                  - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=f2278e817] [cursor=pointer]:
+                    - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+                  - generic [ref=f2278e818]:
+                    - generic [ref=f2278e819]: Updated Aug. 20 - 8:35 a.m.|
+                    - link [ref=f2278e820] [cursor=pointer]:
+                      - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters#comment_1
+                      - img [ref=f2278e821]:
+                        - generic [ref=f2278e823]: "38"
+            - generic [ref=f2278e825]:
+              - generic [ref=f2278e826]:
+                - heading "STAY IN THE KNOW" [level=3] [ref=f2278e828]
+                - generic [ref=f2278e829]:
+                  - text: Get informative articles and interesting stories delivered to your inbox weekly.
+                  - strong [ref=f2278e830]: Subscribe to the KSL.com Trending 5.
+                - generic [ref=f2278e831]:
+                  - textbox "Enter your email" [ref=f2278e832]
+                  - button "Sign Me Up" [ref=f2278e833] [cursor=pointer]
+                - generic [ref=f2278e834]:
+                  - text: By subscribing, you acknowledge and agree to KSL.com's
+                  - link "Terms of Use" [ref=f2278e835] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+                  - text: and
+                  - link "Privacy Notice" [ref=f2278e836] [cursor=pointer]:
+                    - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+                  - text: .
+              - img "Newsletter Signup" [ref=f2278e838]
+            - generic [ref=f2278e842]:
+              - heading "KSL Weather Forecast" [level=3] [ref=f2278e843]
+              - generic [ref=f2278e844] [cursor=pointer]:
+                - img "KSL Weather Forecast" [ref=f2278e845]
+                - img "Play button" [ref=f2278e848]
+      - generic [ref=f2278e852]:
+        - generic [ref=f2278e853]:
+          - generic [ref=f2278e854]:
+            - link [ref=f2278e855] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=f2278e857]
+            - list [ref=f2278e858]:
+              - listitem [ref=f2278e859]:
+                - link "" [ref=f2278e860] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=f2278e861]:
+                - link "" [ref=f2278e862] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=f2278e863]:
+                - link "" [ref=f2278e864] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=f2278e865]:
+                - link "" [ref=f2278e866] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=f2278e867]:
+                - link "" [ref=f2278e868] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=f2278e869]:
+                - link "" [ref=f2278e870] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=f2278e871]:
+                - link "" [ref=f2278e872] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=f2278e873]:
+            - link "Mobile Apps" [ref=f2278e874] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=f2278e875] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=f2278e876] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=f2278e877] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=f2278e878] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=f2278e879]:
+          - link "Terms of use" [ref=f2278e880] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=f2278e881] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=f2278e882] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=f2278e883] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=f2278e884] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=f2278e885] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=f2278e886] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=f2278e887] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=f2278e888] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=f2278e889] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=f2278e890] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=f2278e891]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - iframe [ref=f2278e892]:
+    
+  - dialog "Cookie Notice" [ref=f2278e894]:
+    - generic [ref=f2278e896]:
+      - generic [ref=f2278e898]:
+        - heading "Cookie Notice" [level=2] [ref=f2278e899]
+        - generic [ref=f2278e900]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=f2278e901] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=f2278e902] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=f2278e903] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=f2278e905]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=f2278e906] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=f2278e907] [cursor=pointer]
+    - button "OK" [ref=f2278e909] [cursor=pointer]

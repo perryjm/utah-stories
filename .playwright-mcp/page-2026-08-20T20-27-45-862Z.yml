@@ -1,0 +1,718 @@
+- generic [ref=e1]:
+  - iframe [ref=e3]:
+    
+  - generic [ref=e4]:
+    - generic [ref=e9]:
+      - link "Skip to content" [ref=e10] [cursor=pointer]:
+        - /url: "#ksl-header-skip"
+      - generic [ref=e12]:
+        - link "KSL home" [ref=e13] [cursor=pointer]:
+          - /url: https://www.ksl.com
+          - img "KSL" [ref=e14]
+        - navigation "Primary" [ref=e15]:
+          - link "News" [ref=e16] [cursor=pointer]:
+            - /url: https://www.ksl.com/
+          - link "Sports" [ref=e18] [cursor=pointer]:
+            - /url: https://sports.ksl.com
+          - link "Watch/Listen" [ref=e20] [cursor=pointer]:
+            - /url: https://app.ksltv.com/p/RtIGzIhL/live-tv?channel=4vsaoghj
+          - button "More…" [ref=e23] [cursor=pointer]
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - generic: MARKETPLACE
+            - link "Classifieds" [ref=e27] [cursor=pointer]:
+              - /url: https://classifieds.ksl.com
+            - link "Cars" [ref=e29] [cursor=pointer]:
+              - /url: https://cars.ksl.com/
+          - link "Weather" [ref=e31] [cursor=pointer]:
+            - /url: https://www.ksl.com/weather
+            - generic [ref=e32]: 99°
+          - button "Search" [ref=e33] [cursor=pointer]
+          - link "Log in" [ref=e35] [cursor=pointer]:
+            - /url: https://myaccount.ksl.com/login?forward=https%3A%2F%2Fwww.ksl.com%2Fnews%2Futah
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - navigation [ref=e38]:
+          - combobox [ref=e40] [cursor=pointer]:
+            - option "Utah" [selected]
+            - option "Features"
+            - option "Counties"
+            - option "Idaho"
+            - option "U.S."
+            - option "World"
+          - list [ref=e42]:
+            - listitem [ref=e43]:
+              - link "Home" [ref=e44] [cursor=pointer]:
+                - /url: /news/utah
+            - listitem [ref=e45]:
+              - link "Counties" [ref=e46] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - listitem [ref=e47]:
+              - link "Police & Courts" [ref=e48] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - listitem [ref=e49]:
+              - link "Business" [ref=e50] [cursor=pointer]:
+                - /url: /news/business
+            - listitem [ref=e51]:
+              - link "Politics" [ref=e52] [cursor=pointer]:
+                - /url: /news/politics
+            - listitem [ref=e53]:
+              - link "Education" [ref=e54] [cursor=pointer]:
+                - /url: /news/utah/education
+            - listitem [ref=e55]:
+              - link "Science" [ref=e56] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - listitem [ref=e57]:
+              - link "Environment" [ref=e58] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - listitem [ref=e59]:
+              - link [ref=e60] [cursor=pointer]:
+                - /url: "#"
+                - text: More
+                - img "Show more news list items" [ref=e61]
+        - generic [ref=e63]:
+          - heading "Utah Local News" [level=1] [ref=e64]
+          - img "KSL Media" [ref=e65]
+        - generic [ref=e77]:
+          - link [ref=e79] [cursor=pointer]:
+            - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+            - heading "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [level=2] [ref=e80]
+            - heading "A man once arrested in connection with a downtown shooting is now accused of attacking a corrections officer while incarcerated at the Utah State Prison." [level=2] [ref=e81]
+          - link [ref=e82] [cursor=pointer]:
+            - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+            - img "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [ref=e84]
+        - generic [ref=e87]:
+          - iframe [ref=e89]:
+            - generic [ref=f14e3]:
+              - link "We tested 12 cutting boards. 11 were crawling with bacteria. Only 1 was spotless" [ref=f14e4] [cursor=pointer]:
+                - /url: https://tracenep.admaster.cc/ju/ic?tn=2ce2e6e33746b4224011d22068a89c02&trackingid=e67376b6d3be46422647add5cfefe4c8&acid=30238&data=YmxtyUtAhnLU-M24gBFuTnlZyWh083fvif1tEl_5DERLiP7_gvYu5ryBVSHx_8mLsNWmtgFXBjCUmoum33fjkXk-txqZawrO8YrCb7x7s65GxgXEu0LV-k0Qu-fAQruNZQmr8WfCjNzbld6ZujwOOjW3kY2jG-seR8tn_oVYGSHnUfR-mIMWzeSM6Fhhyl3yyxRSynsw1T76v0I7trA6CzranSNoFHy6q2wYKj4pWauCyl0NIh1qLf1D_qOKJv0yuSxmscYG04WSTcQOyZY1qgcbSMmMtgodN2C8AOtd2xpTUFalyY7OuGqXZqkO9KS2H2Fn0QW_aeW-oM21NXBLPHp9ewDS8JKpMM3cThLfHKSaS3iOj7qQq0P682FmYXM7AL3BOgr8UDcaAg8C3DhGYncHAMgToJcOL5d1vq_UpiANrhHfFeCUPNMOi_OBQGJEGyfFNQUula7xL8hT8URh64AzD8pChBUQdtUC6FYKEDO3PtPEAZXZgaUWNj9OjDZy_y8V44AVPDHJ-t3nVRPJVpCvcNUgb4q0vLuMRRvApyAhzJoYNubjxRMtXjbirgvz_2KUjsVEn_sJ1XPoiAGHwvnF48IYQPEP0OstmdD11p9PceLSwNvktHPTzRbJOqp8CXOHUL6WxRIe8w2HPik2Mozc4M0eu0UFvxO-VrqJKzwmStIxfLZJCXpiVhzT4KDT8a5TdXwTmJQbc6kGoLkTOj-e8JmVv3UHN2sSI9IuP7Cdzt39fkmXNezhYOk_n-qqYYUJj7jAwzM6li99edNfP7cgucW9PAk3r2vUx5IXqzobACCF2PD3aUBZv7K5XQ9UXwySa1VMD0S2FJz_jK_C-o38DFQcSXO9c8mNCTyX5EW30Rk-v8_zYv-2wv9dmqQA_KQrt6HrKL_5EUDb7MxLpXmDz5n7E_4Tq7G9-EpaaeTfV9OC9iOrfTssSHu7qGuWNnmljP7TxT2v95GcoDzu6Qzx4cwPHDUUy3EqrufU1uzBx1UGpWA5BbDJ_J_872nEGgPN0HY5NAaNbaOX0jjkL6j5RXOBTZY6dUNJsGbwQDFMVFkVXOZzcodEYArxfsgvKRtikrLGfxI0YjHbOAwBDG_i4cUGNm8pl9MTQSaaCBGxHEpwipa-T_3gFCEEoL1CGdDttHcOMcJgPVCaCwgU3RepT73Au9nCOQtwWyZa2oEzUXBK0WvvcqktUEe3PGfeMaZe0sOvscWk_QV5APPWHUwmGniVDMgqAaATJWJOHvnpH-Tc-a_H5iFDTwtti8WeLuYKifQs3vUA2sq2u1LRQpQaMpmQ4HLHU9w7N4WtU3RHDOTiLSR2Sqag3tVbPwgClL2AsUG4_T_JF1QwaF1qW2WMqcaC32KmevRU8S0aKY4Z4N8lnNRgJKWA_zIbmtTNy-PbOfXVcfENXdxB47V2uEFz1c3BgWZDxBoFLmzmEPY2Y_8k9VgWR038_Y3u8tYOA5f62FjKSg1cuPJvnIxAbzZ_VzrrUFR7TreBxPO1j2MPv59WkwFJH0KxRxXqZ0VTIHHen5pbe-bySyUUOoBk3M-GDVVZPAK5dxweuNa89KbnLVY7IV-nyPt5cKmWT8KCIxfLqLQc4CtzQ78s5B81QfG0nLSoHoa-aVlJpaf5drnjNjvwRheXRgRWBzxspIG1azrC_8spaO1_f0C7KkBLimk6-1_zRh9lkV8GmAf7aUPqvQzJxSjuw-lQuXdWO7l4yTehFliqDkcgvZmRJkjwK7FCwiOfvO4IVH-V6HNu_xkpS1qntM8AiWjYVB8d40eoNuZc2bTAwrqNmB1Q2-cIq5Ja87GmlIceWMrJpofcmY2p24SHIRZzPTebb7vJByIMnT4FVo3xe1ylcDIbIrUtfds9SNjnSnotsasvow44jr_JIPI4WGeAXyNmle2riyDuTuKbP5uqeHdk2PWhxmY4FBpX4dO6EvtWafsmueHcxKH2QpdlPmRTccbp8oP_ArHS3CcIi-84Faz6Oy8XEc9Q4o_rvozJIHmrJXlBl9ecirWraGmBFNjc2kp8j3H1pCMWCkRpkLS5HKi_aY8S1ug4JKGM12gj0_cNfEeslV9S6UPN3Nm2uJDKIvYqqGBEjir-04wUYXiFkrKNfONkmpn3l2Ylsd1ZHzZdUe7DjJeg8dOQXSO5pRW-DRCIV66DlqtE999tuaPVlZKrSHS0UFKY7Q&uid=mid_e9a09efc0725fe7a88ecc41828806373&mguid=&ap=5.00557&tid=104&gprice=I499ZFJfMJoZV_rz4EPkK9zRRHoA90i0HM8vOc1GOsc&campaignid=5414696&c_sync=1&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCFnzKP2OHaoPSK5WNodAPoI-UsAWltoSEe8z8yrWgE8CNtwEQASDf8tUYYMn-lo3opIwYyAEJ4AIAqAMByAMCqgSZAk_QYALZVu2Wnwxg4Byzi9Wltnupf57Skz5ZygYMlbrSGDVVOZ610QJ14R69Uy9DJwdcnqurM1GEjsV3garMva09V999IpDck3jB1-Zt9koUR6CbrdxzYA2n3kJ-tAP7AQgdjFxa4Mc5NPLendPqKxXCelidebIoknDxScOhYAf5VyLW5tvV3-bYo7E_NOAg0XAF6K0N56MLc2lgkA5TJEwvFkcfWM20fs919ltSU1Vu0Sj4gb4aB19wccmS8b0_rJ4QjDIRqLGZ8_yRNefaH0PTcEYltuBM0_TV-Umpq7pTScmQwcN8XDXEU4cSt_oJgDH0ztEw9ZQAWcWvG_VladHMfscMel1LSc5_7da_EThq1LlGRSe6SEA14AQBgAaA-oLf4ZWxxgWgBiGoB5PYsQKoB5TYsQKoB5XYsQKoB6a-G6gHltgbqAeqm7ECqAf_nrECqAffn7ECqAf-6LECqAetvrECqAe_07EC2AcA0ggwCIBhEAEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDkBBIvf3BOljJsKnRhbCWA2AA-gsCCAGADAGqDQJVU-INEwip-anRhbCWAxWVRggEHaAHBVbqDRMI0-aq0YWwlgMVlUYIBB2gBwVWiA7___________8B0BUBgBcBshcQGAwqCjM5Mzg3NDc1NDhQAaoYFwkgheuBV4xOQRIKMzkzODc0NzU0OBgB%26num%3D1%26sig%3DAOD64_3zC4-wo3AHgy9mAbm63qVSYH4ehw%26client%3Dca-pub-5129744018672189%26adurl%3D
+              - link [ref=f14e9] [cursor=pointer]:
+                - /url: //www.admaster.cc/privacy
+              - generic [ref=f14e12] [cursor=pointer]: TrendSpotOnline
+          - generic [ref=e90]:
+            - generic:
+              - generic:
+                - link "Advertise with us" [ref=e91] [cursor=pointer]:
+                  - /url: https://www.deseretdigital.com/advertising
+                - button "Report ad" [ref=e93] [cursor=pointer]
+        - generic [ref=e94]:
+          - heading "Most Recent" [level=3] [ref=e96]
+          - generic [ref=e97]:
+            - figure [ref=e98]:
+              - link "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore":
+                - /url: /article/51614351/california-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+                - img "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore" [ref=e100] [cursor=pointer]
+            - generic [ref=e101]:
+              - heading [level=2] [ref=e102]:
+                - link "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore" [ref=e103] [cursor=pointer]:
+                  - /url: /article/51614351/california-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+              - heading "Logan Stefanich, KSL | Posted Aug. 20 - 1:29 p.m. |  Save Story" [level=4] [ref=e104]:
+                - text: Logan Stefanich, KSL | Posted Aug. 20 - 1:29 p.m. |
+                - generic [ref=e105] [cursor=pointer]:
+                  - generic [ref=e106]: 
+                  - text: Save Story
+              - heading "The U.S. Department of Energy announced Waterleaf P1 HoldCo was awarded a $100 million grant to build a commercial lithium extraction and refining facility on the Great Salt Lake's northeastern shore." [level=5] [ref=e107]
+          - generic [ref=e109]:
+            - figure [ref=e110]:
+              - link "Utah governor 'deeply troubled' by Flock camera concerns, orders privacy review":
+                - /url: /article/51611920/watch-live-gov-spencer-cox-holds-monthly-news-conference
+                - img "Utah governor 'deeply troubled' by Flock camera concerns, orders privacy review" [ref=e112] [cursor=pointer]
+            - generic [ref=e113]:
+              - heading [level=2] [ref=e114]:
+                - link "Utah governor 'deeply troubled' by Flock camera concerns, orders privacy review" [ref=e115] [cursor=pointer]:
+                  - /url: /article/51611920/watch-live-gov-spencer-cox-holds-monthly-news-conference
+              - heading "Video Daniel Woodruff and Bridger Beal-Cvetko, KSL | Updated Aug. 20 - 1:16 p.m. |  Save Story" [level=4] [ref=e116]:
+                - generic [ref=e117]: Video
+                - text: Daniel Woodruff and Bridger Beal-Cvetko, KSL | Updated Aug. 20 - 1:16 p.m. |
+                - generic [ref=e121] [cursor=pointer]:
+                  - generic [ref=e122]: 
+                  - text: Save Story
+              - heading "Gov. Spencer Cox will take questions from reporters during his monthly news conference Thursday morning." [level=5] [ref=e123]
+          - generic [ref=e125]:
+            - figure [ref=e126]:
+              - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands":
+                - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+                - img "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=e128] [cursor=pointer]
+            - generic [ref=e129]:
+              - heading [level=2] [ref=e130]:
+                - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=e131] [cursor=pointer]:
+                  - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+              - heading "Video Mike Anderson, KSL | Updated Aug. 20 - 12:59 p.m. |  Save Story" [level=4] [ref=e132]:
+                - generic [ref=e133]: Video
+                - text: Mike Anderson, KSL | Updated Aug. 20 - 12:59 p.m. |
+                - generic [ref=e137] [cursor=pointer]:
+                  - generic [ref=e138]: 
+                  - text: Save Story
+              - heading "Two friends who also guide tourists around Bears Ears share their differing visions for protecting the land." [level=5] [ref=e139]
+          - generic [ref=e141]:
+            - figure [ref=e142]:
+              - link "Utah Gov. Spencer Cox becomes a grandfather":
+                - /url: /article/51614352/utah-gov-spencer-cox-becomes-grandfather-for-first-time?bust=1
+                - img "Utah Gov. Spencer Cox becomes a grandfather" [ref=e144] [cursor=pointer]
+            - generic [ref=e145]:
+              - heading [level=2] [ref=e146]:
+                - link "Utah Gov. Spencer Cox becomes a grandfather" [ref=e147] [cursor=pointer]:
+                  - /url: /article/51614352/utah-gov-spencer-cox-becomes-grandfather-for-first-time?bust=1
+              - heading "Daniel Woodruff, KSL | Posted Aug. 20 - 12:03 p.m. |  Save Story" [level=4] [ref=e148]:
+                - text: Daniel Woodruff, KSL | Posted Aug. 20 - 12:03 p.m. |
+                - generic [ref=e149] [cursor=pointer]:
+                  - generic [ref=e150]: 
+                  - text: Save Story
+              - heading "Gov. Spencer Cox's first grandchild was born on Wednesday, the governor confirmed during his monthly news conference." [level=5] [ref=e151]
+          - generic [ref=e153]:
+            - generic [ref=e154]:
+              - figure [ref=e155]:
+                - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries":
+                  - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                  - img "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=e157] [cursor=pointer]
+              - generic [ref=e158]:
+                - heading [level=2] [ref=e159]:
+                  - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=e160] [cursor=pointer]:
+                    - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+                - heading "Arianne Brown, KSL | Posted Aug. 20 - 12:01 p.m. |  Save Story" [level=4] [ref=e161]:
+                  - text: Arianne Brown, KSL | Posted Aug. 20 - 12:01 p.m. |
+                  - generic [ref=e162] [cursor=pointer]:
+                    - generic [ref=e163]: 
+                    - text: Save Story
+                - heading "Zion Silva, 6, is being hailed as a hero after saving his 4-year-old brother, Leo, from falling from a two-story window. But now Zion is recovering from serious injuries of his own." [level=5] [ref=e164]
+            - generic [ref=e169]:
+              - text: Advertisement
+              - generic [ref=e170]:
+                - iframe [ref=e172]:
+                  - link [ref=f15e9] [cursor=pointer]:
+                    - /url: https://sidestage.com/iceland/Cinematic-Iceland/ashley-drew
+                - generic [ref=e173]:
+                  - generic:
+                    - generic:
+                      - link "Advertise with us" [ref=e174] [cursor=pointer]:
+                        - /url: https://www.deseretdigital.com/advertising
+                      - button "Report ad" [ref=e176] [cursor=pointer]
+          - generic [ref=e177]:
+            - figure [ref=e178]:
+              - link "Babylon Fire closure area reopened after burning for nearly 2 months":
+                - /url: /article/51612097/babylon-fire-closure-area-reopened-after-burning-for-nearly-2-months
+                - img "Babylon Fire closure area reopened after burning for nearly 2 months" [ref=e180] [cursor=pointer]
+            - generic [ref=e181]:
+              - heading [level=2] [ref=e182]:
+                - link "Babylon Fire closure area reopened after burning for nearly 2 months" [ref=e183] [cursor=pointer]:
+                  - /url: /article/51612097/babylon-fire-closure-area-reopened-after-burning-for-nearly-2-months
+              - heading "Joe R. Wirthlin Jr, KSL | Updated Aug. 20 - 11:35 a.m. |  Save Story" [level=4] [ref=e184]:
+                - text: Joe R. Wirthlin Jr, KSL | Updated Aug. 20 - 11:35 a.m. |
+                - generic [ref=e185] [cursor=pointer]:
+                  - generic [ref=e186]: 
+                  - text: Save Story
+              - heading "The Manti-La Sal National Forest announced that all lands within the Monticello Ranger District are now open to the public and the Babylon Fire is now 100% contained after the fire began June 25." [level=5] [ref=e187]
+          - generic [ref=e189]:
+            - figure [ref=e190]:
+              - link "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges":
+                - /url: /article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+                - img "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [ref=e192] [cursor=pointer]
+            - generic [ref=e193]:
+              - heading [level=2] [ref=e194]:
+                - link "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [ref=e195] [cursor=pointer]:
+                  - /url: /article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+              - heading "Pat Reavy, KSL | Posted Aug. 20 - 11:26 a.m. |  Save Story" [level=4] [ref=e196]:
+                - text: Pat Reavy, KSL | Posted Aug. 20 - 11:26 a.m. |
+                - generic [ref=e197] [cursor=pointer]:
+                  - generic [ref=e198]: 
+                  - text: Save Story
+              - heading "A Taylorsville man who allegedly held a woman against her will for three days and abused her has been charged with 19 felonies and a misdemeanor." [level=5] [ref=e199]
+          - generic [ref=e201]:
+            - figure [ref=e202]:
+              - link "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue":
+                - /url: /article/51611832/238m-upgrade-of-5600-south-i-15-interchange-in-roy-nearly-done-other-projects-continue
+                - img "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue" [ref=e204] [cursor=pointer]
+            - generic [ref=e205]:
+              - heading [level=2] [ref=e206]:
+                - link "$238M upgrade of 5600 South, I-15 interchange in Roy nearly done, other projects continue" [ref=e207] [cursor=pointer]:
+                  - /url: /article/51611832/238m-upgrade-of-5600-south-i-15-interchange-in-roy-nearly-done-other-projects-continue
+              - heading "Tim Vandenack, KSL | Posted Aug. 20 - 10:12 a.m. |  Save Story" [level=4] [ref=e208]:
+                - text: Tim Vandenack, KSL | Posted Aug. 20 - 10:12 a.m. |
+                - generic [ref=e209] [cursor=pointer]:
+                  - generic [ref=e210]: 
+                  - text: Save Story
+              - heading "The $238 million upgrade of 5600 South and the I-15 interchange in Roy, spurred by growth, is largely complete, though other major road projects in the area continue." [level=5] [ref=e211]
+          - generic [ref=e213]:
+            - figure [ref=e214]:
+              - link "Utah State Hospital needs 'significant' increase in beds, lawmakers told":
+                - /url: /article/51611919/utah-state-hospital-needs-significant-increase-in-beds-lawmakers-told
+                - img "Utah State Hospital needs 'significant' increase in beds, lawmakers told" [ref=e216] [cursor=pointer]
+            - generic [ref=e217]:
+              - heading [level=2] [ref=e218]:
+                - link "Utah State Hospital needs 'significant' increase in beds, lawmakers told" [ref=e219] [cursor=pointer]:
+                  - /url: /article/51611919/utah-state-hospital-needs-significant-increase-in-beds-lawmakers-told
+              - heading "Video Daniel Woodruff, KSL | Updated Aug. 20 - 9:07 a.m. |  Save Story" [level=4] [ref=e220]:
+                - generic [ref=e221]: Video
+                - text: Daniel Woodruff, KSL | Updated Aug. 20 - 9:07 a.m. |
+                - generic [ref=e225] [cursor=pointer]:
+                  - generic [ref=e226]: 
+                  - text: Save Story
+              - heading "The hospital in Provo currently has 378 beds, but hospital leaders said they need many more, starting in 2028." [level=5] [ref=e227]
+          - generic [ref=e229]:
+            - figure [ref=e230]:
+              - link "Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says":
+                - /url: /article/51611776/utah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says
+                - img "Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says" [ref=e232] [cursor=pointer]
+            - generic [ref=e233]:
+              - heading [level=2] [ref=e234]:
+                - link "Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says" [ref=e235] [cursor=pointer]:
+                  - /url: /article/51611776/utah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says
+              - heading "Video Bridger Beal-Cvetko, KSL | Posted Aug. 20 - 8:07 a.m. |  Save Story" [level=4] [ref=e236]:
+                - generic [ref=e237]: Video
+                - text: Bridger Beal-Cvetko, KSL | Posted Aug. 20 - 8:07 a.m. |
+                - generic [ref=e241] [cursor=pointer]:
+                  - generic [ref=e242]: 
+                  - text: Save Story
+              - heading "An agency leader said there are \"major gaps\" in Utah's regulation of data center development, particularly when it comes to the impacts new projects will have on local temperatures and noise." [level=5] [ref=e243]
+          - generic [ref=e245]:
+            - figure [ref=e246]:
+              - link "Proposed Sugar House business district receives pushback from businesses":
+                - /url: /article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses
+                - img "Proposed Sugar House business district receives pushback from businesses" [ref=e248] [cursor=pointer]
+            - generic [ref=e249]:
+              - heading [level=2] [ref=e250]:
+                - link "Proposed Sugar House business district receives pushback from businesses" [ref=e251] [cursor=pointer]:
+                  - /url: /article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses
+              - heading "Carter Williams, KSL | Posted Aug. 20 - 7:32 a.m. |  Save Story" [level=4] [ref=e252]:
+                - text: Carter Williams, KSL | Posted Aug. 20 - 7:32 a.m. |
+                - generic [ref=e253] [cursor=pointer]:
+                  - generic [ref=e254]: 
+                  - text: Save Story
+              - heading "A proposed special assessment for improvements within the business district has created mixed feelings among business owners." [level=5] [ref=e255]
+          - generic [ref=e257]:
+            - figure [ref=e258]:
+              - link "Twin brothers identified in Kearns funeral shooting":
+                - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+                - img "Twin brothers identified in Kearns funeral shooting" [ref=e260] [cursor=pointer]
+            - generic [ref=e261]:
+              - heading [level=2] [ref=e262]:
+                - link "Twin brothers identified in Kearns funeral shooting" [ref=e263] [cursor=pointer]:
+                  - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+              - heading "Video Garna Mejia, KSL | Updated Aug. 20 - 7:01 a.m. |  Save Story" [level=4] [ref=e264]:
+                - generic [ref=e265]: Video
+                - text: Garna Mejia, KSL | Updated Aug. 20 - 7:01 a.m. |
+                - generic [ref=e269] [cursor=pointer]:
+                  - generic [ref=e270]: 
+                  - text: Save Story
+              - heading "The two victims shot outside a funeral in Kearns on Monday were identified as 18-year-old twin brothers." [level=5] [ref=e271]
+          - generic [ref=e273]:
+            - generic [ref=e274]:
+              - figure [ref=e275]:
+                - link "Sen. Curtis talks public transit expansion ahead of temple open house and Olympics":
+                  - /url: /article/news/business/sen-curtis-talks-public-transit-expansion-ahead-of-temple-open-house-and-olympics/51611823
+                  - img "Sen. Curtis talks public transit expansion ahead of temple open house and Olympics" [ref=e277] [cursor=pointer]
+              - generic [ref=e278]:
+                - heading [level=2] [ref=e279]:
+                  - link "Sen. Curtis talks public transit expansion ahead of temple open house and Olympics" [ref=e280] [cursor=pointer]:
+                    - /url: /article/news/business/sen-curtis-talks-public-transit-expansion-ahead-of-temple-open-house-and-olympics/51611823
+                - heading "Emily Walker, Deseret News | Posted Aug. 20 - 6:36 a.m. |  Save Story" [level=4] [ref=e281]:
+                  - text: Emily Walker, Deseret News | Posted Aug. 20 - 6:36 a.m. |
+                  - generic [ref=e282] [cursor=pointer]:
+                    - generic [ref=e283]: 
+                    - text: Save Story
+                - heading "As Utah prepares to host millions of visitors for the Salt Lake Temple open house and the 2034 Winter Olympics, its railways are undergoing a major change." [level=5] [ref=e284]
+            - generic [ref=e289]:
+              - text: Advertisement
+              - generic [ref=e290]:
+                - iframe [ref=e292]:
+                  - generic [ref=f17e3]:
+                    - generic [ref=f17e4]:
+                      - link "Restaurants In Salt Lake City With Good Senior Discounts" [ref=f17e5] [cursor=pointer]:
+                        - /url: https://rtb-usw.mfadsrvr.com/click/QKeFimCGs-55EVD9PJm59w9YDkGikQJvTIUmCabOQCrUBp0IuT7d-gwkwelnxCZNmL7NmevWYrCyW4wzBCXkz5pllSNie3bmC2yRovSzP5cojNdBpJ1FsGGAV3niEenlTJNpXSUDx9npKsvDACYyeZP60fW5hejnq_MqOW4cHErsobE5jpmvwwDUzgcMnUYWjZSbAWJKkUYI7clZQF0mYilD6JJkVZ7hvTSAl84H9PLX8LvzexFoV69pKYVnJosWjBzVZAVHE8lV_aEeAfzmDqvLmpvI5mH1fDUYf3d3Yv_RbpYBXBPHGnuz9GQD4P_Ta3FGrx1Bt_jJwzgxp7rtLrOZqE4YxI3zJWTxqQfeO8d6BAH0EoLH92q8Z6wtQfgWg9XRONfd_hSZx72FUs8f8LMw-dxLlFp1aFtBJVETw2Nvt9YCnRC3bzgZysCsNVy0JYKgfjveUxJgYq9XnYLjh5CvkTDCO8o5L2KhGfTRM60MUYPsDYrS52kVxhu-l9Eq7rwYIbC0DT5WLeM1ZCwxrOYdJ7NHOOyNtEJjfp7PdkJ-0C4XqCgHynmSZn0LvjiZjkdnrA///?lp_domain=articles.comparisons.org
+                      - link "12 Things To Cut When Living On Retirement" [ref=f17e9] [cursor=pointer]:
+                        - /url: https://rtb-usw.mfadsrvr.com/click/QKeFimCGs-55EVD9PJm59w9YDkGikQJvTIUmCabOQCrUBp0IuT7d-gwkwelnxCZNmL7NmevWYrCyW4wzBCXkz5pllSNie3bmC2yRovSzP5cojNdBpJ1FsGGAV3niEenlTJNpXSUDx9npKsvDACYyeZP60fW5hejnq_MqOW4cHErsobE5jpmvwwDUzgcMnUYWjZSbAWJKkUYI7clZQF0mYilD6JJkVZ7hvTSAl84H9PLX8LvzexFoV69pKYVnJosWjBzVZAVHE8lV_aEeAfzmDqvLmpvI5mH1fDUYf3d3Yv_RbpYBXBPHGnuz9GQD4P_Ta3FGrx1Bt_jJwzgxp7rtLrOZqE4YxI3zJWTxqQfeO8d6BAH0EoLH92q8Z6wtQfgWg9XRONfd_hSZx72FUs8f8LMw-dxLlFp1aFtBJVETw2Nvt9YCnRC3bzgZysCsNVy0JYKgfjveUxJgYq9XnYLjh5CvkTDCO8o5L2KhGfTRM60MUYPsDYrS52kVxhu-l9Eq7rwYIbC0DT5WLeM1ZCwxrOYdJ7NHOOyNtEJjfp7PdkJ-0C4XqCgHynmSZn0LvjiZjkdnrA///?lp_domain=articles.comparisons.org
+                      - link "Seniors Born Between 1941-1969 Can Receive These 10 Benefits" [ref=f17e13] [cursor=pointer]:
+                        - /url: https://rtb-usw.mfadsrvr.com/click/QKeFimCGs-55EVD9PJm59w9YDkGikQJvTIUmCabOQCrUBp0IuT7d-gwkwelnxCZNmL7NmevWYrCyW4wzBCXkz5pllSNie3bmC2yRovSzP5cojNdBpJ1FsGGAV3niEenlTJNpXSUDx9npKsvDACYyeZP60fW5hejnq_MqOW4cHErsobE5jpmvwwDUzgcMnUYWjZSbAWJKkUYI7clZQF0mYilD6JJkVZ7hvTSAl84H9PLX8LvzexFoV69pKYVnJosWjBzVZAVHE8lV_aEeAfzmDqvLmpvI5mH1fDUYf3d3Yv_RbpYBXBPHGnuz9GQD4P_Ta3FGrx1Bt_jJwzgxp7rtLrOZqE4YxI3zJWTxqQfeO8d6BAH0EoLH92q8Z6wtQfgWg9XRONfd_hSZx72FUs8f8LMw-dxLlFp1aFtBJVETw2Nvt9YCnRC3bzgZysCsNVy0JYKgfjveUxJgYq9XnYLjh5CvkTDCO8o5L2KhGfTRM60MUYPsDYrS52kVxhu-l9Eq7rwYIbC0DT5WLeM1ZCwxrOYdJ7NHOOyNtEJjfp7PdkJ-0C4XqCgHynmSZn0LvjiZjkdnrA///?lp_domain=articles.comparisons.org
+                      - generic [ref=f17e17]: Comparisons.org
+                    - iframe
+                - generic [ref=e293]:
+                  - generic:
+                    - generic:
+                      - link "Advertise with us" [ref=e294] [cursor=pointer]:
+                        - /url: https://www.deseretdigital.com/advertising
+                      - button "Report ad" [ref=e296] [cursor=pointer]
+          - generic [ref=e297]:
+            - figure [ref=e298]:
+              - link "Logan man swims length of Bear Lake, prepares to cross English Channel":
+                - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+                - img "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=e300] [cursor=pointer]
+            - generic [ref=e301]:
+              - heading [level=2] [ref=e302]:
+                - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=e303] [cursor=pointer]:
+                  - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+              - heading "Video Mike Anderson, KSL | Updated Aug. 20 - 6:17 a.m. |  Save Story" [level=4] [ref=e304]:
+                - generic [ref=e305]: Video
+                - text: Mike Anderson, KSL | Updated Aug. 20 - 6:17 a.m. |
+                - generic [ref=e309] [cursor=pointer]:
+                  - generic [ref=e310]: 
+                  - text: Save Story
+              - 'heading "In just over 11 hours, Brayden Jarrett swam the length of Bear Lake Saturday, spanning nearly 20 miles. That milestone helps him prepare for his next goal: to cross the English Channel next June." [level=5] [ref=e311]'
+          - generic [ref=e313]:
+            - figure [ref=e314]:
+              - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail":
+                - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+                - img "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=e316] [cursor=pointer]
+            - generic [ref=e317]:
+              - heading [level=2] [ref=e318]:
+                - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=e319] [cursor=pointer]:
+                  - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+              - heading "Devin Oldroyd, KSL | Posted Aug. 19 - 10:32 p.m. |  Save Story" [level=4] [ref=e320]:
+                - text: Devin Oldroyd, KSL | Posted Aug. 19 - 10:32 p.m. |
+                - generic [ref=e321] [cursor=pointer]:
+                  - generic [ref=e322]: 
+                  - text: Save Story
+              - heading "A 16-year-old boy died after likely falling over 100 feet while hiking near Alta on Wednesday." [level=5] [ref=e323]
+          - generic [ref=e325]:
+            - figure [ref=e326]:
+              - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in":
+                - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+                - img "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=e328] [cursor=pointer]
+            - generic [ref=e329]:
+              - heading [level=2] [ref=e330]:
+                - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=e331] [cursor=pointer]:
+                  - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+              - heading "Video Shelby Lofton, KSL | Posted Aug. 19 - 10:27 p.m. |  Save Story" [level=4] [ref=e332]:
+                - generic [ref=e333]: Video
+                - text: Shelby Lofton, KSL | Posted Aug. 19 - 10:27 p.m. |
+                - generic [ref=e337] [cursor=pointer]:
+                  - generic [ref=e338]: 
+                  - text: Save Story
+              - heading "A potential Super El Niño has Utah skiers and resort operators hopeful for a snowy winter, but forecasters caution that its impact on the state's snowpack remains uncertain." [level=5] [ref=e339]
+          - generic [ref=e341]:
+            - figure [ref=e342]:
+              - link "Cambodia's first Latter-day Saint temple opens to the public":
+                - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+                - img "Cambodia's first Latter-day Saint temple opens to the public" [ref=e344] [cursor=pointer]
+            - generic [ref=e345]:
+              - heading [level=2] [ref=e346]:
+                - link "Cambodia's first Latter-day Saint temple opens to the public" [ref=e347] [cursor=pointer]:
+                  - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+              - heading "Video Emma Benson, KSL | Updated Aug. 19 - 9:57 p.m. |  Save Story" [level=4] [ref=e348]:
+                - generic [ref=e349]: Video
+                - text: Emma Benson, KSL | Updated Aug. 19 - 9:57 p.m. |
+                - generic [ref=e353] [cursor=pointer]:
+                  - generic [ref=e354]: 
+                  - text: Save Story
+              - heading "Thirty-two years after missionaries first arrived in Cambodia, the country's first temple of The Church of Jesus Christ of Latter-day Saints is opening its doors to the public." [level=5] [ref=e355]
+          - generic [ref=e357]:
+            - figure [ref=e358]:
+              - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash":
+                - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+                - img "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=e360] [cursor=pointer]
+            - generic [ref=e361]:
+              - heading [level=2] [ref=e362]:
+                - link "Teen hospitalized with serious injuries after Roy car, e-scooter crash" [ref=e363] [cursor=pointer]:
+                  - /url: /article/51611957/teen-hospitalized-with-serious-injuries-after-roy-car-e-scooter-crash
+              - heading "Devin Oldroyd, KSL | Posted Aug. 19 - 9:40 p.m. |  Save Story" [level=4] [ref=e364]:
+                - text: Devin Oldroyd, KSL | Posted Aug. 19 - 9:40 p.m. |
+                - generic [ref=e365] [cursor=pointer]:
+                  - generic [ref=e366]: 
+                  - text: Save Story
+              - heading "A teen was hospitalized with serious injuries in Roy after a crash involving a car and an e-scooter on Wednesday night." [level=5] [ref=e367]
+          - generic [ref=e369]:
+            - figure [ref=e370]:
+              - 'link "''The future of healthcare'': University of Utah opens $215M medical school"':
+                - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+                - 'img "''The future of healthcare'': University of Utah opens $215M medical school" [ref=e372] [cursor=pointer]'
+            - generic [ref=e373]:
+              - heading [level=2] [ref=e374]:
+                - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=e375] [cursor=pointer]':
+                  - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+              - heading "Video Logan Stefanich, KSL | Posted Aug. 19 - 9:02 p.m. |  Save Story" [level=4] [ref=e376]:
+                - generic [ref=e377]: Video
+                - text: Logan Stefanich, KSL | Posted Aug. 19 - 9:02 p.m. |
+                - generic [ref=e381] [cursor=pointer]:
+                  - generic [ref=e382]: 
+                  - text: Save Story
+              - heading "The University of Utah on Wednesday opened the $215 million, state-of-the-art Spencer Fox Eccles School of Medicine in a landmark chapter for the state's only university health system." [level=5] [ref=e383]
+          - generic [ref=e385]:
+            - button "Load More Stories" [ref=e386] [cursor=pointer]
+            - link "Browse by day" [ref=e388] [cursor=pointer]:
+              - /url: /archive/2026/08/20/_news_utah
+        - generic [ref=e389]:
+          - generic [ref=e390]:
+            - heading [level=3] [ref=e391]:
+              - link "Business & Tech »" [ref=e392] [cursor=pointer]:
+                - /url: /news/business
+            - link [ref=e393] [cursor=pointer]:
+              - /url: /article/51614351/california-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+              - img "Top Business & Tech story anchor" [ref=e395]
+              - heading "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore" [level=2] [ref=e397]
+            - list [ref=e398]:
+              - listitem [ref=e399]:
+                - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=e400] [cursor=pointer]:
+                  - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+              - listitem [ref=e401]:
+                - link "Proposed Sugar House business district receives pushback from businesses" [ref=e402] [cursor=pointer]:
+                  - /url: /article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses
+              - listitem [ref=e403]:
+                - link "Sen. Curtis talks public transit expansion ahead of temple open house and Olympics" [ref=e404] [cursor=pointer]:
+                  - /url: /article/news/business/sen-curtis-talks-public-transit-expansion-ahead-of-temple-open-house-and-olympics/51611823
+              - listitem [ref=e405]:
+                - link "Could a 'Super El Niño' deliver a big winter for Utah? Forecasters and resorts weigh in" [ref=e406] [cursor=pointer]:
+                  - /url: /article/51611971/could-a-super-el-nio-deliver-a-big-winter-for-utah-forecasters-and-resorts-weigh-in
+          - generic [ref=e407]:
+            - heading [level=3] [ref=e408]:
+              - link "Education »" [ref=e409] [cursor=pointer]:
+                - /url: /news/utah/education
+            - link [ref=e410] [cursor=pointer]:
+              - /url: /article/51612058/pulitzers-and-american-library-association-launch-pulitzer-on-the-road-touring-exhibit
+              - img "Top Education story anchor" [ref=e412]
+              - heading "Pulitzers and American Library Association launch 'Pulitzer on the Road' touring exhibit" [level=2] [ref=e414]
+            - list [ref=e415]:
+              - listitem [ref=e416]:
+                - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=e417] [cursor=pointer]':
+                  - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+              - listitem [ref=e418]:
+                - link "Bats prompt concern ahead of back-to-school at Stansbury Park Elementary School" [ref=e419] [cursor=pointer]:
+                  - /url: /article/51611433/bats-prompt-concern-ahead-of-back-to-school-at-stansbury-park-elementary-school
+              - listitem [ref=e420]:
+                - link "Utah parents urged to talk to kids about fentanyl as school year begins" [ref=e421] [cursor=pointer]:
+                  - /url: /article/51611476/utah-parents-urged-to-talk-to-kids-about-fentanyl-as-school-year-begins
+              - listitem [ref=e422]:
+                - link "A few tips on how moms and dads can help kids manage back-to-school jitters" [ref=e423] [cursor=pointer]:
+                  - /url: /article/news/utah/education/a-few-tips-on-how-moms-and-dads-can-help-kids-manage-back-to-school-jitters/51611035
+          - generic [ref=e424]:
+            - heading [level=3] [ref=e425]:
+              - link "Environment »" [ref=e426] [cursor=pointer]:
+                - /url: /news/utah/environment
+            - link [ref=e427] [cursor=pointer]:
+              - /url: /article/51614351/california-company-awarded-100m-to-develop-critical-mineral-facility-on-great-salt-lake-shore
+              - img "Top Environment story anchor" [ref=e429]
+              - heading "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore" [level=2] [ref=e431]
+            - list [ref=e432]:
+              - listitem [ref=e433]:
+                - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=e434] [cursor=pointer]:
+                  - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+              - listitem [ref=e435]:
+                - link "Utah has 'major gaps' in regulating noise, temperature from new data centers, agency head says" [ref=e436] [cursor=pointer]:
+                  - /url: /article/51611776/utah-has-major-gaps-in-regulating-noise-temperature-from-new-data-centers-agency-head-says
+              - listitem [ref=e437]:
+                - link "Former teacher, 93, among the deaths blamed on storm as Hawaii residents struggle to clean up" [ref=e438] [cursor=pointer]:
+                  - /url: /article/51611517/former-teacher-93-among-the-deaths-blamed-on-storm-as-hawaii-residents-struggle-to-clean-up
+              - listitem [ref=e439]:
+                - link "Utah finds a new economic and ecological partner in Argentina" [ref=e440] [cursor=pointer]:
+                  - /url: /article/news/utah/politics/utah-finds-a-new-economic-and-ecological-partner-in-argentina/51611774
+          - generic [ref=e441]:
+            - heading [level=3] [ref=e442]:
+              - link "Health »" [ref=e443] [cursor=pointer]:
+                - /url: /news/utah/health
+            - link [ref=e444] [cursor=pointer]:
+              - /url: /article/51611919/utah-state-hospital-needs-significant-increase-in-beds-lawmakers-told
+              - img "Top Health story anchor" [ref=e446]
+              - heading "Utah State Hospital needs 'significant' increase in beds, lawmakers told" [level=2] [ref=e448]
+            - list [ref=e449]:
+              - listitem [ref=e450]:
+                - link "Logan man swims length of Bear Lake, prepares to cross English Channel" [ref=e451] [cursor=pointer]:
+                  - /url: /article/51611467/logan-man-swims-length-of-bear-lake-prepares-to-cross-english-channel
+              - listitem [ref=e452]:
+                - 'link "''The future of healthcare'': University of Utah opens $215M medical school" [ref=e453] [cursor=pointer]':
+                  - /url: /article/51611868/the-future-of-healthcare-university-of-utah-opens-215m-medical-school
+              - listitem [ref=e454]:
+                - link "Running is really getting their kids somewhere" [ref=e455] [cursor=pointer]:
+                  - /url: /article/51611860/running-is-really-getting-their-kids-somewhere
+              - listitem [ref=e456]:
+                - link "Bats prompt concern ahead of back-to-school at Stansbury Park Elementary School" [ref=e457] [cursor=pointer]:
+                  - /url: /article/51611433/bats-prompt-concern-ahead-of-back-to-school-at-stansbury-park-elementary-school
+          - generic [ref=e458]:
+            - heading [level=3] [ref=e459]:
+              - link "Police & Courts »" [ref=e460] [cursor=pointer]:
+                - /url: /news/utah/police-and-courts
+            - link [ref=e461] [cursor=pointer]:
+              - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+              - img "Top Police & Courts story anchor" [ref=e463]
+              - heading "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [level=2] [ref=e465]
+            - list [ref=e466]:
+              - listitem [ref=e467]:
+                - link "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [ref=e468] [cursor=pointer]:
+                  - /url: /article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+              - listitem [ref=e469]:
+                - link "Netflix sued by band Demon Hunter over 'KPop Demon Hunters'" [ref=e470] [cursor=pointer]:
+                  - /url: /article/51612099/netflix-sued-by-band-demon-hunter-over-kpop-demon-hunters
+              - listitem [ref=e471]:
+                - link "Twin brothers identified in Kearns funeral shooting" [ref=e472] [cursor=pointer]:
+                  - /url: /article/51611958/twin-brothers-identified-in-kearns-funeral-shooting
+              - listitem [ref=e473]:
+                - link "Teen dies after falling around 100 feet while hiking Devils Castle Trail" [ref=e474] [cursor=pointer]:
+                  - /url: /article/51611972/teen-dies-after-falling-around-100-feet-while-hiking-devils-castle-trail
+          - generic [ref=e475]:
+            - heading [level=3] [ref=e476]:
+              - link "Politics »" [ref=e477] [cursor=pointer]:
+                - /url: /news/politics
+            - link [ref=e478] [cursor=pointer]:
+              - /url: /article/51611920/watch-live-gov-spencer-cox-holds-monthly-news-conference
+              - img "Top Politics story anchor" [ref=e480]
+              - heading "Utah governor 'deeply troubled' by Flock camera concerns, orders privacy review" [level=2] [ref=e482]
+            - list [ref=e483]:
+              - listitem [ref=e484]:
+                - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=e485] [cursor=pointer]:
+                  - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+              - listitem [ref=e486]:
+                - link "US sends 20 deportees to Liberia, part of 1,200 migrants the country will receive under new deal" [ref=e487] [cursor=pointer]:
+                  - /url: /article/51612119/us-sends-20-deportees-to-liberia-part-of-1200-migrants-the-country-will-receive-under-new-deal
+              - listitem [ref=e488]:
+                - link "Utah Gov. Spencer Cox becomes a grandfather" [ref=e489] [cursor=pointer]:
+                  - /url: /article/51614352/utah-gov-spencer-cox-becomes-grandfather-for-first-time?bust=1
+              - listitem [ref=e490]:
+                - link "Trump warns of economic consequences for any country that supports Iran" [ref=e491] [cursor=pointer]:
+                  - /url: /article/51611948/trump-warns-of-economic-consequences-for-any-country-that-supports-iran
+          - generic [ref=e492]:
+            - heading [level=3] [ref=e493]:
+              - link "Religion »" [ref=e494] [cursor=pointer]:
+                - /url: /news/utah/religion
+            - link [ref=e495] [cursor=pointer]:
+              - /url: /article/51611770/cambodias-first-latter-day-saint-temple-opens-to-the-public
+              - img "Top Religion story anchor" [ref=e497]
+              - heading "Cambodia's first Latter-day Saint temple opens to the public" [level=2] [ref=e499]
+            - list [ref=e500]:
+              - listitem [ref=e501]:
+                - link "Idaho Falls woman opens recovery center born from her own struggle" [ref=e502] [cursor=pointer]:
+                  - /url: /article/51611017/idaho-falls-woman-opens-recovery-center-born-from-her-own-struggle
+              - listitem [ref=e503]:
+                - link "Videos projected on Tabernacle dome to be one of many upcoming Temple Square experiences" [ref=e504] [cursor=pointer]:
+                  - /url: /article/51610721/videos-projected-on-tabernacle-dome-to-be-one-of-many-upcoming-temple-square-experiences
+              - listitem [ref=e505]:
+                - link "American Idol winner Iam Tongi brings message of faith, family to Salt Lake City" [ref=e506] [cursor=pointer]:
+                  - /url: /article/51610278/american-idol-winner-iam-tongi-brings-message-of-faith-family-to-salt-lake-city
+              - listitem [ref=e507]:
+                - link "'Prophecies fulfilled' at Cleveland Ohio Temple dedication" [ref=e508] [cursor=pointer]:
+                  - /url: /article/51610250/prophecies-fulfilled-at-cleveland-ohio-temple-dedication
+          - generic [ref=e509]:
+            - heading [level=3] [ref=e510]:
+              - link "Science »" [ref=e511] [cursor=pointer]:
+                - /url: /news/utah/science-and-tech
+            - link [ref=e512] [cursor=pointer]:
+              - /url: /article/51611593/amazon-set-to-expand-drone-delivery-of-lightweight-packages-to-500-us-cities
+              - img "Top Science story anchor" [ref=e514]
+              - heading "Amazon set to expand drone delivery of lightweight packages to 500 US cities" [level=2] [ref=e516]
+            - list [ref=e517]:
+              - listitem [ref=e518]:
+                - link "Florida's Jellyfish Museum is dedicated solely to the mesmerizing floating predators" [ref=e519] [cursor=pointer]:
+                  - /url: /article/51611511/floridas-jellyfish-museum-is-dedicated-solely-to-the-mesmerizing-floating-predators
+              - listitem [ref=e520]:
+                - link "Rescue mission for aging NASA space telescope fails" [ref=e521] [cursor=pointer]:
+                  - /url: /article/51611801/rescue-mission-for-aging-nasa-space-telescope-fails
+              - listitem [ref=e522]:
+                - link "Residents voice concerns over self-powered data center proposal in Spanish Fork" [ref=e523] [cursor=pointer]:
+                  - /url: /article/51611520/residents-voice-concerns-over-proposed-data-center-regulations-in-spanish-fork
+              - listitem [ref=e524]:
+                - link "Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon" [ref=e525] [cursor=pointer]:
+                  - /url: /article/51611423/before-and-after-nasa-images-show-crater-carved-by-a-spacex-rocket-that-slammed-into-the-moon
+          - generic [ref=e526]:
+            - heading [level=3] [ref=e527]:
+              - link "Utah Counties »" [ref=e528] [cursor=pointer]:
+                - /url: /news/utah/counties
+            - link [ref=e529] [cursor=pointer]:
+              - /url: /article/51614332/inmate-with-disregard-for-law-enforcement-accused-of-assaulting-corrections-officer
+              - img "Top Utah Counties story anchor" [ref=e531]
+              - heading "Inmate with 'disregard for law enforcement' accused of assaulting corrections officer" [level=2] [ref=e533]
+            - list [ref=e534]:
+              - listitem [ref=e535]:
+                - link "2 Bears Ears guides share differing perspectives on preservation of the surrounding lands" [ref=e536] [cursor=pointer]:
+                  - /url: /article/51604198/2-bears-ears-guides-share-differing-perspectives-on-preservation-of-the-surrounding-lands
+              - listitem [ref=e537]:
+                - link "Saratoga Springs boy being hailed a hero after saving brother, now recovering from own injuries" [ref=e538] [cursor=pointer]:
+                  - /url: /article/51611918/saratoga-springs-boy-being-hailed-a-hero-after-saving-brother-now-recovering-from-own-injuries
+              - listitem [ref=e539]:
+                - link "Babylon Fire closure area reopened after burning for nearly 2 months" [ref=e540] [cursor=pointer]:
+                  - /url: /article/51612097/babylon-fire-closure-area-reopened-after-burning-for-nearly-2-months
+              - listitem [ref=e541]:
+                - link "Taylorsville man accused of holding woman hostage for 3 days, faces 20 charges" [ref=e542] [cursor=pointer]:
+                  - /url: /article/51614284/taylorsville-man-accused-of-holding-woman-hostage-for-3-days-faces-20-charges
+      - generic [ref=e546]:
+        - generic [ref=e547]:
+          - generic [ref=e548]:
+            - link [ref=e549] [cursor=pointer]:
+              - /url: /
+              - img "KSL.com Logo" [ref=e551]
+            - list [ref=e552]:
+              - listitem [ref=e553]:
+                - link "" [ref=e554] [cursor=pointer]:
+                  - /url: https://www.facebook.com/kslcom
+              - listitem [ref=e555]:
+                - link "" [ref=e556] [cursor=pointer]:
+                  - /url: https://twitter.com/KSLcom
+              - listitem [ref=e557]:
+                - link "" [ref=e558] [cursor=pointer]:
+                  - /url: https://www.instagram.com/kslcom
+              - listitem [ref=e559]:
+                - link "" [ref=e560] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@kslnews
+              - listitem [ref=e561]:
+                - link "" [ref=e562] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@KSL_com
+              - listitem [ref=e563]:
+                - link "" [ref=e564] [cursor=pointer]:
+                  - /url: https://www.threads.net/@kslcom
+              - listitem [ref=e565]:
+                - link "" [ref=e566] [cursor=pointer]:
+                  - /url: https://whatsapp.com/channel/0029VacsJfV0LKZHQfLIfu0e
+          - generic [ref=e567]:
+            - link "Mobile Apps" [ref=e568] [cursor=pointer]:
+              - /url: https://www.ksl.com/news/apps
+            - text: "|"
+            - link "Newsletter" [ref=e569] [cursor=pointer]:
+              - /url: https://info.ksl.com/newsletters
+            - text: "|"
+            - link "Advertise" [ref=e570] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/advertising
+            - text: "|"
+            - link "Contact Us" [ref=e571] [cursor=pointer]:
+              - /url: https://support.ksl.com/hc/en-us/articles/1260800774449-Contact-Us
+            - text: "|"
+            - link "Careers with KSL.com" [ref=e572] [cursor=pointer]:
+              - /url: https://www.deseretdigital.com/careers
+            - text: "|"
+        - generic [ref=e573]:
+          - link "Terms of use" [ref=e574] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-Terms-of-Use
+          - text: "|"
+          - link "Privacy Statement" [ref=e575] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-Privacy-Statement
+          - text: "|"
+          - link "Video Consent Viewing Policy" [ref=e576] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: "|"
+          - link "DMCA Notice" [ref=e577] [cursor=pointer]:
+            - /url: " https://support.ksl.com/hc/en-us/articles/1260800721610-DMCA-Notice"
+          - text: "|"
+          - link "Do Not Sell or Share My Data" [ref=e578] [cursor=pointer]:
+            - /url: ""
+          - text: "|"
+          - link "EEO Public File Report" [ref=e579] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/9968c28b-c0c0-8b73-900b-05ed9049e8eb
+          - text: "|"
+          - link "KSL-TV FCC Public File" [ref=e580] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/tv-profile/ksl-tv
+          - text: "|"
+          - link "KSL FM Radio FCC Public File" [ref=e581] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/fm-profile/ksl-fm
+          - text: "|"
+          - link "KSL AM Radio FCC Public File" [ref=e582] [cursor=pointer]:
+            - /url: https://publicfiles.fcc.gov/am-profile/ksl
+          - text: "|"
+          - link "FCC Applications" [ref=e583] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/51507496/fcc-applications
+          - text: "|"
+          - link "Closed Captioning Assistance" [ref=e584] [cursor=pointer]:
+            - /url: https://www.ksl.com/article/50065799
+        - generic [ref=e585]: © 2026 KSL Media | KSL Broadcasting Salt Lake City UT | Site hosted & managed by KSL Media - a Deseret Media Company
+  - dialog "Cookie Notice" [ref=e587]:
+    - generic [ref=e589]:
+      - generic [ref=e591]:
+        - heading "Cookie Notice" [level=2] [ref=e592]
+        - generic [ref=e593]:
+          - text: This site uses cookies. We and our partners use cookies and similar technologies (including the Meta Pixel and Google Pixel, among others) to improve your experience, measure performance, analyze usage, and personalize ads on this and other sites. By continuing to use our site, you agree to this use, as well as agree to our
+          - link "Terms of Use" [ref=e594] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800721790-KSL-Terms-of-Use
+          - text: ","
+          - link "Privacy Policy" [ref=e595] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/1260800669529-KSL-Privacy-Notice
+          - text: . We disclose your video viewing information as set forth in our
+          - link "Video Consent and Viewing Policy" [ref=e596] [cursor=pointer]:
+            - /url: https://support.ksl.com/hc/en-us/articles/31297606685339-Video-Consent-Viewing-Policy
+          - text: . You may customize your cookie settings by clicking "Manage Preferences."
+      - generic [ref=e598]:
+        - button "Manage Preferences, Opens the preference center dialog" [ref=e599] [cursor=pointer]: Manage Preferences
+        - button "Accept and Continue" [ref=e600] [cursor=pointer]
+    - button "OK" [ref=e602] [cursor=pointer]

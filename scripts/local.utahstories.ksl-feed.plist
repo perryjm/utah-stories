@@ -6,8 +6,8 @@
     <string>local.utahstories.ksl-feed</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/bin/bash</string>
-        <string>/Users/mikeperry1234/sandbox/utah-stories/scripts/ksl-feed-sync.sh</string>
+        <string>/opt/homebrew/bin/python3</string>
+        <string>/Users/mikeperry1234/sandbox/utah-stories/scripts/ksl-feed-sync.py</string>
     </array>
     <key>WorkingDirectory</key>
     <string>/Users/mikeperry1234/sandbox/utah-stories</string>

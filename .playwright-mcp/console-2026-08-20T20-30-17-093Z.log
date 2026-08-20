@@ -1,0 +1,99 @@
+[     313ms] [LOG] Visibility threshold pct=50, Visibility threshold ms = 0 @ https://tag.durationmedia.net/sites/11159/dm.js:0
+[     320ms] [LOG] Braze: Initialization Options: {
+  "baseUrl": "sdk.iad-07.braze.com",
+  "allowUserSuppliedJavascript": true,
+  "enableLogging": true
+} @ https://js.appboycdn.com/web-sdk/5.8/braze.no-amd.min.js:23
+[     321ms] [LOG] Braze: Initialized for the Braze backend at "sdk.iad-07.braze.com" with API key "08279373-5f4c-4539-9a3e-117896d5ed15". @ https://js.appboycdn.com/web-sdk/5.8/braze.no-amd.min.js:23
+[     335ms] [LOG] Main bundle loaded (base.twig) @ https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses:2611
+[     460ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202608190101/pubads_impl.js?cb=122880556:18
+[     461ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202608190101/pubads_impl.js?cb=122880556:18
+[     471ms] [ERROR] Access to fetch at 'https://region-filter.rubyblu.com/check' from origin 'https://www.ksl.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[     471ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://region-filter.rubyblu.com/check:0
+[     937ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/454?_it=amazon:0
+[    1042ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/454?_it=0:0
+[    1069ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://unpkgcdn.com/videojs@3.0.2/dist/vhs-utils.js:0
+[    1207ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://sync.crwdcntrl.net/qmap?c=2700&tp=UNDR&gdpr=&gdpr_consent=&tpid=6ay5svzm87u89jfal5avjehri:0
+[    1211ms] [ERROR] Access to fetch at 'https://bpb.opendns.com/b/https/id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=0&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=' (redirected from 'https://id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=0&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=') from origin 'https://www.ksl.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. @ https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[    1211ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://bpb.opendns.com/b/https/id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=0&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=:0
+[    1388ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/788?_it=tag:0
+[    1420ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://ksl-d.openx.net/w/1.0/jstag?nc=6686-KSL_News:0
+[    2040ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://adl.ksldigital.media/op.js:0
+[    2074ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://adl.ksldigital.media/op.js:0
+[    2104ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://adl.ksldigital.media/op.js:0
+[    2145ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://adl.ksldigital.media/op.js:0
+[    2306ms] [LOG] domain: s0.2mdn.net @ https://s0.2mdn.net/sadbundle/10555742762211213312/TDIdynamic.js:0
+[    2306ms] [LOG] url: https://www.ksl.com/ @ https://s0.2mdn.net/sadbundle/10555742762211213312/TDIdynamic.js:0
+[    2351ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2352ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2353ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2359ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2359ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2351ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2352ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2353ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2359ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2359ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2452ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2351ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2352ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2353ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2359ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2359ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2452ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2476ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2526ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2527ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2612ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/454?url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses&ref=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[    2618ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/454?url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses&ref=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[    2677ms] [TIMEEND] a: 0.0009765625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[    2694ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/454?_it=amazon:0
+[    2781ms] Failed to read a named property 'addEventListener' from 'Window': Blocked a frame with origin "https://b17bcbf1105f9468f0a3cc5826533ccb.safeframe.googlesyndication.com" from accessing a cross-origin frame.
+[    2727ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/454?_it=amazon:0
+[    2744ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/788?_it=tag:0
+[    2763ms] [WARNING] [Audigent] script has already been initialised. Skip further execution @ https://a.ad.gt/api/v1/u/matches/788?_it=tag:0
+[    3122ms] [ERROR] Access to fetch at 'https://bpb.opendns.com/b/https/id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=1&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=' (redirected from 'https://id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=1&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=') from origin 'https://www.ksl.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. @ https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[    3122ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://bpb.opendns.com/b/https/id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=1&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=:0
+[    3152ms] [ERROR] Access to fetch at 'https://bpb.opendns.com/b/https/id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=1&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=' (redirected from 'https://id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=1&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=') from origin 'https://www.ksl.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. @ https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[    3152ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://bpb.opendns.com/b/https/id.a-mx.com/sync/?tagId=&ref=null&u=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&tl=https://www.ksl.com/article/51611893/proposed-sugar-house-business-district-receives-pushback-from-businesses&nf=1&rt=true&v=11.22.0&av=2.0&vg=voltaxPlayerPrebid&us_privacy=1---&am=ceef8c68-a2aa-47d9-81f7-e1dcc3a82025&gdpr=0&gdpr_consent=:0
+[    3271ms] [LOG] Viewable Complete Thu Aug 20 2026 14:30:20 GMT-0600 (Mountain Daylight Time) {percentViewable: 0.957446813583374, technique: IntersectionObserver, viewable: true, viewportWidth: 728, viewportHeight: 94} @ https://dsp-creative.demandbase.com/js/v.js?ad=CiRmNTY5NjMwYS05Y2Q1LTExZjEtYmJkYy05ZmRlNDQ2OTc3NGIQhJ89GKmlQiCvgwIoh7FuMJ21nxM6JDg1NjFjMjAyLThmNjgtNGY0Mi05MDIyLTQwZGYxZDU0YTk1ZEICaXhI1wNQFGIobm9faW50ZW50LGRlbWFuZGJhc2UuY29tL3ZhcmlhbnQ6ZGlzYWJsZWoLd3d3LmtzbC5jb21yA1VTQXoFVVMtVVSCAQ4yMTYuNDkuMTgxLjI1MpAB2ASgARSwAYBkyAECgALo7nyKAgUzMzE5OZICCHVzLXdlc3Qy.TBfD7Q:49
+[    3343ms] [WARNING] [Audigent] cannot find __gpp framework @ https://a.ad.gt/api/v1/u/matches/788?url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses&ref=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[    3357ms] [WARNING] [Audigent] cannot find __gpp framework @ https://a.ad.gt/api/v1/u/matches/788?url=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses&ref=https%3A%2F%2Fwww.ksl.com%2Farticle%2F51611893%2Fproposed-sugar-house-business-district-receives-pushback-from-businesses:0
+[    3442ms] [LOG] start @ https://cdn.flashtalking.com/241654/6345956/banner.js:1155
+[    3454ms] [LOG]  # createSheenTL -525 -75 @ https://cdn.flashtalking.com/241654/6345956/banner.js:265
+[    3455ms] [LOG]  # createSheenTL -525 -75 @ https://cdn.flashtalking.com/241654/6345956/banner.js:265
+[    3456ms] [LOG]  # createSheenTL -525 -75 @ https://cdn.flashtalking.com/241654/6345956/banner.js:265
+[    3457ms] [WARNING] GSAP target #frame5 offer-image img not found. https://greensock.com @ https://cdn.flashtalking.com/frameworks/js/gsap/3.1.1/gsap.min.js:9
+[    3457ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdn.flashtalking.com/frameworks/js/gsap/3.1.1/gsap.min.js:9
+[    3457ms] [LOG] Timeline +=0 @ https://cdn.flashtalking.com/241654/6345956/banner.js:712
+[    3457ms] [LOG] Timeline -=2 @ https://cdn.flashtalking.com/241654/6345956/banner.js:712
+[    3457ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345956/banner.js:712
+[    3457ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345956/banner.js:712
+[    3457ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345956/banner.js:712
+[    3457ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345956/banner.js:712
+[    3469ms] [LOG] start @ https://cdn.flashtalking.com/241654/6345954/banner.js:1155
+[    3488ms] [LOG]  # createSheenTL 0 0 @ https://cdn.flashtalking.com/241654/6345954/banner.js:265
+[    3490ms] [LOG]  # createSheenTL 0 0 @ https://cdn.flashtalking.com/241654/6345954/banner.js:265
+[    3490ms] [LOG]  # createSheenTL 0 0 @ https://cdn.flashtalking.com/241654/6345954/banner.js:265
+[    3491ms] [WARNING] GSAP target #frame5 offer-image img not found. https://greensock.com @ https://cdn.flashtalking.com/frameworks/js/gsap/3.1.1/gsap.min.js:9
+[    3491ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdn.flashtalking.com/frameworks/js/gsap/3.1.1/gsap.min.js:9
+[    3491ms] [LOG] Timeline +=0 @ https://cdn.flashtalking.com/241654/6345954/banner.js:712
+[    3491ms] [LOG] Timeline -=2 @ https://cdn.flashtalking.com/241654/6345954/banner.js:712
+[    3491ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345954/banner.js:712
+[    3491ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345954/banner.js:712
+[    3491ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345954/banner.js:712
+[    3491ms] [LOG] Timeline -=.2 @ https://cdn.flashtalking.com/241654/6345954/banner.js:712
+[    3724ms] [LOG] URIError: URI malformed
+    at decodeURIComponent (<anonymous>)
+    at truste.ca.initParameterMap (https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434574710_246082785&js=st_0:19:106)
+    at truste.ca2.initialize (https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434574710_246082785&js=st_0:29:11)
+    at https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434574710_246082785&js=st_0:36:182 @ https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434574710_246082785&js=st_0:19
+[    3725ms] [LOG] URIError: URI malformed
+    at decodeURIComponent (<anonymous>)
+    at truste.ca.initParameterMap (https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434377678_245464513&js=st_0:19:106)
+    at truste.ca2.initialize (https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434377678_245464513&js=st_0:29:11)
+    at https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434377678_245464513&js=st_0:36:182 @ https://choices.truste.com/ca?pid=comcast01&aid=comcast01&cid=%ebuy_7518627_434377678_245464513&js=st_0:19
+[    3806ms] [LOG] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://ad.doubleclick.net" from accessing a cross-origin frame. @ https://choices.trustarc.com/get?name=st2.js:0
+[    3840ms] [LOG] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://ad.doubleclick.net" from accessing a cross-origin frame. @ https://choices.trustarc.com/get?name=st2.js:0
