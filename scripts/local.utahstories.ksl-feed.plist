@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>local.utahstories.ksl-feed</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/mikeperry1234/sandbox/utah-stories/scripts/ksl-feed-sync.sh</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/mikeperry1234/sandbox/utah-stories</string>
+    <key>StartInterval</key>
+    <integer>3600</integer>
+    <key>RunAtLoad</key>
+    <false/>
+    <key>StandardOutPath</key>
+    <string>/Users/mikeperry1234/sandbox/utah-stories/logs/launchd-stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/mikeperry1234/sandbox/utah-stories/logs/launchd-stderr.log</string>
+</dict>
+</plist>
