@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:36:19 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:42:44 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>While Salt Lake immigrant detention center plans are dead, talk of finding a site may not be over</title>
+      <link>https://www.ksl.com/article/51614376/while-salt-lake-immigrant-detention-center-plans-are-dead-talk-of-finding-a-site-may-not-be-over</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51614376/while-salt-lake-immigrant-detention-center-plans-are-dead-talk-of-finding-a-site-may-not-be-over</guid>
+      <description><![CDATA[Federal officials have officially scrapped plans to convert a Salt Lake City warehouse into a large-scale immigrant detention center, according to a Wednesday court filing that says the property will instead be declared surplus for disposal by the General Services Administration. Gov. Spencer Cox said at his monthly press conference that conversations about siting a detention facility somewhere in Utah are still happening, even though no location has been identified. Immigrant-rights attorney Jim McConkie, who had been preparing a lawsuit with the group Uproar Utah to block the Salt Lake City site, doubts the debate is over and suspects federal officials could pursue a smaller facility in southern Utah instead. ICE had paid $145.44 million for the 300 South warehouse last year before Salt Lake City and Salt Lake County sued to block the conversion. McConkie also predicted continued aggressive immigration enforcement under new DHS Secretary Markwayne Mullin and said attorneys are weighing legal challenges against Utah law enforcement agencies with 287(g) cooperation agreements with ICE.]]></description>
+      <dc:creator>Tim Vandenack, KSL</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 09:13:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Logan businesses donate 1,500 meals to firefighters, commemorating 2 fallen officers</title>
