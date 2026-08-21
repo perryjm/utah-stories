@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:42:44 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:44:38 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Here's how much it would cost to attend a college football game in Utah</title>
+      <link>https://www.ksl.com/article/sports/college/heres-a-how-much-it-would-cost-to-attend-a-college-football-game-in-utah/51614504</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/sports/college/heres-a-how-much-it-would-cost-to-attend-a-college-football-game-in-utah/51614504</guid>
+      <description><![CDATA[A new analysis of ticket prices for Utah's three FBS programs — the University of Utah, BYU and Utah State — finds a wide range in what fans pay to attend a game this season. The cheapest single-game ticket, for Utah's matchup against Idaho, runs $38, while the priciest seats climb sharply for marquee matchups: BYU's cheapest ticket against Utah is $331, and a seat for BYU vs. Notre Dame runs about $600. For a family of four at a typical non-marquee game, estimated costs come to roughly $425 at BYU, $340 at Utah and $185 at Utah State. A companion poll of 789 registered Utah voters found 56% consider themselves avid or casual football fans, but nearly a third say attending games is unaffordable — including half of those earning under $50,000 a year, compared with only about 10% of fans aged 45-64 who call it very affordable. The piece attributes rising costs to post-pandemic demand, NIL deals, revenue sharing, an expanded College Football Playoff and general inflation.]]></description>
+      <dc:creator>Dennis Romboy, Deseret News</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 11:33:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>While Salt Lake immigrant detention center plans are dead, talk of finding a site may not be over</title>
