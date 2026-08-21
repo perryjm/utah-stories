@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:44:38 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:46:41 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Juab County employee accused of misusing public money</title>
+      <link>https://www.ksl.com/article/51614749/juab-county-employee-accused-of-misusing-public-money</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51614749/juab-county-employee-accused-of-misusing-public-money</guid>
+      <description><![CDATA[Kristin Rose Miller, 37, of Nephi, was charged Friday in 4th District Court with misusing public money, a third-degree felony, over her use of a Juab County-issued credit card. Prosecutors say a February review found roughly $1,600 in charges Miller acknowledged were personal and promised to repay, but never did; a similar pattern turned up in March and April purchases lacking receipts or explanations despite her having signed an acknowledgment of the card policy in March. Miller, hired as county administrator in January, reportedly stalled when asked to account for the charges, at one point blaming her county card being linked to her Apple Wallet, and by late April had documented only 2 of about 70 March purchases. Investigators also flagged additional questionable charges on a separate fire district credit card.]]></description>
+      <dc:creator>Pat Reavy</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 11:42:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Here's how much it would cost to attend a college football game in Utah</title>
