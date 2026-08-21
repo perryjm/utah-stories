@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:49:05 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:51:20 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Utah Gov. Cox on the banana fallacy and nuclear safety</title>
+      <link>https://www.ksl.com/article/news/politics/utah-gov-cox-on-the-banana-fallacy-and-nuclear-safety/51614446</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/news/politics/utah-gov-cox-on-the-banana-fallacy-and-nuclear-safety/51614446</guid>
+      <description><![CDATA[At his monthly press conference Thursday, Gov. Spencer Cox defended the state's nuclear-energy billboard campaign after three groups — including Downwinders Inc. and Utah Physicians for a Healthy Environment — filed an FTC complaint calling ads like "nuclear plants emit less radiation than bananas" misleading. Cox said reception to nuclear power in Utah has been "overwhelmingly positive" and accused critics of selectively following science, tying the pushback to his Operation Gigawatt push to roughly double the state's electricity generation capacity by 2034 through nuclear, geothermal and solar projects. He also addressed backlash over President Trump's July 13 reduction of two Utah national monuments by about 3 million combined acres, citing new Deseret News-Hinckley Institute polling showing 56% of Utah voters opposed the move but 82% want state, local or county governments — not the federal government — to have the most say over how public lands are managed. Cox argued the monument rollback reflects that preference for local control rather than a sell-off of protected land, and said Utah is coordinating with federal nuclear regulators to ensure safety as new energy projects move forward.]]></description>
+      <dc:creator>Eva Terry, Deseret News</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 13:27:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Here's how to get reservations for the Salt Lake Temple Open House</title>
