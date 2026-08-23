@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:13:24 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:22:21 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Holy Trinity Cathedral prepares for multi-million dollar renovations after 2020 earthquake</title>
+      <link>https://www.ksl.com/article/51611251/holy-trinity-cathedral-prepares-for-multi-million-dollar-renovations-after-2020-earthquake</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51611251/holy-trinity-cathedral-prepares-for-multi-million-dollar-renovations-after-2020-earthquake</guid>
+      <description><![CDATA[The Holy Trinity Cathedral of the Greek Orthodox Church in Salt Lake City, damaged by a 5.7-magnitude earthquake in March 2020, is preparing for a multi-million dollar seismic renovation. Parish council president George Karahalios said nearly 1,500 feet of interior cracks prompted a full seismic upgrade that will require stripping the century-old building down to brick, replacing its iconostasis, and installing a diaphragm beneath the dome so it can move during future quakes. The estimated cost has dropped from an initial $20-25 million to $16-18 million, with the church responsible for only about 10% since the building sits on the National Register of Historic Places; fundraising so far has reached just over $1 million toward that share. Past support has come from groups like the Huntsman Foundation and the annual Greek Festival, and Karahalios noted the church has also seen a rise in converts, with roughly 85 joining over the past year.]]></description>
+      <dc:creator>Joe R. Wirthlin Jr</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 12:02:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>'Shared artistic hobby': Mother-son duo showcases quilts at Springville Museum of Art</title>
