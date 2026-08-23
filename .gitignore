@@ -17,3 +17,6 @@ __pycache__/
 .TemporaryItems
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+# Stray artifact from a sandboxed automation session that couldn't be deleted
+plain_test_file.txt
