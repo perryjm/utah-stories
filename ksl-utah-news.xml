@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:20:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:09:00 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Cedar Hills mom receiving double lung transplant after other cancer treatments fail</title>
+      <link>https://www.ksl.com/article/51614293/cedar-hills-mom-receiving-double-lung-transplant-after-other-cancer-treatments-fail</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51614293/cedar-hills-mom-receiving-double-lung-transplant-after-other-cancer-treatments-fail</guid>
+      <description><![CDATA[Kelsey Flake, a 39-year-old Cedar Hills mother of five, is undergoing a double lung transplant at Northwestern Medicine in Chicago after Stage 4 lung cancer returned in both lungs despite earlier chemotherapy, immunotherapy and a lobectomy; she now has just 41% lung capacity and needs full-time oxygen. She's enrolled in a Northwestern research program that is the only U.S. site offering double lung transplants to cancer patients, with all 17 prior participants (2021-2025) still alive versus under half of similarly staffed patients on medical therapy alone. A pre-transplant surgery to clear scar tissue was set for Thursday, after which she expects roughly a week's wait on the transplant list. Her five children, ages 6 to 15, are staying with grandparents in Cedar Hills during the school year and connect with her by nightly Zoom call, with plans to reunite by Christmas. Flake, who with her husband Jacob works in real estate, said getting out-of-network insurance approved felt like "a miracle," and the family has set up a GoFundMe while neighbors help with meals and household chores; doctors at Huntsman Cancer Institute are also studying a genetic variant several of her siblings share.]]></description>
+      <dc:creator>Emily Ashcraft</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 07:15:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Man sent to prison for Millcreek stabbing over drug dispute</title>
