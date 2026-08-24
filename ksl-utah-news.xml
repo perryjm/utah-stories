@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:58:12 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:00:30 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Alpine Church Logan campus prepares for grand opening</title>
+      <link>https://www.ksl.com/article/51614776/alpine-church-logan-campus-prepares-for-grand-opening</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51614776/alpine-church-logan-campus-prepares-for-grand-opening</guid>
+      <description><![CDATA[The Alpine Church in Logan is preparing for the grand opening of a new building at 91 East 2440 North in North Logan, set for Sept. 20, after outgrowing its previous site on South Main Street. Pastor John Belles said the old location could only support three Sunday services with overflow parking blocks away, prompting the move to a spot about four miles north with better parking. On the first two services held at the new building Aug. 16, roughly 650 people attended combined, according to pastoral team member Steve Rodriguez, who said volunteers scrambled to finish preparations just in time. Belles said he wants to avoid becoming a "mega-church" and would instead launch additional campuses, potentially in Hyrum, if the new site outgrows its space -- Alpine Church already runs six locations across Cache, Box Elder, Weber and Davis counties. The church has since rearranged seating to improve traffic flow ahead of the official grand-opening celebration.]]></description>
+      <dc:creator>Joe R. Wirthlin Jr</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 06:31:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>From supercomputers to startups: Inside Utah's growing bet on AI</title>
