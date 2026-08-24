@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 04:53:42 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:58:12 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>From supercomputers to startups: Inside Utah's growing bet on AI</title>
+      <link>https://www.ksl.com/article/51608613/from-supercomputers-to-startups-inside-utahs-growing-bet-on-ai</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51608613/from-supercomputers-to-startups-inside-utahs-growing-bet-on-ai</guid>
+      <description><![CDATA[Utah is making a major push into artificial intelligence on multiple fronts, anchored by the University of Utah's new $50 million Redtail supercomputer, which ranks 160th fastest in the world and 5th among U.S. public universities. Manish Parashar, the university's first chief AI officer, is overseeing efforts that also include an $18.6 million Health AI Vault for cancer and medical research and a spot in the NSF's AI-driven Cloud Laboratories network. State government is investing too, with a $100 million Pro-Human AI Initiative and new laws championed by Margaret Woolley Busse's Office of AI Policy covering deepfakes, high-risk AI disclosures and mental health safeguards. Meanwhile Utah AI startups are pulling in venture capital, including an $80 million round for Parker Ence's Jump AI, a $97 million round for Databento, and $115 million for Zanskar, while Silicon Slopes has launched a "Start School" program to build the state's AI talent pipeline.]]></description>
+      <dc:creator>Brooke Nally</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 06:20:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Utah approves 3 more productions projected to bring $9.3M economic impact</title>
