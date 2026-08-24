@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:46:10 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:48:15 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>The first lawsuit has been filed over feds' new plan for Lake Powell and Lake Mead</title>
+      <link>https://www.ksl.com/article/51615514/the-first-lawsuit-has-been-filed-over-feds-new-plan-for-lake-powell-and-lake-mead</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51615514/the-first-lawsuit-has-been-filed-over-feds-new-plan-for-lake-powell-and-lake-mead</guid>
+      <description><![CDATA[Nevada, the Colorado River Commission of Nevada and the Southern Nevada Water Authority sued the U.S. Department of the Interior on Monday over its newly signed Post-2026 Colorado River Operations plan. The 10-year plan, signed Friday by Interior Secretary Doug Burgum, adjusts water allocations every two years starting in 2027-2028 to keep Lake Powell near 3,510 feet, and requires roughly 1.25 million acre-feet of annual cuts from Lower Basin states while sparing Upper Basin states including Utah. Nevada argues the cuts are unfair and would slash its allocation to about 86,500 acre-feet a year -- a 60% drop from 2024 usage -- with Gov. Joe Lombardo calling it "a matter of survival" for the roughly two-thirds of Nevadans served by that water. The suit, filed in federal court, is the first legal challenge to the new plan. The Colorado River Authority of Utah said it is still reviewing the lawsuit and had no immediate comment.]]></description>
+      <dc:creator>Carter Williams</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 12:38:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Weber School District's new Catalyst Campus gives students a head start on careers</title>
