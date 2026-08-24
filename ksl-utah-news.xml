@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:27:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:30:54 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Visitors spent a record $13.7B in Utah's economy last year, report finds</title>
+      <link>https://www.ksl.com/article/51614355/visitors-spent-a-record-137b-in-utahs-economy-last-year-report-finds</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51614355/visitors-spent-a-record-137b-in-utahs-economy-last-year-report-finds</guid>
+      <description><![CDATA[A University of Utah Kem C. Gardner Policy Institute report found Utah's tourism economy generated a record $13.7 billion in economic impact in 2025, a 0.6% inflation-adjusted increase over 2024 that produced $1.6 billion in direct state and local tax revenue and supported roughly a tenth of the state's jobs. The gain came despite declines in hotel occupancy, park visitation, airport passenger traffic, and a sharp drop in visitors from Canada (-22%) and China (-23%), partly attributed to tariff-related boycotts and a weak ski season with 4.8 million skier visits, down 26% amid record-low snowpack. Growth areas included downtown Salt Lake City hotel and event activity, a 5.9% jump in dining spending, and a 17% rise in spectator-sports tourism jobs tied to the Utah Mammoth and other new teams. Report author Jennifer Leaver said the results show the industry "moving into a more normalized environment rather than a broad-based downturn," while Utah Office of Tourism and Film managing director Natalie Randall credited statewide partnerships for the record impact. The report projects modest growth in 2026 travel, aided by events like the FIFA World Cup, but flags inflation and interest-rate uncertainty as risks.]]></description>
+      <dc:creator>Carter Williams</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>From salsa and chips to owning a market: How a southern Utah couple supports local businesses</title>
