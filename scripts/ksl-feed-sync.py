@@ -22,7 +22,11 @@ LOG_DIR = Path(os.environ.get("LOG_DIR", REPO_DIR / "logs"))
 LOG_FILE = Path(os.environ.get("LOG_FILE", LOG_DIR / "ksl-feed-sync.log"))
 LOCK_FILE = Path(os.environ.get("LOCK_FILE", REPO_DIR / ".ksl-feed-sync.lock"))
 CLAUDE_BIN = os.environ.get("CLAUDE_BIN", "/opt/homebrew/bin/claude")
-SKILL_COMMAND = os.environ.get("SKILL_COMMAND", "/ksl-feed")
+SKILL_COMMAND = os.environ.get(
+    "SKILL_COMMAND",
+    "/ksl-feed Run the complete dual-source feed sync now; this is the scheduled "
+    "invocation, so do not defer because the parent wrapper is active.",
+)
 FEED_FILES = ("ksl-utah-news.xml", "deseretnews-faith.xml")
 MIN_INTERVAL_SECONDS = 86400
 

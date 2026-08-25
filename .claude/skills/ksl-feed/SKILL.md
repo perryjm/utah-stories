@@ -14,6 +14,10 @@ One invocation updates both sources. Each run uses only the initially-rendered
 listing, adds stories that have not already been processed, trims each feed to a
 two-week shelf life, validates both files, and pushes the changed feed files.
 Running the skill repeatedly is safe and does not reprocess an existing story.
+When invoked by `scripts/ksl-feed-sync.py`, the visible parent wrapper process is
+the expected caller, not a competing sync. Do not defer or ask to wait because
+that process is active; use the wrapper's lock and clean-worktree guard for
+concurrency.
 
 ## Copyright constraint — read first
 
