@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:30:25 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:42:58 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Man who supplied gun found guilty of murder in Cedar City jury trial</title>
+      <link>https://www.ksl.com/article/51611786/man-who-supplied-gun-found-guilty-of-murder-in-cedar-city-jury-trial</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51611786/man-who-supplied-gun-found-guilty-of-murder-in-cedar-city-jury-trial</guid>
+      <description><![CDATA[A Fifth District Court jury convicted 24-year-old Matthew Sorber-Petrie of murder, five counts of felony discharge of a firearm causing injury, and obstruction of justice, following a shooting near Cedar City on January 17, 2025, that killed 18-year-old KayLee Dutton and injured a passenger. Prosecutors argued Sorber-Petrie was criminally liable as an accomplice because he supplied the gun to two other men, knowing they intended to use it, after roughly a dozen shots were fired into the truck Dutton was driving. Those two shooters, Ethan Galloway and Michael Hess-Witacki, previously pleaded guilty to murder and were each sentenced last September to 15 years to life plus additional consecutive terms; a fourth man, Aldric Felipe, received probation. Jurors deliberated about two and a half hours before returning their verdict, acquitting Sorber-Petrie on two additional firearm counts; he is due back before Judge Meb Anderson for sentencing on September 29.]]></description>
+      <dc:creator>Emily Ashcraft</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 22:38:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Roy teen shows signs of recovery after being hit by car while riding e-scooter</title>
