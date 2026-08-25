@@ -6,8 +6,17 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:48:24 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:51:47 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+    <item>
+      <title>Video shows large rockfall that prompted temporary Zion National Park road closure</title>
+      <link>https://www.ksl.com/article/51615905/video-shows-large-rockfall-that-prompted-temporary-zion-national-park-road-closure</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51615905/video-shows-large-rockfall-that-prompted-temporary-zion-national-park-road-closure</guid>
+      <description><![CDATA[Zion National Park lifted a road closure early Tuesday that had been imposed after a large rockfall on Monday, Aug. 24, between The Grotto and Weeping Rock. The slide was reported to park officials shortly after 12:15 p.m. Monday and shut down the scenic drive beyond the Zion Canyon Shuttle's Stop No. 6; visitors captured the falling rock on video. Park officials did not immediately respond to a request for comment from KSL, but the park's website showed the closure lifted by Tuesday morning. Zion's geology, shaped by rock layers uplifted and eroded over millions of years, makes rockfall a routine hazard that park leaders say is aggravated by heavy monsoon rainfall, with the park's superintendent urging visitors to stay alert to the ongoing risk.]]></description>
+      <dc:creator>Carter Williams</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 09:49:00 -0600</pubDate>
+    </item>
 
     <item>
       <title>Utah may increase awareness of its laws targeting left-lane loafing violations</title>
