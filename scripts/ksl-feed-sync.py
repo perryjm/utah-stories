@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Runs the /ksl-feed Claude Code skill on a schedule and pushes any resulting
-feed changes. Invoked hourly by local.utahstories.ksl-feed.plist (launchd);
-enforces its own 24h minimum interval via the sqlite runbook so back-to-back
-launchd fires don't double-run.
+"""Runs the dual-source /ksl-feed Claude Code skill on a schedule and pushes
+any resulting feed changes. Invoked hourly by
+local.utahstories.ksl-feed.plist (launchd); enforces its own 24h minimum interval
+via the sqlite runbook so back-to-back launchd fires don't double-run.
 """
 
 import fcntl
@@ -22,6 +22,8 @@ LOG_DIR = Path(os.environ.get("LOG_DIR", REPO_DIR / "logs"))
 LOG_FILE = Path(os.environ.get("LOG_FILE", LOG_DIR / "ksl-feed-sync.log"))
 LOCK_FILE = Path(os.environ.get("LOCK_FILE", REPO_DIR / ".ksl-feed-sync.lock"))
 CLAUDE_BIN = os.environ.get("CLAUDE_BIN", "/opt/homebrew/bin/claude")
+SKILL_COMMAND = os.environ.get("SKILL_COMMAND", "/ksl-feed")
+FEED_FILES = ("ksl-utah-news.xml", "deseretnews-faith.xml")
 MIN_INTERVAL_SECONDS = 86400
 
 _log_fh = None
@@ -59,6 +61,14 @@ def run_logged(cmd):
 
 def git_output(cmd):
     return subprocess.run(cmd, capture_output=True, text=True)
+
+
+def git_status():
+    return git_output(["git", "status", "--porcelain=v1", "--untracked-files=all"])
+
+
+def status_paths(status_output):
+    return [line[3:] for line in status_output.splitlines() if len(line) >= 4]
 
 
 def resolve_claude_bin():
@@ -131,7 +141,7 @@ def main():
         )
         return 0
 
-    status = git_output(["git", "status", "--porcelain=v1", "--untracked-files=all"])
+    status = git_status()
     if status.returncode != 0:
         _log_fh.write(status.stderr)
         die("ERROR: could not inspect the git working tree")
@@ -142,26 +152,54 @@ def main():
 
     claude_bin = resolve_claude_bin()
 
-    log("Starting: claude -p /ksl-feed --permission-mode auto")
-    result = run_logged([claude_bin, "-p", "/ksl-feed", "--permission-mode", "auto"])
+    log(f"Starting: claude -p {SKILL_COMMAND} --permission-mode auto")
+    result = run_logged([claude_bin, "-p", SKILL_COMMAND, "--permission-mode", "auto"])
     if result.returncode != 0:
         log(f"ERROR: Claude command failed with exit code {result.returncode}")
         return result.returncode
     log("Claude completed successfully.")
 
-    if git_output(["git", "diff", "--quiet", "--", "ksl-utah-news.xml"]).returncode == 0:
-        log("Claude completed, but no new stories changed ksl-utah-news.xml; runbook unchanged.")
+    status = git_status()
+    if status.returncode != 0:
+        _log_fh.write(status.stderr)
+        die("ERROR: could not inspect the git working tree after the feed sync")
+
+    changed_paths = status_paths(status.stdout)
+    unexpected_paths = [path for path in changed_paths if path not in FEED_FILES]
+    if unexpected_paths:
+        log("ERROR: feed sync left unrelated working-tree changes; refusing to commit them.")
+        _log_fh.write(status.stdout)
+        return 1
+
+    if not changed_paths:
+        log("Claude completed; both feed files are unchanged or were already committed and pushed.")
+        record_success(conn, int(time.time()))
         return 0
 
-    if run_logged(["git", "add", "-A"]).returncode != 0:
+    missing_files = [path for path in FEED_FILES if not (REPO_DIR / path).is_file()]
+    if missing_files:
+        die(f"ERROR: expected feed file(s) are missing after sync: {', '.join(missing_files)}")
+
+    if run_logged(["git", "add", "--", *FEED_FILES]).returncode != 0:
         die("ERROR: git add failed")
 
-    if git_output(["git", "diff", "--cached", "--quiet"]).returncode == 0:
-        log("Claude completed, but there were no staged changes to commit; runbook unchanged.")
+    staged = git_output(["git", "diff", "--cached", "--name-only"])
+    if staged.returncode != 0:
+        _log_fh.write(staged.stderr)
+        die("ERROR: could not inspect staged feed changes")
+    unexpected_staged = [
+        path for path in staged.stdout.splitlines() if path not in FEED_FILES
+    ]
+    if unexpected_staged:
+        log("ERROR: unexpected staged files appeared during feed sync; refusing to commit.")
+        _log_fh.write(staged.stdout)
+        return 1
+    if git_output(["git", "diff", "--cached", "--quiet", "--", *FEED_FILES]).returncode == 0:
+        log("Claude completed, but there were no staged feed changes to commit; runbook unchanged.")
         return 0
 
     commit_timestamp = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M %Z")
-    commit_message = f"Automated KSL feed sync - {commit_timestamp}"
+    commit_message = f"Automated Utah news feed sync - {commit_timestamp}"
     if run_logged(["git", "commit", "-m", commit_message]).returncode != 0:
         die("ERROR: git commit failed")
     log(f"Committed: {commit_message}")
