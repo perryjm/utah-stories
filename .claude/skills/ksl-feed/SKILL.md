@@ -52,8 +52,14 @@ Use the section page and individual article pages instead.
    story until its source-specific identity has been checked against the existing
    set.
 
-2. **Open the source listings with Playwright.** Navigate to both listing URLs
-   and take snapshots. On KSL, use the initially-rendered "Most Recent" list. On
+2. **Open the source listings with Playwright.** These are public listings that
+   need no login, so if more than one Playwright-family MCP server is
+   connected, prefer an isolated/ephemeral-profile one (e.g. a plain
+   `@playwright/mcp` server with no `--user-data-dir`) over one configured
+   against a real personal browser profile (e.g. a `--user-data-dir` pointed at
+   a live Brave/Chrome profile) — the latter can fail to launch a second
+   instance whenever that browser is already open elsewhere, which is common
+   during a scheduled run. Navigate to both listing URLs and take snapshots. On
    Deseret, collect only article links whose paths match the Faith section's
    dated article shape (`/faith/YYYY/MM/DD/...`). Do not click "Load More
    Stories", paginate, or use footer/recommended links as additional coverage.
@@ -123,3 +129,28 @@ Use the section page and individual article pages instead.
     duplicate counts per source, age-prune counts per source, XML validation,
     browser closure, and commit/push status. If either source failed, identify
     it and do not claim a successful dual-feed sync.
+
+12. **End with a machine-readable completion line.** The wrapper script
+    (`scripts/ksl-feed-sync.py`) parses your final output for this exact line to
+    decide whether to record the run as successful; get it right or a real
+    failure will be silently recorded as success and the daily sync will stop
+    running.
+
+    - If, and only if, both listings were genuinely opened and checked (via
+      Playwright) and either the feeds were updated and validated per step 9,
+      or there were validly zero new stories to add, end your response with
+      exactly this line on its own:
+
+      `KSL-FEED-SYNC: SUCCESS`
+
+    - If you could not complete a real check of both sources for any reason —
+      required tools unavailable (e.g. no Playwright MCP tools connected),
+      a source unreachable, validation failure, git error, or anything else
+      that stopped you short of step 9 — do NOT print the success line. End
+      with:
+
+      `KSL-FEED-SYNC: FAILED — <short reason>`
+
+      Never print the success line to be polite, to avoid raising an alarm, or
+      because "nothing changed" when you didn't actually get to check. Only
+      print it when the check genuinely happened.

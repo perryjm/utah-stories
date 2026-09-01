@@ -29,6 +29,7 @@ SKILL_COMMAND = os.environ.get(
 )
 FEED_FILES = ("ksl-utah-news.xml", "deseretnews-faith.xml")
 MIN_INTERVAL_SECONDS = 86400
+SUCCESS_SENTINEL = "KSL-FEED-SYNC: SUCCESS"
 
 _log_fh = None
 
@@ -61,6 +62,16 @@ def acquire_lock():
 def run_logged(cmd):
     """Run cmd with stdout+stderr appended to the log file, like `>> LOG_FILE 2>&1`."""
     return subprocess.run(cmd, stdout=_log_fh, stderr=subprocess.STDOUT)
+
+
+def run_captured(cmd):
+    """Run cmd, capturing combined stdout+stderr as text, then append it to the
+    log file (so the log stays complete for humans) while also returning the
+    text so the caller can check it for the completion sentinel."""
+    result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+    _log_fh.write(result.stdout)
+    _log_fh.flush()
+    return result
 
 
 def git_output(cmd):
@@ -157,10 +168,17 @@ def main():
     claude_bin = resolve_claude_bin()
 
     log(f"Starting: claude -p {SKILL_COMMAND} --permission-mode auto")
-    result = run_logged([claude_bin, "-p", SKILL_COMMAND, "--permission-mode", "auto"])
+    result = run_captured([claude_bin, "-p", SKILL_COMMAND, "--permission-mode", "auto"])
     if result.returncode != 0:
         log(f"ERROR: Claude command failed with exit code {result.returncode}")
         return result.returncode
+    if SUCCESS_SENTINEL not in result.stdout:
+        log(
+            "ERROR: Claude exited 0 but did not confirm completion "
+            f"(missing '{SUCCESS_SENTINEL}'); treating this run as failed so the "
+            "runbook is left untouched and the next hourly attempt retries."
+        )
+        return 1
     log("Claude completed successfully.")
 
     status = git_status()
