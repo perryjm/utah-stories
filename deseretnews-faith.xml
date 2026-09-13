@@ -6,10 +6,26 @@
     <atom:link href="https://www.deseret.com/faith/" rel="self" type="application/rss+xml"/>
     <description>Faith news and stories from Deseret News</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:30:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:37:44 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Opinion: I walked around the Salt Lake Temple again. It was worth the wait</title>
+      <link>https://www.deseret.com/faith/2026/09/13/salt-lake-temple-worth-the-wait/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/09/13/salt-lake-temple-worth-the-wait/</guid>
+      <description><![CDATA[In a Deseret News opinion piece, writer Samuel Hislop describes walking the newly opened grounds of the Salt Lake Temple for the first time in nearly seven years, as construction fencing has come down ahead of the 2027 open house. Hislop reflects on touching the temple's quartz monzonite stone and bronze door handles, comparing the communal act of circling a sacred building to the Islamic Tawaf around the Kaaba, and draws on scholars' commentary that early Christians understood "temple" as a description of a gathered community rather than only a building. He frames the nearly seven-year renovation, delayed in part by the pandemic, through the biblical symbolism of the number seven as completion, comparing the wait to the ancient Israelites' exile from Jerusalem. The piece closes by casting the coming year before the temple's six-month 2027 celebration as a kind of sabbath season of rest and gratitude after years of construction.]]></description>
+      <dc:creator>Samuel Hislop</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 00:13:25 -0600</pubDate>
+    </item>
+    <item>
+      <title>Sister Yee sees great faith in Europe Central Area ministry assignment</title>
+      <link>https://www.deseret.com/faith/2026/09/12/church-news-sister-kristin-m-yee-europe-ministry-germany-austria-cyprus-spain/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/09/12/church-news-sister-kristin-m-yee-europe-ministry-germany-austria-cyprus-spain/</guid>
+      <description><![CDATA[Sister Kristin M. Yee, second counselor in the Relief Society general presidency of The Church of Jesus Christ of Latter-day Saints, ministered across Germany, Austria, Cyprus and Spain during a Europe Central Area assignment from Aug. 28 through Sept. 7. Her stops included instruction for local Relief Society, Young Women and Primary leaders, along with devotionals for missionaries, temple workers and young adults, according to the church's Europe Newsroom. Yee said she expects to remember the "beautiful faces of great faith" she encountered more than the countries she visited. The item points readers to TheChurchNews.com for the full report.]]></description>
+      <dc:creator>Church News</dc:creator>
+      <pubDate>Sat, 12 Sep 2026 17:18:19 -0600</pubDate>
+    </item>
     <item>
       <title>Meet the college students hungry for something more exciting than culture war</title>
       <link>https://www.deseret.com/faith/2026/09/11/college-students-want-to-be-better-than-culture-war/</link>
@@ -273,14 +289,6 @@
       <description><![CDATA[Elder Patrick Kearon of the Quorum of the Twelve Apostles dedicated the Phnom Penh Cambodia Temple on Sunday, the 222nd operating temple of The Church of Jesus Christ of Latter-day Saints, telling members the building's architecture and covenants are meant to draw their gaze and hearts heavenward. Kearon noted Cambodia's history of pain from the 1970s Khmer Rouge genocide, which claimed relatives of many Cambodian Latter-day Saints, and said the temple offers a place to exchange sorrow for peace; his wife, Sister Jennifer Kearon, called the temple a gift that lets Cambodians reach the presence of God without traveling to Hong Kong or the Philippines as members previously had to. The temple, announced in 2018 by President Russell M. Nelson and broken ground in 2021, sits on a 3.2-acre site along Russian Federation Boulevard and rises about 115 feet, with membership in Cambodia having grown from a handful of converts three decades ago to more than 18,000. Phnom Penh Cambodia North Stake President Samnang Sea, who helped coordinate the open house and dedication with the Cambodian government, said the temple will make members "strong and ready to be the light of the world."]]></description>
       <dc:creator>Mary Richards</dc:creator>
       <pubDate>Sun, 30 Aug 2026 14:14:57 -0600</pubDate>
-    </item>
-    <item>
-      <title>3 Utah teens represent Team USA at world ultimate championships</title>
-      <link>https://www.deseret.com/faith/2026/08/29/church-news-3-utah-teens-represent-usa-world-ultimate-championships/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/08/29/church-news-3-utah-teens-represent-usa-world-ultimate-championships/</guid>
-      <description><![CDATA[Three Utah teens who are members of The Church of Jesus Christ of Latter-day Saints -- Blake Holt of Hyde Park, Silas Bell of Logan and Emilee Jensen of Bountiful -- won medals representing Team USA at the World Flying Disc Federation's World Junior Ultimate Championships in Logrono, Spain, in July. Holt, 17, took silver with the U20 men's team, while Bell, 19, and Jensen, then 18, won gold on the U20 mixed team. Jensen is returning to Spain on a mission call to Madrid, and both Holt and Bell plan to serve missions after finishing high school.]]></description>
-      <dc:creator>Church News</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 17:52:30 -0600</pubDate>
     </item>
   </channel>
 </rss>
