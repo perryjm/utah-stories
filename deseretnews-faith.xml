@@ -6,10 +6,18 @@
     <atom:link href="https://www.deseret.com/faith/" rel="self" type="application/rss+xml"/>
     <description>Faith news and stories from Deseret News</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 10:37:44 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:45:00 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Children learn about families in September Friend to Friend with Elder Caussé, Primary general presidency</title>
+      <link>https://www.deseret.com/faith/2026/09/13/church-news-friend-to-friend-elder-causse-family-proclamation/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/09/13/church-news-friend-to-friend-elder-causse-family-proclamation/</guid>
+      <description><![CDATA[Elder Gérald Caussé of the Quorum of the Twelve Apostles and his wife, Sister Valérie Caussé, were featured guests on the September 2026 "Friend to Friend" broadcast from The Church of Jesus Christ of Latter-day Saints, released Sunday, Sept. 13. During the segment, the couple made crêpes alongside child hosts Leki Uipi and Millie Ferreira while sharing family traditions tied to the church's "Family Proclamation." Elder Caussé testified that family is central to God's plan and that eternal happiness comes through living as families who support and love one another. The broadcast is aimed at teaching children about the importance of family through relatable, hands-on storytelling.]]></description>
+      <dc:creator>Church News</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 19:16:00 -0600</pubDate>
+    </item>
     <item>
       <title>Opinion: I walked around the Salt Lake Temple again. It was worth the wait</title>
       <link>https://www.deseret.com/faith/2026/09/13/salt-lake-temple-worth-the-wait/</link>
@@ -273,22 +281,6 @@
       <description><![CDATA[The Church of Jesus Christ of Latter-day Saints opened the new Ephraim Utah Temple to media and invited guests Monday, ahead of a public open house running Wednesday through Sept. 19 and dedication by Elder Ronald A. Rasband of the Quorum of the Twelve Apostles. The temple, standing about 10 miles from the historic Manti Utah Temple, is the second in Sanpete County and was announced by President Russell M. Nelson in May 2021 after he said he received guidance to preserve the Manti temple's pioneer craftsmanship during its renovation and build a new temple in Ephraim instead. Nelson, whose mother was born in Ephraim and whose father was born in Manti, had noted at the 2022 groundbreaking that all four of his grandparents and all eight great-grandparents lived in Ephraim, immigrant converts from England, Denmark, Norway and Sweden. Utah is now home to more than 2.2 million Latter-day Saints and 32 temples that are operating, under construction, under renovation or announced.]]></description>
       <dc:creator>Sarah Jane Weaver</dc:creator>
       <pubDate>Mon, 31 Aug 2026 14:06:39 -0600</pubDate>
-    </item>
-    <item>
-      <title>Ground broken for Latter-day Saint temple in Coeur d'Alene, Idaho</title>
-      <link>https://www.deseret.com/faith/2026/08/30/church-news-ground-broken-for-latter-day-saint-temple-coeur-d-alene-idaho/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/08/30/church-news-ground-broken-for-latter-day-saint-temple-coeur-d-alene-idaho/</guid>
-      <description><![CDATA[Elder Hutch U. Fale, a General Authority Seventy of The Church of Jesus Christ of Latter-day Saints, dedicated the site of the Coeur d'Alene Idaho Temple on Aug. 29, ahead of construction beginning on the new north Idaho temple. In his dedicatory prayer, Fale asked that the temple further the church's work, provide access to sacred ordinances for people on both sides of the veil, and stand as a symbol of peace for the surrounding Coeur d'Alene community. The brief announcement, credited to Church News, offers few additional construction details and points readers to TheChurchNews.com for the full story.]]></description>
-      <dc:creator>Church News</dc:creator>
-      <pubDate>Sun, 30 Aug 2026 17:36:32 -0600</pubDate>
-    </item>
-    <item>
-      <title>Latter-day Saint apostle dedicates Phnom Penh Cambodia Temple, where vision 'draws heavenward'</title>
-      <link>https://www.deseret.com/faith/2026/08/30/elder-kearon-dedicates-phnom-penh-cambodia-temple-where-vision-draws-heavenward/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/08/30/elder-kearon-dedicates-phnom-penh-cambodia-temple-where-vision-draws-heavenward/</guid>
-      <description><![CDATA[Elder Patrick Kearon of the Quorum of the Twelve Apostles dedicated the Phnom Penh Cambodia Temple on Sunday, the 222nd operating temple of The Church of Jesus Christ of Latter-day Saints, telling members the building's architecture and covenants are meant to draw their gaze and hearts heavenward. Kearon noted Cambodia's history of pain from the 1970s Khmer Rouge genocide, which claimed relatives of many Cambodian Latter-day Saints, and said the temple offers a place to exchange sorrow for peace; his wife, Sister Jennifer Kearon, called the temple a gift that lets Cambodians reach the presence of God without traveling to Hong Kong or the Philippines as members previously had to. The temple, announced in 2018 by President Russell M. Nelson and broken ground in 2021, sits on a 3.2-acre site along Russian Federation Boulevard and rises about 115 feet, with membership in Cambodia having grown from a handful of converts three decades ago to more than 18,000. Phnom Penh Cambodia North Stake President Samnang Sea, who helped coordinate the open house and dedication with the Cambodian government, said the temple will make members "strong and ready to be the light of the world."]]></description>
-      <dc:creator>Mary Richards</dc:creator>
-      <pubDate>Sun, 30 Aug 2026 14:14:57 -0600</pubDate>
     </item>
   </channel>
 </rss>
