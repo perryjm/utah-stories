@@ -6,10 +6,306 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:16:44 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:27:48 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Anthropic says Claude AI helped discover novel enzyme system</title>
+      <link>https://www.ksl.com/article/51627805/anthropic-says-claude-ai-helped-discover-novel-enzyme-system</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627805/anthropic-says-claude-ai-helped-discover-novel-enzyme-system</guid>
+      <description><![CDATA[Anthropic said Wednesday that its Claude model helped identify a previously undescribed enzyme system with features reminiscent of the gene-editing tool CRISPR, the first result from the company's biology research push. According to Anthropic, Claude analyzed large DNA databases and surfaced an unusual arrangement centered on a reverse transcriptase, the enzyme class that copies RNA into DNA. The company named the system array-associated reverse transcriptases, or ART, and said it contains repeating DNA sequences resembling CRISPR patterns. Anthropic noted the underlying reverse transcriptase had appeared in earlier studies but said Claude was apparently first to recognize the broader system, including an array of non-coding sequences and an extra protein of unknown function. The announcement follows Reuters reporting that Anthropic had quietly set up a wet lab in the San Francisco Bay Area.]]></description>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 15:12:21 -0600</pubDate>
+    </item>
+    <item>
+      <title>Rivian recalls about 100,700 vehicles over rearview camera display issue</title>
+      <link>https://www.ksl.com/article/51627469/rivian-recalls-nearly-99000-vehicles-over-rearview-camera-display-issue</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627469/rivian-recalls-nearly-99000-vehicles-over-rearview-camera-display-issue</guid>
+      <description><![CDATA[Rivian Automotive said Wednesday it is recalling roughly 100,700 vehicles — most of what it has built to date — over a software flaw that can block the rearview camera display. The recall covers certain 2022-2026 R1T pickups, 2022-2027 R1S SUVs and 2027 R2 models, and involves non-compliance with U.S. and Canadian rear-visibility safety standards. The company told Reuters that in rare cases where stability control is switched off, a prompt asking the driver to re-enable it can overlap the camera view when shifting into reverse until the vehicle starts moving. Rivian said more than 95% of affected vehicles have already received a software fix. All vehicles built after Aug. 10 ship with the corrected software.]]></description>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 15:07:38 -0600</pubDate>
+    </item>
+    <item>
+      <title>Judge says Trump's White House media ban may not comply with legal precedents</title>
+      <link>https://www.ksl.com/article/51627517/news-outlets-will-ask-judge-to-end-trumps-white-house-ban-at-hearing</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627517/news-outlets-will-ask-judge-to-end-trumps-white-house-ban-at-hearing</guid>
+      <description><![CDATA[U.S. District Judge Timothy Kelly said Wednesday that President Donald Trump's ban on CNN, MS NOW and Politico from the White House appears not to comply with binding appellate precedent, though he did not rule immediately. The outlets, which sued Monday, sought a temporary restraining order restoring their access, arguing the ban violated First Amendment protections and their due process rights. Kelly, a Trump appointee, pointed to two D.C. Circuit decisions establishing that journalists are entitled to due process before press passes are revoked, and said the process those cases laid out was not followed. He noted the government argued those rulings were wrongly decided but said that as a district judge he must apply them. Attorney Theodore Boutrous, for the news organizations, called the bans an unprecedented and severe punishment imposed without a semblance of due process; Justice Department lawyer Michael Velchik argued the administration's side.]]></description>
+      <dc:creator>Jan Wolfe and Jack Queen, Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 15:04:32 -0600</pubDate>
+    </item>
+    <item>
+      <title>Utah mother accused of rubbing hot spices on daughter</title>
+      <link>https://www.ksl.com/article/51627790/utah-mother-accused-of-rubbing-hot-spices-on-daughter</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627790/utah-mother-accused-of-rubbing-hot-spices-on-daughter</guid>
+      <description><![CDATA[A 49-year-old Hurricane woman was charged Wednesday with aggravated child abuse, a first-degree felony, after her teenage daughter told police she was beaten and burned as punishment. Police say the mother picked the girl up from school Monday after she got in trouble, then turned the home's music up loud and struck her with a belt over roughly two hours. The girl reported that her mother rubbed a seeded spice on her face, mouth and throat, which burned and made her vomit, and threatened her with a knife. Investigators say the mother also forced the girl into the shower, hit her there and cut her hair with scissors. Officers documented large bruises consistent with belt strikes and arrested her Tuesday; KSL is withholding her name to protect the victim's identity.]]></description>
+      <dc:creator>Pat Reavy, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 15:01:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>McDonald's expects inflation to keep traffic flat, shares dip after $8.5 billion capex plan</title>
+      <link>https://www.ksl.com/article/51627553/mcdonalds-outlines-85-billion-plan-to-support-franchisees</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627553/mcdonalds-outlines-85-billion-plan-to-support-franchisees</guid>
+      <description><![CDATA[McDonald's told investors Wednesday that industrywide customer traffic in its key markets will likely stay flat while inflation remains high, sending its shares down as much as 6.5% to a near four-year low of $234.03. The chain simultaneously announced an $8.5 billion, decade-long support package for franchisees bearing costs under its "NEXT" strategy, plus targets for restaurant productivity and operating margins in the low- to mid-50% range by 2030. CEO Chris Kempczinski said the winners will be companies that create more demand and deliver it more efficiently. New U.S. business head Skye Anderson acknowledged the company had fallen short on consistent execution and must improve restaurant operations. The warning follows a second quarter in which McDonald's missed U.S. sales growth estimates and blamed missteps in winning back lower-income diners; its stock is down about 22% this year.]]></description>
+      <dc:creator>Anuja Bharat Mistry and Waylon Cunningham, Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:58:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>FBI investigating hackers' claim of stolen sensitive employee data, compromised jobs website</title>
+      <link>https://www.ksl.com/article/51627635/fbi-investigating-hackers-claim-of-stolen-sensitive-employee-data-compromised-jobs-website</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627635/fbi-investigating-hackers-claim-of-stolen-sensitive-employee-data-compromised-jobs-website</guid>
+      <description><![CDATA[The FBI said Wednesday it is investigating claims by the hacking group ShinyHunters that it stole sensitive data on thousands of agents and job applicants and compromised the FBIJobs.gov portal. The bureau said the point of breach remains undetermined and that it is working with third-party providers supporting the site to limit risk; the portal was still offline Wednesday afternoon. A message circulating online and addressed to FBI Director Kash Patel and cyber division chief Brett Leatherman claimed the group holds data on nearly all FBI agents and applicants. The claims could not be independently verified, and an email to an address linked to the group went unanswered. ShinyHunters also demanded the bureau retract or correct a May public advisory describing it as a criminal group specializing in large-scale breaches and extortion.]]></description>
+      <dc:creator>Eric Tucker, Associated Press</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:41:57 -0600</pubDate>
+    </item>
+    <item>
+      <title>Disney to raise prices on Disney+, Hulu subscriptions, Bloomberg News reports</title>
+      <link>https://www.ksl.com/article/51627656/disney-to-raise-prices-on-disney-hulu-subscriptions-bloomberg-news-reports</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627656/disney-to-raise-prices-on-disney-hulu-subscriptions-bloomberg-news-reports</guid>
+      <description><![CDATA[Disney will raise prices across several streaming plans, Bloomberg News reported Wednesday, citing people familiar with the matter. The ad-free Disney+ tier is set to climb $2.50, or 13%, to $21.49 a month, and ad-free Hulu rises by the same amount, while the ad-free Disney+ and Hulu bundle goes up $2 to $21.99. Standalone ad-supported Disney+ and Hulu plans each increase 50 cents to $12.49, though the ad-supported bundle stays at $12.99. Customers were expected to be notified of the changes as early as Wednesday, and Disney did not immediately respond to a Reuters request for comment. The move follows a broader industry pattern of raising prices and leaning on ad-supported tiers, and comes a week after Disney named Karandeep Anand its first chief technology officer and promoted Adam Smith to lead streaming.]]></description>
+      <dc:creator>Anzar Mehraj, Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:41:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Idaho high school is victim of alleged 'swatting' hoax, deputies say</title>
+      <link>https://www.ksl.com/article/51627789/idaho-high-school-is-victim-of-alleged-swatting-hoax-deputies-say</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627789/idaho-high-school-is-victim-of-alleged-swatting-hoax-deputies-say</guid>
+      <description><![CDATA[The Bonneville County Sheriff's Office says Bonneville High School near Idaho Falls was targeted by a swatting hoax Wednesday after a reported threat near the campus around 11 a.m. Swatting involves false emergency reports designed to draw a heavy law enforcement response, creating chaos and risk of injury, according to the FBI. Bonneville School District 93 alerted parents that the school had entered a hall check over a possible weapon on campus and asked people to stay away while officers investigated. A hall check keeps students and staff inside classrooms while instruction continues, one of four emergency procedures alongside evacuation, reverse evacuation and lockdown. Deputies checked the area as a precaution, found no violence or actual threat, and lifted the hall check after roughly 45 minutes.]]></description>
+      <dc:creator>Kaitlyn Hart, EastIdahoNews.com</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:23:15 -0600</pubDate>
+    </item>
+    <item>
+      <title>'How else am I supposed to discipline them?' man accused of choking child asks police</title>
+      <link>https://www.ksl.com/article/51626648/how-else-am-i-supposed-to-discipline-them-man-accused-of-choking-child-asks-police</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51626648/how-else-am-i-supposed-to-discipline-them-man-accused-of-choking-child-asks-police</guid>
+      <description><![CDATA[Jason James Quigley, 36, of Santaquin, was charged Wednesday in 4th District Court with four counts of aggravated child abuse, a first-degree felony, plus obstruction of justice and public intoxication. Police were called Sunday after a 9-year-old ran to a neighbor's home reporting that Quigley was choking a 5-year-old at the residence. When officers questioned him, Quigley asked what else he was supposed to do to discipline the children and admitted drinking heavily, according to a booking affidavit; the younger child was found hiding under a bed. Both children told investigators Quigley believed they had stolen a cellphone. Prosecutors also allege he drove them up Goshen Canyon and held each over the river while threatening to drop them, saying he was testing them.]]></description>
+      <dc:creator>Pat Reavy, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:21:37 -0600</pubDate>
+    </item>
+    <item>
+      <title>McDonald's to create tiered loyalty program to lure repeat visitors</title>
+      <link>https://www.ksl.com/article/51627803/mcdonalds-to-create-tiered-loyalty-program-to-lure-repeat-visitors</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627803/mcdonalds-to-create-tiered-loyalty-program-to-lure-repeat-visitors</guid>
+      <description><![CDATA[McDonald's will restructure its loyalty program into tiers, chief marketing officer Morgan Flatley said at the chain's investor day Wednesday, aiming to distinguish frequent customers from occasional ones. Flatley did not give a launch date or the number of tiers, but described three groups: about 220 million members worldwide who visit monthly or at least every 90 days, and roughly 150 million who have not eaten there in months. Frequent visitors could get faster points, early access to limited-time menu items and invitations to launch events, while mid-tier members may see game-like online challenges; lapsed members would be targeted with perks such as a birthday bonus. U.S. members can expect Uber ride credits and Disney+ subscriptions this year. CEO Chris Kempczinski said loyalty members account for about 30% of sales, and the shift follows a broader restaurant-industry move away from broad discounting that Starbucks made in January.]]></description>
+      <dc:creator>Waylon Cunningham, Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:12:44 -0600</pubDate>
+    </item>
+    <item>
+      <title>Utah group to hold vigil honoring state's 2026 murder victims</title>
+      <link>https://www.ksl.com/article/51627768/utah-group-to-hold-vigil-honoring-states-2026-murder-victims</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627768/utah-group-to-hold-vigil-honoring-states-2026-murder-victims</guid>
+      <description><![CDATA[Utah Homicide Survivors will hold a candlelight vigil at the State Capitol on Friday at 7 p.m. to mark the National Day of Remembrance for Homicide Victims. The service is set to include a memory garden, speeches and live music honoring Utahns killed and supporting their families. Among the scheduled speakers is a sister of Summer Roney, who was found slain in the back seat of her ex-boyfriend's car nearly two years ago. State officials and the FBI generally publish annual murder figures at year's end. Prominent 2026 cases include three people killed in Wayne County in March and two found dead in a Kearns home in April in what was later described as a domestic dispute.]]></description>
+      <dc:creator>KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:12:23 -0600</pubDate>
+    </item>
+    <item>
+      <title>Construction on SR 224 in Park City nears end, UDOT says</title>
+      <link>https://www.ksl.com/article/51627784/construction-on-sr-224-in-park-city-nears-end-udot-says</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627784/construction-on-sr-224-in-park-city-nears-end-udot-says</guid>
+      <description><![CDATA[The Utah Department of Transportation and High Valley Transit say two major projects along state Route 224 in Park City are wrapping up after months of work. Crews are finishing new turning lanes at Deer Valley Drive and Park Avenue, with additional work concluding near Kimball Junction. High Valley Transit said one more paving job is scheduled for next week and that most construction should be done by the end of October. The work supports a larger bus rapid transit project linking Kimball Junction and Old Town. Bus service on that line is expected to begin in 2028.]]></description>
+      <dc:creator>KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:10:48 -0600</pubDate>
+    </item>
+    <item>
+      <title>Spanish Fork City Council approves changes to city code for data centers</title>
+      <link>https://www.ksl.com/article/51627727/spanish-fork-city-council-approves-changes-to-city-code-for-data-centers</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627727/spanish-fork-city-council-approves-changes-to-city-code-for-data-centers</guid>
+      <description><![CDATA[The Spanish Fork City Council voted to amend city code, clearing a path for a proposed data center to move forward. Mayor Mike Mendenhall said the council weighed residents' concerns, particularly over water use, noting the city meters its water and could halt supply if needed. Jeff Chavez, CEO of Volition, the company behind the project, said its closed-loop cooling system uses roughly as much water as one or two Utah households. Council members also capped the city at a single data center unless a future vote changes that limit.]]></description>
+      <dc:creator>KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 14:09:24 -0600</pubDate>
+    </item>
+    <item>
+      <title>Utah hits new record for price of diesel fuel</title>
+      <link>https://www.ksl.com/article/51627777/utah-hits-new-record-for-price-of-diesel-fuel</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627777/utah-hits-new-record-for-price-of-diesel-fuel</guid>
+      <description><![CDATA[Diesel in Utah reached a record $6.58 per gallon on Wednesday, according to AAA — two cents above Tuesday, 44 cents above a week earlier and $2.85 higher than a year ago. GasBuddy's head of petroleum analysis, Patrick De Haan, told KSL the increase traces largely to geopolitics, citing Ukrainian strikes on Russian oil refineries and disruption at the Strait of Hormuz tied to the U.S. and Israeli conflict with Iran. He said the refinery attacks became more damaging once the strait was closed, leaving Middle East refining capacity bottled up. GasBuddy pegged Salt Lake City diesel at $6.61, with regular unleaded just under $5. De Haan said the U.S. faces a tight diesel market rather than an outright shortage, and cautioned that a diesel export ban under consideration by the Trump administration would bring complications.]]></description>
+      <dc:creator>Daniel Woodruff, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 13:56:37 -0600</pubDate>
+    </item>
+    <item>
+      <title>Zelenskyy, at UN, urges leaders to keep choking Russia's revenues and impede its war efforts</title>
+      <link>https://www.ksl.com/article/51627477/russia-pounds-kyiv-with-drones-killing-2-and-wounding-23-hours-before-zelenskyys-un-address</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627477/russia-pounds-kyiv-with-drones-killing-2-and-wounding-23-hours-before-zelenskyys-un-address</guid>
+      <description><![CDATA[Ukrainian President Volodymyr Zelenskyy told the U.N. General Assembly on Wednesday that Russia's revenues must remain a target, arguing that trade with Moscow buys the war more time. Speaking in English, he cast doubt on Putin's willingness to end the fighting, calling him "Patient Zero" from whom war keeps spreading. Russian Foreign Minister Sergey Lavrov told the Security Council the same day that Moscow is willing to negotiate a lasting peace but will not accept a mere pause, which he said would let Ukraine and its backers rearm. Russia is scheduled to address the assembly Saturday, with Lavrov again standing in for Putin, who has not attended in years. Western analysts estimate more than 500,000 Russian troops killed and over 500,000 Ukrainian military casualties, including up to 140,000 deaths, in a war now past four and a half years with front lines largely static.]]></description>
+      <dc:creator>Edith M. Lederer and Jennifer Peltz, Associated Press</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 13:42:26 -0600</pubDate>
+    </item>
+    <item>
+      <title>World's largest copper mine halts operations after worker death</title>
+      <link>https://www.ksl.com/article/51627793/worlds-largest-copper-mine-halts-operations-after-worker-death</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627793/worlds-largest-copper-mine-halts-operations-after-worker-death</guid>
+      <description><![CDATA[BHP suspended all operations Wednesday at Escondida in Chile, the world's largest copper mine, after a worker was killed in an accident during maintenance work. The union representing the site told Reuters the accident involved a front-end loader of a type commonly used in the industry. BHP gave no timeline for restarting; under Chilean practice, mines typically resume after a fatality only once inspectors confirm conditions are safe. Escondida sits in the Atacama Desert and is operated by BHP, with Rio Tinto holding a 30% stake and Japan's JECO Corp 12.5%. The company had projected output of up to 1.28 million metric tons of copper at the site this year.]]></description>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 13:40:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Food insecurity up by 100K, Utah Food Bank reports. Here's a way to help</title>
+      <link>https://www.ksl.com/article/51627712/food-insecurity-up-by-100k-utah-food-bank-reports-heres-a-way-to-help</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627712/food-insecurity-up-by-100k-utah-food-bank-reports-heres-a-way-to-help</guid>
+      <description><![CDATA[The Utah Food Bank reports that nearly 100,000 more Utahns are facing food insecurity than a year ago, bringing the state's total closer to 600,000 people. Demand typically climbs in fall and winter as household expenses rise and children spend more time out of school. America First Credit Union is collecting nonperishable food and cash donations at its branches, and director of public relations Dave Nellis said the contributions are distributed to six food pantries and organizations statewide. Donors do not need to be credit union members to participate. Nellis said small contributions add up, describing the goal as feeding neighbors and strengthening the community.]]></description>
+      <dc:creator>Madi Vollmer, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 13:11:18 -0600</pubDate>
+    </item>
+    <item>
+      <title>Fired IT employee accused of hacking Utah city emails, posting on Facebook</title>
+      <link>https://www.ksl.com/article/51627728/fired-it-employee-accused-of-hacking-utah-city-emails-posting-on-facebook</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627728/fired-it-employee-accused-of-hacking-utah-city-emails-posting-on-facebook</guid>
+      <description><![CDATA[Wesley Fullenwider, 31, of Vineyard, was charged Wednesday in 4th District Court with unlawful computer access gaining confidential information, a third-degree felony, plus two misdemeanor counts of unlawful computer access. Prosecutors say the former contract IT technician kept getting into Vineyard city email accounts after the city asked in January that he be removed from its account. Fullenwider worked for Onward Technology, which provided IT support to Vineyard; the firm says technicians could reach client email but were not authorized to read it, and it fired him on May 11 after finding unauthorized access. Vineyard Mayor Zack Stratton told investigators that Fullenwider posted city emails to Facebook, including confidential attorney-client correspondence between the City Council and the city attorney. The Utah Attorney General's Office took up the case in May, and investigators say he accessed more than 700 emails.]]></description>
+      <dc:creator>Pat Reavy, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 12:54:25 -0600</pubDate>
+    </item>
+    <item>
+      <title>Trump Gaza board pitches $2.45B Gaza plan, implementation uncertain</title>
+      <link>https://www.ksl.com/article/51627500/trumps-board-of-peace-to-unveil-245b-gaza-recovery-plan-axios-reports</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627500/trumps-board-of-peace-to-unveil-245b-gaza-recovery-plan-axios-reports</guid>
+      <description><![CDATA[President Donald Trump's Board of Peace unveiled a $2.45 billion plan Wednesday to begin rebuilding Gaza, presenting 66 programs to rehabilitate infrastructure and the economy at an event tied to the U.N. General Assembly. Officials conceded the plan's future is uncertain, with Israel and Hamas still at odds over terms of the U.S.-backed ceasefire announced nearly a year ago. Secretary of State Marco Rubio called it a long-term project that at least offers people hope. Jared Kushner, who devised the plan, acknowledged delays and said the effort was still sharpening the axe ahead of action. Reconstruction has yet to start as negotiators fail to agree on Hamas disarmament and Israeli withdrawal, leaving more than 2 million residents confined to about a third of the territory, and Israeli strikes continued Wednesday, killing four people including a Hamas official.]]></description>
+      <dc:creator>Nidal al-Mughrabi, Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 12:22:06 -0600</pubDate>
+    </item>
+    <item>
+      <title>Mapleton bear removed from neighborhood</title>
+      <link>https://www.ksl.com/article/51627701/mapleton-bear-removed-from-neighborhood</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627701/mapleton-bear-removed-from-neighborhood</guid>
+      <description><![CDATA[Utah wildlife officers trapped and removed a bear that had been raiding trash and feed in a Mapleton neighborhood for several weeks. Resident Cherise Rodman first saw the animal cross her driveway and get into garbage she had left out, and it returned the next day for a bag of chicken feed on her porch. Rodman keeps chickens and her neighbors have horses and other livestock, which she said made it lucky the bear never went after any animals. Neighbors kept storing cans in their garages, but the bear struck again Sunday night when the cans were left out, prompting the Utah Department of Wildlife to set a trap. The trap sprang Wednesday morning, and officers hauled the bear off without saying whether it would be killed or relocated.]]></description>
+      <dc:creator>Joe R. Wirthlin Jr, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 12:22:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>New Justice Court judge appointed; first new position in more than two decades</title>
+      <link>https://www.ksl.com/article/51627666/new-justice-court-judge-appointed-first-new-position-in-more-than-two-decades</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627666/new-justice-court-judge-appointed-first-new-position-in-more-than-two-decades</guid>
+      <description><![CDATA[Nick Stiles has been appointed to the Salt Lake City Justice Court, filling a newly created sixth judgeship that is the court's first added position in more than 20 years. Mayor Erin Mendenhall selected Stiles from five forwarded candidates, and the City Council confirmed the choice Tuesday evening. Mendenhall said the court needed capacity to give cases proper attention and cited Stiles' range of experience across Utah's justice system. The court handles class B and C misdemeanors, infractions, traffic citations and small claims arising in Salt Lake City. Stiles currently administers the Utah Supreme Court and Court of Appeals, and previously worked as a city prosecutor, managed the Utah Judiciary's Domestic Violence Program and directed the Utah State Bar's Access to Justice Office.]]></description>
+      <dc:creator>Joe R. Wirthlin Jr, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 11:49:21 -0600</pubDate>
+    </item>
+    <item>
+      <title>Meta expected to unveil smart glasses without camera as privacy concerns grow</title>
+      <link>https://www.ksl.com/article/51627508/meta-expected-to-unveil-smart-glasses-without-camera-as-privacy-concerns-grow</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627508/meta-expected-to-unveil-smart-glasses-without-camera-as-privacy-concerns-grow</guid>
+      <description><![CDATA[Meta was expected to introduce new smart glasses at its Connect conference Wednesday, including a camera-free pair, as scrutiny grows over AI devices that can record people without consent. The Information reported the camera-less models would come in two styles, Clubmaster and Burbank, alongside an expected refresh of the camera-equipped Meta Ray-Ban line and thinner augmented-reality glasses reportedly code-named Phoenix. Meta leads the category, with sales of the glasses it co-developed with EssilorLuxottica topping 7 million last year against mainly Chinese rivals such as RayNeo and Xiaomi. The devices have drawn restrictions at U.K. restaurants, pubs and theaters, plus a proposed California class action alleging Meta misled users about privacy and that human annotators reviewed footage of private moments; the company disputes the claims. Some analysts doubt dropping cameras resolves privacy worries, since the glasses can still capture audio.]]></description>
+      <dc:creator>Aditya Soni, Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 11:26:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Provocative ad for bed sale leads to solicitation arrest</title>
+      <link>https://www.ksl.com/article/51627642/provocative-ad-for-bed-sale-leads-to-solicitation-arrest</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627642/provocative-ad-for-bed-sale-leads-to-solicitation-arrest</guid>
+      <description><![CDATA[Miles Andrew Anderson, 22, of Salt Lake City, was arrested Tuesday and booked into the Salt Lake County Jail for investigation of 10 counts of sexual exploitation of a minor and obstruction of justice. The case began in June when a tipster reported a Craigslist listing that advertised a platform bed for $200 but included several photos of a girl, apparently about 12, posed on it in a nightgown. Salt Lake City police said the ad's wording and images were suspicious enough to open an investigation and obtain a warrant for the email address behind the post. Detectives traced the listing to Anderson and questioned him at his home. According to a booking affidavit, he initially claimed he had come across child sexual abuse material and bulk-downloaded it to make a predator-poaching post before deleting most of the files.]]></description>
+      <dc:creator>Pat Reavy, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 11:05:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Award-winning author, creative writing teacher named Salt Lake City's first poet laureate</title>
+      <link>https://www.ksl.com/article/51627620/award-winning-author-creative-writing-teacher-named-salt-lake-citys-first-poet-laureate</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627620/award-winning-author-creative-writing-teacher-named-salt-lake-citys-first-poet-laureate</guid>
+      <description><![CDATA[Poet and educator Joel Long has been named Salt Lake City's inaugural poet laureate by the city's Arts Council and Mayor's Office. Long, who lives in Sugar House, has taught English and creative writing at Rowland Hall since 2004 and has published seven books, five of them poetry collections. His honors include a White Pine Press Poetry Prize and a 2009 Salt Lake City Mayor's Award for Literary Arts. Mayor Erin Mendenhall said Long would help carry poetry beyond the page into daily city life while establishing the program's foundation. The three-year post, which drew 16 applicants after the search opened in April, carries a $5,000 annual honorarium and asks the laureate to write civic poems, run neighborhood readings and workshops, and develop a signature community project.]]></description>
+      <dc:creator>Carter Williams, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 10:42:12 -0600</pubDate>
+    </item>
+    <item>
+      <title>Space investment more than doubled to $23 billion in year to June, report says</title>
+      <link>https://www.ksl.com/article/51627583/space-investment-more-than-doubled-to-23-billion-in-year-to-june-report-says</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627583/space-investment-more-than-doubled-to-23-billion-in-year-to-june-report-says</guid>
+      <description><![CDATA[Private investment in space companies worldwide more than doubled to $23 billion in the year through June, according to a report released Wednesday by British investment firm Seraphim and Relm Insurance. The firms attribute the surge partly to SpaceX's June IPO, which reshaped the funding landscape and drew investors hunting for the next comparable payoff. Relm said the sector is moving from hype to commercial reality, with capital flowing toward Earth observation, in-orbit manufacturing and satellite supply chains. Relm product development VP Andrew Bonwick said Earth observation's real value lies in analytics, since customers buy answers about ships, crops, refineries or wildfire risk rather than space services. The report found investors growing more selective toward Earth observation firms with visible revenue, while in-orbit manufacturing remains early-stage and satellite suppliers bring more production in-house to control costs.]]></description>
+      <dc:creator>Akash Sriram, Reuters</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 09:57:49 -0600</pubDate>
+    </item>
+    <item>
+      <title>Lowe's employees give back to their community on Red Vest Day</title>
+      <link>https://www.ksl.com/article/51627366/lowes-employees-give-back-to-their-community-on-red-vest-day</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627366/lowes-employees-give-back-to-their-community-on-red-vest-day</guid>
+      <description><![CDATA[Utah's Family Support Center was chosen earlier this year as one of 100 organizations nationwide to receive a Lowe's Community Impact Grant. On Tuesday, Lowe's Red Vest associates spent the morning at LifeStart Village in Midvale putting the $10,000 grant toward improvement projects for resident families. Kurt Baker, who manages a Lowe's in Layton, said employees live in the community and were glad for the chance to give back. LifeStart Village houses dozens of single-parent families working toward independence after domestic violence and homelessness. Staff say demand far outstrips capacity, with more than 400 families currently on the waiting list.]]></description>
+      <dc:creator>Allison Stuart, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 08:44:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>Polo off Mexican coast is among 'the strongest storms ever' as Odalys becomes a hurricane</title>
+      <link>https://www.ksl.com/article/51627429/polo-off-mexican-coast-is-among-the-strongest-storms-ever-as-odalys-becomes-a-hurricane</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627429/polo-off-mexican-coast-is-among-the-strongest-storms-ever-as-odalys-becomes-a-hurricane</guid>
+      <description><![CDATA[Hurricane Polo, which the National Hurricane Center has called an extremely dangerous storm, was churning about 165 miles south of Zihuatanejo on Wednesday with maximum sustained winds of 150 mph after briefly reaching Category 5 strength. Forecasters expected it to turn sharply northwest and then west-northwest over several days, sparing land, though tropical storm conditions were anticipated in Guerrero, Michoacan and Colima through Thursday. Mexican President Claudia Sheinbaum said experts did not expect the storm to make landfall, but hurricane-force winds extended 40 miles from the center and tropical-storm winds up to 105 miles. Polo became the Pacific season's third Category 5 on Tuesday after Genevieve and Lowell. A second system, Odalys, strengthened Wednesday into a Category 1 hurricane roughly 1,295 miles off the southern tip of Baja California with no threat to land.]]></description>
+      <dc:creator>Megan Janetsky and Desiree Brooks, Associated Press</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 08:31:15 -0600</pubDate>
+    </item>
+    <item>
+      <title>Actress, DNA expert to keynote next year's RootsTech. Tickets available now</title>
+      <link>https://www.ksl.com/article/51627342/actress-dna-expert-to-keynote-next-years-rootstech-tickets-available-now</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627342/actress-dna-expert-to-keynote-next-years-rootstech-tickets-available-now</guid>
+      <description><![CDATA[RootsTech 2027 will run March 4-6 at the Salt Palace in downtown Salt Lake City under the theme "Celebrate!" — chosen to echo the Salt Lake Temple Celebration beginning a month after the conference. Organizers announced Wednesday that actress Jane Seymour and genetic genealogist CeCe Moore will deliver keynotes, with Moore speaking March 4 and Seymour March 5. Registration opened Wednesday at early bird pricing; online attendance, the expo hall and Family Discovery Day events remain free, while classes require paid registration. FamilySearch International, the family history arm of The Church of Jesus Christ of Latter-day Saints, has hosted the conference for 16 years and drew participants from more than 200 countries in 2026 across events in 24 languages. FamilySearch events director Jonathan Wing said attendees are being invited to treat family history as a living celebration spanning past, present and future.]]></description>
+      <dc:creator>Emily Ashcraft, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 08:06:10 -0600</pubDate>
+    </item>
+    <item>
+      <title>Utah cancer survivor completes Wasatch 100 with two of his sons</title>
+      <link>https://www.ksl.com/article/51627379/utah-cancer-survivor-completes-wasatch-100-with-two-of-his-sons</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627379/utah-cancer-survivor-completes-wasatch-100-with-two-of-his-sons</guid>
+      <description><![CDATA[Cory Larrabee, 50, of Draper, finished this month's Wasatch 100 Endurance Run alongside his sons Keaton, 22, and McKay, 23. McKay said he stopped at mile 93 doubting he could beat the cutoff and asked his uncle for a blessing, which he credits as a major reason he finished. His father and brother had crossed hours earlier, and Cory was waiting at the line to embrace him. Cory first ran the race in 2002 with his own father, a year after finishing chemotherapy for cancer that cost him two of his four quadriceps muscles during his senior year as a track and cross-country athlete at Southern Utah University. He described that 2002 run as proof he could do hard things and the start of a new chapter, coming when Keaton was only a few months old.]]></description>
+      <dc:creator>Arianne Brown, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 07:42:43 -0600</pubDate>
+    </item>
+    <item>
+      <title>Eagle Mountain rezoning for possible data center draws little opposition</title>
+      <link>https://www.ksl.com/article/51627416/eagle-mountain-rezoning-for-possible-data-center-draws-little-opposition</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627416/eagle-mountain-rezoning-for-possible-data-center-draws-little-opposition</guid>
+      <description><![CDATA[A rezoning request that could eventually allow another data center in Eagle Mountain drew only two public comments at a planning commission hearing Tuesday night, a contrast to the heated debates such projects have triggered elsewhere in Utah. The proposal comes from property owner Reagan Peck, who holds 41 acres next to the existing Meta and QTS sites south of the city. Peck told the commission the request only changes zoning and does not guarantee a data center will be built. Meta has run its Eagle Mountain facility for about five years with roughly 1,200 employees, and the QTS campus due to finish in coming months is projected to add about 2,000 jobs. Economic Development Director Abby Ivory said residents have grown familiar with the technology and that the land has little other development potential, crediting the city's outreach for public trust.]]></description>
+      <dc:creator>Dan Rascon, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 07:21:50 -0600</pubDate>
+    </item>
+    <item>
+      <title>Sandy among Utah communities set to celebrate 'Dolly Day'</title>
+      <link>https://www.ksl.com/article/51627370/sandy-among-utah-communities-set-to-celebrate-dolly-day</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627370/sandy-among-utah-communities-set-to-celebrate-dolly-day</guid>
+      <description><![CDATA[Sandy will host a free outdoor screening of "Steel Magnolias" on Friday at Sandy City Hall in memory of Dolly Parton, who died Aug. 25 at 80. The date, dubbed "Dolly Day," nods to her 1980 hit "9 to 5," and Tremonton, Farmington, Park City and Cedar City are planning observances of their own. Mayor Monica Zoltanski said the singer had a knack for showing up in ways that mattered to people and fits Sandy's identity as a certified kindness city. Attendees are asked to bring a new children's book for the Canyons School District #CSDReads literacy campaign. Pinkbox Doughnuts is sponsoring the event, offering gift cards to the first 50 donors and a year of doughnuts to one.]]></description>
+      <dc:creator>Andrew Adams, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 06:34:47 -0600</pubDate>
+    </item>
+    <item>
+      <title>Salt Lake restaurant Monarca recognized by Mexican Consulate for quality, authenticity</title>
+      <link>https://www.ksl.com/article/51627335/salt-lake-restaurant-monarca-recognized-by-mexican-consulate-for-quality-authenticity</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627335/salt-lake-restaurant-monarca-recognized-by-mexican-consulate-for-quality-authenticity</guid>
+      <description><![CDATA[The Mexican Consulate in Salt Lake City awarded downtown restaurant Monarca the Sello M, or M Seal, on Tuesday, making it the first Utah restaurant to earn the designation. Owners Alfonso and Claudia Brito opened the upscale restaurant in 2021 after building up from a taco cart to a food truck to their two Santo Taco taquerias in downtown and Rose Park. Acting general consul Antonio Cruz Diaz said the seal requires a rigorous evaluation showing a restaurant uses Mexican recipes, traditional ingredients and techniques, and cooks trained in authentic Mexican cuisine. He singled out Monarca's nixtamalization process for its tortillas, its Oaxacan corn, and its use of Utah-sourced products, saying the kitchen honors its roots while still innovating. The seal is part of a Mexican Foreign Ministry initiative that has recognized 38 other U.S. restaurants, including 17 around Los Angeles.]]></description>
+      <dc:creator>Tim Vandenack, KSL</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 06:19:51 -0600</pubDate>
+    </item>
+    <item>
+      <title>Friendly rivalry takes center stage at Salt Lake County Senior Decathlon</title>
+      <link>https://www.ksl.com/article/51627280/friendly-rivalry-takes-center-stage-at-salt-lake-county-senior-decathlon</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627280/friendly-rivalry-takes-center-stage-at-salt-lake-county-senior-decathlon</guid>
+      <description><![CDATA[Nearly 100 older adults gathered Tuesday at the Magna Kennecott Senior Center for Salt Lake County's annual Senior Decathlon. Participants from senior centers across the county competed in 10 games and activities alongside live music and food. Reigning champion Sherry Mousley, who says she once won three gold medals at a single decathlon, sat out the competition this year. Instead she volunteered, running the Boggle station, and joked that she already had enough medals. Mousley said the senior center remains a central part of her life regardless of whether she is competing.]]></description>
+      <dc:creator>Debbie Worthen, KSL</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 22:34:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Salt Lake City close to fully replacing 200 North Temple trees lost in 2024 mishap</title>
+      <link>https://www.ksl.com/article/51627272/salt-lake-city-close-to-fully-replacing-200-north-temple-trees-lost-in-2024-mishap</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627272/salt-lake-city-close-to-fully-replacing-200-north-temple-trees-lost-in-2024-mishap</guid>
+      <description><![CDATA[Salt Lake City is roughly halfway through replacing the hundreds of trees a city worker accidentally killed along the North Temple corridor in 2024 by spraying them with herbicide. Public Lands crews began planting 100 new trees in August and are repairing irrigation and soil for another 100 that have waited in planters since the mishap, with completion expected by the end of November, according to deputy director Tyler Murdock. Another 30 to 40 trees are slated for 1000 West in Fairpark this year through a partnership with the Utah State Fairpark, part of some 270 additional trees planned near the corridor along with hundreds of rose bushes. The original plantings dated to UTA's green line TRAX construction, which opened in 2013. Fairpark Community Council chairman Jeffery Olson said neighbors were distraught as the trees died off.]]></description>
+      <dc:creator>Carter Williams, KSL</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 20:13:49 -0600</pubDate>
+    </item>
+    <item>
+      <title>'You will not receive forgiveness from me,' sister of DUI victim tells former Layton officer</title>
+      <link>https://www.ksl.com/article/51627170/you-will-not-receive-forgiveness-from-me-sister-of-dui-victim-tells-former-layton-officer</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627170/you-will-not-receive-forgiveness-from-me-sister-of-dui-victim-tells-former-layton-officer</guid>
+      <description><![CDATA[Samuel Andrew Rockwell, a former Layton police officer, appeared before the Utah Board of Pardons and Parole on Tuesday for the first time since his conviction in the 2021 crash that killed 23-year-old Emily Worley. Rockwell was off duty but already suspended and facing termination when he crashed on Bangerter Highway at an estimated 116 mph; he pleaded guilty in 2023 to automobile homicide while driving under the influence and drew a one-to-15-year sentence. Worley's sister, Kaitlin Krulisky, told the board she would not forgive him, saying he had sworn an oath to protect lives. Her father, Richard Krulisky, argued two years was too little and objected that Rockwell has served his time in county jails rather than state prison. The family also took issue with his law enforcement and military service having been raised at sentencing as grounds for leniency.]]></description>
+      <dc:creator>Pat Reavy, KSL</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 19:04:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Utah Youth Sports Giving Day close to $4 million in overall donations</title>
+      <link>https://www.ksl.com/article/51627304/utah-youth-sports-giving-day-close-to-4-million-in-overall-donations</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627304/utah-youth-sports-giving-day-close-to-4-million-in-overall-donations</guid>
+      <description><![CDATA[Utah Youth Sports Giving Day has drawn nearly $2.4 million in donations less than two weeks after launching, and matching gifts from Utah businesses and foundations push the campaign's total impact toward $4 million. The first-year effort targets cost, which organizers call one of the biggest barriers keeping Utah children out of sports. Jenny Teemsma of Miller Sports + Entertainment said the state calls itself the state of sport and wants young families to have access to it. Utah Crew head coach Victoria Rojo said rowing carries high operating costs and that the money lets her program expand scholarships and cut dues. The campaign, led by Miller Sports + Entertainment with the Larry H. & Gail Miller Family Foundation and the Daniels Fund, opened Sept. 12 at a Salt Lake Bees game and passed its $1 million public goal in under 10 minutes.]]></description>
+      <dc:creator>Alex Cabrero, KSL</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 18:13:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims</title>
+      <link>https://www.ksl.com/article/51627214/trump-administration-to-remove-760000-affordable-care-act-enrollees-over-fraud-claims</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51627214/trump-administration-to-remove-760000-affordable-care-act-enrollees-over-fraud-claims</guid>
+      <description><![CDATA[Vice President JD Vance and other Trump administration officials announced Tuesday plans to strip 760,000 people from Affordable Care Act exchanges, alleging the enrollments were fraudulent or tied to people who do not exist. Vance, who leads a government anti-fraud task force, said canceling roughly 315,000 enrollments covering those 760,000 individuals would save $2.2 billion, and he faulted the government for not verifying eligibility. He appeared alongside CMS Administrator Dr. Mehmet Oz and said another 419,000 enrollments face additional eligibility checks. The administration also imposed a six-month freeze on new agents and brokers signing up enrollees, saying that group accounts for a disproportionate share of the fraud identified. About 19.2 million Americans were enrolled in ACA marketplace plans as of early 2026, a figure that grew during the pandemic under enhanced subsidies from laws signed by former President Joe Biden.]]></description>
+      <dc:creator>Fatima Hussein &amp; Michelle Price, Associated Press</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 16:25:18 -0600</pubDate>
+    </item>
     <item>
       <title>2 outdoor hockey rinks now open for public use in St. George</title>
       <link>https://www.ksl.com/article/51627075/2-outdoor-hockey-rinks-now-open-for-public-use-in-st-george</link>
@@ -2137,134 +2433,6 @@
       <description><![CDATA[Northrop Grumman formally unveiled a new 845,000-square-foot facility called East Gate 3 in Layton, next to Hill Air Force Base, on Wednesday to support production of the B-21 Raider stealth bomber. Corporate vice president Tom Jones said the first completed B-21 should be delivered next year to Ellsworth Air Force Base in South Dakota, its first operational base, while B-21 division vice president Chris Adams said only that "key components" of the aircraft will be built at the Utah site. The Air Force has requested a minimum of 100 of the bombers, which Air Force estimates put at an average unit cost of about $692 million in 2022 dollars, and Jones and Adams both described the program as central to future U.S. deterrence. The Layton facility is expected to employ up to 1,500 people in engineering and manufacturing roles by 2032, and Utah Senate President Stuart Adams and Layton Mayor Joy Petro joined Northrop Grumman officials at the ribbon-cutting ceremony.]]></description>
       <dc:creator>Tim Vandenack, KSL</dc:creator>
       <pubDate>Wed, 09 Sep 2026 16:28:07 -0600</pubDate>
-    </item>
-    <item>
-      <title>Utah-based 'i love you, bro' project using love, camaraderie to combat high male suicide rates</title>
-      <link>https://www.ksl.com/article/51621018/utah-based-i-love-you-bro-project-using-love-camaraderie-to-combat-high-male-suicide-rates</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621018/utah-based-i-love-you-bro-project-using-love-camaraderie-to-combat-high-male-suicide-rates</guid>
-      <description><![CDATA[A Lehi-based support network called "i love you, bro" is holding weekly small-group meetings across Utah to help men build connection and cope with mental health struggles, in response to data showing men die by suicide at far higher rates than women. Founder Joe Tuia'ana started the nonprofit in 2022 after talking a man down from a freeway overpass and then finding no follow-up resources existed for him. The project now runs 15 groups statewide offering evidence-based workshops, which organizers describe as the only program of its kind nationally. University of Utah Zero Suicide Program medical director Dr. Eric Monson said men often face unique barriers to seeking mental health care, and participants say the peer support has given them space to be vulnerable.]]></description>
-      <dc:creator>Brian Carlson, KSL</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 09:02:35 -0600</pubDate>
-    </item>
-    <item>
-      <title>Scheduled end of protected status for Salvadoran immigrants draws fire from Utah advocates</title>
-      <link>https://www.ksl.com/article/51621547/scheduled-end-of-protected-status-for-salvadoran-immigrants-draws-fire-from-utah-advocates</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621547/scheduled-end-of-protected-status-for-salvadoran-immigrants-draws-fire-from-utah-advocates</guid>
-      <description><![CDATA[Federal Temporary Protected Status for roughly 170,000 Salvadorans nationwide is set to expire Wednesday, alarming Utah's Salvadoran community even as the Department of Homeland Security signaled to KSL that a final decision hadn't yet been announced. Gladis Rodriguez, a Utah-based Salvadoran community leader, said many recipients have built lives, jobs and businesses in the U.S. and are reluctant to return to El Salvador. South Jordan immigration attorney Carlos Trujillo and West Valley City attorney Ysabel Lonazco criticized the move, noting Salvadoran TPS holders have lived in the U.S. since the designation was created after 2001 earthquakes. About 2,000 of Utah's roughly 20,000 Salvadoran residents are believed to hold TPS status, and attorneys expect a supervision-then-removal process similar to what followed the end of Haitian TPS in July.]]></description>
-      <dc:creator>Tim Vandenack, KSL</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 08:06:37 -0600</pubDate>
-    </item>
-    <item>
-      <title>Woman given consecutive sentence after judge calls treatment of her mother 'torture'</title>
-      <link>https://www.ksl.com/article/51621497/woman-given-consecutive-sentence-after-judge-calls-treatment-of-her-mother-torture</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621497/woman-given-consecutive-sentence-after-judge-calls-treatment-of-her-mother-torture</guid>
-      <description><![CDATA[A 3rd District judge sentenced Lori Meers, 54, to two consecutive one-to-15-year prison terms after a jury convicted her of manslaughter and aggravated abuse of a vulnerable adult in the death of her 77-year-old mother. Judge Coral Sanchez called Meers' treatment of her mother "torture," citing video and photo evidence showing the woman left in unsanitary conditions and being verbally abused. The mother, identified in court records by the initials W.P., died in March 2025 of septic shock from acute pancreatitis after living in Meers' care despite other resources being available. Meers faces between two and 30 years behind bars.]]></description>
-      <dc:creator>Emily Ashcraft, KSL</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 07:35:15 -0600</pubDate>
-    </item>
-    <item>
-      <title>Creekstone Energy, University of Utah studying feasibility of novel water generation technology</title>
-      <link>https://www.ksl.com/article/51621116/creekstone-energy-university-of-utah-studying-feasibility-of-novel-water-generation-technology</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621116/creekstone-energy-university-of-utah-studying-feasibility-of-novel-water-generation-technology</guid>
-      <description><![CDATA[Creekstone Energy, developer of the planned Delta Gigasite data center campus in Millard County, announced a patent-pending technology called GIGAWATER aimed at capturing water vapor from natural-gas-fired electricity generation and converting it into usable water. CEO Ray Conley said the still-conceptual system is meant to address concerns that massive data centers will strain Utah's already drought-stressed water supply. Creekstone has signed a research agreement with the University of Utah's Energy and Geoscience Institute — funded entirely by Creekstone — to independently test the concept's core assumptions around chemistry, heat transfer and expected water recovery at the scale of the Delta Gigasite.]]></description>
-      <dc:creator>Logan Stefanich, KSL</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 06:14:44 -0600</pubDate>
-    </item>
-    <item>
-      <title>Vernal mother accused of child abuse after leaving children home alone</title>
-      <link>https://www.ksl.com/article/51621567/vernal-mother-accused-of-child-abuse-after-leaving-children-home-alone</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621567/vernal-mother-accused-of-child-abuse-after-leaving-children-home-alone</guid>
-      <description><![CDATA[A Vernal woman, 28-year-old Lilian Sofia Ochoa Orizabal, faces two counts of reckless aggravated child abuse after prosecutors say she left her two young children, ages 3 and 6, home alone with a stove on. Court documents say the children ran from their smoke-filled apartment on July 25 screaming for their mother, and a neighbor who responded found burnt food and heavy smoke but no adults present. Orizabal reportedly told police she had gone to the store and left the children with a cellphone, returning about 45 minutes after officers arrived.]]></description>
-      <dc:creator>Heather Peterson, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 22:33:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Utah family details extreme weather, chaos witnessed during Hurricane Lowell</title>
-      <link>https://www.ksl.com/article/51621676/utah-family-details-extreme-weather-chaos-witnessed-during-hurricane-lowell</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621676/utah-family-details-extreme-weather-chaos-witnessed-during-hurricane-lowell</guid>
-      <description><![CDATA[A Saratoga Springs family's Hawaii vacation turned frightening when Hurricane Lowell bore down on Kauai during their stay, forcing last-minute scrambles for supplies. Madison Currey said the family wasn't worried at first since early forecasts showed the storm moving away, but concern grew as it turned back toward the islands, leading to long lines at Costco and a two-hour wait at the gas station. Lowell was the third tropical system to threaten Hawaii in weeks amid an active Pacific hurricane season, following Hurricane Lala's flooding of the Big Island in mid-August and the weaker Tropical Storm Moke. The storm intensified further Monday night, and the family ultimately lost power along with many others on the island.]]></description>
-      <dc:creator>Devin Oldroyd, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 22:16:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Utah woman returns to New York for 25th anniversary of 9/11</title>
-      <link>https://www.ksl.com/article/51621698/utah-woman-returns-to-new-york-for-25th-anniversary-of-911</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621698/utah-woman-returns-to-new-york-for-25th-anniversary-of-911</guid>
-      <description><![CDATA[Salt Lake City's Carrie Pike traveled to New York this week to mark the 25th anniversary of the Sept. 11 attacks, continuing a relationship she built with families of firefighters killed that day. In the months after 2001, Pike organized a project making more than 400 grief teddy bears for families of firefighters and police officers who died in the attacks, including the 15 members of Manhattan's Engine 54 battalion, which lost every firefighter it sent to the World Trade Center. This year she is delivering 15 American flag blankets donated by Minky Couture to families connected to Engine 54, continuing visits she began at the 20th anniversary in 2021. More than 400 people were expected to gather at Engine 54 alone for Friday's remembrance events.]]></description>
-      <dc:creator>Dan Rascon, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 21:16:02 -0600</pubDate>
-    </item>
-    <item>
-      <title>South Jordan restaurant donates day's sales to Nepal disaster relief fund</title>
-      <link>https://www.ksl.com/article/51621608/south-jordan-restaurant-donates-days-sales-to-nepal-disaster-relief-fund</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621608/south-jordan-restaurant-donates-days-sales-to-nepal-disaster-relief-fund</guid>
-      <description><![CDATA[Bawarchi, a South Jordan restaurant, pledged to donate all of one day's sales to Nepal's Prime Minister Disaster Relief Fund as the country recovers from flash floods that have killed more than 1,300 people and a new earthquake that struck this week. Owner Prkash Shah, who has family in Nepal, said the destruction felt "surreal" and that he wanted to do more than his personal donation. Customers including Miranda Westman and Gajushre Stha, who also has family in Nepal, said they were glad to support the relief effort, and the restaurant also planned live music as part of the fundraiser.]]></description>
-      <dc:creator>Debbie Worthen, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 20:06:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Homeowners ask Logan City to prove right-of-way as project encroaches on property</title>
-      <link>https://www.ksl.com/article/51621673/homeowners-ask-logan-city-to-prove-right-of-way-as-project-encroaches-on-property</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621673/homeowners-ask-logan-city-to-prove-right-of-way-as-project-encroaches-on-property</guid>
-      <description><![CDATA[Homeowners along Canyon Road in Logan are pushing back on a city trail and pipeline project they say could cut through their yards, after previously losing a fight to save more than a dozen century-old ash trees along the same corridor. Resident Megan Carollo, whose family has owned the property for five generations, delivered a petition signed by about 50 homeowners asking the city to prove its right-of-way claim before proceeding. City spokesman George Woodward said Logan intends to use only 66 of up to 99 feet available along the collector road, but acknowledged an independent contractor's title research to confirm the right-of-way is taking longer than expected.]]></description>
-      <dc:creator>Mike Anderson, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 19:40:25 -0600</pubDate>
-    </item>
-    <item>
-      <title>Southern Utah man given 15 years in prison for $89M fraud scheme</title>
-      <link>https://www.ksl.com/article/51619899/southern-utah-man-given-15-years-in-prison-for-89m-fraud-scheme</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51619899/southern-utah-man-given-15-years-in-prison-for-89m-fraud-scheme</guid>
-      <description><![CDATA[Washington City resident Matthew Shane Perkins, 47, was sentenced to 15 years in federal prison for defrauding roughly 200 investors of $89 million by posing as a highly successful day trader. Prosecutors said Perkins ran the scheme through his company Forged Oak LLC in partnership with RentDue Capital, sending investors falsified account statements that inflated fund balances by tens of millions of dollars. He spent the money on luxury vehicles, a plane, a cabin and an $80,000 hunting trip, and pleaded guilty in February to wire fraud after losing or misappropriating nearly all of the funds. He must pay $77.68 million in restitution and will serve three years of probation after his prison term.]]></description>
-      <dc:creator>Cassidy Wixom, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 19:32:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>'Unexpected parenting': Springville mother shares journey of raising adult son with special needs</title>
-      <link>https://www.ksl.com/article/51621595/unexpected-parenting-springville-mother-shares-journey-of-raising-adult-son-with-special-needs</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621595/unexpected-parenting-springville-mother-shares-journey-of-raising-adult-son-with-special-needs</guid>
-      <description><![CDATA[Springville nurse Keri Beardall is sharing her experience raising her 32-year-old son Austin, who has lived with intractable epilepsy and developmental delays since infancy, hoping to give voice to parents of adult children with special needs. Beardall, who works in the NICU at Utah Valley Hospital, said Austin's seizures began around four months old and proved resistant to standard medications, eventually revealing lifelong learning and speech delays. After Austin aged out of school services at 22, the family faced new challenges finding support, and it took roughly 15 years for him to receive assistance through the state's Division of Services for People with Disabilities. Beardall said grief remains part of her ongoing journey even as she's grateful for her son.]]></description>
-      <dc:creator>Arianne Brown, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 19:02:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Utah community helps teen with Down syndrome achieve her dream bear hunt</title>
-      <link>https://www.ksl.com/article/51621090/utah-community-rallies-to-help-teen-with-down-syndrome-achieve-her-dream-bear-hunt</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621090/utah-community-rallies-to-help-teen-with-down-syndrome-achieve-her-dream-bear-hunt</guid>
-      <description><![CDATA[A Utah hunting community rallied to help 17-year-old Izzy Jackson of the Uinta Basin, who has Down syndrome, go on a black bear hunt after years of running a lemonade stand to benefit a local food bank caught a hunter's attention. That hunter donated his own bear tag and offered to mentor Izzy, with additional support from the Utah Conservation Officers Association, local houndsmen and family. After hounds treed a bear, the group worked together to get Izzy safely to the site for her hunt, a story organizers describe as showing how community generosity comes full circle.]]></description>
-      <dc:creator>Adam Eakle, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 18:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Highland teen makes history as Miss America's Teen 2027</title>
-      <link>https://www.ksl.com/article/51621645/highland-teen-makes-history-as-miss-americas-teen-2027</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621645/highland-teen-makes-history-as-miss-americas-teen-2027</guid>
-      <description><![CDATA[Highland teenager Elle Anderson, competing as Miss Utah's Teen, was crowned Miss America's Teen 2027 on Saturday, becoming the first Utahn to win the national teen title. Anderson beat out finalists from Mississippi, South Carolina, Texas and Minnesota, edging first runner-up Madalyn Sullivan of Mississippi, and earned a $40,000 scholarship on top of the $8,000 she won for her state title in May. Anderson has used her platform to promote CPR training and heart-health awareness through a partnership with the American Heart Association, a cause rooted in the death of her infant brother Stone from a cardiac event. She said she has trained hundreds of Utah teens in CPR and hopes to expand the effort nationally during her year of service.]]></description>
-      <dc:creator>Annette Campbell, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 17:56:37 -0600</pubDate>
-    </item>
-    <item>
-      <title>He was nervous to call 988. What happened when he picked up the phone?</title>
-      <link>https://www.ksl.com/article/51621505/he-was-nervous-to-call-988-what-happened-when-he-picked-up-the-phone</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621505/he-was-nervous-to-call-988-what-happened-when-he-picked-up-the-phone</guid>
-      <description><![CDATA[Utahn Jordan Starks, now three years sober, credits the 988 Suicide and Crisis Lifeline with helping him through mental health struggles tied to addiction and his gender transition, despite initial fear about what calling would be like. Starks said crisis workers at Utah's Huntsman Mental Health Institute, which handles 988 calls in the state, simply listened and stayed with him through difficult moments without judgment. Utah's 988 system fielded more than 130,000 calls last fiscal year, a 14% increase, and Dr. Eric Monson of the University of Utah's Zero Suicide Program said the line is meant to support callers rather than automatically send them to a hospital.]]></description>
-      <dc:creator>Emma Benson, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 17:33:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Provo amends outdoor lighting code for dark sky requirements</title>
-      <link>https://www.ksl.com/article/51621563/provo-amends-outdoor-lighting-code-for-dark-sky-requirements</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621563/provo-amends-outdoor-lighting-code-for-dark-sky-requirements</guid>
-      <description><![CDATA[The Provo City Council unanimously approved an ordinance requiring new developments to use dark-sky-compliant outdoor lighting, joining other Utah communities working to reduce light pollution. The new standards, based on principles from the Illuminating Engineering Society and DarkSky International, require lower color-temperature bulbs, fully shielded fixtures directing light downward, and capped display brightness, applying to new installations and major remodels rather than retroactively. Provo Power director Patricio Hernandez said the utility has already been installing dark-sky-compliant streetlights in recent years, and the council said it plans to revisit the rules to address holiday and event lighting.]]></description>
-      <dc:creator>Cassidy Wixom, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 17:01:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Second man charged in violent 2025 West Valley burglary and assault</title>
-      <link>https://www.ksl.com/article/51621504/second-man-charged-in-violent-2025-west-valley-burglary-and-assault</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51621504/second-man-charged-in-violent-2025-west-valley-burglary-and-assault</guid>
-      <description><![CDATA[Prosecutors charged a second man, 32-year-old Pedro Isaac Bonilla Urbina, in a March 2025 home invasion in which two men broke into a West Valley City apartment, robbed a woman of jewelry and bank cards, and sexually assaulted her at gunpoint while her young daughter was in another room. Bonilla Urbina faces aggravated robbery, aggravated burglary, two counts of aggravated sexual assault and related charges; the first man charged, Efrain Jose Gregorio Monroy-Lara, was identified last year through the victim's stolen bank cards and a national DNA database. Prosecutors described the case in charging documents as "something out of the movies," noting the victim begged for her life and for her daughter's safety during the assault. Monroy-Lara's next court hearing is scheduled for Sept. 14.]]></description>
-      <dc:creator>Pat Reavy, KSL</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 16:32:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
