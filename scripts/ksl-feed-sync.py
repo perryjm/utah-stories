@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Runs the dual-source /ksl-feed Claude Code skill on a schedule and pushes
+"""Runs the three-source /ksl-feed Claude Code skill on a schedule and pushes
 any resulting feed changes. Invoked hourly by
 local.utahstories.ksl-feed.plist (launchd); enforces its own 24h minimum interval
 via the sqlite runbook so back-to-back launchd fires don't double-run.
@@ -24,10 +24,10 @@ LOCK_FILE = Path(os.environ.get("LOCK_FILE", REPO_DIR / ".ksl-feed-sync.lock"))
 CLAUDE_BIN = os.environ.get("CLAUDE_BIN", "/opt/homebrew/bin/claude")
 SKILL_COMMAND = os.environ.get(
     "SKILL_COMMAND",
-    "/ksl-feed Run the complete dual-source feed sync now; this is the scheduled "
+    "/ksl-feed Run the complete three-source feed sync now; this is the scheduled "
     "invocation, so do not defer because the parent wrapper is active.",
 )
-FEED_FILES = ("ksl-utah-news.xml", "deseretnews-faith.xml")
+FEED_FILES = ("ksl-utah-news.xml", "deseretnews-faith.xml", "wsj-cio-journal.xml")
 MIN_INTERVAL_SECONDS = 86400
 SUCCESS_SENTINEL = "KSL-FEED-SYNC: SUCCESS"
 
@@ -194,7 +194,7 @@ def main():
         return 1
 
     if not changed_paths:
-        log("Claude completed; both feed files are unchanged or were already committed and pushed.")
+        log("Claude completed; all feed files are unchanged or were already committed and pushed.")
         record_success(conn, int(time.time()))
         return 0
 
