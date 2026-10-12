@@ -1,13 +1,14 @@
 # Utah Stories feeds
 
-This repository maintains three separate RSS feeds built from public article
+This repository maintains four separate RSS feeds built from public article
 listings:
 
 - `ksl-utah-news.xml` — [KSL Utah News](https://www.ksl.com/news/utah)
 - `deseretnews-faith.xml` — [Deseret News Faith](https://www.deseret.com/faith/)
 - `wsj-cio-journal.xml` — [The Wall Street Journal: CIO Journal](https://www.wsj.com/cio-journal)
+- `forbes-technology-council.xml` — [Forbes Technology Council](https://www.forbes.com/councils/forbestechcouncil/)
 
-The `/ksl-feed` skill updates all three feeds in one run. It visits only the
+The `/ksl-feed` skill updates all four feeds in one run. It visits only the
 initially-rendered listings and genuinely new article pages, writes brief
 source-grounded summaries with short attributed quotes when available, prunes
 items older than two weeks, validates the XML, and pushes only the feed files.
@@ -31,7 +32,7 @@ The installer can target a test location with `CLAUDE_SKILLS_DIR=/path/to/skills
 
 After installation, invoke `/ksl-feed` from the Claude CLI. The skill reports
 additions, duplicate skips, age-based pruning, browser closure, XML validation,
-and push status for all three sources.
+and push status for all four sources.
 
 ## Scheduled run
 

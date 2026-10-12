@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forbes Technology Council</title>
+    <link>https://www.forbes.com/councils/forbestechcouncil/</link>
+    <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
+    <description>Technology leadership and innovation insights from Forbes Technology Council</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2026 12:35:00 -0600</lastBuildDate>
+    <generator>Claude Code (Playwright MCP capture)</generator>
+  </channel>
+</rss>

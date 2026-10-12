@@ -1,17 +1,18 @@
 ---
 name: ksl-feed
-description: Use when the user types /ksl-feed, or asks to update the Utah Stories feeds, refresh the KSL Utah news feed, refresh the Deseret News Faith feed, refresh the Wall Street Journal CIO Journal feed, or sync the utah-stories RSS feeds. Scrapes the initially-rendered KSL Utah News, Deseret News Faith, and WSJ CIO Journal listings via Playwright, skips stories already present in any feed, writes brief source-grounded summaries with short direct quotes when available, prunes items older than two weeks, then commits and pushes the changed feed files from ~/sandbox/utah-stories/.
+description: Use when the user types /ksl-feed, or asks to update the Utah Stories feeds, refresh the KSL Utah news feed, refresh the Deseret News Faith feed, refresh the Wall Street Journal CIO Journal feed, refresh the Forbes Technology Council feed, or sync the utah-stories RSS feeds. Scrapes the initially-rendered KSL Utah News, Deseret News Faith, WSJ CIO Journal, and Forbes Technology Council listings via Playwright, skips stories already present in any feed, writes brief source-grounded summaries with short direct quotes when available, prunes items older than two weeks, then commits and pushes the changed feed files from ~/sandbox/utah-stories/.
 ---
 
 # Utah Stories Feed Updater
 
-Incrementally maintains three separate RSS 2.0 feeds in `~/sandbox/utah-stories/`:
+Incrementally maintains four separate RSS 2.0 feeds in `~/sandbox/utah-stories/`:
 
 - `ksl-utah-news.xml` from `https://www.ksl.com/news/utah`
 - `deseretnews-faith.xml` from `https://www.deseret.com/faith/`
 - `wsj-cio-journal.xml` from `https://www.wsj.com/cio-journal`
+- `forbes-technology-council.xml` from `https://www.forbes.com/councils/forbestechcouncil/`
 
-One invocation updates all three sources. Each run uses only the initially-rendered
+One invocation updates all four sources. Each run uses only the initially-rendered
 listings, adds stories that have not already been processed, trims each feed to a
 two-week shelf life, validates all files, and pushes the changed feed files.
 Running the skill repeatedly is safe and does not reprocess an existing story.
@@ -40,6 +41,7 @@ alter a quote. The listing teaser is not a substitute for the article.
 | KSL Utah News | `https://www.ksl.com/news/utah` | `ksl-utah-news.xml` | Numeric article ID extracted from each permalink |
 | Deseret News Faith | `https://www.deseret.com/faith/` | `deseretnews-faith.xml` | Normalized canonical permalink |
 | Wall Street Journal: CIO Journal | `https://www.wsj.com/cio-journal` | `wsj-cio-journal.xml` | Normalized canonical permalink or stable article ID |
+| Forbes Technology Council | `https://www.forbes.com/councils/forbestechcouncil/` | `forbes-technology-council.xml` | Normalized canonical permalink or stable article ID |
 
 The Deseret `/faith/atom.xml` endpoint is not a dependable well-formed source and
 may contain article content. Do not use it for summaries or feed descriptions.
@@ -51,6 +53,10 @@ material actually visible on the public page; do not bypass a paywall. If an
 article does not expose enough source material to write a factual summary, record
 an explicit error for that story and skip it rather than guessing. Do not use the
 legacy WSJ RSS endpoint as a substitute for the section listing.
+
+Forbes pages may include contributor profiles and promoted links alongside
+articles. Collect only article links from the Forbes Technology Council section.
+Use only material visible on the public page and do not bypass access controls.
 
 ## Steps
 
@@ -70,17 +76,20 @@ legacy WSJ RSS endpoint as a substitute for the section listing.
    against a real personal browser profile (e.g. a `--user-data-dir` pointed at
    a live Brave/Chrome profile) — the latter can fail to launch a second
    instance whenever that browser is already open elsewhere, which is common
-   during a scheduled run. Navigate to all three listing URLs and take snapshots. On
+   during a scheduled run. Navigate to all four listing URLs and take snapshots. On
    Deseret, collect only article links whose paths match the Faith section's
    dated article shape (`/faith/YYYY/MM/DD/...`). Do not click "Load More
    Stories", paginate, or use footer/recommended links as additional coverage.
    On WSJ, collect only article links belonging to the CIO Journal section from
    the initially rendered listing; do not follow unrelated recommendations.
+   On Forbes, collect only article links belonging to the Forbes Technology
+   Council section from the initially rendered listing; do not follow contributor
+   profiles, sponsored links, or unrelated recommendations.
    Repeated runs over time provide coverage without a bulk historical scrape.
 
 3. **Filter genuinely new stories before article navigation.** Extract each
-   KSL numeric ID, each Deseret normalized permalink, and each WSJ article
-   identity, compare them with the
+   KSL numeric ID, each Deseret normalized permalink, each WSJ article identity,
+   and each Forbes article identity, compare them with the
    sets loaded in step 1, and keep only new identities. Do not re-fetch,
    re-visit, or re-summarize an existing story. Count skipped duplicates by
    source for the final report.
@@ -98,6 +107,10 @@ legacy WSJ RSS endpoint as a substitute for the section listing.
    - For WSJ, read the article `<h1>`, visible article text or excerpt, byline,
      and publication metadata. Prefer structured publication metadata when
      present. Capture short direct quotes only from text visible on the page.
+   - For Forbes, read the article `<h1>`, visible article text or excerpt,
+     contributor/byline, and publication metadata. Prefer structured publication
+     metadata when present. Capture short direct quotes only from text visible on
+     the page.
    - Restrict body extraction to the article itself, excluding navigation,
      related-story cards, comments, and advertisements.
    - If a required headline, author, date, or sufficient source text cannot be identified, record
@@ -112,12 +125,12 @@ legacy WSJ RSS endpoint as a substitute for the section listing.
    than emitting invalid XML. Insert new items at the top of their own channel
    in descending publication time.
 
-6. **Close the browser in all paths.** After all three source listings and all new
+6. **Close the browser in all paths.** After all four source listings and all new
    article pages have been processed, call `mcp__playwright__browser_close`.
    Close it before local pruning, XML editing, or git work. If extraction fails
    after a browser was opened, close the browser before reporting the failure.
 
-7. **Prune all three feeds.** Compute the current 14-day cutoff and parse every
+7. **Prune all four feeds.** Compute the current 14-day cutoff and parse every
    existing item's RFC 822 `pubDate`. Remove items older than the cutoff from
    each feed, not only from the newly discovered stories. Report the pruned
    count separately for each source.
@@ -133,19 +146,21 @@ legacy WSJ RSS endpoint as a substitute for the section listing.
    are parseable; and the item-count delta equals additions minus age prunes.
    Confirm that every Deseret item belongs to the Faith section and every KSL
    item has a KSL article URL, and every WSJ item has a WSJ article URL and CIO
-   Journal source identity. Do not continue to git operations if validation fails.
+   Journal source identity, and every Forbes item has a Forbes article URL and
+   Technology Council source identity. Do not continue to git operations if
+   validation fails.
 
 10. **Commit and push only feed outputs.** From `~/sandbox/utah-stories/`, stage
-    only the three feed files, commit the files that
+    only the four feed files, commit the files that
     changed with a source-neutral message such as
-    `Add N KSL, M Deseret, and Q WSJ stories, prune P expired`, and push
+    `Add N KSL, M Deseret, Q WSJ, and R Forbes stories, prune P expired`, and push
     `origin main`. Skip the commit when no feed changed. Never stage
     snapshots, logs, or unrelated worktree files.
 
 11. **Report the complete result.** Include additions and titles per source,
     duplicate counts per source, age-prune counts per source, XML validation,
     browser closure, and commit/push status. If either source failed, identify
-    it and do not claim a successful three-feed sync.
+    it and do not claim a successful four-feed sync.
 
 12. **End with a machine-readable completion line.** The wrapper script
     (`scripts/ksl-feed-sync.py`) parses your final output for this exact line to
@@ -153,14 +168,14 @@ legacy WSJ RSS endpoint as a substitute for the section listing.
     failure will be silently recorded as success and the daily sync will stop
     running.
 
-    - If, and only if, all three listings were genuinely opened and checked (via
+    - If, and only if, all four listings were genuinely opened and checked (via
       Playwright) and either the feeds were updated and validated per step 9,
       or there were validly zero new stories to add, end your response with
       exactly this line on its own:
 
       `KSL-FEED-SYNC: SUCCESS`
 
-    - If you could not complete a real check of all three sources for any reason —
+    - If you could not complete a real check of all four sources for any reason —
       required tools unavailable (e.g. no Playwright MCP tools connected),
       a source unreachable, validation failure, git error, or anything else
       that stopped you short of step 9 — do NOT print the success line. End
