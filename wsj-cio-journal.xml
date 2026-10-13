@@ -6,7 +6,81 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:10:27 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+
+    <item>
+      <title>AI Fuels M&amp;A Machine</title>
+      <link>https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04</guid>
+      <description><![CDATA[With IPOs stalled despite $515.8 billion in U.S. venture dealmaking through the third quarter, Steven Rosenbush writes that "The M&A door is open" for AI startups. His examples include Amazon's talks to buy Decart for about $7 billion, Nvidia's early talks to deepen its investment in Reflection AI and IonQ's all-stock deal for cybersecurity firm Elisity, valued at up to $1.3 billion. The newsletter also cites Apollo economist Torsten Slok's view that AI's productivity payoff "remains a forecast rather than an observation."]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 06:39:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>A New Mobile Telecom Battle May Be Brewing</title>
+      <link>https://www.wsj.com/cio-journal/a-new-mobile-telecom-battle-may-be-brewing-2e61ef46</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/a-new-mobile-telecom-battle-may-be-brewing-2e61ef46</guid>
+      <description><![CDATA[SpaceX agreed to pay about $8 billion in cash for cellular spectrum licenses from Grain Management, its biggest move yet toward taking Starlink into a wireless market dominated by AT&T and Verizon, days after the FCC approved up to 15,000 mobile-service satellites. Steven Rosenbush argues that mobile networks have stayed predictable and capital-intensive, while SpaceX President Gwynne Shotwell has said she expects to win "quite a few" carrier customers because "our service will be better." The newsletter also covers Walmart's struggles to automate its warehouses and Vice President JD Vance's move to suspend Microsoft and Adobe from a visa program.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 07:03:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Quantum Research Races Ahead</title>
+      <link>https://www.wsj.com/cio-journal/quantum-research-races-ahead-8cf969f7</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/quantum-research-races-ahead-8cf969f7</guid>
+      <description><![CDATA[Steven Rosenbush contrasts AI developers' talk of slowing down with quantum computing's pace, recapping Oratomic's Series B at a $5.4 billion valuation and CEO Dolev Bluvstein's goal of a commercial computer with only 10,000 qubits by 2030. A PitchBook-NVCA report cited in the newsletter finds AI took nearly 83% of $515.8 billion in U.S. venture dealmaking through the third quarter while only 18 companies went public in that quarter, leaving 992 unicorns waiting. Other items include OpenAI gaining ground on Anthropic in business spending through OpenRouter and the death of Apollo software pioneer Margaret Hamilton at 90.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 07:06:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding</title>
+      <link>https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc</guid>
+      <description><![CDATA[Quantum computing startup Oratomic raised $475 million in a Series B co-led by ARCH Venture Partners, Spark Capital, Khosla Ventures and others just three months after its Series A, lifting its valuation to $5.4 billion from $1.5 billion. The Pasadena company is aiming straight for a large, fault-tolerant, error-corrected machine, and CEO Dolev Bluvstein says its error-correction method could make a useful commercial computer possible with only 10,000 qubits by 2030. Index Ventures' Martin Mignot said much of quantum had seemed "pretty sci-fi," but Oratomic felt "a lot closer to being commercially viable."]]></description>
+      <dc:creator>Isabelle Bousquette</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 05:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Moët Hennessy Directs AI to Sniff Out a Stubborn Problem in Winemaking</title>
+      <link>https://www.wsj.com/cio-journal/moet-hennessy-directs-ai-to-sniff-out-a-stubborn-problem-in-winemaking-41670bd9</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/moet-hennessy-directs-ai-to-sniff-out-a-stubborn-problem-in-winemaking-41670bd9</guid>
+      <description><![CDATA[Moët Hennessy, Analog Devices and UC Davis trained an AI model on data from a new chemical sensor to detect Fresh Mushroom Aroma, a grape-juice defect humans can't sense until after fermentation and that can cost millions of euros, reaching 99% accuracy in early tests. Analog Devices' Max Shulaker said the sensors read an overall aroma fingerprint rather than individual chemicals, though each sample still takes about two hours, so Moët hopes for limited production use next year. The Morning Download also covers Appian CEO Matt Calkins' call for a strict U.S. AI "alignment" test and Lambda's plan to raise up to $4 billion before its IPO.]]></description>
+      <dc:creator>Isabelle Bousquette</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 06:32:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Cyber Pressure Is on the Rise</title>
+      <link>https://www.wsj.com/cio-journal/ai-cyber-pressure-is-on-the-rise-3181325c</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-cyber-pressure-is-on-the-rise-3181325c</guid>
+      <description><![CDATA[Hackers used a Chinese AI agent to breach South Korea's biggest banks and steal personal data on 68,000 people, one of the first AI-powered intrusions into the global financial system. Zscaler CEO Jay Chaudhry told the WSJ Leadership Institute that agents pose a new identity problem because "agents’ identity can change," and said that after testing Anthropic's Mythos preview he redirected his engineers for about three months to fixing critical vulnerabilities. The newsletter also notes a former Anthropic researcher warning New York City lawmakers, who are weighing bills including an AI "kill switch," that AI is more likely than not to slip out of human control.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 07:07:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Mining Unwritten Data for AI’s Edge</title>
+      <link>https://www.wsj.com/cio-journal/mining-unwritten-data-for-ais-edge-52681e43</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/mining-unwritten-data-for-ais-edge-52681e43</guid>
+      <description><![CDATA[An AWS report argues that because every company has access to the same AI models, the edge lies in what employees know "that has never been written down," a view echoed by Nestlé's Vikrant Bhan on the value of unstructured documents for AI agents. Addepar CTO Bob Pisani described capturing that tribal knowledge, a "data breadcrumb trail" of employees' decisions, to retrain models, which he said sharply improved AI accuracy and returns. The newsletter also cites a study in which only 11% of nearly 400 businesses could accurately forecast their AI spending.]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 06:28:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AWS Counters AI Backlash with Community Investments</title>
+      <link>https://www.wsj.com/cio-journal/aws-counters-ai-backlash-with-community-investments-1e488449</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/aws-counters-ai-backlash-with-community-investments-1e488449</guid>
+      <description><![CDATA[AWS CEO Matt Garman acknowledged local backlash to AI data centers and pledged more than $1 billion in additional community investment over five years, along with ending nondisclosure agreements with government officials and publishing annual energy and water reports. Editor Tom Loftus points to a Journal analysis of millions of TikToks showing growing antipathy toward the AI build-out and suggests a long-term share of data-center revenue may persuade communities more than one-time payments. The issue also contrasts the University of Chicago's new limits on AI in core courses with the Horowitz Andreessen Academy's focus on hands-on tool mastery.]]></description>
+      <dc:creator>Tom Loftus</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 07:34:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Google Rolls Out New AI Model Gradually Amid Safety Concerns</title>
+      <link>https://www.wsj.com/cio-journal/google-rolls-out-new-ai-model-gradually-amid-safety-concerns-38db8d1c</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/google-rolls-out-new-ai-model-gradually-amid-safety-concerns-38db8d1c</guid>
+      <description><![CDATA[Google unveiled Gemini 4 Argon, saying it sets new highs on several coding and knowledge-work benchmarks, but limited initial access to "trusted cybersecurity vendors" while it takes part in the U.S. government's voluntary pre-release review. Sundar Pichai said the model will be released "as soon as we can and as safely as we can," amid an industry safety debate in which OpenAI scrapped GPT-6.1 Astra earlier in the week. The newsletter also reports that the FTC is investigating Anthropic and OpenAI over whether they deceived consumers about AI's potential harms.]]></description>
+      <dc:creator>Tom Loftus</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
   </channel>
 </rss>

@@ -6,7 +6,81 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:35:00 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:10:27 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
+
+
+    <item>
+      <title>Key Cybersecurity Metrics That Show Risk Is Really Declining</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/key-cybersecurity-metrics-that-show-risk-is-really-declining/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/key-cybersecurity-metrics-that-show-risk-is-really-declining/</guid>
+      <description><![CDATA[Forbes Technology Council members argue that activity counts such as patches applied, alerts closed and employees trained don't prove a company is safer, and they offer outcome metrics instead. Their suggestions include trending the number of exploitable attack paths into critical assets, counting ownerless credentials and stale privileged access, measuring how long critical vulnerabilities stay exposed and gauging the blast radius of a compromised identity. As Sacumen's Nitesh Sinha put it, hardening crown-jewel assets shows the business is less exposed, while triaging thousands of alerts only "shows people were busy."]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 11:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>An App’s First 60 Seconds Matter More Than Its Feature List</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/an-apps-first-60-seconds-matter-more-than-its-feature-list/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/an-apps-first-60-seconds-matter-more-than-its-feature-list/</guid>
+      <description><![CDATA[Liberty Pixel co-founder Michal Rahamim argues that an app's first minute decides whether users ever discover its features, citing AppsFlyer data that more than half of installed apps are deleted within 30 days, most on the first day. She urges products to make their value obvious immediately, delay registration and permission requests, let users act rather than read, deliver a quick small success and personalize something early, much as games do with hands-on tutorials. "You don't want to lose the right customer for the wrong reason," she writes.]]></description>
+      <dc:creator>Michal Rahamim</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Startup Failing In Spite Of A Great Solution? The Ingredient That Might Be Missing</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/startup-failing-in-spite-of-a-great-solution-the-ingredient-that-might-be-missing/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/startup-failing-in-spite-of-a-great-solution-the-ingredient-that-might-be-missing/</guid>
+      <description><![CDATA[WLCM.AI founder Lindsey Witmer Collins, who has helped more than 100 startups go to market, says idea and execution were nearly constant across the companies she worked with, yet outcomes ranged from acquisitions to shutdowns. The differentiator, she argues, was an active network that supplied provision, protection and connection, from first customers and bridge checks to advisers who head off fatal mistakes. She tells founders to recruit protectors early, give their network specific asks and help other companies, calling a strong solution, founder and strategy merely "the entry fee."]]></description>
+      <dc:creator>Lindsey Witmer Collins</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Avoiding The Plateau: Why Process Redesign Drives Real AI Value</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/avoiding-the-plateau-why-process-redesign-drives-real-ai-value/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/avoiding-the-plateau-why-process-redesign-drives-real-ai-value/</guid>
+      <description><![CDATA[10Pearls CEO Imran Aftab says companies hit an AI plateau when they layer tools onto existing workflows instead of asking whether those workflows should exist, citing BCG and McKinsey data showing that firms redesigning processes end to end capture far more value. He warns against "automating waste faster" and against vanity measures like agent counts or nominal hours saved. His remedy is to tie every AI use case to a named business metric, such as cost per claim or cycle time, before launch.]]></description>
+      <dc:creator>Imran Aftab</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Can't Tell Instructions From Data—And Authentication Won't Fix That</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/ai-agents-cant-tell-instructions-from-data-and-authentication-wont-fix-that/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/ai-agents-cant-tell-instructions-from-data-and-authentication-wont-fix-that/</guid>
+      <description><![CDATA[Cato Networks' Etay Maor argues that many AI agent mishaps involve properly authenticated agents, because language models can't reliably tell instructions from data and security checks focus on identity rather than intent. He points to prompt injection attacks such as the EchoLeak exploit against Microsoft 365 Copilot and a 32% three-month rise in malicious injection attempts observed by Google. His fixes include walling off untrusted content, scoring agents' actions in real time, reserving human review for high-risk actions and enforcing guardrails outside the model.]]></description>
+      <dc:creator>Etay Maor</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>4 Accounting Challenges UAE Businesses Can’t Ignore</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/4-accounting-challenges-uae-businesses-cant-ignore/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/4-accounting-challenges-uae-businesses-cant-ignore/</guid>
+      <description><![CDATA[Site.pro's Filip Borcov says UAE small businesses face mounting accounting pressure from VAT, a corporate tax introduced in June 2023 and mandatory e-invoicing in 2027, while one study found 64% of companies still keep their books in Excel. He highlights inconsistent bank statement formats, missing records from before the corporate tax and global software that lacks UAE-specific features such as Wage Protection System payroll. He urges firms to use FTA-certified tools, rebuild missing records and unify invoicing, payment and accounting data before e-invoicing begins for the largest companies on Jan. 1, 2027.]]></description>
+      <dc:creator>Filip Borcov</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Verification Debt: Why The Boardroom And The Server Room Are Fighting Two Different Wars</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/verification-debt-why-the-boardroom-and-the-server-room-are-fighting-two-different-wars/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/verification-debt-why-the-boardroom-and-the-server-room-are-fighting-two-different-wars/</guid>
+      <description><![CDATA[DNSFilter field CTO TK Keanini cites his company's survey of 400 IT and security professionals: 73.9% of executives believe they could sustain operations through a 72-hour cyberattack versus 47.5% of IT managers, and 45.8% of IT managers report unreported incidents compared with 17.4% of executives. He calls the gap "verification debt" and says bigger security budgets alone haven't closed it. His prescriptions are to verify AI governance with telemetry and audit trails, reward reporting bad news and inventory every AI tool touching the network rather than only well-known models.]]></description>
+      <dc:creator>TK Keanini</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Reality Check: Going For Growth</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/ai-reality-check-going-for-growth/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/ai-reality-check-going-for-growth/</guid>
+      <description><![CDATA[PwC U.S. chief AI officer Dan Priest argues AI success is about 20% technology and 80% transformation, and that the time and capacity AI frees should be reinvested in growth rather than banked as savings. Citing PwC benchmarking, he says companies investing more than 1.6% of revenue in AI see EBITDA up 9.5% and revenue up 3.5% relative to peers, while underinvestment "often buys nothing at all." He urges leaders to measure outcomes such as cycle time and quality rather than pilots launched or tools licensed.]]></description>
+      <dc:creator>Dan Priest</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 06:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Do We Need Smart Contracts When We Have AI Agents?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/do-we-need-smart-contracts-when-we-have-ai-agents/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/12/do-we-need-smart-contracts-when-we-have-ai-agents/</guid>
+      <description><![CDATA[Alacriti's Divyarani Raghupatruni says AI agents and smart contracts address different parts of the payments problem, and proposes deciding where controls belong by weighing control, persistence, coordination and atomicity. AI fits context-heavy decisions within one institution, while programmable money matters when rules must travel with a payment across institutions, bind multiple parties or make linked steps settle all-or-nothing, as in J.P. Morgan Kinexys' payment-versus-payment work. She expects a stack in which traditional controls form the base, "AI brings intelligence and automation, and programmability provides enforceability."]]></description>
+      <dc:creator>Divyarani Raghupatruni</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 06:15:00 -0600</pubDate>
+    </item>
   </channel>
 </rss>
