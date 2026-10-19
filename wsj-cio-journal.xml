@@ -6,10 +6,50 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:10:27 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:15:05 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>U.A.E.-Based AI and Data Startup Expands Into Silicon Valley</title>
+      <link>https://www.wsj.com/cio-journal/u-a-e-based-ai-and-data-startup-expands-into-silicon-valley-f6e54c1e</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/u-a-e-based-ai-and-data-startup-expands-into-silicon-valley-f6e54c1e</guid>
+      <description><![CDATA[CNTXT AI, a U.A.E.-based startup that builds Arabic-first AI models such as the Munsit voice AI and supplies training data to hyperscalers, is opening its first U.S. office in Milpitas, Calif., after a $60 million Series A in June. CEO Mohammad Abu Sheikh, 25, says the company has $300 million in committed revenue, mostly from U.S. customers, and sees the Middle East's large blue-collar workforce as a source of real-world data for training robots that still struggle with tasks like folding a T-shirt. He describes the U.S.-Middle East relationship as moving from buyer and seller to "a complete partnership cycle."]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Jamie Dimon Tells Leaders to Ramp Up Cyber Defenses</title>
+      <link>https://www.wsj.com/cio-journal/jamie-dimon-tells-leaders-to-ramp-up-cyber-defenses-04ac235f</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/jamie-dimon-tells-leaders-to-ramp-up-cyber-defenses-04ac235f</guid>
+      <description><![CDATA[The Morning Download leads with JPMorgan Chase CEO Jamie Dimon telling Alan Murray that cybersecurity, with powerful new AI models, is now the bank's "biggest risk by far," alongside concerns about undersea cables, critical infrastructure and vendor supply chains. Dimon urged companies to start immediately on network segmentation, identity access management and AI-driven vulnerability hunting, and to make fast patching a regular management-meeting item. The newsletter also previews a tech earnings week with Meta, IBM and SAP reporting Wednesday and notes Microsoft pulled out of a U.K. data-center lease with Nscale.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 06:50:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute</title>
+      <link>https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215</guid>
+      <description><![CDATA[Tel Aviv startup doubleAI, co-founded by Mobileye's Amnon Shashua and backed by Nvidia, Dell and others with $220 million raised, is launching what it calls "code execution models" that sit inside running programs and make GPU and CPU code run more efficiently without human involvement. Its first model, Maxwell, cut one early customer's compute costs by 67%, and the roughly 40-person company plans to charge a share of what customers save. Shashua expects the biggest gains for AI labs with huge training and inference bills, and the startup spent about half its funding on 1,000 Nvidia B300 chips because "you cannot rely just on renting compute."]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Nvidia, Meta and Apple Unveil New Open Models</title>
+      <link>https://www.wsj.com/cio-journal/nvidia-meta-and-apple-unveil-new-open-models-501d4173</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-meta-and-apple-unveil-new-open-models-501d4173</guid>
+      <description><![CDATA[The Morning Download reports that Nvidia released three new open models in its Nemotron family on Thursday, including Nemotron 3.5 Super VL for always-on AI agents, which can also handle images and video, while Meta announced a new open-weight model it will run locally on high-end Macs with Apple. Nvidia's Kari Briski said demand is rising because the models are U.S.-made with inspectable data, and companies including Atlassian, CrowdStrike and Salesforce have customized them with their own data. Briski called the releases "a message to developers and our partners and enterprises that they can depend on us."]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 05:52:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bloomberg CEO’s ‘Aggressive’ Stance on AI</title>
+      <link>https://www.wsj.com/cio-journal/bloomberg-ceos-aggressive-stance-on-ai-f51bc59b</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/bloomberg-ceos-aggressive-stance-on-ai-f51bc59b</guid>
+      <description><![CDATA[The Morning Download leads with Bloomberg CEO Vlad Kliatchko, whose company has opened its ASKB conversational AI interface to all Terminal users and who says "it's premature to focus on the ROI" of an aggressive AI investment. Kliatchko added that AI has vindicated Bloomberg's spending on journalism, since original news is now one of its most valuable assets. The newsletter also covers a tech stock selloff led by CoreWeave and rising concern about AI companies' trade secrets, including OpenAI's filing accusing a former employee who returned to Apple of taking confidential device files.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 07:12:00 -0600</pubDate>
+    </item>
     <item>
       <title>AI Fuels M&amp;A Machine</title>
       <link>https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04</link>
@@ -57,30 +97,6 @@
       <description><![CDATA[Hackers used a Chinese AI agent to breach South Korea's biggest banks and steal personal data on 68,000 people, one of the first AI-powered intrusions into the global financial system. Zscaler CEO Jay Chaudhry told the WSJ Leadership Institute that agents pose a new identity problem because "agents’ identity can change," and said that after testing Anthropic's Mythos preview he redirected his engineers for about three months to fixing critical vulnerabilities. The newsletter also notes a former Anthropic researcher warning New York City lawmakers, who are weighing bills including an AI "kill switch," that AI is more likely than not to slip out of human control.]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Tue, 06 Oct 2026 07:07:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Mining Unwritten Data for AI’s Edge</title>
-      <link>https://www.wsj.com/cio-journal/mining-unwritten-data-for-ais-edge-52681e43</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/mining-unwritten-data-for-ais-edge-52681e43</guid>
-      <description><![CDATA[An AWS report argues that because every company has access to the same AI models, the edge lies in what employees know "that has never been written down," a view echoed by Nestlé's Vikrant Bhan on the value of unstructured documents for AI agents. Addepar CTO Bob Pisani described capturing that tribal knowledge, a "data breadcrumb trail" of employees' decisions, to retrain models, which he said sharply improved AI accuracy and returns. The newsletter also cites a study in which only 11% of nearly 400 businesses could accurately forecast their AI spending.]]></description>
-      <dc:creator>Belle Lin</dc:creator>
-      <pubDate>Mon, 05 Oct 2026 06:28:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AWS Counters AI Backlash with Community Investments</title>
-      <link>https://www.wsj.com/cio-journal/aws-counters-ai-backlash-with-community-investments-1e488449</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/aws-counters-ai-backlash-with-community-investments-1e488449</guid>
-      <description><![CDATA[AWS CEO Matt Garman acknowledged local backlash to AI data centers and pledged more than $1 billion in additional community investment over five years, along with ending nondisclosure agreements with government officials and publishing annual energy and water reports. Editor Tom Loftus points to a Journal analysis of millions of TikToks showing growing antipathy toward the AI build-out and suggests a long-term share of data-center revenue may persuade communities more than one-time payments. The issue also contrasts the University of Chicago's new limits on AI in core courses with the Horowitz Andreessen Academy's focus on hands-on tool mastery.]]></description>
-      <dc:creator>Tom Loftus</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 07:34:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Google Rolls Out New AI Model Gradually Amid Safety Concerns</title>
-      <link>https://www.wsj.com/cio-journal/google-rolls-out-new-ai-model-gradually-amid-safety-concerns-38db8d1c</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/google-rolls-out-new-ai-model-gradually-amid-safety-concerns-38db8d1c</guid>
-      <description><![CDATA[Google unveiled Gemini 4 Argon, saying it sets new highs on several coding and knowledge-work benchmarks, but limited initial access to "trusted cybersecurity vendors" while it takes part in the U.S. government's voluntary pre-release review. Sundar Pichai said the model will be released "as soon as we can and as safely as we can," amid an industry safety debate in which OpenAI scrapped GPT-6.1 Astra earlier in the week. The newsletter also reports that the FTC is investigating Anthropic and OpenAI over whether they deceived consumers about AI's potential harms.]]></description>
-      <dc:creator>Tom Loftus</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 07:15:00 -0600</pubDate>
     </item>
   </channel>
 </rss>

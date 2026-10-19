@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:10:27 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:15:05 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Vibe Coding? Be Sure To Include These Critical Development Steps</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/vibe-coding-be-sure-to-include-these-critical-development-steps/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/vibe-coding-be-sure-to-include-these-critical-development-steps/</guid>
+      <description><![CDATA[Forbes Technology Council members list the development steps teams are tempted to drop when AI makes code cheap to generate, from confirming the real customer problem to scoping what an agent's credentials can reach. Several focus on security: one cites Veracode's 2026 GenAI Code Security Report, in which AI-generated code passed security tests only 56% of the time, and another a Purdue study showing AI agents pick vulnerable package versions more often than humans. Others urge settling architecture before an agent touches the codebase and documenting why code works, since "it ran, it looks right, ship it" breaks down months later.]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 11:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Internet Is About To Expand Again—Here’s What Business Leaders Should Know</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-internet-is-about-to-expand-again-heres-what-business-leaders-should-know/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-internet-is-about-to-expand-again-heres-what-business-leaders-should-know/</guid>
+      <description><![CDATA[Tony Kirsch of the Brand Safety Alliance, a GoDaddy Registry initiative, explains that ICANN's second new gTLD round drew more than 1,600 applications, published on an Oct. 7 "Reveal Day," with 1,614 proceeding for 986 unique extensions. He notes .agent was the most contested string with 13 applicants, about one in five applications were brand extensions such as .gemini and .alexa, and strings like .official raise trust questions. With final strings confirmed Nov. 17 and some extensions possible before the end of 2027, he urges businesses to review the applications against their brands and consider proactive measures like domain blocking.]]></description>
+      <dc:creator>Tony Kirsch</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 10:04:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Era Of AI Choice: Why Winning Companies Make Fewer Bets, Not More</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-era-of-ai-choice-why-winning-companies-make-fewer-bets-not-more/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-era-of-ai-choice-why-winning-companies-make-fewer-bets-not-more/</guid>
+      <description><![CDATA[PwC's Patrick Pugh argues that the flood of new AI models, agents and partners pushes leaders to hedge with ever more pilots, spreading people and capital so thin that little reaches scale and leaving employees cautious. He says experimentation "is a means, not an outcome," and that leaders should ask which business outcomes merit committed investment rather than which technology to bet on. His screening questions cover business value, whether existing tools can be extended, readiness to scale and conditions for stopping, set before sunk costs take hold.]]></description>
+      <dc:creator>Patrick Pugh</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Two Worst Words In Enterprise AI</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-two-worst-words-in-enterprise-ai/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-two-worst-words-in-enterprise-ai/</guid>
+      <description><![CDATA[Mindbreeze CEO Daniel Fallmann argues that "with review" is what gets AI agent projects approved and also what keeps them from paying off, because checking an agent's work often just moves labor from execution to verification. Citing research that reviewers grow fatigued and rubber-stamp after hundreds of benign approvals, and the EU AI Act's Article 14 requirement for effective human oversight, he calls attention "a consumable." He recommends tiering oversight by consequence, designing agent actions to be verifiable at a glance, and tracking reviewer override rates, warning that a rate falling to zero signals oversight turning into theater.]]></description>
+      <dc:creator>Daniel Fallmann</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Mandates For CIOs In The Token Economy</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/mandates-for-cios-in-the-token-economy/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/mandates-for-cios-in-the-token-economy/</guid>
+      <description><![CDATA[OutSystems CIO Tiago Azevedo writes that the early "more is more" approach to AI has left many enterprises facing shadow IT, exposed credentials and runaway model bills. He argues the fix is infrastructural rather than cultural: a vendor-agnostic inference layer that acts as "air traffic control" between users and models, routing simple requests to cheaper models and logging all usage. That visibility, he says, lets companies pay frontier rates only where needed and judge spending by the ROI of each token rather than raw consumption.]]></description>
+      <dc:creator>Tiago Azevedo</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Family Law Firms Need An Intelligence Layer</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/why-family-law-firms-need-an-intelligence-layer/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/why-family-law-firms-need-an-intelligence-layer/</guid>
+      <description><![CDATA[Hans Guntren writes that family law cases can bury attorneys in thousands of randomly named bank statements, scans and messages, so lawyers may not know what they hold or what is missing. Once every firm has AI for drafting and summarizing, he argues, the edge will come from an "intelligence layer" that connects documents across a case, for example flagging a missing three months of statements or a deposit that contradicts an income disclosure. He advises mapping how information moves through a firm, keeping attorneys responsible for judgment and confidentiality, and measuring outcomes rather than AI adoption.]]></description>
+      <dc:creator>Hans Guntren</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 07:30:48 -0600</pubDate>
+    </item>
+    <item>
+      <title>Don’t Kill The Golden Goose: Rectifying AI Cost Without Stifling Innovation</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/dont-kill-the-golden-goose-rectifying-ai-cost-without-stifling-innovation/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/dont-kill-the-golden-goose-rectifying-ai-cost-without-stifling-innovation/</guid>
+      <description><![CDATA[Undo CTO Mark Williamson argues that companies which treated token consumption as progress now risk the opposite mistake of rationing tokens and mandating cheaper models, when the better measure is cost per solved problem. In his company's tests on a DuckDB bug, Claude Fable 5 working from source code alone spent $37.60 and still misdiagnosed it, but with runtime context found the root cause in 12 minutes for as little as $2.88. He urges leaders to match models to tasks, engineer context so agents succeed first time, and judge spending by metrics like MTTR and escaped defects.]]></description>
+      <dc:creator>Mark Williamson</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Beyond Price Hikes: Turning Pricing Into A Long-Term Value Strategy</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/beyond-price-hikes-turning-pricing-into-a-long-term-value-strategy/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/beyond-price-hikes-turning-pricing-into-a-long-term-value-strategy/</guid>
+      <description><![CDATA[VOZIQ AI cofounder Vasudeva Akula argues that a uniform price increase ignores how differently customers can absorb it, risking downgrades and churn among price-sensitive accounts. He recommends pairing price sensitivity with predictive customer lifetime value and predictive NPS to decide who gets an increase and how large, and watching signals like complaints, competitor mentions or collections activity to decide when. The aim, he writes, is not more revenue this billing cycle but lasting lifetime value, so the answer may be "Don't increase this customer's price now."]]></description>
+      <dc:creator>Dr. Vasudeva Akula</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Post-Quantum Cryptography In The Financial Sector: Protecting Trust In The Quantum Era</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/post-quantum-cryptography-in-the-financial-sector-protecting-trust-in-the-quantum-era/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/post-quantum-cryptography-in-the-financial-sector-protecting-trust-in-the-quantum-era/</guid>
+      <description><![CDATA[Najwa Aaraj, CEO of the Technology Innovation Institute and QuantumGate, warns that "harvest now, decrypt later" attacks make post-quantum migration urgent for banks, whose records must stay confidential for decades, and notes a G7 Cyber Expert Group roadmap targets 2035 with critical systems possibly by 2030 to 2032. She says inventories often stall because they catch certificates but miss hard-coded algorithms, orphaned keys and vendor dependencies, and a QuantumGate survey of Gulf organizations found more than a quarter track cryptography in spreadsheets. Her three first steps are an inventory that includes suppliers, written post-quantum roadmaps from critical vendors and a single accountable executive.]]></description>
+      <dc:creator>Dr. Najwa Aaraj</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>When Attackers Cooperate And Vendors Don't</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/when-attackers-cooperate-and-vendors-dont/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/19/when-attackers-cooperate-and-vendors-dont/</guid>
+      <description><![CDATA[Check Point's Yochai Corem contrasts cybercriminals who share tools, access and expertise, such as the links between Scattered Spider and DragonForce ransomware, with a security industry that has treated interoperability as a competitive threat. He argues that because most enterprises run several vendors' tools, remediation that only acts on a vendor's own findings leaves gaps attackers can exploit during manual handoffs. Describing Check Point's choice to build exposure management that works across environments, he says he would "rather see that decision copied than credited."]]></description>
+      <dc:creator>Yochai Corem</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
     <item>
       <title>Key Cybersecurity Metrics That Show Risk Is Really Declining</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/12/key-cybersecurity-metrics-that-show-risk-is-really-declining/</link>
