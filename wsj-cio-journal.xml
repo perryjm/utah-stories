@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:15:05 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:24:20 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>AI’s Transformational Value Remains Elusive for Most Companies</title>
+      <link>https://www.wsj.com/cio-journal/ais-transformational-value-remains-elusive-for-most-companies-2fc0e3d3</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ais-transformational-value-remains-elusive-for-most-companies-2fc0e3d3</guid>
+      <description><![CDATA[A Gartner survey of 2,002 CIOs and technology executives found just 13% say their organizations have realized significant or transformational value from AI, even as 58% report rising pressure to deliver AI cost improvements. Gartner says a "vanguard" of CIOs pulls ahead by setting stopping rules for both pilots and production projects and planning role redesigns for a human-agent workforce, with analyst Alicia Mullery describing "a wide gap" between the AI innovation race and the AI outcomes race. The Morning Download also covers UAE-based CNTXT AI's expansion into Milpitas, Calif., and a DHS order for federal agencies to remove DeepSeek products.]]></description>
+      <dc:creator>Tom Loftus</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 07:23:00 -0600</pubDate>
+    </item>
     <item>
       <title>U.A.E.-Based AI and Data Startup Expands Into Silicon Valley</title>
       <link>https://www.wsj.com/cio-journal/u-a-e-based-ai-and-data-startup-expands-into-silicon-valley-f6e54c1e</link>
@@ -89,14 +97,6 @@
       <description><![CDATA[Moët Hennessy, Analog Devices and UC Davis trained an AI model on data from a new chemical sensor to detect Fresh Mushroom Aroma, a grape-juice defect humans can't sense until after fermentation and that can cost millions of euros, reaching 99% accuracy in early tests. Analog Devices' Max Shulaker said the sensors read an overall aroma fingerprint rather than individual chemicals, though each sample still takes about two hours, so Moët hopes for limited production use next year. The Morning Download also covers Appian CEO Matt Calkins' call for a strict U.S. AI "alignment" test and Lambda's plan to raise up to $4 billion before its IPO.]]></description>
       <dc:creator>Isabelle Bousquette</dc:creator>
       <pubDate>Wed, 07 Oct 2026 06:32:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI Cyber Pressure Is on the Rise</title>
-      <link>https://www.wsj.com/cio-journal/ai-cyber-pressure-is-on-the-rise-3181325c</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-cyber-pressure-is-on-the-rise-3181325c</guid>
-      <description><![CDATA[Hackers used a Chinese AI agent to breach South Korea's biggest banks and steal personal data on 68,000 people, one of the first AI-powered intrusions into the global financial system. Zscaler CEO Jay Chaudhry told the WSJ Leadership Institute that agents pose a new identity problem because "agents’ identity can change," and said that after testing Anthropic's Mythos preview he redirected his engineers for about three months to fixing critical vulnerabilities. The newsletter also notes a former Anthropic researcher warning New York City lawmakers, who are weighing bills including an AI "kill switch," that AI is more likely than not to slip out of human control.]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 07:07:00 -0600</pubDate>
     </item>
   </channel>
 </rss>

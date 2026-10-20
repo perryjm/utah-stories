@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:15:05 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:24:20 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Security: Series C To NYSE IPO And OCC Chartered National Trust Bank</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/security-series-c-to-nyse-ipo-and-occ-chartered-national-trust-bank/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/security-series-c-to-nyse-ipo-and-occ-chartered-national-trust-bank/</guid>
+      <description><![CDATA[Manny Khan, deputy CISO at BitGo, draws on helping the company scale from Series C through its NYSE IPO and win OCC national trust bank status to argue that a CISO has to work across the business and scale with its strategy. He frames security around the transaction lifecycle of authentication, authorization, execution, settlement and recovery, and says regulatory readiness depends on operating controls and evidence, not policies alone. For AI agents, he urges treating preparing, approving and executing a transaction as distinct authorities and keeping "a human in the loop for highly consequential decisions."]]></description>
+      <dc:creator>Manny Khan</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 09:15:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>The End Of Digital Identity As We Know It</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/the-end-of-digital-identity-as-we-know-it/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/the-end-of-digital-identity-as-we-know-it/</guid>
+      <description><![CDATA[Travis McGregor, CEO of SLC Digital, argues that deepfakes, voice cloning, SIM swaps and AI-automated phishing have broken the assumption that access to an email account, phone number or app approval proves who someone is. He says authentication factors that ride on communication channels can be intercepted or socially engineered, and points to passkeys, transaction signing and especially hardware-rooted authorization anchored in secure elements and enclaves. He urges executives to audit how identity is proven for high-value actions, describing a shift from "identity as a checkpoint toward authorization grounded in cryptographic proof."]]></description>
+      <dc:creator>Travis McGregor</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Recovery Is The New Cybersecurity Battleground</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/ransomware-recovery-is-the-new-cybersecurity-battleground/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/ransomware-recovery-is-the-new-cybersecurity-battleground/</guid>
+      <description><![CDATA[Michael Wu of Phison Technology argues that because attackers increasingly target backups too, ransomware planning has to treat recovery as an infrastructure problem rather than a security checkbox. He reduces readiness to arithmetic, dividing critical data volume by sustained restore throughput and adding sequencing and validation time, and notes that restoring 200 TB at 2 GB per second takes roughly 28 hours before a single file is scanned. Citing Gartner's estimate that recovery and downtime costs can reach 10 times the ransom, he urges full-scale restore drills and reporting the resulting "readiness gap" alongside other risk metrics.]]></description>
+      <dc:creator>Michael Wu</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Is The Solution To Aerospace's Backlog Crisis Hiding In Plain Sight?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/is-the-solution-to-aerospaces-backlog-crisis-hiding-in-plain-sight/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/is-the-solution-to-aerospaces-backlog-crisis-hiding-in-plain-sight/</guid>
+      <description><![CDATA[Naveen Poonian, CEO of iBase-t, notes that Airbus and Boeing would need about 12 years to clear commercial backlogs of nearly 9,000 and more than 6,000 aircraft, while Lockheed Martin alone carries a backlog above $230 billion. He argues the industry has "a production-capacity problem," not a demand problem, and that much of the fix lies in existing factories, since the shop floor accounts for roughly 80% of program cost and production time yet has lagged other functions in digital transformation. He calls for bringing IoT sensors, manufacturing execution software and AI applications to the point where the work is done.]]></description>
+      <dc:creator>Naveen Poonian</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Missing Link To AI ROI: Connecting AI Consumption To Business Outcomes</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/the-missing-link-to-ai-roi-connecting-ai-consumption-to-business-outcomes/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/the-missing-link-to-ai-roi-connecting-ai-consumption-to-business-outcomes/</guid>
+      <description><![CDATA[Flexera chief architect Jesse Stockall says leaders find AI's costs easier to understand than its value, citing Flexera research in which 36% report overspending on AI applications and 14% cite wasted AI spend. He lays out a progression from inventorying every AI application, model and agent, to measuring cost per successful outcome rather than per token, to setting financial and operational guardrails matched to each use case's risk. Pointing to KPMG data that organizations with full visibility into AI operating costs are five times more likely to report established ROI, he argues "AI cost management cannot be separated from AI value management."]]></description>
+      <dc:creator>Jesse Stockall</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>When AI Agents Go Rogue: The Risk Of Acting Without Context</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/when-ai-agents-go-rogue-the-risk-of-acting-without-context/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/when-ai-agents-go-rogue-the-risk-of-acting-without-context/</guid>
+      <description><![CDATA[Arango CEO Shekhar Iyer says autonomous agents go rogue in three ways, by being manipulated, overpowered or misinformed, and focuses on the last: agents that are properly authorized yet act on incomplete, outdated or disconnected context. He cites a 2025 SailPoint survey of 353 IT professionals in which 80% said "their AI agents have taken unintended actions," and blames agents that see records but not their relationships, untrustworthy or stale sources, and multiple agents building separate versions of the same situation. Before granting more autonomy, he urges leaders to ask whether an agent has the current, connected and governed context to use that authority responsibly.]]></description>
+      <dc:creator>Shekhar Iyer</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Your Data, Their Intelligence</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/your-data-their-intelligence/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/your-data-their-intelligence/</guid>
+      <description><![CDATA[Santex CEO Juan Carlos Santiago warns that companies are signing AI platform contracts with little clarity about who keeps the data and intelligence they generate, treating the question as "a procurement detail rather than a governance one." He describes three regional postures toward AI regulation and argues that Latin America, home to an estimated 667 million people, has become a lightly protected testing ground without a clear position of its own. Recounting how Santex began asking every AI vendor what happens to client data and models when payments stop, he urges executives to make data ownership part of how they evaluate any AI tool.]]></description>
+      <dc:creator>Juan Carlos Santiago</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Secret Sauce: IT Business Services</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/the-secret-sauce-it-business-services/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/the-secret-sauce-it-business-services/</guid>
+      <description><![CDATA[Ken Feyder, an IT executive at Hermès, argues that the traditional business-analyst model keeps IT reactive, waiting for requests that may never come while business teams buy point solutions that ignore security and architecture. His answer is an IT business services group, led on his team by director Iris Lam, that meets business leaders on their own turf, built on the premise that relationships are "the real core of IT’s success, not technology." He advises gauging whether the organization will accept IT as a partner, right-sizing the function, and pushing for a reciprocal technology-partnership role on the business side.]]></description>
+      <dc:creator>Ken Feyder</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Complex Billing Breaks Companies (And How To Design Around It)</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/why-complex-billing-breaks-companies-and-how-to-design-around-it/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/why-complex-billing-breaks-companies-and-how-to-design-around-it/</guid>
+      <description><![CDATA[SubscriptionFlow CEO Kashif Saleem argues that billing breaks when a fast-changing commercial layer of pricing, discounts and contract terms outgrows a billing engine built once around a fixed pricing model. He recommends evaluating pricing as data in a rules-based engine, letting sales teams stay flexible while feeding one predictable accounting pipeline, triggering predefined responses to ledger events such as failed payments, and treating cross-border tax as an external service. He illustrates each with client work, including a combined membership, enrollment-fee and discount deal for GymLaunch, a Xero integration for Blink and an Avalara connection for cross-border tax.]]></description>
+      <dc:creator>Kashif Saleem</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Every Industry Is Becoming A Semiconductor Industry</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/why-every-industry-is-becoming-a-semiconductor-industry/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/20/why-every-industry-is-becoming-a-semiconductor-industry/</guid>
+      <description><![CDATA[Arteris chief product and marketing officer Michal Siwinski argues that "every industry is becoming a semiconductor industry" as AI moves out of data centers into vehicles, medical devices, industrial equipment and robotics. He points to hyperscalers such as Amazon, Google, Meta and Microsoft investing in custom silicon, carmakers like Tesla and BYD competing on compute, and Apple's acquisition of P.A. Semi as an early sign of a return to vertical integration. Leaders need not design chips, he says, but they need enough semiconductor fluency to ask where compute creates differentiation and which capabilities to own or source.]]></description>
+      <dc:creator>Michal Siwinski</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 -0600</pubDate>
+    </item>
     <item>
       <title>Vibe Coding? Be Sure To Include These Critical Development Steps</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/19/vibe-coding-be-sure-to-include-these-critical-development-steps/</link>
