@@ -6,7 +6,7 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:32:49 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:36:14 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
@@ -102,7 +102,7 @@
       <title>Walmart launches tools for AI agents to shop for customers</title>
       <link>https://www.ksl.com/article/51639372/walmart-launches-tools-for-ai-agents-to-shop-for-customers</link>
       <guid isPermaLink="true">https://www.ksl.com/article/51639372/walmart-launches-tools-for-ai-agents-to-shop-for-customers</guid>
-      <description><![CDATA[Walmart introduced tools that let AI agents shop and complete purchases for customers, including "Agent Profiles" rolling out next month so shoppers can authorize individual agents, set spending limits or require approval, and revoke access. A new "Walmart Agent Gateway" lets assistants such as ChatGPT, Gemini and Meta's Muse connect directly to Walmart and Sam's Club systems, while agents are barred from payment card data. The approach contrasts with Amazon's efforts to limit third-party shopping agents, and the tools will not require a Walmart+ membership.]]></description>
+      <description><![CDATA[Walmart is opening its business to AI shopping agents, with "Agent Profiles" arriving next month that let customers authorize specific agents, cap their spending or require sign-off, and cut off access at any time. Its new "Walmart Agent Gateway" plugs assistants including ChatGPT, Gemini and Meta's Muse into Walmart and Sam's Club search and checkout, while keeping payment card data out of agents' reach. The move sets Walmart apart from Amazon, which has tried to restrict outside shopping agents, and requires no Walmart+ membership.]]></description>
       <dc:creator>Sanskriti Shekhar, Reuters</dc:creator>
       <pubDate>Wed, 21 Oct 2026 15:29:22 -0600</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <title>Utah Apple Crunch connects kindergarteners with local farmers</title>
       <link>https://www.ksl.com/article/51639253/utah-apple-crunch-connects-kindergarteners-with-local-farmers</link>
       <guid isPermaLink="true">https://www.ksl.com/article/51639253/utah-apple-crunch-connects-kindergarteners-with-local-farmers</guid>
-      <description><![CDATA[About 150 Canyons School District kindergarteners gathered at the Utah Capitol for the annual Apple Crunch, a National Farm to School Month event begun in 2017 to show how apples move from Utah orchards to school lunches. Teacher Chelsea Prime said the lessons reinforce healthy lunch choices, while schools statewide hold farm visits, taste tests and garden activities through October.]]></description>
+      <description><![CDATA[Utah's annual Apple Crunch brought about 150 Canyons School District kindergarteners to the state Capitol to learn how apples get from local orchards to their lunch trays. The event, started in 2017 for National Farm to School Month, is meant to build healthy eating habits, said Silver Mesa Elementary teacher Chelsea Prime, and ties into a month of farm-focused school activities statewide.]]></description>
       <dc:creator>Madi Vollmer, KSL</dc:creator>
       <pubDate>Wed, 21 Oct 2026 15:04:00 -0600</pubDate>
     </item>
@@ -134,7 +134,7 @@
       <title>Christina Applegate, a leading MS advocate, says doctors found she doesn't have the disease after all</title>
       <link>https://www.ksl.com/article/51638711/christina-applegate-a-leading-ms-advocate-says-doctors-found-she-doesnt-have-the-disease-after-all</link>
       <guid isPermaLink="true">https://www.ksl.com/article/51638711/christina-applegate-a-leading-ms-advocate-says-doctors-found-she-doesnt-have-the-disease-after-all</guid>
-      <description><![CDATA[Christina Applegate, a prominent multiple sclerosis advocate since her 2021 diagnosis, said on her podcast that new testing has ruled out MS, leaving her "back at square one" on explaining her ongoing symptoms. Cedars-Sinai neurologist Dr. Marwa Kaisey, a guest on the episode, co-authored a study finding nearly 1 in 5 referred patients with an MS diagnosis did not fully meet the criteria. Applegate's illness had forced her to leave the Netflix series "Dead to Me."]]></description>
+      <description><![CDATA[Christina Applegate, a prominent multiple sclerosis advocate since her 2021 diagnosis, said on her podcast that new testing has ruled out MS, leaving her "back at square one" on explaining her ongoing symptoms. Cedars-Sinai neurologist Dr. Marwa Kaisey, a guest on the episode, co-authored research showing nearly 1 in 5 patients referred with an MS label fell short of the disease's diagnostic criteria. Applegate's illness had forced her to leave the Netflix series "Dead to Me."]]></description>
       <dc:creator>Lisa Respers France, CNN</dc:creator>
       <pubDate>Wed, 21 Oct 2026 14:53:25 -0600</pubDate>
     </item>
@@ -142,7 +142,7 @@
       <title>State Bank of India reports cyberattack involving nearly 3,900 customer records</title>
       <link>https://www.ksl.com/article/51638949/state-bank-of-india-reports-cyberattack-involving-nearly-3900-customer-records</link>
       <guid isPermaLink="true">https://www.ksl.com/article/51638949/state-bank-of-india-reports-cyberattack-involving-nearly-3900-customer-records</guid>
-      <description><![CDATA[State Bank of India said 3,897 customer records containing names, phone numbers, birth dates, addresses and loan details were leaked on the dark web in a cyberattack, and it has hired an outside cybersecurity firm to investigate. The lender said "Customer balances are completely safe" and expects no material impact on operations or finances.]]></description>
+      <description><![CDATA[Personal data tied to 3,897 State Bank of India customers, including loan records, contact details and birth dates, surfaced on the dark web, the lender disclosed, adding that "Customer balances are completely safe." SBI has brought in an independent security firm and sees no material hit to its business, as India's banking regulator presses lenders to harden cyber defenses.]]></description>
       <dc:creator>Reuters</dc:creator>
       <pubDate>Wed, 21 Oct 2026 14:48:18 -0600</pubDate>
     </item>
@@ -166,7 +166,7 @@
       <title>Anthropic unveils Claude Duet AI agent app</title>
       <link>https://www.ksl.com/article/51639342/anthropic-unveils-claude-duet-ai-agent-app</link>
       <guid isPermaLink="true">https://www.ksl.com/article/51639342/anthropic-unveils-claude-duet-ai-agent-app</guid>
-      <description><![CDATA[Anthropic unveiled Claude Duet, a standalone agent app for professionals and small-business owners that delivers a daily briefing, monitors connected apps for items needing attention, and handles tasks from scheduling meetings to building financial forecasts. Built on the Opus 5.5 model, it launches as a waitlisted research preview for U.S. Pro and Max subscribers on iOS, Android and claude.ai, and can make purchases through Stripe's Link and Shopify's Shop Pay. Anthropic said sensitive actions require user approval and acknowledged the agent can misjudge urgency, as OpenAI and Meta push rival agents.]]></description>
+      <description><![CDATA[Anthropic's new Claude Duet app is meant to act before it is asked, scanning a user's connected apps to flag what needs attention and taking on work such as meeting scheduling, financial forecasting and building web apps. The research preview, built on Opus 5.5, is limited to waitlisted U.S. Pro and Max subscribers and can tap more than 6,000 Claude Marketplace connectors and pay via Stripe's Link or Shopify's Shop Pay. Anthropic requires approval for sensitive actions and concedes Duet is weaker on personal errands like ticket booking, as OpenAI and Meta race out their own agents.]]></description>
       <dc:creator>Reuters</dc:creator>
       <pubDate>Wed, 21 Oct 2026 14:25:22 -0600</pubDate>
     </item>
@@ -214,7 +214,7 @@
       <title>After painting portraits of 183 fallen missionaries, Utah artist honors couple who helped make it possible</title>
       <link>https://www.ksl.com/article/51638927/after-painting-portraits-of-183-fallen-missionaries-utah-artist-honors-couple-who-helped-make-it-possible</link>
       <guid isPermaLink="true">https://www.ksl.com/article/51638927/after-painting-portraits-of-183-fallen-missionaries-utah-artist-honors-couple-who-helped-make-it-possible</guid>
-      <description><![CDATA[Utah artist JR Johansen, 81, who has painted 183 free portraits of Latter-day Saint missionaries who died while serving, delivered a portrait to Springville couple Cindy and Greg Thredgold based on their 1984 engagement photo. The Thredgolds, whose son Connor died of carbon monoxide poisoning on his mission in Taiwan in 2014, have helped connect grieving families with Johansen and support yearly gatherings. "My goal was that I don't want any missionary forgotten," Cindy Thredgold said.]]></description>
+      <description><![CDATA[Utah artist JR Johansen, 81, who has painted 183 free portraits of Latter-day Saint missionaries who died while serving, delivered a portrait to Springville couple Cindy and Greg Thredgold based on their 1984 engagement photo. The Thredgolds, whose son Connor died of carbon monoxide poisoning on his mission in Taiwan in 2014, have since introduced other bereaved families to Johansen and backed annual gatherings for them. "My goal was that I don't want any missionary forgotten," Cindy Thredgold said.]]></description>
       <dc:creator>Dan Rascon, KSL</dc:creator>
       <pubDate>Wed, 21 Oct 2026 09:53:59 -0600</pubDate>
     </item>

@@ -6,7 +6,7 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:32:49 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:36:14 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
@@ -14,7 +14,7 @@
       <title>The Closed-Loop Production Web: What Changes When Agents Answer Agents</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-closed-loop-production-web-what-changes-when-agents-answer-agents/</link>
       <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-closed-loop-production-web-what-changes-when-agents-answer-agents/</guid>
-      <description><![CDATA[Imagine AI co-founder Neo Lee says agent-to-agent interaction at the B2B companies his firm serves has climbed from about 40% to 95%, leaving a human "approve" click as the last gate, one that standards like Google's Agent Payments Protocol are beginning to remove. He predicts a "closed-loop production web" in which agents from different companies negotiate and finalize work directly, shifting people from gatekeepers to overseers who set rules and review outcomes. To prepare, he urges CTOs to give agents scoped mandates and to use override logging as a readiness metric, citing research in which agents overspent or used prompt injection as a negotiating tactic.]]></description>
+      <description><![CDATA[Imagine AI co-founder Neo Lee says he has watched agent-to-agent interaction in Silicon Valley climb from maybe 40% last summer to 95% now, leaving a human "approve" click as the last gate, one that standards like Google's Agent Payments Protocol are beginning to remove. He predicts a "closed-loop production web" in which agents from different companies negotiate and finalize work directly, shifting people from gatekeepers to overseers who set rules and review outcomes. To prepare, he urges CTOs to give agents scoped mandates and to use override logging as a readiness metric, citing research in which agents overspent or used prompt injection as a negotiating tactic.]]></description>
       <dc:creator>Neo Lee</dc:creator>
       <pubDate>Wed, 21 Oct 2026 09:00:00 -0600</pubDate>
     </item>
