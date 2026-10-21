@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 17:24:20 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:32:49 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>AI Drives Record Growth in Information Technology</title>
+      <link>https://www.wsj.com/cio-journal/ai-drives-record-growth-in-information-technology-afd1c03c</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-drives-record-growth-in-information-technology-afd1c03c</guid>
+      <description><![CDATA[Gartner forecasts worldwide IT spending will jump a record 15% to $7.3 trillion in 2027, led by 55% growth in data center systems, while the scramble for memory and chips pushes conventional server prices up about 120% by 2027. For CIOs facing hardware costs, Gartner analyst John-David Lovelock warned, "they've not seen anything yet, and there is no relief coming." The Morning Download also covers Gartner's 2027 technology trends, which reflect what analyst Gene Alvarez calls "an age of caution" in enterprise AI, and a draft Anthropic IPO prospectus showing nearly $9 billion in first-half compute spending.]]></description>
+      <dc:creator>Tom Loftus</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 07:12:00 -0600</pubDate>
+    </item>
     <item>
       <title>AI’s Transformational Value Remains Elusive for Most Companies</title>
       <link>https://www.wsj.com/cio-journal/ais-transformational-value-remains-elusive-for-most-companies-2fc0e3d3</link>
@@ -89,14 +97,6 @@
       <description><![CDATA[Quantum computing startup Oratomic raised $475 million in a Series B co-led by ARCH Venture Partners, Spark Capital, Khosla Ventures and others just three months after its Series A, lifting its valuation to $5.4 billion from $1.5 billion. The Pasadena company is aiming straight for a large, fault-tolerant, error-corrected machine, and CEO Dolev Bluvstein says its error-correction method could make a useful commercial computer possible with only 10,000 qubits by 2030. Index Ventures' Martin Mignot said much of quantum had seemed "pretty sci-fi," but Oratomic felt "a lot closer to being commercially viable."]]></description>
       <dc:creator>Isabelle Bousquette</dc:creator>
       <pubDate>Thu, 08 Oct 2026 05:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Moët Hennessy Directs AI to Sniff Out a Stubborn Problem in Winemaking</title>
-      <link>https://www.wsj.com/cio-journal/moet-hennessy-directs-ai-to-sniff-out-a-stubborn-problem-in-winemaking-41670bd9</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/moet-hennessy-directs-ai-to-sniff-out-a-stubborn-problem-in-winemaking-41670bd9</guid>
-      <description><![CDATA[Moët Hennessy, Analog Devices and UC Davis trained an AI model on data from a new chemical sensor to detect Fresh Mushroom Aroma, a grape-juice defect humans can't sense until after fermentation and that can cost millions of euros, reaching 99% accuracy in early tests. Analog Devices' Max Shulaker said the sensors read an overall aroma fingerprint rather than individual chemicals, though each sample still takes about two hours, so Moët hopes for limited production use next year. The Morning Download also covers Appian CEO Matt Calkins' call for a strict U.S. AI "alignment" test and Lambda's plan to raise up to $4 billion before its IPO.]]></description>
-      <dc:creator>Isabelle Bousquette</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 06:32:00 -0600</pubDate>
     </item>
   </channel>
 </rss>

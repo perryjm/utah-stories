@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 17:24:20 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:32:49 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>The Closed-Loop Production Web: What Changes When Agents Answer Agents</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-closed-loop-production-web-what-changes-when-agents-answer-agents/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-closed-loop-production-web-what-changes-when-agents-answer-agents/</guid>
+      <description><![CDATA[Imagine AI co-founder Neo Lee says agent-to-agent interaction at the B2B companies his firm serves has climbed from about 40% to 95%, leaving a human "approve" click as the last gate, one that standards like Google's Agent Payments Protocol are beginning to remove. He predicts a "closed-loop production web" in which agents from different companies negotiate and finalize work directly, shifting people from gatekeepers to overseers who set rules and review outcomes. To prepare, he urges CTOs to give agents scoped mandates and to use override logging as a readiness metric, citing research in which agents overspent or used prompt injection as a negotiating tactic.]]></description>
+      <dc:creator>Neo Lee</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Trusting AI Agents Means Preserving Human Intent</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/trusting-ai-agents-means-preserving-human-intent/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/trusting-ai-agents-means-preserving-human-intent/</guid>
+      <description><![CDATA[Okta engineering security director Arun Kumar Elengovan argues that as AI agents move from recommending to acting, authorization must check not only whether an agent can perform an action but whether it matches the human's original intent. An agent with access to book a flight shouldn't do so when asked only to rent a car, and delegated tasks should carry constraints such as spending limits, expirations and narrower authority. He outlines a five-layer architecture that runs from capturing human intent and converting it into machine-verifiable credentials through governance and execution to provenance, with a remediation path when agents go wrong.]]></description>
+      <dc:creator>Arun Kumar Elengovan</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 08:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Slowing Down AI Won't Save The Companies Already Wired To It</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/slowing-down-ai-wont-save-the-companies-already-wired-to-it/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/slowing-down-ai-wont-save-the-companies-already-wired-to-it/</guid>
+      <description><![CDATA[OneStream CEO Tom Shea says calls by AI leaders to slow frontier model development miss the more immediate danger: organizations wiring today's models into business systems through MCP, APIs and agent frameworks. He sorts AI risk into errors of commission, omission and ignorance, pointing to a July incident in which an OpenAI research agent carried out roughly 17,600 unauthorized actions in Hugging Face's production infrastructure. AI-generated software, he warns, broadens who can build powerful systems "without expanding the population capable of understanding how those systems fail."]]></description>
+      <dc:creator>Tom Shea</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Agentic AI Is The Future Of Continuous Improvement</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-agentic-ai-is-the-future-of-continuous-improvement/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-agentic-ai-is-the-future-of-continuous-improvement/</guid>
+      <description><![CDATA[Andreas Eschbach, CEO of eschbach, argues that continuous improvement in process manufacturing has rarely been continuous because plants excel at firefighting but lack expert time for root-cause problem-solving. Existing AI tools such as smart search and predictive maintenance remain reactive, he says, whereas agentic systems can detect anomalies, test hypotheses against historical records and guide night-shift teams unprompted. Adoption hinges on systems that "show their work" with auditable reasoning and on lightweight integration with messy plant data.]]></description>
+      <dc:creator>Andreas Eschbach</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Intelligence Is Not A Department</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/intelligence-is-not-a-department/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/intelligence-is-not-a-department/</guid>
+      <description><![CDATA[Intelligo CEO Ed Montes, a former prosecutor, argues that business, competitive and risk intelligence are one discipline split across teams that don't talk, so the same counterparty can appear as a vendor, a market mover and a deal target with nobody seeing the full picture. Drawing on economist Frank Knight's distinction between risk and uncertainty, he says measurable but unpriced risk usually hides in the gaps between functions, which AI can now bridge. He favors deterministic architectures that tie every finding to a verifiable source, since in a regulatory inquiry "the algorithm suggested so" is not an answer.]]></description>
+      <dc:creator>Ed Montes</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>How AI Changes The Way Organizations Deal With Messy Data</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/</guid>
+      <description><![CDATA[Certivo CEO Kunal Chopra describes compliance teams retyping supplier evidence that arrives as scanned PDFs, phone photos and email threads, noting estimates that 80% to 90% of enterprise data is unstructured. AI-native systems using what he calls contextual intelligence can read such inputs and link part numbers across documents, but he says matching values against regulatory thresholds should stay deterministic so the same document always yields the same result. He suggests buyers ask whether a system can trace every extracted value, repeat its answers and handle unfamiliar document types, and notes that structured, stable inputs may still suit traditional software.]]></description>
+      <dc:creator>Kunal Chopra</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>When Data And Compute Pull In Different Directions, Hybrid Cloud Must Adapt</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/when-data-and-compute-pull-in-different-directions-hybrid-cloud-must-adapt/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/when-data-and-compute-pull-in-different-directions-hybrid-cloud-must-adapt/</guid>
+      <description><![CDATA[HPE hybrid cloud CTO Brian Gruttadauria says AI is breaking the centralize-everything model, as data gravity pulls workloads toward where data accumulates while compute gravity pulls them toward GPUs, power and cooling. He argues hybrid cloud must become a coordinated system that keeps reassessing where workloads run, with a programmable, observable network acting as part of the control plane. Because a slowdown can stem from compute, storage, connectivity or data placement, he calls for operations that correlate telemetry across domains instead of optimizing one layer and simply moving the bottleneck.]]></description>
+      <dc:creator>Brian Gruttadauria</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Observability Must Move Beyond System Health To Data Correctness</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-observability-must-move-beyond-system-health-to-data-correctness/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-observability-must-move-beyond-system-health-to-data-correctness/</guid>
+      <description><![CDATA[Atlassian principal engineer Sai Vishnu Bhyravajosyula recounts an incident in which every metric looked healthy while large customers received stale data, and a customer noticed before his team did. He argues that in distributed systems, infrastructure health no longer implies correctness, and describes adding continuous hash-based replica verification, checkpoint tracking, reconciliation workflows and correctness SLAs displayed beside uptime. He urges teams to ask how long it would take to learn that data had begun diverging between regions, and to insist on a concrete answer.]]></description>
+      <dc:creator>Sai Vishnu Bhyravajosyula</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Rise Of AI-Ready Microgrids: What's Driving A New Wave Of Behind-The-Meter Innovation</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-rise-of-ai-ready-microgrids-whats-driving-a-new-wave-of-behind-the-meter-innovation/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-rise-of-ai-ready-microgrids-whats-driving-a-new-wave-of-behind-the-meter-innovation/</guid>
+      <description><![CDATA[Ameresco CEO George Sakellaris says AI data centers' large, volatile power loads and yearslong grid interconnection waits are pushing developers toward on-site, behind-the-meter generation and microgrids. He cites a Goldman Sachs Research forecast that U.S. data center demand will rise from 31 gigawatts in 2025 to 66 gigawatts by 2027, and argues speed-to-power has become a key differentiator. Microgrids combining gas engines, fuel cells, solar and batteries can bridge to a utility connection or run permanently, as at Joint Forces Training Base Los Alamitos, whose microgrid took over automatically during a January 2025 outage.]]></description>
+      <dc:creator>George Sakellaris</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Are Moving Like Your Customers</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/ai-agents-are-moving-like-your-customers/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/ai-agents-are-moving-like-your-customers/</guid>
+      <description><![CDATA[DataDome CEO Benjamin Fabre says AI agents now follow customers onto login, checkout and account-creation pages, citing his company's finding that "AI agents generated 605.6 million requests to high-risk endpoints" in the first half of 2026, with login pages making up 51.7% of high-risk AI traffic. Because agent spoofing rose 45% from February to July, he argues that decisions to allow, throttle or block traffic must rest on session behavior rather than claimed identity. Blocking everything forfeits legitimate agentic purchases, while trusting AI traffic by default invites credential abuse and payment fraud.]]></description>
+      <dc:creator>Benjamin Fabre</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 -0600</pubDate>
+    </item>
     <item>
       <title>Security: Series C To NYSE IPO And OCC Chartered National Trust Bank</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/20/security-series-c-to-nyse-ipo-and-occ-chartered-national-trust-bank/</link>
