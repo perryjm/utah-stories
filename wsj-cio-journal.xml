@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:32:49 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:43:24 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Barclays Cuts 5% of Jobs In AI Overhaul</title>
+      <link>https://www.wsj.com/cio-journal/barclays-cuts-5-of-jobs-in-ai-overhaul-598857e2</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/barclays-cuts-5-of-jobs-in-ai-overhaul-598857e2</guid>
+      <description><![CDATA[The Oct. 22 Morning Download leads with Barclays cutting 5,000 jobs, about 5% of its workforce, as it builds AI deeper into the bank; CEO C.S. Venkatakrishnan said roughly 60% of the cuts hit support functions, "including fewer developers as AI makes our people more productive," and the newsletter notes HSBC and Standard Chartered are planning similar reductions. At Gartner's IT Symposium/Xpo, analyst Tina Nunno cast CIOs as the "adult supervision" against AI hype, saying boards can be "potentially part of the problem." The roundup also covers Meta raising its 2026 capital spending floor to $135 billion and the AI-discovered PHP vulnerability that sent web administrators scrambling.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 07:05:00 -0600</pubDate>
+    </item>
     <item>
       <title>AI Drives Record Growth in Information Technology</title>
       <link>https://www.wsj.com/cio-journal/ai-drives-record-growth-in-information-technology-afd1c03c</link>
@@ -81,22 +89,6 @@
       <description><![CDATA[SpaceX agreed to pay about $8 billion in cash for cellular spectrum licenses from Grain Management, its biggest move yet toward taking Starlink into a wireless market dominated by AT&T and Verizon, days after the FCC approved up to 15,000 mobile-service satellites. Steven Rosenbush argues that mobile networks have stayed predictable and capital-intensive, while SpaceX President Gwynne Shotwell has said she expects to win "quite a few" carrier customers because "our service will be better." The newsletter also covers Walmart's struggles to automate its warehouses and Vice President JD Vance's move to suspend Microsoft and Adobe from a visa program.]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Fri, 09 Oct 2026 07:03:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Quantum Research Races Ahead</title>
-      <link>https://www.wsj.com/cio-journal/quantum-research-races-ahead-8cf969f7</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/quantum-research-races-ahead-8cf969f7</guid>
-      <description><![CDATA[Steven Rosenbush contrasts AI developers' talk of slowing down with quantum computing's pace, recapping Oratomic's Series B at a $5.4 billion valuation and CEO Dolev Bluvstein's goal of a commercial computer with only 10,000 qubits by 2030. A PitchBook-NVCA report cited in the newsletter finds AI took nearly 83% of $515.8 billion in U.S. venture dealmaking through the third quarter while only 18 companies went public in that quarter, leaving 992 unicorns waiting. Other items include OpenAI gaining ground on Anthropic in business spending through OpenRouter and the death of Apollo software pioneer Margaret Hamilton at 90.]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 07:06:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Quantum Startup Oratomic Now Worth $5.4 Billion After Series-B Funding</title>
-      <link>https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc</guid>
-      <description><![CDATA[Quantum computing startup Oratomic raised $475 million in a Series B co-led by ARCH Venture Partners, Spark Capital, Khosla Ventures and others just three months after its Series A, lifting its valuation to $5.4 billion from $1.5 billion. The Pasadena company is aiming straight for a large, fault-tolerant, error-corrected machine, and CEO Dolev Bluvstein says its error-correction method could make a useful commercial computer possible with only 10,000 qubits by 2030. Index Ventures' Martin Mignot said much of quantum had seemed "pretty sci-fi," but Oratomic felt "a lot closer to being commercially viable."]]></description>
-      <dc:creator>Isabelle Bousquette</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 05:00:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
