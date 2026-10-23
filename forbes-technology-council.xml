@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:43:24 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:51:24 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>A Framework For Evaluating Application Ownership</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/a-framework-for-evaluating-application-ownership/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/a-framework-for-evaluating-application-ownership/</guid>
+      <description><![CDATA[Luis Aburto, founder and CEO of software development firm Scio, argues that companies often leave mature applications with the core engineering team that built them, quietly draining senior talent: five senior engineers spending 20% of their time on upkeep adds up to one full-time engineer, and the bigger cost is delayed roadmap and modernization work. He proposes plotting each application on a 2x2 grid of core-team need versus operational friction, then moving low-need, low-friction apps to another team or vendor, keeping high-need ones in house, and retiring, migrating or modernizing high-friction ones. Business criticality then determines how cautiously any ownership transition should proceed.]]></description>
+      <dc:creator>Luis Aburto</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 13:45:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Tech Infrastructure Gaps That Can Hold Back Business Growth</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-tech-infrastructure-gaps-that-can-hold-back-business-growth/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-tech-infrastructure-gaps-that-can-hold-back-business-growth/</guid>
+      <description><![CDATA[Members of Forbes Technology Council name foundational systems growing businesses tend to neglect until demand exposes them, including single sign-on, a context layer that connects AI models to telemetry and ownership data, queue backpressure, memory bandwidth, entity data quality and automated identity and access management. Univention's Kevin Korte estimates that a 30-second daily email login at a 1,000-person company consumes almost 70 working days a year. Gayathri Kolandaisami of Quantumzet Technologies urges routine restore drills, warning that "A backup you've never restored is only a theory."]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 11:15:18 -0600</pubDate>
+    </item>
+    <item>
+      <title>Who Will Your AI Agent Work For When Everyone Wants The Sale?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/who-will-your-ai-agent-work-for-when-everyone-wants-the-sale/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/who-will-your-ai-agent-work-for-when-everyone-wants-the-sale/</guid>
+      <description><![CDATA[Rishi Katdare, a networking and edge leader for global financial services at Amazon Web Services, writes that in agentic commerce, operators of buying agents could gain sway over which sellers a customer ever considers, since an excluded business cannot pitch a buyer who never learns it was an option. He warns that a seller whose existing customers shift into an agent's channel may see sales rise while its negotiating leverage erodes, leaving it paying an intermediary to reach buyers whose loyalty it built. The sharpest conflict, he argues, comes when an operator's compensation overrides the buyer's stated priorities, such as recommending a pricier partner that pays a fee.]]></description>
+      <dc:creator>Rishi Katdare</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The SaaS Tax Is Coming: How California’s 2027 Change Will Reshape Software Procurement</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-saas-tax-is-coming-how-californias-2027-change-will-reshape-software-procurement/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-saas-tax-is-coming-how-californias-2027-change-will-reshape-software-procurement/</guid>
+      <description><![CDATA[Prajkta Waditwar, a senior technology sourcing manager at Box, explains that California's SB 122 extends sales and use tax to electronically delivered prewritten software, including SaaS, starting Jan. 1, 2027, while custom software is treated differently. Because California drew roughly 60% of U.S. venture capital in 2025, she sees the change reshaping software economics broadly and making ongoing SaaS rationalization more valuable, summed up as "Don't optimize the tax on software you shouldn't be buying in the first place." She advises judging deals on fully loaded cost and true-down flexibility rather than headline discounts, and making sure contracts accurately classify what is being bought.]]></description>
+      <dc:creator>Prajkta Waditwar</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why CRE Brokers Can't Get A Straight Answer From Their Own Data</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/why-cre-brokers-cant-get-a-straight-answer-from-their-own-data/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/why-cre-brokers-cant-get-a-straight-answer-from-their-own-data/</guid>
+      <description><![CDATA[Ascendix Technologies co-founder Wesley D. Snow says commercial real estate brokers struggle to get answers out of CRMs built "to store and organize, not to answer," and light up when they can simply ask questions in plain English against their own records. He argues general chatbots fall short on business-specific questions because they don't know a firm's tenants, leases or investors, and even when connected they may not grasp terms like LOI and NNN or respect user permissions. His prescription is grounded AI tied to live data with the firm's vocabulary and guardrails, while cautioning that integrating many CRE systems is harder than vendors admit.]]></description>
+      <dc:creator>Wesley D. Snow</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Is Your Circle Of Trust The New Cybersecurity Perimeter?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/is-your-circle-of-trust-the-new-cybersecurity-perimeter/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/is-your-circle-of-trust-the-new-cybersecurity-perimeter/</guid>
+      <description><![CDATA[BlackCloak founder and CEO Chris Pierson writes that deepfakes, voice cloning and social engineering let criminals reach executives by impersonating the people around them, such as spouses, assistants, attorneys and wealth managers, so protecting an individual in isolation no longer suffices. Because public audio, video and personal details supply raw material for impersonation, he argues that "Recognition is no longer verification." He recommends heightened scrutiny of requests involving money, credentials or unusual actions, and verifying them through a separate, trusted channel rather than replying to the message itself.]]></description>
+      <dc:creator>Christopher Pierson</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>What 40 Years Of Design Automation Can Teach Us About AI Agents</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/what-40-years-of-design-automation-can-teach-us-about-ai-agents/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/what-40-years-of-design-automation-can-teach-us-about-ai-agents/</guid>
+      <description><![CDATA[Synopsys AI and machine learning vice president Thomas Andersen draws on four decades of chip design automation, from logic synthesis to formal verification, to argue that trust in AI agents should be earned narrowly and then extended, as it was with earlier tools. Since chip errors that reach manufacturing can cost months and millions, he says autonomy should depend on what a mistake would cost and when it would surface, with human checkpoints where errors appear late. He also warns general-purpose chatbots lack domain depth, saying there's "no place for confident nonsense," and urges companies to capture undocumented expert knowledge, such as analog design intuition, before those specialists retire.]]></description>
+      <dc:creator>Thomas Andersen</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The AI Model Built On Today Might Not Exist Tomorrow</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-ai-model-built-on-today-might-not-exist-tomorrow/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-ai-model-built-on-today-might-not-exist-tomorrow/</guid>
+      <description><![CDATA[AppMakers USA founder and CEO Dan Haiem argues that choosing an AI model is an architectural commitment, since the model that dominates when a product is built is rarely the one leading two years later. He recalls steering a healthcare client in 2020 away from AlphaFold 2, a protein-structure model, toward GPT-3 for its language layer, and says his own Echo Journal app uses a model-agnostic abstraction layer so changes become configuration rather than rebuilds. He advises mapping which user flows would break if a model were deprecated or repriced, building the abstraction first, and documenting why a model was chosen.]]></description>
+      <dc:creator>Dan Haiem</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Mission Value Of Compassion In The Age Of Generative AI</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-mission-value-of-compassion-in-the-age-of-generative-ai/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/the-mission-value-of-compassion-in-the-age-of-generative-ai/</guid>
+      <description><![CDATA[Game Plan Tech CTO Sean Maday writes that while early adopters see generative AI as opportunity, most of an enterprise's workforce sits later on the adoption curve and experiences it as a threat to hard-won expertise, a resistance he ties to the law of primacy. He cautions that "Skepticism should not automatically be confused with wisdom, just as enthusiasm should not automatically be confused with progress," urging leaders to separate legitimate technical warnings from fear of change. In practice, he recommends decoupling early experimentation from performance reviews and giving hesitant employees private, low-stakes spaces to learn.]]></description>
+      <dc:creator>Sean Maday</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Human-Centric AI: Why IIoT Systems Should Help People, Not Replace Them</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/23/human-centric-ai-why-iiot-systems-should-help-people-not-replace-them/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/23/human-centric-ai-why-iiot-systems-should-help-people-not-replace-them/</guid>
+      <description><![CDATA[Sivense founder Illia Smoliienko recalls a maintenance crew deliberately damaging industrial IoT sensors they saw as a threat to their jobs, and argues AI for industrial analytics should support human judgment rather than replace it. Using bearings as an example, he notes that defect types, operating contexts and bearing variants produce over a million training combinations no dataset covers, so specialists are needed to tell real faults from normal machine behavior. He calls for explainable systems instead of a "black box," interfaces tailored to each role, and active learning that feeds experts' confirmations and rejections back into the model.]]></description>
+      <dc:creator>Illia Smoliienko</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 06:30:00 -0600</pubDate>
+    </item>
     <item>
       <title>The Real Disruption In Mobility Isn't Technology—It's Everything Else</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/the-real-disruption-in-mobility-isnt-technology-its-everything-else/</link>
