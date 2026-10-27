@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:51:24 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:23:40 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Ciena’s Board Opts for Patience Amid Tech Upheavals</title>
+      <link>https://www.wsj.com/cio-journal/cienas-board-opts-for-patience-amid-tech-upheavals-f8d5aa6e</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/cienas-board-opts-for-patience-amid-tech-upheavals-f8d5aa6e</guid>
+      <description><![CDATA[The Morning Download profiles Ciena CEO Gary Smith, who credits a board led by independent chair Lawton W. Fitt with supporting long-term investment through both the telecom bust and the AI boom, after Ciena ranked fifth on the WSJ Leadership Institute's Best Boards 2026. Smith urged leaders to "play for the long term," keep businesses simple and focused, and invest in collaborative teams, and described the CrossFit, meditation and photography habits he uses to stay resilient. The newsletter also previews a week of big tech earnings, citing an Apollo Global Management analysis that found "zero payoff" from AI investment outside the tech sector.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 06:44:00 -0600</pubDate>
+    </item>
     <item>
       <title>The Best Boards in America Are Helping Drive AI Strategy</title>
       <link>https://www.wsj.com/cio-journal/the-best-boards-in-america-are-helping-drive-ai-strategy-5f020646</link>
@@ -81,14 +89,6 @@
       <description><![CDATA[The Morning Download leads with Bloomberg CEO Vlad Kliatchko, whose company has opened its ASKB conversational AI interface to all Terminal users and who says "it's premature to focus on the ROI" of an aggressive AI investment. Kliatchko added that AI has vindicated Bloomberg's spending on journalism, since original news is now one of its most valuable assets. The newsletter also covers a tech stock selloff led by CoreWeave and rising concern about AI companies' trade secrets, including OpenAI's filing accusing a former employee who returned to Apple of taking confidential device files.]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Thu, 15 Oct 2026 07:12:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI Fuels M&amp;A Machine</title>
-      <link>https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04</guid>
-      <description><![CDATA[With IPOs stalled despite $515.8 billion in U.S. venture dealmaking through the third quarter, Steven Rosenbush writes that "The M&A door is open" for AI startups. His examples include Amazon's talks to buy Decart for about $7 billion, Nvidia's early talks to deepen its investment in Reflection AI and IonQ's all-stock deal for cybersecurity firm Elisity, valued at up to $1.3 billion. The newsletter also cites Apollo economist Torsten Slok's view that AI's productivity payoff "remains a forecast rather than an observation."]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Mon, 12 Oct 2026 06:39:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
