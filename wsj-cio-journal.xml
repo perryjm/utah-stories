@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:23:40 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:09:15 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Anthropic Says Enterprise AI Adoption Remains in ‘Early Phases’</title>
+      <link>https://www.wsj.com/cio-journal/anthropic-says-enterprise-ai-adoption-remains-in-early-phases-d3e93c47</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/anthropic-says-enterprise-ai-adoption-remains-in-early-phases-d3e93c47</guid>
+      <description><![CDATA[In this Morning Download, Steven Rosenbush reads Anthropic's roughly 400-page S-1 as evidence that AI is paying off inside individual companies, citing a case study in which orders placed with Walmart's Sparky assistant, built using Anthropic models, are 35% higher in value, even as Apollo's Torsten Slok finds little macroeconomic payoff outside big tech. Anthropic itself says "enterprises are still in early phases of deployment," and Rosenbush argues its biggest challenge is the go-to-market side, including partnerships and Ode, an AI services company launched with Blackstone and Hellman & Friedman. The newsletter also notes the prospectus shows first-half revenue of $16.3 billion, up from $1.2 billion, an $80.7 billion net loss tied largely to an accounting adjustment, and more than $475 billion in compute commitments ahead of a listing under the ticker ANT.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 07:24:00 -0600</pubDate>
+    </item>
     <item>
       <title>Ciena’s Board Opts for Patience Amid Tech Upheavals</title>
       <link>https://www.wsj.com/cio-journal/cienas-board-opts-for-patience-amid-tech-upheavals-f8d5aa6e</link>

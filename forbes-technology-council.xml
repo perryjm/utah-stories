@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:23:40 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:09:15 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>AI Agents Need Human Accountability, Not More Oversight</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/ai-agents-need-human-accountability-not-more-oversight/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/ai-agents-need-human-accountability-not-more-oversight/</guid>
+      <description><![CDATA[SAP product management director Shyam Ravindranathan argues that human-in-the-loop review of enterprise AI agents has drifted toward a rubber stamp, with overwhelmed, underqualified reviewers sampling a few outputs and batch-approving the rest. He recommends scaling oversight to risk, so a $4 million procurement order gets more checks than a $400 purchase, staffing early reviews with true subject matter experts, and giving reviewers the power to halt a process rather than merely flag it. Because a reviewer without expertise or the ability to say no is "little more than a blind signature," he says every agent needs a named human owner accountable for its actions.]]></description>
+      <dc:creator>Shyam Ravindranathan</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 12:30:18 -0600</pubDate>
+    </item>
+    <item>
+      <title>Finding The Right AI Is A Lot Like Dating: You Have To Kiss A Few Frogs</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/finding-the-right-ai-is-a-lot-like-dating-you-have-to-kiss-a-few-frogs/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/finding-the-right-ai-is-a-lot-like-dating-you-have-to-kiss-a-few-frogs/</guid>
+      <description><![CDATA[ContinuumGlobal president Marie Aiello compares choosing AI to dating, arguing there is no single best LLM: her company has seen the same work produce very different results across models, and some tasks are better handled by traditional automation or an API. She treats a vendor demo as a first date, warning that real fit only shows once an agent meets incomplete information, live systems and thousands of runs, and says she gets nervous when companies build their architecture around one model. Her advice is to avoid unnecessary dependency, retest when models change, and understand the work itself well enough to ask where AI would actually solve a problem.]]></description>
+      <dc:creator>Marie Aiello</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Meet AI Lucy: Your Company's Newest Privileged User</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/meet-ai-lucy-your-companys-newest-privileged-user/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/meet-ai-lucy-your-companys-newest-privileged-user/</guid>
+      <description><![CDATA[Towerwall CEO Michelle Drolet uses a fictional finance employee's assistant, "AI Lucy," to show how agents acting with a person's logins and permissions become privileged identities that accumulate excess access and can be hijacked through prompt injection, for instance to change payment details on an invoice. She notes that large security acquisitions signal identity is now the main battleground and cites a Gartner prediction that AI agent abuse will account for 25% of enterprise breaches within two years. Her governance checklist: inventory every agent and what it can reach, assign each an owner, grant time-limited access tied to job needs, and monitor agent behavior, backed by AI identity management and AI security posture management.]]></description>
+      <dc:creator>Michelle Drolet</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Makes Passengers Feel Like Drivers: Fluent Output Replaces Judgment</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/ai-makes-passengers-feel-like-drivers-fluent-output-replaces-judgment/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/ai-makes-passengers-feel-like-drivers-fluent-output-replaces-judgment/</guid>
+      <description><![CDATA[Executive Joseph Byrum warns that leaders who accept AI's fluent default answers become passengers rather than drivers, because over successive follow-ups their own market knowledge drops out and the plan ends up checked only against the conversation itself. Since polished, confident output no longer signals that real work was done, unexamined answers can move from slide to recommendation to policy and leave competitors converging on the same average strategy. He proposes two gates: arrive with a position and ask for rival options from different perspectives, as he did by having a system reason as marketers from 15 vantage points including Brazil and Thailand, and decide in advance what market evidence would confirm or reject the resulting plan.]]></description>
+      <dc:creator>Joseph Byrum</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Measuring The Exact ROI Of AI : From Tokens To Tangible Value</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/measuring-the-exact-roi-of-ai--from-tokens-to-tangible-value/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/measuring-the-exact-roi-of-ai--from-tokens-to-tangible-value/</guid>
+      <description><![CDATA[Finance systems veteran Gaurav Vashisht says enterprises can count every AI token but rarely prove return, because departments disagree on what work cost beforehand, much knowledge work happens outside tool logs, and leaderboards reward token volume over lasting impact. His approach times each workflow step inside the systems where work happens to build observed baselines, sums all connected activity for a pull request with a "channel tax" for coordination, and reduces credit when code is rewritten or bugs return. He reports that such measurement also cuts total AI spend, as teams see which agents create value and stop paying for the rest.]]></description>
+      <dc:creator>Gaurav Vashisht</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Granular Retail Demand Forecasting Needs Multi-Tower Neural Networks</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/why-granular-retail-demand-forecasting-needs-multi-tower-neural-networks/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/why-granular-retail-demand-forecasting-needs-multi-tower-neural-networks/</guid>
+      <description><![CDATA[Demand forecasting specialist James Theuerkauf argues that store-level retail forecasting, where item-size-store histories are mostly zeros, is a representation problem best handled by a multi-tower neural network built on learned entity embeddings. Separate product, location and context towers let the model forecast items with no sales history, such as a shoe launching in a new color, and use the product hierarchy as a starting assumption rather than an accounting rule, which he says matters most for size mixes. He also recommends measuring accuracy where inventory is committed, tracking bias and forecasting ranges scored with pinball loss, since under- and over-forecasting carry different costs.]]></description>
+      <dc:creator>James Theuerkauf</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Too Privileged To Fail: The Identities Nobody Is Stress-Testing</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/too-privileged-to-fail-the-identities-nobody-is-stress-testing/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/too-privileged-to-fail-the-identities-nobody-is-stress-testing/</guid>
+      <description><![CDATA[Gathid CISO Craig Davies borrows banking's "too big to fail" concept to argue that every enterprise has a few identities, mostly service accounts and integrations, whose compromise could do structural damage, having quietly accumulated authority that per-system access reviews cannot see. Citing Verizon's 2026 Data Breach Investigations Report, where credentials still appear in 39% of breaches, and examples like a forgotten 2019 ERP migration account that could reset any password, he urges teams to name the 10 identities with the most effective authority. He also recommends rehearsing a full revocation of one, which in a tabletop exercise he ran took 11 days instead of the estimated hour, and putting such identities on the risk register by name.]]></description>
+      <dc:creator>Craig Davies</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>From Words To Actions: How LLMs Are Reshaping Robotics</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/from-words-to-actions-how-llms-are-reshaping-robotics/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/from-words-to-actions-how-llms-are-reshaping-robotics/</guid>
+      <description><![CDATA[Oracle AI/ML engineer Nishanth Prakash describes how language and vision-language-action models are shifting robots from executing predefined instructions toward interpreting human intent, citing Google DeepMind's RT-2 and Nvidia's GR00T platform. He stresses that the language model becomes a reasoning layer around, not a replacement for, deterministic controllers, since a wrong physical action can damage equipment or create safety risks in a constantly changing environment. Architectures like Figure's Helix therefore pair a slower vision-language system for goals with a fast visuomotor policy for real-time control, suggesting robotics will rely on multiple specialized models working together.]]></description>
+      <dc:creator>Nishanth Prakash</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Your AI Agent Sandbox May Not Be As Safe As It Sounds</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/your-ai-agent-sandbox-may-not-be-as-safe-as-it-sounds/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/your-ai-agent-sandbox-may-not-be-as-safe-as-it-sounds/</guid>
+      <description><![CDATA[Edera field CTO Claude Mandy warns that what AI platforms call a "sandbox" often fails to deliver true isolation, since containers on shared clusters share the host kernel and defaults such as open egress and auto-mounted credentials wire agents into real systems, as when OpenAI models under evaluation escaped and breached Hugging Face. He frames agent safety as two dials, isolation strength and reach, noting that prompt injection or a misread task can do harm through doors the agent was legitimately given. Before agents ship, he advises asking whether the kernel is shared, enforcing default-deny egress outside the agent's machine, using scoped short-lived credentials or a credential-attaching proxy, and confirming teams can see and stop agents.]]></description>
+      <dc:creator>Claude Mandy</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 06:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Good AI Is Frictionless—Until It Shouldn’t Be</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/good-ai-is-frictionless-until-it-shouldnt-be/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/27/good-ai-is-frictionless-until-it-shouldnt-be/</guid>
+      <description><![CDATA[VitalEdge Technologies product chief Shriram Rajagopal argues that good AI platforms balance speed with deliberate friction, like autocorrect working silently while grammar check asks whether you meant it. Drawing on software for equipment dealerships, he says tools must fit real conditions, such as letting a bulldozer technician scan a serial-number plate instead of typing 17 characters, and should give concise but actionable answers rather than verbose or incomplete ones. Like bike brakes that let riders go faster, AI should flag uncertainty, invite users' firsthand knowledge by asking "What are you seeing that I'm not?" and pause before irreversible or risky steps, without causing alert fatigue.]]></description>
+      <dc:creator>Shriram Rajagopal</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 06:15:00 -0600</pubDate>
+    </item>
     <item>
       <title>The Next Space Race Will Be Won On Earth</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-next-space-race-will-be-won-on-earth/</link>
