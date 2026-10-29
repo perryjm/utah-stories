@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:09:15 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:17:02 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Oracle Creates AI Workspace on ChatGPT</title>
+      <link>https://www.wsj.com/cio-journal/oracle-creates-ai-workspace-on-chatgpt-30d37410</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/oracle-creates-ai-workspace-on-chatgpt-30d37410</guid>
+      <description><![CDATA[In this Morning Download, Belle Lin reports that Oracle has launched Oracle AI Workspace, a single ChatGPT entry point that draws on its connected applications and data, which Oracle Cloud Infrastructure's Karan Batta called "OpenAI's coming out party to be enterprise-ready." The companies are also co-engineering Oracle AI Security Mesh, a managed vulnerability service, as OpenAI CEO Sam Altman said at the same conference that he was shocked by how many flaws AI systems are finding. Oracle also said it will be the first major cloud outside Google to offer Google TPUs and will add Cerebras chips in 2027, as Nasdaq futures rose ahead of Microsoft and Alphabet earnings.]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
     <item>
       <title>Anthropic Says Enterprise AI Adoption Remains in ‘Early Phases’</title>
       <link>https://www.wsj.com/cio-journal/anthropic-says-enterprise-ai-adoption-remains-in-early-phases-d3e93c47</link>

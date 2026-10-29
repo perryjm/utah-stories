@@ -6,10 +6,26 @@
     <atom:link href="https://www.deseret.com/faith/" rel="self" type="application/rss+xml"/>
     <description>Faith news and stories from Deseret News</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:09:15 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:17:02 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>A bus, a phone and one’s choice — ‘course correction’ possible</title>
+      <link>https://www.deseret.com/faith/2026/10/28/church-news-elder-patrick-kearon-on-cellphone-social-media-use-ensign-college-devotional/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/28/church-news-elder-patrick-kearon-on-cellphone-social-media-use-ensign-college-devotional/</guid>
+      <description><![CDATA[Elder Patrick Kearon of the Quorum of the Twelve Apostles left it to Ensign College students to draw up their own plans for course-correcting their phone and social media habits, telling them at an Oct. 27 devotional in Salt Lake City, "You know what it has done or is doing for you."]]></description>
+      <dc:creator>Church News</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 15:57:34 -0600</pubDate>
+    </item>
+    <item>
+      <title>Bishops’ prayer over Trump raises a hard question</title>
+      <link>https://www.deseret.com/faith/2026/10/28/catholic-bishops-prayer-trump/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/28/catholic-bishops-prayer-trump/</guid>
+      <description><![CDATA[A White House video of 12 Catholic bishops laying hands on President Trump in prayer in the Oval Office, during what they thought was a private meeting on immigration enforcement, religious freedom and education, turned the moment into a political flashpoint less than two weeks before the midterms. Several bishops said they regretted how it was presented, with Archbishop Jeffrey Grob apologizing and Des Moines Bishop William Joensen saying many administration policies are "blatantly at odds with our Catholic faith." Manzhos argues that a public prayer cannot be separated from its setting, and pairs the episode with Pew data showing white evangelicals and, more narrowly, white Catholics as the only religious groups leaning Republican as Trump's approval sits near 30%.]]></description>
+      <dc:creator>Mariya Manzhos</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 04:00:24 -0600</pubDate>
+    </item>
     <item>
       <title>Episode 318: President Dallin H. Oaks and Sister Kristen M. Oaks discuss family and faith</title>
       <link>https://www.deseret.com/faith/2026/10/27/church-news-episode-318-president-dallin-h-oaks-kristen-oaks-family-faith/</link>
@@ -337,14 +353,6 @@
       <description><![CDATA[Milwaukee Brewers rookie shortstop Cooper Pratt, a Latter-day Saint who doesn't drink alcohol, celebrated the team's NL Division Series win over San Diego with orange soda when the usual sparkling cider was forgotten, and the moment opened conversations about his faith. The Church News profile covers his testimony, family and path to the majors. The Deseret News page is a short excerpt, and the full story is on TheChurchNews.com.]]></description>
       <dc:creator>Church News</dc:creator>
       <pubDate>Wed, 14 Oct 2026 19:20:41 -0600</pubDate>
-    </item>
-    <item>
-      <title>Latter-day Saint First Presidency issues statement on Pope Leo’s cancer diagnosis</title>
-      <link>https://www.deseret.com/faith/2026/10/14/church-of-jesus-christ-presidency-on-pope-leo-lung-cancer/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/14/church-of-jesus-christ-presidency-on-pope-leo-lung-cancer/</guid>
-      <description><![CDATA[The First Presidency of The Church of Jesus Christ of Latter-day Saints issued a statement of concern and prayer for Pope Leo XIV after surgery to remove the lower lobe of his right lung, where cancer was found. President Dallin H. Oaks and his counselors wished him "comfort, strength, and a swift recovery," and the Vatican reported that he was walking and eating normally. The story notes the church also sent the pope a message of goodwill at his May 2025 inauguration.]]></description>
-      <dc:creator>Ariel Harmer</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 16:03:34 -0600</pubDate>
     </item>
   </channel>
 </rss>

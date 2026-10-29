@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:09:15 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:17:02 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>What Truly High-Performing Tech Teams Have In Common</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/what-truly-high-performing-tech-teams-have-in-common/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/what-truly-high-performing-tech-teams-have-in-common/</guid>
+      <description><![CDATA[Members of Forbes Technology Council describe what separates a high-performing tech team from one that is merely busy, arguing that ticket counts and shipped features are poor measures of real impact. Contributors point to engineers who stay close to customers and own outcomes, leaders who match people to problems based on their distinct strengths, and teams willing to hand off work they once owned when past success becomes a constraint. Others stress alignment on a shared goal over individual KPIs, with one summarizing, "Activity creates output; shared clarity creates outcomes."]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 11:15:04 -0600</pubDate>
+    </item>
+    <item>
+      <title>Enterprise AI Has A Production Problem</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/enterprise-ai-has-a-production-problem/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/enterprise-ai-has-a-production-problem/</guid>
+      <description><![CDATA[BMC Software's Abhijit Kakhandiki argues that enterprises aren't failing to build AI but to run it, citing a CIO whose teams built more than 200 models with fewer than 10 in production. He traces the stall to projects that begin with tools rather than a business KPI, governance treated as a later add-on even though decisions such as a loan denial must be explainable, and pilots that never integrate into the workflows the business already depends on. He writes that companies wrongly treat AI as a technology problem "when it's an operational one," and that those reaching production define success in cost or cycle-time terms before choosing tools.]]></description>
+      <dc:creator>Abhijit Kakhandiki</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Silent Failure In Enterprise Data: When Systems Stay Up But Meaning Breaks</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/the-silent-failure-in-enterprise-data-when-systems-stay-up-but-meaning-breaks/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/the-silent-failure-in-enterprise-data-when-systems-stay-up-but-meaning-breaks/</guid>
+      <description><![CDATA[Gopichand Mannava, chief data and AI architect for the State of Connecticut, warns that the most damaging data failures often occur while every pipeline and dashboard looks healthy, because a source system has quietly changed what a field means. Drawing on grants reporting, where agencies define stages like "obligated" and "expended" differently, and on overtime analytics, he shows how definition changes produce inconsistent figures without triggering any error. He argues that reliability must cover meaning as well as uptime, with explicit agreements on definitions, ownership and how changes are communicated across critical data exchanges.]]></description>
+      <dc:creator>Gopichand Mannava</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Makes Coding Faster, But Who Is Responsible For What It Produces?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/ai-makes-coding-faster-but-who-is-responsible-for-what-it-produces/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/ai-makes-coding-faster-but-who-is-responsible-for-what-it-produces/</guid>
+      <description><![CDATA[XData Group CEO Roman Eloshvili argues that AI has made writing code easy but not shipping reliable software, because generated code that works in isolation can still be wrong for the surrounding architecture, such as duplicating existing functionality. He urges that testing not be AI-generated alongside the code and that reviews be independent, for example using a second model, noting Veracode research that about 44% of AI code-generation tasks produced code with a known vulnerability. Rather than flooding models with context, he recommends a compact, maintained knowledge base covering business logic, architecture and roadmap.]]></description>
+      <dc:creator>Roman Eloshvili</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Washington Treats AI As A Public Safety Issue, Your Board Should Too</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/washington-treats-ai-as-a-public-safety-issue-your-board-should-too/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/washington-treats-ai-as-a-public-safety-issue-your-board-should-too/</guid>
+      <description><![CDATA[Securin CEO Srinivas Mukkamala notes that the new White House AI accord and the appointment of an "AI czar" target companies that build AI, leaving oversight of deployed agents squarely with corporate boards, especially after incidents such as roughly 700 OpenAI test agents breaching Hugging Face systems. He proposes four questions for boards: which agents act for the company and who can shut them off, how a breach would be detected, whether vendor contracts require disclosure of model misbehavior, and whether a full account could reach a regulator within 72 hours. With 27 states passing 85 AI laws this year, he says any answer of "we'd have to check" should be treated as a no.]]></description>
+      <dc:creator>Srinivas Mukkamala</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why AI Belongs In The First Mile Of A Purchase, Not The Last</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/why-ai-belongs-in-the-first-mile-of-a-purchase-not-the-last/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/why-ai-belongs-in-the-first-mile-of-a-purchase-not-the-last/</guid>
+      <description><![CDATA[Openly CTO Matt Wielbut argues that AI should help insurance customers research and compare coverage, but that the final sale still belongs with licensed humans, noting independent agents placed 39.5% of U.S. personal lines premium in 2025 and that customers overwhelmingly prefer live calls to chatbots. Unlike the small, reversible purchases payment networks are building AI checkout for, a wrong homeowners policy can't be charged back and may only surface when a claim is denied. He warns of fraud such as synthetic identities and agents steered into unsuitable coverage, and says anyone automating a licensed step should first ask whose license covers it.]]></description>
+      <dc:creator>Matt Wielbut</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Leaders Are Warning Of Doom: Who Is Checking The Math?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/ai-leaders-are-warning-of-doom-who-is-checking-the-math/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/ai-leaders-are-warning-of-doom-who-is-checking-the-math/</guid>
+      <description><![CDATA[Wright State toxicologist Terry Oroszi applies the risk-assessment rule that "hazard is not risk" to recent extinction warnings from AI insiders, including a researcher's public resignation and Anthropic CEO Dario Amodei's call for a managed slowdown. She notes the warnings may be both sincere and self-serving, since alarm can invite licensing regimes that favor incumbents, and that RAND researchers have described extreme forecasts as resting on untestable assumptions. Her prescription is the one used for drugs and aviation: manufacturers should not perform the final assessment of their own products, so AI risk claims need independent audit and transparent methodology.]]></description>
+      <dc:creator>Terry Oroszi</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>A New Data Center Industry Playbook: Practical Guidance For Operators To Thrive In The AI Age</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/a-new-data-center-industry-playbook-practical-guidance-for-operators-to-thrive-in-the-ai-age/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/a-new-data-center-industry-playbook-practical-guidance-for-operators-to-thrive-in-the-ai-age/</guid>
+      <description><![CDATA[Schneider Electric's Steven Carlini argues that data center operators must "do better" in the AI era, starting with utilities wary of repeating the dot-com overbuild: that means dropping NDAs, requesting only power they will use and funding power projects directly. He points to operators bringing their own generation, mostly gas turbines now and fuel cells or nuclear later, sometimes oversized to supply nearby residents, and to designs that abandon evaporative cooling or use treated wastewater instead of potable supplies. He also recommends large batteries to capture curtailed wind and solar energy that would otherwise be wasted.]]></description>
+      <dc:creator>Steven Carlini</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>When There's No Steering Wheel, Who Is Responsible For The AI Agent?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/when-theres-no-steering-wheel-who-is-responsible-for-the-ai-agent/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/when-theres-no-steering-wheel-who-is-responsible-for-the-ai-agent/</guid>
+      <description><![CDATA[Cequence Security CTO Shreyans Mehta borrows from autonomous vehicles to assign responsibility for AI agents, arguing that human-in-the-loop approval collapses at machine speed and scale, leaving a person nominally at the wheel but "no longer steering." In his framing, the model maker is the automaker, the deploying enterprise is the fleet operator, and the employee who launched the agent is increasingly a passenger. He says recent lab incidents in which agents reached third-party systems should not be read as only the model makers' problem, because enterprises own the roads their credentialed agents run on and need lanes, guardrails and enforcement there.]]></description>
+      <dc:creator>Shreyans Mehta</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 06:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>What Cheaper AI Means For Business Leaders</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/what-cheaper-ai-means-for-business-leaders/</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/28/what-cheaper-ai-means-for-business-leaders/</guid>
+      <description><![CDATA[WLCM.AI CEO Lindsey Witmer Collins explains why falling average token prices rarely shrink a company's AI bill, noting the average can drop simply because buyers shift routine work to cheaper models while chip rental costs stay high. She says real cost depends on the effort setting, how much context the model rereads and how many tries it takes, with human checking time often the largest line, so a pricier model that gets it right first can come out ahead. Her advice is to test real workloads across model and effort combinations and keep the cheapest one that reliably clears the quality bar.]]></description>
+      <dc:creator>Lindsey Witmer Collins</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 06:15:00 -0600</pubDate>
+    </item>
     <item>
       <title>AI Agents Need Human Accountability, Not More Oversight</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/27/ai-agents-need-human-accountability-not-more-oversight/</link>
