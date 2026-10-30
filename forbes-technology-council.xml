@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 19:17:02 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:26:34 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>How To Prepare Your E-Commerce Site For Peak Holiday Traffic</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/how-to-prepare-your-e-commerce-site-for-peak-holiday-traffic</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/how-to-prepare-your-e-commerce-site-for-peak-holiday-traffic</guid>
+      <description><![CDATA[Members of Forbes Technology Council list technical fixes online retailers should make before the holiday rush, arguing that AI-assisted discovery, mobile shopping and social commerce strain storefronts in new ways. Several focus on AI readiness, such as auditing product feeds and standardizing product data so tools like Gemini and ChatGPT surface the right items and deals, load-testing the search systems AI agents query directly, and smoothing handoffs from AI to human support. Others stress fundamentals, including testing every dependency behind a purchase, letting nonessential features degrade gracefully to protect checkout, preventing duplicate orders on retries, offering digital wallets, and using risk-based verification against bot and deepfake fraud.]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 11:15:35 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Coding Agents Are Changing Testing. But What Do They Really Cost?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/ai-coding-agents-are-changing-testing-but-what-do-they-really-cost</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/ai-coding-agents-are-changing-testing-but-what-do-they-really-cost</guid>
+      <description><![CDATA[TestMu AI CEO Asad Khan describes a fintech CTO whose AI-driven test suite ran three times because no one trusted a single result, costing three engineers' mornings that never showed up on the invoice. He argues the problem is structural: when the same kind of intelligence writes both the code and its tests, the tests inherit its blind spots, producing triage overhead, invisible maintenance and eroding trust. Teams that succeed, he writes, use agents at authoring time to produce reviewable test code the team owns and keep a deterministic execution floor, because, as he puts it, "The cost is what your team stopped believing."]]></description>
+      <dc:creator>Asad Khan</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why The Next Competitive Advantage Lies Beneath The Interface</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/why-the-next-competitive-advantage-lies-beneath-the-interface</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/why-the-next-competitive-advantage-lies-beneath-the-interface</guid>
+      <description><![CDATA[IRALOGIX CTO Charlie Gautreaux argues that as personal AI agents take on tasks like consolidating three old 401(k)s, interfaces will shrink to a single approval screen, so financial products must be designed for software users with clean APIs, clear permissions and scoped, auditable authority. He proposes sorting each flow into work an agent can simply do, work a person confirms on one screen with deliberate friction, and human-only decisions such as beneficiary designations, and notes that ERISA's functional definition of a fiduciary raises the question of who owes that duty when an agent moves the money. As the experience layer loses value, he expects it to shift toward agent-ready systems of record and the institutions willing to stand behind them when an agent gets it wrong.]]></description>
+      <dc:creator>Charlie Gautreaux</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 08:00:34 -0600</pubDate>
+    </item>
+    <item>
+      <title>Blockchain: Beyond Digital Currency</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/blockchain-beyond-digital-currency</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/blockchain-beyond-digital-currency</guid>
+      <description><![CDATA[Cardano Foundation CEO Frederik Gregaard argues that blockchain should be understood as digital trust infrastructure rather than crypto, comparing the confusion to mistaking email for the internet. He points to Estonia's KSI Blockchain protecting public registers and J.P. Morgan's Kinexys, which reports more than $300 billion in tokenized repo transactions, and cites an OVHCloud finding that 52% of blockchain professionals see lack of understanding as the main barrier to enterprise adoption. With AI agents built on the same few models likely to act in unison, he suggests a shared, time-stamped ledger could help regulators spot correlated risk before a cascade like the 2010 Flash Crash, moving institutions "from trust to truth."]]></description>
+      <dc:creator>Frederik Gregaard</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Your AI Agent Can Approve Its Own Payments, But Who Signs For It?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/your-ai-agent-can-approve-its-own-payments-but-who-signs-for-it</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/your-ai-agent-can-approve-its-own-payments-but-who-signs-for-it</guid>
+      <description><![CDATA[TechBrain owner Keegan Crage warns that agentic AI could undo segregation of duties in finance if a payment agent runs under its builder's login, letting one credential both create and approve payments while the audit trail still looks legitimate. Citing AU$166.8 million lost to payment redirection scams in Australia in 2025 and guidance from Australia's Information Security Manual, COSO and NIST, he argues every agent needs its own registered identity with a named owner and business reason. Before a payment agent goes live, he writes, high-impact actions should be approved by someone independent of both the agent and the payment's setup, who can see what changed and has the authority to say no.]]></description>
+      <dc:creator>Keegan Crage</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Wireless Sensing Is Edge AI’s Next Act</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/why-wireless-sensing-is-edge-ais-next-act</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/why-wireless-sensing-is-edge-ais-next-act</guid>
+      <description><![CDATA[Rajesh Subramaniam, CEO of embedUR systems, argues that wireless sensing, which reads how bodies disturb the Wi-Fi, Bluetooth and other radio signals already passing between routers, hubs and switches, is edge AI's next step beyond cameras, which struggle in darkness and drain battery-powered devices. Low-power microcontrollers can now interpret those signals locally in real time, enabling occupancy-based energy savings, space-use analytics and after-hours security, while fall detection and breathing tracking remain mostly in research and niche products. He acknowledges false readings from pets or robot vacuums, interference and privacy concerns, but expects the technology in millions of devices within five years and predicts the smartest rooms may have no cameras at all.]]></description>
+      <dc:creator>Rajesh Subramaniam</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 07:30:52 -0600</pubDate>
+    </item>
+    <item>
+      <title>Post-Quantum Is A Migration Problem, Not A Math Problem</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/post-quantum-is-a-migration-problem-not-a-math-problem</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/post-quantum-is-a-migration-problem-not-a-math-problem</guid>
+      <description><![CDATA[Krishnaveni Palanivelu argues that with NIST having standardized post-quantum algorithms, defending against "harvest now, decrypt later" attacks is now a migration problem: finding where cryptography actually lives, from code-signing and old HSMs to payment-terminal firmware and vendor APIs. She urges organizations to start with a cryptographic inventory, move data that must stay secret longest first, and build crypto-agility by putting cryptography behind interfaces and using hybrid schemes so algorithms can be swapped through configuration rather than rewrites. Drawing on her experience tokenizing card credentials on a payments platform, she says vendors' cryptography belongs in questionnaires and contracts too, and that no system should be bound to a secret or algorithm it can't replace.]]></description>
+      <dc:creator>Krishnaveni Palanivelu</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Transforming With AI Requires More Than Tools: The Rise Of The Enterprise AI Operating Model</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/transforming-with-ai-requires-more-than-tools-the-rise-of-the-enterprise-ai-operating-model</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/transforming-with-ai-requires-more-than-tools-the-rise-of-the-enterprise-ai-operating-model</guid>
+      <description><![CDATA[Rootstack CEO Alejandro Oses argues that the challenge has shifted from which AI tools to buy to turning adoption into financial results, citing a 2026 McKinsey study in which 80% of respondents report individual productivity gains but only 37% attribute an EBIT impact to AI. The gap is organizational, he writes, so companies need an enterprise AI operating model with shared governance, data, architecture and value measurement rather than stand-alone departmental projects. His five steps run from defining business ambition and prioritizing use cases to governance, redesigning processes around AI and tying each initiative to business metrics, with the CEO deciding what to reinvent and what not to automate.]]></description>
+      <dc:creator>Alejandro Oses</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>When AI Can Act, Governance Has To Move Beyond The Model</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/when-ai-can-act-governance-has-to-move-beyond-the-model</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/when-ai-can-act-governance-has-to-move-beyond-the-model</guid>
+      <description><![CDATA[Vibhor Kumar recounts reviewing an AI workflow where every component looked healthy but a retry executed the same step twice, the kind of gap that could issue a refund twice, and argues that once AI can act, governance must cover a system's authority, not just model capability. He suggests leaders inventory what each AI system can access and do, trace the full path from intended to actual action using idempotent actions and explicit success states, and capture a point-in-time decision record, since later data can make a correct action look like a mistake. A less capable model wired into production systems may pose more risk than a stronger one confined to analysis, he writes, because while approval is periodic, "Authority is exercised continuously."]]></description>
+      <dc:creator>Vibhor Kumar</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Internet Of Compromised Things: Why Enterprises Should Trust No Endpoint</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/the-internet-of-compromised-things-why-enterprises-should-trust-no-endpoint</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/29/the-internet-of-compromised-things-why-enterprises-should-trust-no-endpoint</guid>
+      <description><![CDATA[MetTel's Max Silber argues that with IoT sensors, industrial controllers, smartphones and laptops connecting from everywhere, enterprises should assume any endpoint could be compromised and design networks so one breached device doesn't become a breached enterprise. He lays out three principles: segment devices by function and risk so a compromised endpoint has "nowhere useful to go," restrict traffic to what each device needs for its job, and monitor behavior so anomalies like a sensor suddenly sending hundreds of megabytes trigger automated blocking or quarantine. Traditional endpoint security still matters, he writes, but it is no longer enough when some devices go unpatched for years or forever.]]></description>
+      <dc:creator>Max Silber</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
     <item>
       <title>What Truly High-Performing Tech Teams Have In Common</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/28/what-truly-high-performing-tech-teams-have-in-common/</link>
