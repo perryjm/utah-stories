@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 19:26:34 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:32:32 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>The Hidden Risk In Automating Financial Models With AI</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-hidden-risk-in-automating-financial-models-with-ai</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-hidden-risk-in-automating-financial-models-with-ai</guid>
+      <description><![CDATA[Aritra Pal, who builds machine learning and risk models for regulated banks, argues the failure to fear in automated financial modeling isn't a wrong number but "a model still running smoothly after everyone who understood it has left," recalling a sound model pulled from production because nobody could explain an undocumented first-week design choice. He says leaders should ask where the data comes from rather than which algorithm is used, since stitching together legacy systems with undocumented quirks is the real work and automation lets bad inputs reach decisions faster. His remedies include recording decisions as they're made, writing explainability into the design from day one, planning drift monitoring ahead of time, and sometimes choosing a simpler model a validator can follow.]]></description>
+      <dc:creator>Aritra Pal</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 08:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Change Management For Agentic Data Modernization</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/change-management-for-agentic-data-modernization</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/change-management-for-agentic-data-modernization</guid>
+      <description><![CDATA[Onix's Gaurav Aggarwal argues that agentic AI turns data modernization into a change-management problem, citing a McKinsey finding that nearly two-thirds of companies had piloted agents but fewer than 10% got value at scale. Using the ADKAR model, he recommends explaining how employees' days will change, bringing frontline experts into setting an agent's boundaries, having agents propose actions before acting, and matching oversight to each action's consequences rather than demanding approvals that cause consent fatigue. In one invoice project, he found finance staff still checking spreadsheets because they were catching exceptions the automation missed, a lesson that manual work can hold business knowledge.]]></description>
+      <dc:creator>Gaurav Aggarwal</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Next Data Center Bottleneck Is Decision Intelligence At Speed</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed</guid>
+      <description><![CDATA[Jayashree Arunkumar argues the AI data center buildout is constrained less by chips or power than by how quickly operators can coordinate decisions across construction, procurement, finance and operations, as GPU racks climb to 100-120 kW and transformers face long lead times. In an illustrative case, agents working in parallel find an idle high-voltage transformer at a permit-delayed Arizona site, weigh whether rerouting it to a Texas project creates more value than risk, and route the capital transfer to a financial controller for approval before booking the ledger entries. She says the approach is only trustworthy with deterministic guardrails, approval thresholds, regional data boundaries and clear accountability for high-impact decisions.]]></description>
+      <dc:creator>Jayashree Arunkumar</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 07:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Your Compliance Vendor Might Be Your Biggest Security Risk</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-your-compliance-vendor-might-be-your-biggest-security-risk</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-your-compliance-vendor-might-be-your-biggest-security-risk</guid>
+      <description><![CDATA[Casey Carlton of Treeline uses an unproven, denied whistleblower allegation that a compliance startup mass-produced SOC 2 reports from templated evidence to argue that automation has turned SOC 2 from security assurance into a sales asset. Because platforms, auditors and buyers each optimize for speed, throughput or convenience, he writes, "the how is the product," and buyers should ask whether they can choose their own auditor, how insufficient evidence is handled, and what a vendor contractually guarantees. Companies caught with questionable reports may have made customer representations they can't back up, and several of the startup's customers had to recertify.]]></description>
+      <dc:creator>Casey Carlton</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Generative AI Demands A Reimagined Data Center</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/generative-ai-demands-a-reimagined-data-center</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/generative-ai-demands-a-reimagined-data-center</guid>
+      <description><![CDATA[Xin Guo argues that with bot and agent traffic overtaking human traffic, AI capability now depends on data infrastructure, noting that a single chat prompt can generate gigabytes of context cache that, if it can't be stored and served promptly, leads to truncated answers, wasted recomputation or hallucination. Multimodal and physical AI multiply the volumes, so data centers should be designed as one continuous memory pool tiered from HBM through fast and high-capacity SSDs to archive, with high-capacity storage now a key choke point that shapes token throughput and return on capital. He warns against locking in rigid designs based on today's workloads in favor of standardized, flexible infrastructure that can scale.]]></description>
+      <dc:creator>Xin Guo</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 07:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why The Biggest Risk In Enterprise AI Isn’t The Technology; It’s Waiting To Get Ready</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-the-biggest-risk-in-enterprise-ai-isnt-the-technology-its-waiting-to-get-ready</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-the-biggest-risk-in-enterprise-ai-isnt-the-technology-its-waiting-to-get-ready</guid>
+      <description><![CDATA[Todd Bernson, chief AI officer at BSC Analytics, argues enterprises can wait on any particular AI model but not on building the data access, integrations, governance and skills needed to use one, comparing today's hesitation to firms that lagged on cloud and now carry monoliths that resist AI. He says the hardest work is organizational, getting siloed teams to agree on access and responsibilities, and that showing what AI can do "is not a business case." His advice is to start from the highest-impact business problem, measure the current process, set targets and an owner, and make each deployment leave something reusable behind.]]></description>
+      <dc:creator>Todd Bernson</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 07:15:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>The Decade Of Dashboards Is Over: Executives Need Adaptive AI Plus Decision Intelligence</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-decade-of-dashboards-is-over-executives-need-adaptive-ai-plus-decision-intelligence</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-decade-of-dashboards-is-over-executives-need-adaptive-ai-plus-decision-intelligence</guid>
+      <description><![CDATA[Greg Genung, founder of Snowfire AI, argues that missed forecasts often trace not to missing data but to signals like support spikes or a disengaged champion that sat in separate systems and never reached the decision. Dashboards give "a static answer to a question someone asked months ago," he writes, so rather than replacing CRM, ERP and BI investments, companies should add an adaptive layer that reasons across them and updates a call, such as discounting a deal and then restoring confidence, as conditions change. He recommends starting with the handful of decisions that most move the quarter, naming owners and the systems that hold the evidence for each.]]></description>
+      <dc:creator>Greg Genung</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>20 Years Of Cybersecurity, One New Recovery Challenge</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/20-years-of-cybersecurity-one-new-recovery-challenge</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/20-years-of-cybersecurity-one-new-recovery-challenge</guid>
+      <description><![CDATA[Veeam's Rick Vanover traces how cyber recovery has evolved over 20 years from tape retrieval after hardware failures to an assumption that attacks will happen, and argues agentic AI adds a new risk: authorized systems making unintended changes at machine speed. If an agent wrongly alters thousands of customer records, rolling back to an earlier point could also erase legitimate later changes, so teams need to know what each agent can access and change and be able to reverse only its bad actions. He urges least-privilege access for agents, extra scrutiny for high-impact actions, and recovery drills tested against agent-caused incidents before one occurs.]]></description>
+      <dc:creator>Rick Vanover</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 06:45:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Building A Company That Can Thrive Without You</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/building-a-company-that-can-thrive-without-you</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/building-a-company-that-can-thrive-without-you</guid>
+      <description><![CDATA[Steve Murphy, who announced in summer 2026 he would step down after nine years as Epicor's CEO, argues succession planning should begin years ahead, and says he began in earnest four or five years ago while requiring every direct report to have a plan too. He describes giving a whiplashed company a stable long-term plan, including a cloud re-architecture that took three years instead of the expected 18 months, and favoring internal promotion, with insider Vaibhav Vohra succeeding him. Among his lessons are micromanaging less, making it safe to deliver bad news, and, once on the board, giving the new CEO room to make different decisions.]]></description>
+      <dc:creator>Steve Murphy</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 06:30:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>AI Forces Organizations To A Higher Security Testing Maturity</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/ai-forces-organizations-to-a-higher-security-testing-maturity</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/ai-forces-organizations-to-a-higher-security-testing-maturity</guid>
+      <description><![CDATA[Fortra's Rohit Dhamankar argues that AI has shrunk the window between vulnerability disclosure and exploitation to minutes and lets attackers automatically chain individually minor flaws, as in a CISA-FBI advisory on Ivanti appliances where four moderate issues added up to full compromise. He says the response differs by organization, with non-developers prioritizing asset visibility and fast patching while software makers should expect an initial "barrage" of AI-found bugs and focus on prioritization. AI can exhaustively find known vulnerability classes, but discovering a new technique still takes a human, so he urges continuous red teaming instead of twice-yearly compliance pentests.]]></description>
+      <dc:creator>Rohit Dhamankar</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 06:15:00 -0600</pubDate>
+    </item>
     <item>
       <title>How To Prepare Your E-Commerce Site For Peak Holiday Traffic</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/29/how-to-prepare-your-e-commerce-site-for-peak-holiday-traffic</link>

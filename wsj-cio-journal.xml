@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 19:26:34 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:32:32 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Enterprise AI Is on the Ballot Too</title>
+      <link>https://www.wsj.com/cio-journal/enterprise-ai-is-on-the-ballot-too-36cdf06d</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/enterprise-ai-is-on-the-ballot-too-36cdf06d</guid>
+      <description><![CDATA[In this Morning Download, Isabelle Bousquette argues that midterm-season tech policy fights could reach CIOs' AI plans even if aimed at frontier developers, citing Cato Institute fellow Jennifer Huddleston's warning that rules meant for AI companies "are going to impact an array of industries," from chatbot age verification to a state-by-state legal patchwork. Guardrails Alliance director Shaunna Thomas adds that labor proposals and voter appetite for job guarantees could shape how companies pair AI agents with human workers. The newsletter also notes that cloud revenue grew strongly amid a week of tech earnings selloffs, and that Mistral released its open-weight Mistral Large 4, which it pitches for coding and cybersecurity.]]></description>
+      <dc:creator>Isabelle Bousquette</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 07:09:00 -0600</pubDate>
+    </item>
     <item>
       <title>AI Is Almost the Easy Part. Everything Else Is Hard</title>
       <link>https://www.wsj.com/cio-journal/ai-is-almost-the-easy-part-everything-else-is-hard-556c9204</link>
@@ -97,14 +105,6 @@
       <description><![CDATA[Tel Aviv startup doubleAI, co-founded by Mobileye's Amnon Shashua and backed by Nvidia, Dell and others with $220 million raised, is launching what it calls "code execution models" that sit inside running programs and make GPU and CPU code run more efficiently without human involvement. Its first model, Maxwell, cut one early customer's compute costs by 67%, and the roughly 40-person company plans to charge a share of what customers save. Shashua expects the biggest gains for AI labs with huge training and inference bills, and the startup spent about half its funding on 1,000 Nvidia B300 chips because "you cannot rely just on renting compute."]]></description>
       <dc:creator>Belle Lin</dc:creator>
       <pubDate>Mon, 19 Oct 2026 06:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Nvidia, Meta and Apple Unveil New Open Models</title>
-      <link>https://www.wsj.com/cio-journal/nvidia-meta-and-apple-unveil-new-open-models-501d4173</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-meta-and-apple-unveil-new-open-models-501d4173</guid>
-      <description><![CDATA[The Morning Download reports that Nvidia released three new open models in its Nemotron family on Thursday, including Nemotron 3.5 Super VL for always-on AI agents, which can also handle images and video, while Meta announced a new open-weight model it will run locally on high-end Macs with Apple. Nvidia's Kari Briski said demand is rising because the models are U.S.-made with inspectable data, and companies including Atlassian, CrowdStrike and Salesforce have customized them with their own data. Briski called the releases "a message to developers and our partners and enterprises that they can depend on us."]]></description>
-      <dc:creator>Belle Lin</dc:creator>
-      <pubDate>Fri, 16 Oct 2026 05:52:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
