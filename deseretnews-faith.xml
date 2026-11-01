@@ -6,10 +6,18 @@
     <atom:link href="https://www.deseret.com/faith/" rel="self" type="application/rss+xml"/>
     <description>Faith news and stories from Deseret News</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:32:32 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:41:04 -0600</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>New ebook tells the story of Joseph Smith’s faith and financial sacrifice</title>
+      <link>https://www.deseret.com/faith/2026/10/31/joseph-smith-papers-ebook-explores-the-prophets-financial-records/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/31/joseph-smith-papers-ebook-explores-the-prophets-financial-records/</guid>
+      <description><![CDATA[The Church Historian's Press has released a Joseph Smith Papers ebook that draws on more than seven years of editing and nearly 2,000 financial documents, from store ledgers to promissory notes, to explain how the prophet financed the early Church of Jesus Christ of Latter-day Saints. Volume editor Sharalyn D. Howcroft said debt was unavoidable in a nation with no central bank or uniform currency, and that without it "there would be no temple," with Joseph Smith personally shouldering obligations so even the poorest Saints had a place to live. She also pointed to the Book of the Law of the Lord, a Nauvoo Temple donation record listing thousands of ordinary members, as evidence of "the sacrifice of the average member."]]></description>
+      <dc:creator>Amy Ortiz</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 04:00:18 -0600</pubDate>
+    </item>
     <item>
       <title>Church donates and distributes 200,000 fruit trees throughout Kenya</title>
       <link>https://www.deseret.com/faith/2026/10/30/church-donates-and-distributes-200000-fruit-trees-throughout-kenya/</link>
@@ -297,30 +305,6 @@
       <description><![CDATA[Speaking at the G20 Interfaith Forum in Salt Lake City, Elder Gerrit W. Gong of the Quorum of the Twelve Apostles proposed a moral-reasoning benchmark he calls "Humanity's First Exam" as a counterpart to the deductive Humanity's Last Exam, warning that "the gap between AI reasoning and AI moral compass is widening." He pointed to the July swarm of rogue AI agents that breached Hugging Face and to lingering religious bias in AI answers about faith. Elder Gong described a consortium of six faith-based universities, including BYU, Baylor and Notre Dame, building faith-related benchmarks, and repeated that "AI cannot create God."]]></description>
       <dc:creator>Tad Walch</dc:creator>
       <pubDate>Sat, 17 Oct 2026 20:46:09 -0600</pubDate>
-    </item>
-    <item>
-      <title>How the Lord is hastening His work with Latter-day Saints, missionaries and temples</title>
-      <link>https://www.deseret.com/faith/2026/10/17/church-news-lord-is-hastening-his-work-latter-day-saints-missionaries-temples/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/17/church-news-lord-is-hastening-his-work-latter-day-saints-missionaries-temples/</guid>
-      <description><![CDATA[A Church News feature from the Deseret News magazine on missionary work presents record convert baptisms, a growing missionary force and wider temple access as fulfillment of the scriptural promise "I will hasten my work in its time." It recalls the late President Russell M. Nelson's October 2024 remark, after announcing 17 temples, that "the Lord is indeed hastening His work." The Deseret News page is a short excerpt, and the full story is on TheChurchNews.com.]]></description>
-      <dc:creator>Church News</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 17:43:58 -0600</pubDate>
-    </item>
-    <item>
-      <title>America’s trade ambassador makes a religious case for Trump economic policies</title>
-      <link>https://www.deseret.com/faith/2026/10/16/jamieson-greer-makes-religious-economic-case-trump-dallin-oaks/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/16/jamieson-greer-makes-religious-economic-case-trump-dallin-oaks/</guid>
-      <description><![CDATA[U.S. Trade Representative Jamieson Greer, a Latter-day Saint, told the G20 Interfaith Forum in Salt Lake City that the Trump administration's trade policies aim to remedy decades of offshoring that cost Americans factory jobs, and that people should be producers first and consumers second. He urged faith leaders to promote self-reliance and discourage addictive gambling and personal debt, quoting President Dallin H. Oaks on families having become "units of economic consumption." Greer cited a 2025 poverty rate of 10.2%, the lowest since 1959, and told forum groups that bring concrete ideas, "we are action-based."]]></description>
-      <dc:creator>Tad Walch</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 08:51:06 -0600</pubDate>
-    </item>
-    <item>
-      <title>Baylor, BYU presidents share a unique focus on student faith formation</title>
-      <link>https://www.deseret.com/faith/2026/10/17/baylor-byu-presidents-share-student-faith-formation-g20/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/17/baylor-byu-presidents-share-student-faith-formation-g20/</guid>
-      <description><![CDATA[At a G20 Interfaith Forum panel, BYU President Shane Reese said he or his academic vice president interviews every prospective faculty member because "faculty will shape the culture for 30 years," and that the share of graduates reporting stronger faith in Jesus Christ has risen from 78% to 91% during his tenure. Baylor President Linda Livingstone said the school's long-running Faith and Character Study found church attendance to be one of the best predictors of retention, graduation and GPA, prompting changes to chapel and scripture classes. Both argued faith-based education appeals to purpose-driven students, and Livingstone said such schools can model cooperation across religious differences.]]></description>
-      <dc:creator>Tad Walch</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 04:01:16 -0600</pubDate>
     </item>
   </channel>
 </rss>
