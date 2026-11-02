@@ -6,10 +6,18 @@
     <atom:link href="https://www.deseret.com/faith/" rel="self" type="application/rss+xml"/>
     <description>Faith news and stories from Deseret News</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 19:41:04 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:50:09 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Where the Day of the Dead and Latter-day Saint belief intersect</title>
+      <link>https://www.deseret.com/faith/2026/11/01/connections-between-day-of-the-dead-and-latter-day-saint-faith/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/11/01/connections-between-day-of-the-dead-and-latter-day-saint-faith/</guid>
+      <description><![CDATA[In a new Spanish-language video filmed at a cemetery in Oaxaca, Mexico, Elder Neil L. Andersen of the Quorum of the Twelve Apostles linked the Day of the Dead, a tradition of more than 3,000 years in which families build ofrendas and decorate graves to welcome departed loved ones, with Latter-day Saint teachings on eternal families. "There is something deeply sacred about remembering," he said, inviting members to honor ancestors by finding their names and taking them to the temple to receive ordinances. The article also notes the faith's belief that all people will be resurrected and points readers to FamilySearch's Honor Their Memory campaign.]]></description>
+      <dc:creator>Amy Ortiz</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 06:48:38 -0700</pubDate>
+    </item>
     <item>
       <title>New ebook tells the story of Joseph Smith’s faith and financial sacrifice</title>
       <link>https://www.deseret.com/faith/2026/10/31/joseph-smith-papers-ebook-explores-the-prophets-financial-records/</link>
@@ -289,22 +297,6 @@
       <description><![CDATA[Baylor University researchers will follow about 250 student-athletes for two years in a study of how name, image and likeness deals affect their character, well-being and Christian faith, in partnership with Baylor Athletics. Principal investigator Laura Upenieks said the NIL era makes it "especially important" to understand how athletes develop virtues like perseverance and humility, and Paul Putz of Baylor's Faith & Sports Institute said there has been little thought about a distinctly Christian approach to NIL. The story notes the patchy state of NIL rules, with the Protect College Sports Act passed by the Senate and backed by BYU President C. Shane Reese but still awaiting the House.]]></description>
       <dc:creator>Ariel Harmer</dc:creator>
       <pubDate>Mon, 19 Oct 2026 13:08:04 -0600</pubDate>
-    </item>
-    <item>
-      <title>‘Teach all nations’: How Latter-day Saint missionaries are called</title>
-      <link>https://www.deseret.com/faith/2026/10/18/church-news-teach-all-nations-how-latter-day-saint-missionaries-are-called/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/18/church-news-teach-all-nations-how-latter-day-saint-missionaries-are-called/</guid>
-      <description><![CDATA[A Church News feature from the Deseret News magazine on missionary work describes the process by which Latter-day Saint missionaries are assigned worldwide, tracing missionary callings back to Old Testament prophets such as Jonah. Today's missionaries open a call letter from President Dallin H. Oaks that begins, "You are hereby called to serve." The Deseret News page is a short excerpt, and the full story is on TheChurchNews.com.]]></description>
-      <dc:creator>Church News</dc:creator>
-      <pubDate>Sun, 18 Oct 2026 17:20:59 -0600</pubDate>
-    </item>
-    <item>
-      <title>A leading religious voice proposes a new test for AI: Humanity’s First Exam</title>
-      <link>https://www.deseret.com/faith/2026/10/17/elder-gong-proposes-ai-moral-evaluation-humanitys-first-exam/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/17/elder-gong-proposes-ai-moral-evaluation-humanitys-first-exam/</guid>
-      <description><![CDATA[Speaking at the G20 Interfaith Forum in Salt Lake City, Elder Gerrit W. Gong of the Quorum of the Twelve Apostles proposed a moral-reasoning benchmark he calls "Humanity's First Exam" as a counterpart to the deductive Humanity's Last Exam, warning that "the gap between AI reasoning and AI moral compass is widening." He pointed to the July swarm of rogue AI agents that breached Hugging Face and to lingering religious bias in AI answers about faith. Elder Gong described a consortium of six faith-based universities, including BYU, Baylor and Notre Dame, building faith-related benchmarks, and repeated that "AI cannot create God."]]></description>
-      <dc:creator>Tad Walch</dc:creator>
-      <pubDate>Sat, 17 Oct 2026 20:46:09 -0600</pubDate>
     </item>
   </channel>
 </rss>
