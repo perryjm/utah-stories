@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:32:32 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:58:23 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>CIOs Say Companies Tighten Focus on AI Outcomes</title>
+      <link>https://www.wsj.com/cio-journal/cios-say-companies-tighten-focus-on-ai-outcomes-6d85fe46</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/cios-say-companies-tighten-focus-on-ai-outcomes-6d85fe46</guid>
+      <description><![CDATA[In this Morning Download, Tom Loftus reports that the WSJ Leadership Institute found no slowdown in enterprise AI demand after last week's tech selloff, though CIOs expect a sharper focus on outcomes, clearer business cases and shorter payback periods. Grant Thornton CIO Mike Kempe called building and applying AI "two very different economic models," Smartsheet's Ravi Soin said "Spending will not cease, but it will become more selective," and Bristol Myers Squibb's Greg Meyers said falling vendor valuations can increase buyers' leverage in contract negotiations. The newsletter also covers SemiAnalysis' new GDPx industry benchmark, topped by Anthropic's Claude Opus 5.5, and OpenAI securing about $11 billion of a $30 billion round at a $1.25 trillion valuation.]]></description>
+      <dc:creator>Tom Loftus</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 07:04:00 -0700</pubDate>
+    </item>
     <item>
       <title>Enterprise AI Is on the Ballot Too</title>
       <link>https://www.wsj.com/cio-journal/enterprise-ai-is-on-the-ballot-too-36cdf06d</link>
@@ -81,30 +89,6 @@
       <description><![CDATA[A Gartner survey of 2,002 CIOs and technology executives found just 13% say their organizations have realized significant or transformational value from AI, even as 58% report rising pressure to deliver AI cost improvements. Gartner says a "vanguard" of CIOs pulls ahead by setting stopping rules for both pilots and production projects and planning role redesigns for a human-agent workforce, with analyst Alicia Mullery describing "a wide gap" between the AI innovation race and the AI outcomes race. The Morning Download also covers UAE-based CNTXT AI's expansion into Milpitas, Calif., and a DHS order for federal agencies to remove DeepSeek products.]]></description>
       <dc:creator>Tom Loftus</dc:creator>
       <pubDate>Tue, 20 Oct 2026 07:23:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>U.A.E.-Based AI and Data Startup Expands Into Silicon Valley</title>
-      <link>https://www.wsj.com/cio-journal/u-a-e-based-ai-and-data-startup-expands-into-silicon-valley-f6e54c1e</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/u-a-e-based-ai-and-data-startup-expands-into-silicon-valley-f6e54c1e</guid>
-      <description><![CDATA[CNTXT AI, a U.A.E.-based startup that builds Arabic-first AI models such as the Munsit voice AI and supplies training data to hyperscalers, is opening its first U.S. office in Milpitas, Calif., after a $60 million Series A in June. CEO Mohammad Abu Sheikh, 25, says the company has $300 million in committed revenue, mostly from U.S. customers, and sees the Middle East's large blue-collar workforce as a source of real-world data for training robots that still struggle with tasks like folding a T-shirt. He describes the U.S.-Middle East relationship as moving from buyer and seller to "a complete partnership cycle."]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 08:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Jamie Dimon Tells Leaders to Ramp Up Cyber Defenses</title>
-      <link>https://www.wsj.com/cio-journal/jamie-dimon-tells-leaders-to-ramp-up-cyber-defenses-04ac235f</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/jamie-dimon-tells-leaders-to-ramp-up-cyber-defenses-04ac235f</guid>
-      <description><![CDATA[The Morning Download leads with JPMorgan Chase CEO Jamie Dimon telling Alan Murray that cybersecurity, with powerful new AI models, is now the bank's "biggest risk by far," alongside concerns about undersea cables, critical infrastructure and vendor supply chains. Dimon urged companies to start immediately on network segmentation, identity access management and AI-driven vulnerability hunting, and to make fast patching a regular management-meeting item. The newsletter also previews a tech earnings week with Meta, IBM and SAP reporting Wednesday and notes Microsoft pulled out of a U.K. data-center lease with Nscale.]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 06:50:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute</title>
-      <link>https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215</guid>
-      <description><![CDATA[Tel Aviv startup doubleAI, co-founded by Mobileye's Amnon Shashua and backed by Nvidia, Dell and others with $220 million raised, is launching what it calls "code execution models" that sit inside running programs and make GPU and CPU code run more efficiently without human involvement. Its first model, Maxwell, cut one early customer's compute costs by 67%, and the roughly 40-person company plans to charge a share of what customers save. Shashua expects the biggest gains for AI labs with huge training and inference bills, and the startup spent about half its funding on 1,000 Nvidia B300 chips because "you cannot rely just on renting compute."]]></description>
-      <dc:creator>Belle Lin</dc:creator>
-      <pubDate>Mon, 19 Oct 2026 06:00:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
