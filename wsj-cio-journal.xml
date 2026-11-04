@@ -6,10 +6,26 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 18:58:23 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:06:29 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>AI’s Most Wanted Hire Gets a Big Raise</title>
+      <link>https://www.wsj.com/cio-journal/ais-most-wanted-hire-gets-a-big-raise-4f084fc8</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ais-most-wanted-hire-gets-a-big-raise-4f084fc8</guid>
+      <description><![CDATA[In this Morning Download, Tom Loftus writes that the forward-deployed engineer has gone "from hired gun to the hottest hire in tech" as Christian & Timbers data shows elite FDEs earning $586,000 to $1.45 million a year while Gartner finds 44% of CEOs struggle to show financial returns from AI. Enterprises are now putting FDEs on their own payrolls, setting off a scramble with tech companies and consulting firms as OpenAI and Anthropic launch dedicated FDE services firms. The newsletter also covers Palantir's 96% third-quarter revenue jump to $2.31 billion, led by U.S. commercial sales, and Apple's 12% September-quarter revenue gain alongside projections that fell short of estimates.]]></description>
+      <dc:creator>Tom Loftus</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 06:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks</title>
+      <link>https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a</guid>
+      <description><![CDATA[Executive search firm Christian & Timbers found that elite forward-deployed engineers, those who have put agentic AI into production with at least $10 million in documented impact and led FDE teams, now earn $586,000 to $1.45 million a year, and about 80% are current or former Palantir engineers. Target, Barclays and American Express have posted FDE listings, and founder Jeff Christian said "Every company is thinking, 'We got to do this ourselves,'" as businesses bring the role in-house to keep their data private. Only about 2,000 of the roughly 17,000 U.S. FDEs count as elite, setting up a three-way tug-of-war among enterprises, tech companies and consulting firms, and Snowflake's Jonathan Beaulier called hiring them "massively hard."]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 06:30:00 -0700</pubDate>
+    </item>
     <item>
       <title>CIOs Say Companies Tighten Focus on AI Outcomes</title>
       <link>https://www.wsj.com/cio-journal/cios-say-companies-tighten-focus-on-ai-outcomes-6d85fe46</link>
@@ -81,14 +97,6 @@
       <description><![CDATA[Gartner forecasts worldwide IT spending will jump a record 15% to $7.3 trillion in 2027, led by 55% growth in data center systems, while the scramble for memory and chips pushes conventional server prices up about 120% by 2027. For CIOs facing hardware costs, Gartner analyst John-David Lovelock warned, "they've not seen anything yet, and there is no relief coming." The Morning Download also covers Gartner's 2027 technology trends, which reflect what analyst Gene Alvarez calls "an age of caution" in enterprise AI, and a draft Anthropic IPO prospectus showing nearly $9 billion in first-half compute spending.]]></description>
       <dc:creator>Tom Loftus</dc:creator>
       <pubDate>Wed, 21 Oct 2026 07:12:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI’s Transformational Value Remains Elusive for Most Companies</title>
-      <link>https://www.wsj.com/cio-journal/ais-transformational-value-remains-elusive-for-most-companies-2fc0e3d3</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ais-transformational-value-remains-elusive-for-most-companies-2fc0e3d3</guid>
-      <description><![CDATA[A Gartner survey of 2,002 CIOs and technology executives found just 13% say their organizations have realized significant or transformational value from AI, even as 58% report rising pressure to deliver AI cost improvements. Gartner says a "vanguard" of CIOs pulls ahead by setting stopping rules for both pilots and production projects and planning role redesigns for a human-agent workforce, with analyst Alicia Mullery describing "a wide gap" between the AI innovation race and the AI outcomes race. The Morning Download also covers UAE-based CNTXT AI's expansion into Milpitas, Calif., and a DHS order for federal agencies to remove DeepSeek products.]]></description>
-      <dc:creator>Tom Loftus</dc:creator>
-      <pubDate>Tue, 20 Oct 2026 07:23:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
