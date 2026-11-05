@@ -6,7 +6,7 @@
     <atom:link href="https://www.ksl.com/news/utah" rel="self" type="application/rss+xml"/>
     <description>Utah breaking news and local top stories from KSL.com</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:15:34 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:35:49 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
@@ -3153,14 +3153,6 @@
       <description><![CDATA[Utah State University Extension has turned years of research into a fact sheet, "Understanding and Supporting Youth Affected by Trauma and Stress," written for teachers, coaches and other adults who work with young people. Co-author Cara Murray, a professional practice assistant professor, said warning signs such as withdrawal, skipped practices or emotional outbursts are easy to mistake for misbehavior, and that the same hardship, from bullying to family instability, can affect two young people very differently. She said adults don't need clinical training to help, since a stable setting and patience build trust: "We are not there to diagnose. We are there to listen."]]></description>
       <dc:creator>Todd Kunz, KSL</dc:creator>
       <pubDate>Wed, 21 Oct 2026 22:38:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>USU researchers tap machine learning, game cameras to inform recreation area management</title>
-      <link>https://www.ksl.com/article/51639394/usu-researchers-tap-machine-learning-game-cameras-to-inform-recreation-area-management</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51639394/usu-researchers-tap-machine-learning-game-cameras-to-inform-recreation-area-management</guid>
-      <description><![CDATA[Utah State University's Institute of Outdoor Recreation and Tourism Management tested a way to measure crowding with the U.S. Forest Service on Idaho's Payette River corridor, mapping parking supply from aerial imagery and using computer vision on nearly a half-million game-camera photos to count vehicles and watercraft. Director Jordan Smith said parking is "the critical pitch point" for outdoor trips, and the data shows managers where and when sites hit capacity, analysis he said once filled a graduate student's master's thesis but now takes hours. The institute is starting a similar project with Cache County and has launched a Recreation Capacity Platform with dashboards combining maps, camera counts and conditions.]]></description>
-      <dc:creator>Logan Stefanich, KSL</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 19:35:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
