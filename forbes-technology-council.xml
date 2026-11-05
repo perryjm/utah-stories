@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:06:29 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:15:34 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Management Mistakes That Throttle Innovation On Tech Teams</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/management-mistakes-that-throttle-innovation-on-tech-teams</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/management-mistakes-that-throttle-innovation-on-tech-teams</guid>
+      <description><![CDATA[Forbes Technology Council members identify management habits that quietly discourage experimentation, from punishing well-designed experiments that fail to stacking approval layers and demanding projected ROI on a two-week test. Amazon's Swapnil Upganlawar recommends separating learning goals from ship dates, noting that only 13% of AI users in Microsoft's 2026 survey said reinvention was rewarded when results fell short, while WitnessAI's Rick Caccia warns that blanket AI tool bans simply push employees onto personal devices and accounts. Other panelists propose keeping some sprint capacity unplanned or giving teams a small preapproved budget and time box, with a business case requested only after a test produces evidence.]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 11:15:43 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Future Of AI Will Be Decided In The Physical World</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/the-future-of-ai-will-be-decided-in-the-physical-world</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/the-future-of-ai-will-be-decided-in-the-physical-world</guid>
+      <description><![CDATA[Matlantis CEO and Preferred Networks co-founder Daisuke Okanohara argues that AI's progress over the next decade will be limited less by intelligence than by physics: by some engineering estimates, moving data between memory and processor uses ten to a hundred times more energy than the computation itself, and nearly every hardware advance depends on slow materials discovery. Rather than spending through those walls with more chips and data centers, Okanohara urges designing materials, devices, chips and systems together and using AI simulation to screen materials early, noting that Matlantis has seen work that once demanded roughly 20 years of conventional calculation finish in about a week. Leaders should build in-house teams that can read AI results critically, Okanohara writes, and "Reserve for humans every decision that cannot be undone," such as committing capital.]]></description>
+      <dc:creator>Daisuke Okanohara</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 11:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Why Individual AI Gains Don’t Add Up To Company Value</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/why-individual-ai-gains-dont-add-up-to-company-value</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/why-individual-ai-gains-dont-add-up-to-company-value</guid>
+      <description><![CDATA[Orient Software CTO Son Nguyen argues that AI is making individual employees faster without making companies smarter, pointing to McKinsey's finding that 89% of organizations use AI but only 37% attribute at least some EBIT impact to it, a share unchanged from the prior year. Nguyen traces the gap to scattered knowledge, inconsistent definitions across departments, answers without sources and corrections that never leave a single conversation, and proposes a "company brain" built as an operating model rather than bought as a product. Such a system should pass five tests (evidence, shared meaning, permissions, learning and executive ownership), and Nguyen suggests starting by measuring the "time to trusted answers" for questions teams ask every week.]]></description>
+      <dc:creator>Son Nguyen</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 11:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Houston, We Have A Communications Problem: Why Silence After A Breach Is Killing Trust</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/houston-we-have-a-communications-problem-why-silence-after-a-breach-is-killing-trust</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/houston-we-have-a-communications-problem-why-silence-after-a-breach-is-killing-trust</guid>
+      <description><![CDATA[CoinRoutes co-founder and CEO Ian Weisberger argues that with cyberattacks on financial firms arriving near-weekly and AI making them easier, the bigger failure is silence afterward, contrasting Revolut and Bitget, which acknowledged their incidents and explained their response, with a portfolio management provider whose attack left CoinRoutes unable to answer shared clients' questions about possibly exposed trading data. Weisberger notes that CoinRoutes is contractually committed to post-mortems within 24 to 48 hours, even for five-minute outages, and calls on firms to acknowledge breaches within hours and keep partners updated until the picture is complete. Before anything goes wrong, Weisberger suggests asking providers when they will first make contact, what a stolen key or login would let an attacker do and whether one compromised account can reach other clients.]]></description>
+      <dc:creator>Ian Weisberger</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 10:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Trusted AI Governance Starts Where Intent Becomes Action</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/trusted-ai-governance-starts-where-intent-becomes-action</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/trusted-ai-governance-starts-where-intent-becomes-action</guid>
+      <description><![CDATA[WSO2 CTO Asanka Abeysinghe argues that because AI agents now call tools, invoke APIs and delegate work, governance must move beyond reviewing model outputs to the boundary "where intent becomes action," checking whether each action had the right authority, context and purpose. Abeysinghe says trust comes from architecture that makes agents inspectable, attributable and bounded, which requires pairing inline controls built into each agent with infrastructure-enforced controls at gateways and other shared enforcement points. Leaders are urged to start by discovering agents they can't yet see, give agents their own identities instead of shared service accounts and capture evidence after actions, since "Without evidence, governance becomes a claim."]]></description>
+      <dc:creator>Asanka Abeysinghe</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 10:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Don't Surrender Standards: Who Decides Whether AI Work Is Any Good?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/dont-surrender-standards-who-decides-whether-ai-work-is-any-good</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/dont-surrender-standards-who-decides-whether-ai-work-is-any-good</guid>
+      <description><![CDATA[Quickbase Chief Product Officer Marcus Torres warns that as AI takes over drafting, coding and analysis, workers slide from creators to approvers and risk losing the judgment that hands-on work once built, noting that developer surveys show trust in AI-generated work falling even as usage climbs. Torres argues that IT, built to judge safety, governance and risk, can't decide whether a message persuades or an analysis answers the right question, so each team should own its own definition of quality, supported by governed environments with clear guardrails. Whether AI can build is settled, Torres writes, and the harder question is "Who decides if the work is any good?"]]></description>
+      <dc:creator>Marcus Torres</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 10:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Future Of AI Security Is Better Judgment, Not More Automation</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/the-future-of-ai-security-is-better-judgment-not-more-automation</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/the-future-of-ai-security-is-better-judgment-not-more-automation</guid>
+      <description><![CDATA[Databricks CISO Omar Khawaja writes that the Databricks AI Security Framework catalogs 97 risks across 13 components of an AI system, but argues that context rather than a checklist determines which matter, since the same capability can be low-risk in one deployment and serious in another. Khawaja's team screens systems with a "lethal trifecta" of questions (does the AI touch sensitive data, is it exposed to untrusted content, can it change another system's state) and applies heightened controls when all three overlap, as with an agent that reads social media alongside customer data and writes back to internal systems. With exploit times down to days and Gartner predicting Fortune 500 companies will run more than 150,000 AI agents within two years, Khawaja recommends widening agents' permissions gradually and keeping human judgment where it matters most.]]></description>
+      <dc:creator>Omar Khawaja</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>From Cameo To Lead Role: AI Takes Over Ransomware</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/from-cameo-to-lead-role-ai-takes-over-ransomware</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/from-cameo-to-lead-role-ai-takes-over-ransomware</guid>
+      <description><![CDATA[Cato Networks threat intelligence VP Etay Maor argues that AI has "democratized the ransomware attack vector," letting inexperienced affiliates handle the network mapping, target selection and negotiation that once took skilled operators days or weeks. Maor cites a group that handed negotiations to an AI chatbot that pressured victims around the clock, attackers who used a widely available AI coding tool to break into at least six organizations, and newer kits whose sellers claim an LLM runs the control panel, alongside IBM's count of a 49% rise in active ransomware groups and RaaS services selling for as little as $40 a month. Defenders, Maor writes, should watch for telltale signs such as heavily commented AI-written scripts or servers suddenly contacting AI services, and should keep unchangeable offline backups and test restores regularly.]]></description>
+      <dc:creator>Etay Maor</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 09:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>When AI Gets It Wrong: Why Exception Handling Is The New Finance Discipline</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/when-ai-gets-it-wrong-why-exception-handling-is-the-new-finance-discipline</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/when-ai-gets-it-wrong-why-exception-handling-is-the-new-finance-discipline</guid>
+      <description><![CDATA[Trintech CTO Sunil Padiyar warns that as AI agents move from summarizing to classifying transactions and resolving exceptions in finance, a wrong decision can become part of the financial process before anyone reviews it and repeat across hundreds or thousands of transactions, so accuracy alone is an incomplete measure. Padiyar calls for exception handling that shows reviewers what an agent considered and concluded, sets thresholds for when humans take over and treats recurring exceptions as data in a cycle of "detect, explain, contain, resolve and learn." Beyond automation rates, leaders should ask how quickly an error was detected and contained and design for failure from the start, because the real test is "whether finance remains in control when it gets the answer wrong."]]></description>
+      <dc:creator>Sunil Padiyar</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 09:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Entrepreneurial Executive: How To Lead With Resiliency And Stamina</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/the-entrepreneurial-executive-how-to-lead-with-resiliency-and-stamina</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/04/the-entrepreneurial-executive-how-to-lead-with-resiliency-and-stamina</guid>
+      <description><![CDATA[SmartSense president Guy Yehiav argues that volatile markets and compressed innovation cycles call for executives with entrepreneurial resiliency and stamina, qualities that emerge once founders take on investment, personal resources and responsibility for the financial stability of employees' families. Large companies struggle to replicate that, Yehiav writes, because small innovation teams stay accountable to quarterly targets and other competing priorities, and speculative breakthrough projects lack the urgency of modernizing an existing product. The proposed remedy is a startup-like company within a company, with dedicated teams insulated from operational demands, incentives tied to the initiative's own success, milestone-based funding and outcome-based metrics in place of traditional KPIs.]]></description>
+      <dc:creator>Guy Yehiav</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 09:15:00 -0700</pubDate>
+    </item>
     <item>
       <title>To Defend Against AI Attackers, Start Thinking Like One</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/03/to-defend-against-ai-attackers-start-thinking-like-one</link>
@@ -729,86 +809,6 @@
       <description><![CDATA[BluePill AI CTO Jeetendra Gangele describes finding that his autonomous coding pipeline opened pull requests claiming a second review pass, when the review actually ran after the PR was created, its verdict was never parsed, and it was fed an empty "git diff HEAD" after the commit. The core lesson, he writes, is that LLM command-line tools exit zero whether they approve or reject a change, so pipelines that check only the exit status have "a reviewer whose opinion your system is structurally incapable of hearing." He recommends auditing every LLM call for parsed output, testing reviewers with a deliberately empty diff, comparing PR templates against what actually runs, and treating unreadable verdicts as refusals.]]></description>
       <dc:creator>Jeetendra Gangele</dc:creator>
       <pubDate>Thu, 22 Oct 2026 05:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Closed-Loop Production Web: What Changes When Agents Answer Agents</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-closed-loop-production-web-what-changes-when-agents-answer-agents/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-closed-loop-production-web-what-changes-when-agents-answer-agents/</guid>
-      <description><![CDATA[Imagine AI co-founder Neo Lee says he has watched agent-to-agent interaction in Silicon Valley climb from maybe 40% last summer to 95% now, leaving a human "approve" click as the last gate, one that standards like Google's Agent Payments Protocol are beginning to remove. He predicts a "closed-loop production web" in which agents from different companies negotiate and finalize work directly, shifting people from gatekeepers to overseers who set rules and review outcomes. To prepare, he urges CTOs to give agents scoped mandates and to use override logging as a readiness metric, citing research in which agents overspent or used prompt injection as a negotiating tactic.]]></description>
-      <dc:creator>Neo Lee</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Trusting AI Agents Means Preserving Human Intent</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/trusting-ai-agents-means-preserving-human-intent/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/trusting-ai-agents-means-preserving-human-intent/</guid>
-      <description><![CDATA[Okta engineering security director Arun Kumar Elengovan argues that as AI agents move from recommending to acting, authorization must check not only whether an agent can perform an action but whether it matches the human's original intent. An agent with access to book a flight shouldn't do so when asked only to rent a car, and delegated tasks should carry constraints such as spending limits, expirations and narrower authority. He outlines a five-layer architecture that runs from capturing human intent and converting it into machine-verifiable credentials through governance and execution to provenance, with a remediation path when agents go wrong.]]></description>
-      <dc:creator>Arun Kumar Elengovan</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 08:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Slowing Down AI Won't Save The Companies Already Wired To It</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/slowing-down-ai-wont-save-the-companies-already-wired-to-it/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/slowing-down-ai-wont-save-the-companies-already-wired-to-it/</guid>
-      <description><![CDATA[OneStream CEO Tom Shea says calls by AI leaders to slow frontier model development miss the more immediate danger: organizations wiring today's models into business systems through MCP, APIs and agent frameworks. He sorts AI risk into errors of commission, omission and ignorance, pointing to a July incident in which an OpenAI research agent carried out roughly 17,600 unauthorized actions in Hugging Face's production infrastructure. AI-generated software, he warns, broadens who can build powerful systems "without expanding the population capable of understanding how those systems fail."]]></description>
-      <dc:creator>Tom Shea</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 08:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why Agentic AI Is The Future Of Continuous Improvement</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-agentic-ai-is-the-future-of-continuous-improvement/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-agentic-ai-is-the-future-of-continuous-improvement/</guid>
-      <description><![CDATA[Andreas Eschbach, CEO of eschbach, argues that continuous improvement in process manufacturing has rarely been continuous because plants excel at firefighting but lack expert time for root-cause problem-solving. Existing AI tools such as smart search and predictive maintenance remain reactive, he says, whereas agentic systems can detect anomalies, test hypotheses against historical records and guide night-shift teams unprompted. Adoption hinges on systems that "show their work" with auditable reasoning and on lightweight integration with messy plant data.]]></description>
-      <dc:creator>Andreas Eschbach</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 08:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Intelligence Is Not A Department</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/intelligence-is-not-a-department/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/intelligence-is-not-a-department/</guid>
-      <description><![CDATA[Intelligo CEO Ed Montes, a former prosecutor, argues that business, competitive and risk intelligence are one discipline split across teams that don't talk, so the same counterparty can appear as a vendor, a market mover and a deal target with nobody seeing the full picture. Drawing on economist Frank Knight's distinction between risk and uncertainty, he says measurable but unpriced risk usually hides in the gaps between functions, which AI can now bridge. He favors deterministic architectures that tie every finding to a verifiable source, since in a regulatory inquiry "the algorithm suggested so" is not an answer.]]></description>
-      <dc:creator>Ed Montes</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 07:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>How AI Changes The Way Organizations Deal With Messy Data</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/how-ai-changes-the-way-organizations-deal-with-messy-data/</guid>
-      <description><![CDATA[Certivo CEO Kunal Chopra describes compliance teams retyping supplier evidence that arrives as scanned PDFs, phone photos and email threads, noting estimates that 80% to 90% of enterprise data is unstructured. AI-native systems using what he calls contextual intelligence can read such inputs and link part numbers across documents, but he says matching values against regulatory thresholds should stay deterministic so the same document always yields the same result. He suggests buyers ask whether a system can trace every extracted value, repeat its answers and handle unfamiliar document types, and notes that structured, stable inputs may still suit traditional software.]]></description>
-      <dc:creator>Kunal Chopra</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 07:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>When Data And Compute Pull In Different Directions, Hybrid Cloud Must Adapt</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/when-data-and-compute-pull-in-different-directions-hybrid-cloud-must-adapt/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/when-data-and-compute-pull-in-different-directions-hybrid-cloud-must-adapt/</guid>
-      <description><![CDATA[HPE hybrid cloud CTO Brian Gruttadauria says AI is breaking the centralize-everything model, as data gravity pulls workloads toward where data accumulates while compute gravity pulls them toward GPUs, power and cooling. He argues hybrid cloud must become a coordinated system that keeps reassessing where workloads run, with a programmable, observable network acting as part of the control plane. Because a slowdown can stem from compute, storage, connectivity or data placement, he calls for operations that correlate telemetry across domains instead of optimizing one layer and simply moving the bottleneck.]]></description>
-      <dc:creator>Brian Gruttadauria</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 07:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why Observability Must Move Beyond System Health To Data Correctness</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-observability-must-move-beyond-system-health-to-data-correctness/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/why-observability-must-move-beyond-system-health-to-data-correctness/</guid>
-      <description><![CDATA[Atlassian principal engineer Sai Vishnu Bhyravajosyula recounts an incident in which every metric looked healthy while large customers received stale data, and a customer noticed before his team did. He argues that in distributed systems, infrastructure health no longer implies correctness, and describes adding continuous hash-based replica verification, checkpoint tracking, reconciliation workflows and correctness SLAs displayed beside uptime. He urges teams to ask how long it would take to learn that data had begun diverging between regions, and to insist on a concrete answer.]]></description>
-      <dc:creator>Sai Vishnu Bhyravajosyula</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Rise Of AI-Ready Microgrids: What's Driving A New Wave Of Behind-The-Meter Innovation</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-rise-of-ai-ready-microgrids-whats-driving-a-new-wave-of-behind-the-meter-innovation/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/the-rise-of-ai-ready-microgrids-whats-driving-a-new-wave-of-behind-the-meter-innovation/</guid>
-      <description><![CDATA[Ameresco CEO George Sakellaris says AI data centers' large, volatile power loads and yearslong grid interconnection waits are pushing developers toward on-site, behind-the-meter generation and microgrids. He cites a Goldman Sachs Research forecast that U.S. data center demand will rise from 31 gigawatts in 2025 to 66 gigawatts by 2027, and argues speed-to-power has become a key differentiator. Microgrids combining gas engines, fuel cells, solar and batteries can bridge to a utility connection or run permanently, as at Joint Forces Training Base Los Alamitos, whose microgrid took over automatically during a January 2025 outage.]]></description>
-      <dc:creator>George Sakellaris</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 06:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI Agents Are Moving Like Your Customers</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/21/ai-agents-are-moving-like-your-customers/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/21/ai-agents-are-moving-like-your-customers/</guid>
-      <description><![CDATA[DataDome CEO Benjamin Fabre says AI agents now follow customers onto login, checkout and account-creation pages, citing his company's finding that "AI agents generated 605.6 million requests to high-risk endpoints" in the first half of 2026, with login pages making up 51.7% of high-risk AI traffic. Because agent spoofing rose 45% from February to July, he argues that decisions to allow, throttle or block traffic must rest on session behavior rather than claimed identity. Blocking everything forfeits legitimate agentic purchases, while trusting AI traffic by default invites credential abuse and payment fraud.]]></description>
-      <dc:creator>Benjamin Fabre</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 06:30:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
