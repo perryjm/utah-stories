@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:15:34 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:13:21 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Tokens Built The Digital AI Business. Physical AI Needs A Different Unit</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/tokens-built-the-digital-ai-business-physical-ai-needs-a-different-unit</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/tokens-built-the-digital-ai-business-physical-ai-needs-a-different-unit</guid>
+      <description><![CDATA[Barbello, co-founder and COO of Archetype AI, argues that per-token billing borrowed from language models fits poorly with industrial AI, where cameras and vibration sensors stream data around the clock and that data is often too proprietary to leave the facility. One Archetype municipal customer's intersection cameras each produce about 43 gigabytes a day, an estimated $850,000 to $1 million a year just to move to the cloud, so a distilled model runs on hardware the city already owns. Barbello's alternative is "Price the asset, not the traffic": licensing per machine, facility or application so finance teams know what scaling from 10 machines to 1,000 will cost, though that can be less economical for equipment analyzed only occasionally.]]></description>
+      <dc:creator>Brandon Barbello</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 11:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Open-Source Dependencies: 19 Trust Signals Worth Checking</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/open-source-dependencies-19-trust-signals-worth-checking</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/open-source-dependencies-19-trust-signals-worth-checking</guid>
+      <description><![CDATA[Forbes Technology Council members list signals beyond popularity and download counts for judging open-source dependencies, including the size of a package's transitive dependency graph, verifiable provenance, reproducible builds and OpenSSF Scorecard results. Persistent Systems' Mukul Arora says to check when maintainers last responded to a vulnerability report rather than when they last pushed code, calling a heavily starred repository with an 18-month-old unresolved security issue "a liability with good documentation." Other panelists flag newer risks: Guickly's Prashant Jalan warns that more dependencies now arrive because an AI model suggested them, and Atlas Cloud's Jerry Tang notes that open-weight model licenses can restrict commercial use even when the surrounding code carries an MIT license.]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 11:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Your Monitoring Stack Isn’t The Problem. The Detection-To-Ownership Gap Is</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/your-monitoring-stack-isnt-the-problem-the-detection-to-ownership-gap-is</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/your-monitoring-stack-isnt-the-problem-the-detection-to-ownership-gap-is</guid>
+      <description><![CDATA[Sharon, founder and CEO of OnPage, argues that a monitoring stack can catch a failure quickly and the response still stall, because emails, shared inboxes and Slack or Teams posts confirm only that an alert arrived, not that a qualified responder took charge. Since "Delivery is not ownership", Sharon proposes tracking detection-to-ownership time, breaking it into delivery, acknowledgment and confirmed ownership, and testing the workflow during shift changes, after hours and when the primary responder is unavailable. The fixes include stricter paging criteria so routine warnings land in dashboards or tickets, plus schedule-based routing that escalates automatically when no one acknowledges a critical page.]]></description>
+      <dc:creator>Judit Sharon</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>From Pilots To Payoff: The Top IT Priorities Every Executive Should Accomplish Before Year-End</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/from-pilots-to-payoff-the-top-it-priorities-every-executive-should-accomplish-before-year-end</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/from-pilots-to-payoff-the-top-it-priorities-every-executive-should-accomplish-before-year-end</guid>
+      <description><![CDATA[Francis, a technology evangelist at PFU America and Ricoh Document Scanners, urges executives to use the rest of 2026, with 2027 budgets already in planning, to check whether AI is delivering returns, proving value in one workflow with quarter-over-quarter KPIs before expanding. Vendor risk belongs on the list too: Francis points to Anthropic's suspension of global access to Claude Fable 5 and Mythos 5 after a U.S. export control directive as a reason to identify fallback models now, alongside Gartner's projection that more than a third of enterprises will run localized AI platforms by 2027. Francis also stresses fixing bad data, which 43% of surveyed data and analytics leaders called the biggest barrier, and preparing employees so that consequential decisions stay with people rather than AI.]]></description>
+      <dc:creator>Scott Francis</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 10:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>AI's Workforce Gap And The Lessons We Keep Forgetting</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/ais-workforce-gap-and-the-lessons-we-keep-forgetting</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/ais-workforce-gap-and-the-lessons-we-keep-forgetting</guid>
+      <description><![CDATA[Marangella, chief marketing and product officer at EdgeConneX, argues the AI build-out is limited as much by skilled labor as by chips and power, citing a construction shortage of roughly 439,000 workers and McKinsey's estimate that the U.S. will need 130,000 more electricians by 2030. Pointing to the World War II Training Within Industry program and Northern Virginia Community College's accredited data center operations degree, Marangella says workforce gaps close when training is treated as critical infrastructure. Local resistance is real, with Gallup finding seven in 10 Americans opposed to an AI data center nearby, and Marangella contends communities accept infrastructure once it is "built with them" through transparency, local hiring and promises that are kept.]]></description>
+      <dc:creator>Phillip Marangella</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 10:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>AI Slop Is Turning Bug Bounty Programs Into A Security Liability</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/ai-slop-is-turning-bug-bounty-programs-into-a-security-liability</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/ai-slop-is-turning-bug-bounty-programs-into-a-security-liability</guid>
+      <description><![CDATA[Geffen, CEO and co-founder of Novee Security, warns that AI-generated bug bounty reports now look detailed and plausible even when wrong, so analysts spend hours disproving findings that took minutes to file, and HackerOne reported a more than 100% jump in report volume after new AI models arrived in February. The curl project ended its monetary bounty in January 2026 after its share of confirmed vulnerabilities fell below 5%, and later stopped taking reports for all of July even after quality recovered. Geffen writes that "Triage latency is just dwell time you've handed to an adversary", and argues programs should demand reproducibility, demonstrated impact and context, and reward proven exploitability and verified fixes over volume.]]></description>
+      <dc:creator>Ido Geffen</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 10:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Data Sovereignty Isn't About Where Your Data Lives—It's About Who's In Control</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/data-sovereignty-isnt-about-where-your-data-lives-its-about-whos-in-control</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/data-sovereignty-isnt-about-where-your-data-lives-its-about-whos-in-control</guid>
+      <description><![CDATA[McGrattan, chief technology officer at Actian, argues that data residency is not the same as sovereignty, pointing to a June 2025 French Senate hearing where a Microsoft executive said he could not guarantee that Azure data stored in France would never be handed to U.S. authorities without consent. Calling sovereignty "an architectural property rather than a compliance initiative", McGrattan recommends mapping critical data, external dependencies and alternatives for each critical service, with the tightest control reserved for identity systems, customer data and intellectual property. AI agents raise the stakes because organizations must explain which data informed a decision, yet in a 2026 BARC survey 89% called sovereignty important while just 10% had budget for it.]]></description>
+      <dc:creator>Emma McGrattan</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Evaluation Framework: The Most Underbuilt Part Of An AI System</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/the-evaluation-framework-the-most-underbuilt-part-of-an-ai-system</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/the-evaluation-framework-the-most-underbuilt-part-of-an-ai-system</guid>
+      <description><![CDATA[Dhaduk, CTO and co-founder of Simform, describes assessing a production AI system that had regressed while its team had no way to compare the last-known-good version with a proposed fix, because the measurement infrastructure had never been built. Dhaduk argues evaluation should act as a release gate, built on a maintained set of representative examples that grows with each meaningful production failure, consistent scoring and thresholds set in advance for regressions serious enough to block a change. CTOs often defer that work for more visible features, but the cost returns as manual revalidation on every release, and Dhaduk judges changes by the "fully loaded cost per resolved outcome" rather than inference spend alone.]]></description>
+      <dc:creator>Hiren Dhaduk</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 09:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>AI Is The Accommodation Nobody Has To Approve</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/ai-is-the-accommodation-nobody-has-to-approve</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/ai-is-the-accommodation-nobody-has-to-approve</guid>
+      <description><![CDATA[Goyal, CEO of Think AI, who had polio and has dyslexia, writes that founders with disabilities have no HR department to grant accommodations, so AI becomes "the accommodation you can give yourself." Citing AEO data, Goyal notes these entrepreneurs average about $61,000 in revenue against $135,000 for others yet use generative AI at more than twice the rate, and describes a 3,200-mile road trip made possible by supervised self-driving and an AI trip planner. Goyal's own setup includes an automated process that shrank podcast preparation from 24 to 30 hours to two or three, bookkeeping from a read-only copy of accounting data, and an "AI C-suite" of agents on an isolated computer barred from deleting anything or contacting clients.]]></description>
+      <dc:creator>Devendra Goyal</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 09:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>How Modular Data Centers Will Scale AI Infrastructure</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/05/how-modular-data-centers-will-scale-ai-infrastructure</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/05/how-modular-data-centers-will-scale-ai-infrastructure</guid>
+      <description><![CDATA[Altizer, president and CEO of Compu Dynamics, argues that AI racks drawing 150 to 250 kilowatts leave cloud-era data halls as mostly empty space, and predicts campuses that standardize power, liquid cooling and networking while factory-built white-space modules plug in and get swapped as GPUs advance. Modules can also drop traditional UPS systems and diesel generators from the start and cut an 18-to-24-month build to six to nine months, Altizer says, likening production to automotive assembly lines. Buyers should check whether a modular partner truly manufactures at scale and can deliver a turnkey solution, since the aim is "token factories rather than architectural trophies."]]></description>
+      <dc:creator>Steve Altizer</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 09:15:00 -0700</pubDate>
+    </item>
     <item>
       <title>Management Mistakes That Throttle Innovation On Tech Teams</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/04/management-mistakes-that-throttle-innovation-on-tech-teams</link>
@@ -729,86 +809,6 @@
       <description><![CDATA[Sivense founder Illia Smoliienko recalls a maintenance crew deliberately damaging industrial IoT sensors they saw as a threat to their jobs, and argues AI for industrial analytics should support human judgment rather than replace it. Using bearings as an example, he notes that defect types, operating contexts and bearing variants produce over a million training combinations no dataset covers, so specialists are needed to tell real faults from normal machine behavior. He calls for explainable systems instead of a "black box," interfaces tailored to each role, and active learning that feeds experts' confirmations and rejections back into the model.]]></description>
       <dc:creator>Illia Smoliienko</dc:creator>
       <pubDate>Fri, 23 Oct 2026 06:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Real Disruption In Mobility Isn't Technology—It's Everything Else</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/the-real-disruption-in-mobility-isnt-technology-its-everything-else/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/the-real-disruption-in-mobility-isnt-technology-its-everything-else/</guid>
-      <description><![CDATA[Gjoko Muratovski, chief innovation officer at ICONA Design Group, argues that the direction of mobility now depends less on engines and design than on geopolitics, tariffs, critical-mineral supply chains, energy security and demographic change, making it "a question of systems rather than individual technologies." He says AI can speed technical work but cannot replace leadership judgment, and that research belongs inside strategy rather than before it. His advice to executives is to study what is changing before deciding what to build, develop options rather than predictions, and invest in organizational capability that will outlast the next disruption.]]></description>
-      <dc:creator>Gjoko Muratovski</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Your Cloud Is The Foundation AI Keeps Falling Through</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/your-cloud-is-the-foundation-ai-keeps-falling-through/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/your-cloud-is-the-foundation-ai-keeps-falling-through/</guid>
-      <description><![CDATA[Capgemini's Vaibhav Gujral, a seven-time Microsoft MVP, says many enterprise AI pilots stall not because models fail but because they meet production cloud environments full of fragmented data, inconsistent identity and access controls, and weak cost governance. AI agents ingest messy data at scale and may hold broader access than any employee, he notes, while inference costs can turn a five-figure line item into a six-figure one in a single billing cycle. He advises judging AI readiness by whether the cloud foundation could absorb 10 times today's AI workload without a governance failure, concluding that "AI didn't invent these requirements. It just removed the option to defer them."]]></description>
-      <dc:creator>Vaibhav Gujral</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 07:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why Reliable Data, Not Bigger Models, Will Define The Next Era Of Enterprise AI</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/why-reliable-data-not-bigger-models-will-define-the-next-era-of-enterprise-ai/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/why-reliable-data-not-bigger-models-will-define-the-next-era-of-enterprise-ai/</guid>
-      <description><![CDATA[Enterprise systems veteran Sagar Gupta argues that more powerful AI models may simply "generate wrong recommendations faster" when fed stale, incomplete or remapped data, and that reliability must be judged against the specific business decision rather than a generic quality checklist. Using revenue forecasting as his example, he cautions against auto-correcting anomalies such as unusually large orders, calls for data lineage that can trace results back to their source, and recommends continuous monitoring because ERP or CRM changes can quietly degrade a model. He suggests starting with one high-value use case, having business owners define acceptable reliability, and measuring success by better decisions rather than model metrics.]]></description>
-      <dc:creator>Sagar Gupta</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 07:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Invoice That AI Didn't Warn You About</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/the-invoice-that-ai-didnt-warn-you-about/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/the-invoice-that-ai-didnt-warn-you-about/</guid>
-      <description><![CDATA[Andrew Avanessian, drawing on his experience at Haiilo, warns that token-based AI pricing grows with usage, so loosely specified agentic workflows can fall into retry "loops" that burn tokens without producing value, unlike seat-based SaaS licenses that had a natural cost ceiling. Citing George Sivulka's a16z essay and its line that "For the first time in history, humans are cheaper than software," he says AI's waste comes from overuse rather than idle seats. He urges leaders to set success criteria before scaling, track tokens consumed against outcomes, and give finance teams visibility into AI consumption.]]></description>
-      <dc:creator>Andrew Avanessian</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 07:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI’s Next Hub Won’t Be A Single City: The New Geography Of Sovereign Intelligence</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/ais-next-hub-wont-be-a-single-city-the-new-geography-of-sovereign-intelligence/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/ais-next-hub-wont-be-a-single-city-the-new-geography-of-sovereign-intelligence/</guid>
-      <description><![CDATA[Ivo Ivanov argues that AI's need for power, land, compute and connectivity means the next AI hub will be an interconnected region rather than a single city, noting that planned European data center sites now sit an average 175 kilometers from a major hub, versus 46 kilometers for recent projects. He points to the Iberian Peninsula, where Madrid, Barcelona and Lisbon are linked by networks, Internet Exchanges and subsea cables, as an early model. Because so much data is in motion, as with a smart car exchanging data across many clouds and countries, he says sovereignty controls must travel with the data through private interconnection rather than relying on "digital walls."]]></description>
-      <dc:creator>Ivo Ivanov</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 07:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Deepfake Arms Race Has No Finish Line: Live Video Raises The Stakes</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/the-deepfake-arms-race-has-no-finish-line-live-video-raises-the-stakes/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/the-deepfake-arms-race-has-no-finish-line-live-video-raises-the-stakes/</guid>
-      <description><![CDATA[Red5 CEO Chris Allen writes that deepfakes on live calls and broadcasts are a distinct business risk because a detector's verdict may come only after money has moved or a false statement has spread, citing a 2025 Gartner finding that 37% of surveyed cybersecurity leaders had encountered a deepfake in a video call. He argues detection and generation improve in tandem, and that provenance tools such as C2PA's Content Credentials for live video are a useful signal but not "a universal truth certificate." Instead of trusting one detector or vendor, he urges layered, replaceable defenses and separate-channel confirmation for consequential actions, since a leader's face and voice alone shouldn't authorize a transaction.]]></description>
-      <dc:creator>Chris Allen</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 06:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why Human Judgment Matters More As AI Gets Better, Faster</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/why-human-judgment-matters-more-as-ai-gets-better-faster/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/why-human-judgment-matters-more-as-ai-gets-better-faster/</guid>
-      <description><![CDATA[Hack The Box CEO Haris Pylarinos argues that as AI gets better at spotting problems and recommending fixes, human judgment about operational consequences matters more, recounting how a penetration tester's single FTP connection once locked out a telecom billing system and left calls uncharged. In his company's exercises, an experienced analyst caught a compromised machine after overriding an agent's advice to close an incident, while junior operators let stuck LLMs keep looping, which he says shows a human "in the loop" is not enough without expertise. Because automating entry-level work removes the training ground where judgment forms, he urges leaders to rebuild those learning experiences through simulations and hands-on practice: "you cannot hire someone with 10 years of experience if nobody is given year one."]]></description>
-      <dc:creator>Haris Pylarinos</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 06:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Preparing For A Breach Before It Happens (Part Two)</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/preparing-for-a-breach-before-it-happens-part-two/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/preparing-for-a-breach-before-it-happens-part-two/</guid>
-      <description><![CDATA[In the second part of his series, Netragard founder Adriel Desautels argues that companies should aim for damage prevention rather than breach prevention, building defenses from "contextualized threat intelligence" about how attackers would actually reach their critical assets. He describes an engagement in which his team socially engineered a helpdesk into enrolling an attacker's device in MFA and then found admin sessions open to Microsoft and AWS, and says three simple "attack disruptors" (authenticating before helpdesk support, and alerting users to account changes and to new logins) would have stopped it. He distinguishes objective-driven red teaming from broader penetration testing and says AI attackers often resemble a noisy "script kiddie," so passing an AI pen test proves little.]]></description>
-      <dc:creator>Adriel Desautels</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 06:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Software Is About To Escape The App</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/software-is-about-to-escape-the-app/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/software-is-about-to-escape-the-app/</guid>
-      <description><![CDATA[Monotype Chief AI Officer Neeraj Gulati argues that agentic AI, aided by standards such as Model Context Protocol, lets specialists reach users by exposing a single capability that an agent can discover and call mid-workflow, without building a full app or owning the interface. He describes two gates: humans decide which capabilities an agent may use, and the agent picks among them, warning that whoever curates a platform's default set holds app-store-like power and that providers may lose visibility into the customer relationship. Pointing to Monotype's MCP-based MyFonts app for ChatGPT as "distribution through invocation," he concludes that software "won't disappear. It'll escape the app."]]></description>
-      <dc:creator>Neeraj Gulati</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Exit Code Zero: The Hidden Failure Mode Every AI Pipeline Inherits</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/22/exit-code-zero-the-hidden-failure-mode-every-ai-pipeline-inherits/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/22/exit-code-zero-the-hidden-failure-mode-every-ai-pipeline-inherits/</guid>
-      <description><![CDATA[BluePill AI CTO Jeetendra Gangele describes finding that his autonomous coding pipeline opened pull requests claiming a second review pass, when the review actually ran after the PR was created, its verdict was never parsed, and it was fed an empty "git diff HEAD" after the commit. The core lesson, he writes, is that LLM command-line tools exit zero whether they approve or reject a change, so pipelines that check only the exit status have "a reviewer whose opinion your system is structurally incapable of hearing." He recommends auditing every LLM call for parsed output, testing reviewers with a deliberately empty diff, comparing PR templates against what actually runs, and treating unreadable verdicts as refusals.]]></description>
-      <dc:creator>Jeetendra Gangele</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 05:45:00 -0600</pubDate>
     </item>
   </channel>
 </rss>

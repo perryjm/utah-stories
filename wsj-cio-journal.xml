@@ -6,10 +6,26 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:15:34 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:13:21 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>What AI Leaders Can Learn from the Midterms</title>
+      <link>https://www.wsj.com/cio-journal/what-ai-leaders-can-learn-from-the-midterms-291f5f01</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/what-ai-leaders-can-learn-from-the-midterms-291f5f01</guid>
+      <description><![CDATA[In this Morning Download, Steven Rosenbush argues that the AI industry's troubles with data center opposition and broader AI anxiety are a political problem, and offers lessons from the midterms: situational awareness, openness to dissent and compromise, clarity, accountability and explaining the larger mission. Meta President Dina Powell McCormick said data centers are "going to be harder" to build after the election, voters sided against data centers in every one of 41 local ballot measures but one in Harwood, North Dakota, and PitchBook reported global AI venture funding fell 43.4% in the third quarter. Barclays analyst Andrew Keches noted that operators already running or powered up gain "scarcity value" if construction slows, and Amazon and Microsoft rallied more than 6% on Wednesday.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 07:05:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Mercedes Gives Its Cars an AI Upgrade</title>
+      <link>https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2</guid>
+      <description><![CDATA[Mercedes-Benz has begun rolling out conversational AI in some North American cars using on-device foundation models from MIT spinout Liquid AI, which handle routine requests like navigation, seat settings and calls, and pass broader questions such as restaurant tips to larger cloud models, with a fleetwide rollout planned for the second quarter of 2027 at no extra charge. Mercedes-Benz North America CEO Jason Hoff cites privacy, speed, offline operation and better handling of accents, calling the effort "more about the user interface and user experience inside the vehicle" than autonomy. Cars are an especially strong case for on-device AI because they can't count on a cloud connection, Bousquette notes, while Gartner's Craig Roth says most enterprise applications still default to cloud models, even as Gartner projects on-device models will handle 30% of user-initiated enterprise AI tasks by 2029.]]></description>
+      <dc:creator>Isabelle Bousquette</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 05:00:00 -0700</pubDate>
+    </item>
     <item>
       <title>Democratic Wave Changes AI Policy Calculus</title>
       <link>https://www.wsj.com/cio-journal/democratic-wave-changes-ai-policy-calculus-bec0ffe5</link>
@@ -89,14 +105,6 @@
       <description><![CDATA[The Oct. 23 Morning Download looks at how companies ranked high in the WSJ Leadership Institute's Best Boards 2026 list are shaping AI strategy, from Lam Research's board-backed chief AI officer and innovation committee to eBay's three-member technology committee and Trimble's board built around tech, risk and capital-allocation "archetypes." Lumentum board chair Penny Herscher said one director worked as an employee for three months to help on supply chain, calling it "a more engaged board than I've ever worked on before." At Nasdaq, chief strategy officer Jeremy Skule said directors track a dashboard of AI measures, including agents deployed and revenue delivered, and advise on token costs.]]></description>
       <dc:creator>Belle Lin</dc:creator>
       <pubDate>Fri, 23 Oct 2026 06:24:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Barclays Cuts 5% of Jobs In AI Overhaul</title>
-      <link>https://www.wsj.com/cio-journal/barclays-cuts-5-of-jobs-in-ai-overhaul-598857e2</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/barclays-cuts-5-of-jobs-in-ai-overhaul-598857e2</guid>
-      <description><![CDATA[The Oct. 22 Morning Download leads with Barclays cutting 5,000 jobs, about 5% of its workforce, as it builds AI deeper into the bank; CEO C.S. Venkatakrishnan said roughly 60% of the cuts hit support functions, "including fewer developers as AI makes our people more productive," and the newsletter notes HSBC and Standard Chartered are planning similar reductions. At Gartner's IT Symposium/Xpo, analyst Tina Nunno cast CIOs as the "adult supervision" against AI hype, saying boards can be "potentially part of the problem." The roundup also covers Meta raising its 2026 capital spending floor to $135 billion and the AI-discovered PHP vulnerability that sent web administrators scrambling.]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 07:05:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
