@@ -6,10 +6,18 @@
     <atom:link href="https://www.deseret.com/faith/" rel="self" type="application/rss+xml"/>
     <description>Faith news and stories from Deseret News</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:10:39 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:34:16 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Planned Sunday boycott of Jewish-owned businesses in Philadelphia sparks condemnation</title>
+      <link>https://www.deseret.com/faith/2026/11/07/leaders-condemn-philadelphia-jewish-boycott/</link>
+      <guid isPermaLink="true">https://www.deseret.com/faith/2026/11/07/leaders-condemn-philadelphia-jewish-boycott/</guid>
+      <description><![CDATA[A Sunday bike rally by the activist group Philly Bike On Your Left, aimed at six Jewish-owned businesses at Philadelphia's Rittenhouse Square under a flyer reading "No business for Zionists" and set for the eve of the Kristallnacht anniversary, has drawn swift condemnation from Pennsylvania officials and national leaders. Gov. Josh Shapiro called the ride "nothing more than blatant antisemitism designed to intimidate" and drive Jewish businesses out, and Mayor Cherelle Parker said singling out owners for being Jewish is unacceptable while affirming the rights of peaceful demonstrators. The group did not respond to media requests but posted a video defending the boycott and denying any deliberate timing, while Hess cites FBI data showing anti-Jewish hate crimes make up roughly 69% of religiously motivated hate crimes.]]></description>
+      <dc:creator>Jacob Hess</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 04:00:33 -0700</pubDate>
+    </item>
     <item>
       <title>Learn about the hymn ‘Fight the Good Fight’ in new Latter-day Saint hymnbook</title>
       <link>https://www.deseret.com/faith/2026/11/06/church-news-learn-about-hymn-fight-the-good-fight-global-hymnbook-stephen-jones/</link>
@@ -281,14 +289,6 @@
       <description><![CDATA[Glenn and Erica Nielson donated the long-vacant Cody, Wyoming, land that Glenn received from his grandparents in place of a cash inheritance, and the Church of Jesus Christ of Latter-day Saints chose it for the Cody Wyoming Temple, which Elder Clark G. Gilbert dedicated Sunday. Glenn Nielson said the family has "a testimony that the Lord's hand was in preserving that property," and the couple now see the temple from their kitchen window. Despite local opposition over views, traffic and steeple height, Nielson and member Luke Hopkin said communication and the open house changed minds, with Hopkin calling "the change in perception and attitude" the miracle.]]></description>
       <dc:creator>Kaitlyn Bancroft</dc:creator>
       <pubDate>Mon, 26 Oct 2026 08:33:29 -0600</pubDate>
-    </item>
-    <item>
-      <title>Religious freedom advocates from around the world find family-like solidarity in Utah</title>
-      <link>https://www.deseret.com/faith/2026/10/24/religious-freedom-advocates-in-utah/</link>
-      <guid isPermaLink="true">https://www.deseret.com/faith/2026/10/24/religious-freedom-advocates-in-utah/</guid>
-      <description><![CDATA[Nine fellows from the First Freedom Foundation's international religious freedom network, most of them religious minorities at home, spent several weeks in Utah visiting a mosque, a synagogue, a Hindu temple, Catholic and Protestant churches and the Church of Jesus Christ's general conference, though visa denials kept fellows from Nepal, Pakistan, Kenya, Nigeria and Zimbabwe away. Lebanese human rights lawyer Mohamad Radwan Al Omar said of the visit, "There's no fighting, no wars, no blood — just laughing," and called conference "astonishing." Foundation leader Patrice Pederson said the group has swapped family contacts so members can speak up for one another if persecuted, and she plans a web series built from footage of the visit.]]></description>
-      <dc:creator>Jacob Hess</dc:creator>
-      <pubDate>Sat, 24 Oct 2026 09:02:23 -0600</pubDate>
     </item>
   </channel>
 </rss>
