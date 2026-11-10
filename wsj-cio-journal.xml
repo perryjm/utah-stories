@@ -6,10 +6,26 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:10:39 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:25:31 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Enterprises Say AI Regulation Won’t Stop Corporate Innovation</title>
+      <link>https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c</guid>
+      <description><![CDATA[Corporate tech leaders who spoke with the WSJ Leadership Institute say they will press ahead with AI whatever rules emerge under Democratic control of Congress and state offices, citing their own internal guardrails and the view that today's models already do what they need. Sutherland CIO Doug Gilbert said everyday work has an "extremely low" need for the most powerful frontier models, and Intuit CTO Alex Balazs said his company is investing heavily in its AI harness, the software layer that runs models and lets businesses mix providers. Many of the executives expect AI policy to stay at the state level for now, a patchwork that Appian CEO Matt Calkins warned could be "irregular across the nation".]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Ready to Start Your Next Car Lease With an AI Chatbot? BMW Wants to Help.</title>
+      <link>https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9</guid>
+      <description><![CDATA[This Morning Download leads with BMW's new U.S. ChatGPT app, which lets shoppers check local inventory, configure a vehicle, build a lease financing package and book a test drive, though the lease itself must still be completed at a dealer. BMW of North America marketing vice president Leigh Moynihan called the app "a must do" as more customers research cars with chatbots, and North America chief customer officer Andreas Walter said the team tested heavily to make sure "there's no hallucination going on" in financial answers. The newsletter also covers the Nvidia board's probe of reports that CEO Jensen Huang was targeted by a suspected Chinese spy, and a jobs report showing a 70,000-job gain in professional and business services.]]></description>
+      <dc:creator>Isabelle Bousquette</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 07:11:00 -0700</pubDate>
+    </item>
     <item>
       <title>OpenAI Bolsters Cyber Defenses</title>
       <link>https://www.wsj.com/cio-journal/openai-bolsters-cyber-defenses-cf7cafb5</link>
@@ -97,14 +113,6 @@
       <description><![CDATA[In this Morning Download, Steven Rosenbush reads Anthropic's roughly 400-page S-1 as evidence that AI is paying off inside individual companies, citing a case study in which orders placed with Walmart's Sparky assistant, built using Anthropic models, are 35% higher in value, even as Apollo's Torsten Slok finds little macroeconomic payoff outside big tech. Anthropic itself says "enterprises are still in early phases of deployment," and Rosenbush argues its biggest challenge is the go-to-market side, including partnerships and Ode, an AI services company launched with Blackstone and Hellman & Friedman. The newsletter also notes the prospectus shows first-half revenue of $16.3 billion, up from $1.2 billion, an $80.7 billion net loss tied largely to an accounting adjustment, and more than $475 billion in compute commitments ahead of a listing under the ticker ANT.]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Tue, 27 Oct 2026 07:24:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Ciena’s Board Opts for Patience Amid Tech Upheavals</title>
-      <link>https://www.wsj.com/cio-journal/cienas-board-opts-for-patience-amid-tech-upheavals-f8d5aa6e</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/cienas-board-opts-for-patience-amid-tech-upheavals-f8d5aa6e</guid>
-      <description><![CDATA[The Morning Download profiles Ciena CEO Gary Smith, who credits a board led by independent chair Lawton W. Fitt with supporting long-term investment through both the telecom bust and the AI boom, after Ciena ranked fifth on the WSJ Leadership Institute's Best Boards 2026. Smith urged leaders to "play for the long term," keep businesses simple and focused, and invest in collaborative teams, and described the CrossFit, meditation and photography habits he uses to stay resilient. The newsletter also previews a week of big tech earnings, citing an Apollo Global Management analysis that found "zero payoff" from AI investment outside the tech sector.]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 06:44:00 -0600</pubDate>
     </item>
   </channel>
 </rss>

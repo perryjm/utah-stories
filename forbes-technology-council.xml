@@ -6,10 +6,90 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:10:39 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:25:31 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>What Tech Leaders Get Wrong About AI Restructuring And Morale</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/what-tech-leaders-get-wrong-about-ai-restructuring-and-morale</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/what-tech-leaders-get-wrong-about-ai-restructuring-and-morale</guid>
+      <description><![CDATA[Forbes Technology Council members list leadership mistakes that sap morale during AI-driven restructuring, with XData Group's Roman Eloshvili warning that asking employees to automate their own work without explaining their future roles signals they are no longer as valued. Pipefy's Alessio Alionco says people rarely lose morale over change itself, blaming ambiguity instead, especially when AI is layered onto old processes and employees end up doing both jobs. Others, including Kuan Archer of Archer Innovative Solutions Group, caution against cutting the entry-level work that builds judgment, and Archer suggests making the checking and fixing of AI output the new junior work.]]></description>
+      <dc:creator>Expert Panel, Forbes Technology Council</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 11:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Increasing Political Risk In IT Strategy</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/the-increasing-political-risk-in-it-strategy</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/the-increasing-political-risk-in-it-strategy</guid>
+      <description><![CDATA[Korte argues that IT procurement now carries political risk, since a supplier that hits all its SLAs might still be cut off by "a government decision." Pointing to U.S. chip export controls, the restriction on U.S. cloud providers serving the International Criminal Court and China's licensing of gallium and germanium exports, Korte calls for "selective resilience rather than blanket duplication" aimed at the dependencies whose interruption would hurt most. In practice that means tracing hardware supply chains past the immediate vendor, demanding software with usable data exports and open interfaces, and testing the exit by actually moving a representative workload.]]></description>
+      <dc:creator>Kevin Korte</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 08:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The 4 Dimensions Of Scoring AI Risk: Why ‘Probable’ Must Always Give Way To ‘Proven’</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/the-4-dimensions-of-scoring-ai-risk-why-probable-must-always-give-way-to-proven</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/the-4-dimensions-of-scoring-ai-risk-why-probable-must-always-give-way-to-proven</guid>
+      <description><![CDATA[Aftab, CEO of 10Pearls, argues that most enterprise AI stays stuck in pilots because it is often deployed before it is proven safe, citing AI Incident Database figures in Stanford's 2026 AI Index that show a 55% jump in AI incidents. Aftab proposes scoring each use case on four dimensions (whether a wrong decision can be undone, its real-world impact, its regulatory exposure and whether its reasoning can be explained on demand), with the composite score setting how much autonomy the system earns, and sometimes ruling out AI altogether. With boards, regulators and customers demanding evidence, Aftab writes, a tool that is "probably fine" is no longer an acceptable answer.]]></description>
+      <dc:creator>Imran Aftab</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Five Principles For Turning AI Agent Adoption Into Measurable Impact</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/five-principles-for-turning-ai-agent-adoption-into-measurable-impact</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/five-principles-for-turning-ai-agent-adoption-into-measurable-impact</guid>
+      <description><![CDATA[Yu, CEO of Appier, notes that McKinsey found 40% of respondents at companies with more than $1 billion in revenue scaling AI agents, up from 27% a year earlier, while the share of all respondents crediting AI with a positive EBIT contribution held at 37%. Yu blames the gap less on the models than on how agents are operated, and lays out five SCALE principles: set goals and metrics before deployment, have agents gauge their own confidence and know when to hand a task back, route each task to the best-fit model, build in feedback loops so agents learn, and keep compute use efficient. Against the assumption that more autonomous AI will need less management, Yu argues "the opposite is true."]]></description>
+      <dc:creator>Chih-Han Yu</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 07:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>How Much Of Last Quarter’s Code Can Your Team Explain?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/how-much-of-last-quarters-code-can-your-team-explain</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/how-much-of-last-quarters-code-can-your-team-explain</guid>
+      <description><![CDATA[Mohanty, of Tredence, argues that AI coding agents have made code generation abundant while senior engineers' review time stays fixed, so changes get approved "faster than they can follow them" and the cost shows up months later in incident reviews. Citing a METR trial in which experienced open-source developers took 19% longer with AI tools despite estimating they had been 20% faster, Mohanty warns that buying more tool seats only lengthens the review queue. The proposed fix is to plan verification capacity alongside delivery estimates, scale review effort to what breaks if a change is wrong, make sure each merged change's named owner can explain it, and deliberately put junior engineers on verification work.]]></description>
+      <dc:creator>Soumendra Mohanty</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 07:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>When To Build Your Own AI Model (And When To Stop Kidding Yourself)</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/when-to-build-your-own-ai-model-and-when-to-stop-kidding-yourself</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/when-to-build-your-own-ai-model-and-when-to-stop-kidding-yourself</guid>
+      <description><![CDATA[Reshef, cofounder of Gong, says post-training a small model can beat off-the-shelf options on a narrow task, but dismisses startup claims that fine-tuning creates a "proprietary moat" because real defensibility comes from proprietary data, feedback loops, strong evals and the harness around the model. Reshef's test weighs scale (millions of inference calls a month, not thousands), how narrow and repeatable the task is, whether prompting has been pushed as far as it can go, and whether simply renegotiating an API contract would do the job. Fine-tuned models also need hosting and periodic retraining as they age, so Reshef advises starting broad and specializing only "when the task is stable and the economics justify it."]]></description>
+      <dc:creator>Eilon Reshef</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 07:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Why Most Enterprise AI Spending Automates The Wrong Part</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/why-most-enterprise-ai-spending-automates-the-wrong-part</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/why-most-enterprise-ai-spending-automates-the-wrong-part</guid>
+      <description><![CDATA[When Superlinked had to rebuild its outbound sales with fewer people, Gutkovich first had Claude write more emails to more people, which raised volume while replies "barely moved." Noting that 56% of CEOs in PwC's 2026 survey reported no significant financial benefit from AI, Gutkovich argues most spending speeds up single tasks while the bottleneck just moves, and describes redesigning around the outcome instead: agents now watch GitHub issues for engineers describing problems Superlinked solves and tailor outreach to them, while a person signs off on any first message to a senior leader. An early version contacted the projects' own maintainers, often competitors, a misfire Gutkovich found more instructive than weeks of trouble-free operation.]]></description>
+      <dc:creator>Ben Gutkovich</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>As AI Videos Terrify Hollywood, Is It Time To Hand IP Management To The Masses?</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/as-ai-videos-terrify-hollywood-is-it-time-to-hand-ip-management-to-the-masses</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/as-ai-videos-terrify-hollywood-is-it-time-to-hand-ip-management-to-the-masses</guid>
+      <description><![CDATA[Citing a viral Seedance 2.0 rooftop fight between AI versions of Brad Pitt and Tom Cruise, made from a two-line prompt, and Disney's cease-and-desist letter to ByteDance, McKenna argues that studios cannot scale enforcement fast enough to contain AI-generated use of their characters. McKenna, cofounder of Alien Worlds, proposes handing IP stewardship to fan communities on the model of Bitcoin's consensus rules, with on-chain voting and built-in arbitration deciding what counts as official canon. McKenna concedes the idea does little about people who monetize famous characters with AI, acknowledging "There are no easy answers."]]></description>
+      <dc:creator>Saro McKenna</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 06:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Enterprise Software No Longer Has Just One User</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/enterprise-software-no-longer-has-just-one-user</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/enterprise-software-no-longer-has-just-one-user</guid>
+      <description><![CDATA[Bose, Asana's chief product officer, argues that AI agents won't kill the enterprise user interface but add a second kind of participant, one that needs structured, machine-readable context on ownership, permissions, approvals and past decisions to work safely. People still direct, inspect and judge the work, Bose writes, citing Asana research in which 85% of surveyed workers said a person should review everything agents produce, and predicting chat will serve as "an entry point rather than the whole product." The larger task is a shared "company brain" so humans and agents work from the same organizational context, the gap 73% of IT decision makers in earlier Asana research blamed for AI initiatives at least sometimes failing or stalling.]]></description>
+      <dc:creator>Arnab Bose</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 06:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Can Your Callers Reach You? A Regulator Will Want The Evidence That Says So</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/09/can-your-callers-reach-you-a-regulator-will-want-the-evidence-that-says-so</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/09/can-your-callers-reach-you-a-regulator-will-want-the-evidence-that-says-so</guid>
+      <description><![CDATA[Dunne, CEO of call-testing company Klearcom, argues that when regulators examine voice channels, the question is whether callers can reach a company and whether it can prove it, yet in Dunne's experience many contact center leaders cannot say who owns the line from the carrier to the end of the call. Klearcom's test calls keep turning up gaps: roughly one in 10 lines at a U.S. health insurer failed to connect or played a leftover test recording, and nearly 15% of calls to a life sciences customer's lines in China failed, clustered around the emergency option for serious reactions. Dunne recommends a single accountable owner, a higher standard for regulated lines such as adverse-event and card-blocking numbers, testing from outside the company's own systems like a real caller, and retesting whenever routing, menus, platforms or AI models change.]]></description>
+      <dc:creator>Liam Dunne</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 06:15:00 -0700</pubDate>
+    </item>
     <item>
       <title>19 Startup Habits Tech Companies Should Never Outgrow</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/06/19-startup-habits-tech-companies-should-never-outgrow</link>
@@ -729,86 +809,6 @@
       <description><![CDATA[VitalEdge Technologies product chief Shriram Rajagopal argues that good AI platforms balance speed with deliberate friction, like autocorrect working silently while grammar check asks whether you meant it. Drawing on software for equipment dealerships, he says tools must fit real conditions, such as letting a bulldozer technician scan a serial-number plate instead of typing 17 characters, and should give concise but actionable answers rather than verbose or incomplete ones. Like bike brakes that let riders go faster, AI should flag uncertainty, invite users' firsthand knowledge by asking "What are you seeing that I'm not?" and pause before irreversible or risky steps, without causing alert fatigue.]]></description>
       <dc:creator>Shriram Rajagopal</dc:creator>
       <pubDate>Tue, 27 Oct 2026 06:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Next Space Race Will Be Won On Earth</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-next-space-race-will-be-won-on-earth/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-next-space-race-will-be-won-on-earth/</guid>
-      <description><![CDATA[Najwa Aaraj, CEO of the Technology Innovation Institute and QuantumGate, argues that "space sovereignty" means having the people, technology and institutional knowledge to make critical mission decisions, not just owning a satellite. She says AI and increasingly distant, complex missions demand autonomous spacecraft that can act when signals from Earth arrive too slowly, citing the UAE's planned 2028 probe to the asteroid belt. Building that capability, she writes, takes expertise across the full mission chain, from design and hardware to data processing and AI, so countries bring their own talent and technology to international partnerships.]]></description>
-      <dc:creator>Dr. Najwa Aaraj</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 10:00:56 -0600</pubDate>
-    </item>
-    <item>
-      <title>How Enterprise AI Agents Earn Autonomy</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/how-enterprise-ai-agents-earn-autonomy/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/how-enterprise-ai-agents-earn-autonomy/</guid>
-      <description><![CDATA[AWS generative AI manager Swapnil Upganlawar argues that before an AI agent is allowed to take consequential actions such as issuing refunds, teams must define the cases it may handle, the evidence it needs, and how mistakes will be caught and fed back. He recommends measuring verified completed transactions rather than completion rates, sampling apparently successful cases as well as escalations, and counting the human time spent checking and fixing the agent's work, illustrated with a hypothetical 1,000-refund batch costing about $2.11 per verified outcome. His preferred path runs from proposed actions to human approval to limited execution, with permissions revisited when policies change or new errors surface.]]></description>
-      <dc:creator>Swapnil Upganlawar</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 08:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why Agentic AI Is A Workflow Story, Not A Task Story</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/why-agentic-ai-is-a-workflow-story-not-a-task-story/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/why-agentic-ai-is-a-workflow-story-not-a-task-story/</guid>
-      <description><![CDATA[TAINA Technology CEO Maria Scott argues that firms evaluating AI in financial services focus too much on speeding up individual tasks and too little on agentic workflows that can respond to what they encounter mid-process. Using tax operations as an example, she describes an agent assembling W-8IMY documentation for payments to intermediaries, moving fully supported allocations forward, requesting missing paperwork for individual payees and routing conflicts to specialists without making the tax determination itself. She says the real sophistication lies in how clearly the boundaries are drawn between agent orchestration, deterministic regulatory rules and human judgment.]]></description>
-      <dc:creator>Maria Scott</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 08:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI Isn't Replacing Customer Success; It's Rewiring It</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/ai-isnt-replacing-customer-success-its-rewiring-it/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/ai-isnt-replacing-customer-success-its-rewiring-it/</guid>
-      <description><![CDATA[Meza AI CEO Abhishek Yadav cites a Gartner survey in which only 20% of customer service leaders cut staff because of AI, while 55% held headcount steady with higher volumes and 42% were hiring specialized AI roles, as evidence that AI is reshaping customer success rather than replacing it. Drawing on McKinsey's agentic-organization roles, he maps AI-augmented front-line workers to CSMs, T-shaped experts to customer engineers and M-shaped supervisors to CS leaders who manage portfolios of agents. He argues agents give CSMs sharper account insight, while judgment under social pressure stays human, shifting the job toward designing and auditing what agents do.]]></description>
-      <dc:creator>Abhishek Yadav</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 07:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Your Security AI Needs A Flight Simulator</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/your-security-ai-needs-a-flight-simulator/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/your-security-ai-needs-a-flight-simulator/</guid>
-      <description><![CDATA[SimSpace CTO Lee Rossey uses Capt. Chesley "Sully" Sullenberger's Hudson River landing to argue that, like pilots training in simulators, security teams can't prepare for AI-driven attacks using historical telemetry alone. He cites Anthropic's Mythos preview, which found a 27-year-old OpenBSD vulnerability and chained four flaws into one exploit, as evidence that AI can open attack paths defenders have never seen. Rossey advocates "hyper-synthetic data" generated by re-creating plausible attacks in controlled environments, varying their timing and sequence to train security AI and analysts and expose detection gaps before a real attack.]]></description>
-      <dc:creator>Lee Rossey</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 07:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Cost Of Cutting Corners: Planning Healthcare Cybersecurity And Recovery Around Patient Care</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-cost-of-cutting-corners-planning-healthcare-cybersecurity-and-recovery-around-patient-care/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-cost-of-cutting-corners-planning-healthcare-cybersecurity-and-recovery-around-patient-care/</guid>
-      <description><![CDATA[Visiontech Systems CEO Aliasgar Dohadwala, citing IBM's finding that healthcare breaches cost an average of $6.64 million, urges hospital leaders to plan cybersecurity and recovery spending around one question: what would happen to patient care if a given service went down? He recommends mapping critical clinical workflows and their technology dependencies, checking whether existing controls actually work before buying more, budgeting for the people who respond to alerts, and regularly testing full restoration rather than assuming backups suffice. Downtime procedures should be rehearsed with clinical departments, and any cut to a critical control should spell out which service becomes more exposed and who accepts that risk.]]></description>
-      <dc:creator>Aliasgar Dohadwala</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 07:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why Advertising Is Shifting From Attribution To AI-Based Prediction Models</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/why-advertising-is-shifting-from-attribution-to-ai-based-prediction-models/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/why-advertising-is-shifting-from-attribution-to-ai-based-prediction-models/</guid>
-      <description><![CDATA[SmartyAds consultant Ivan Guzenko argues that click-based attribution is losing its footing as privacy rules and cookie blocking in browsers like Safari and Firefox erode cross-site tracking, citing Mediaocean survey data that marketers trust AI for analysis far more than for campaign decisions. He sees prediction taking over through a revival of marketing mix modeling, incrementality testing and AI models trained inside data clean rooms. Guzenko advises cleaning up data flows between DSPs, CRMs and measurement tools, demanding transparency from vendors, and keeping humans in the loop, warning that an opaque forecast is "just attribution's black box wearing a new label."]]></description>
-      <dc:creator>Ivan Guzenko</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 07:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Forward-Deployed Engineering From Within</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/forward-deployed-engineering-from-within/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/forward-deployed-engineering-from-within/</guid>
-      <description><![CDATA[Canadian Tire Corp. EVP and CITO Rex Lee notes the rush by Accenture and Microsoft, AWS and Tata Consultancy Services to build forward-deployed engineer teams, but argues that "Vendor FDEs make their products better. Internal FDEs make the enterprise better." He says AI tools make rapid prototypes easy, but ungoverned citizen development risks a sprawl of redundant point solutions, so companies need layered delivery from citizen development to FDE-enabled to fully engineered systems. Internal FDEs embedded with business teams, he writes, keep institutional knowledge in-house and feed reusable patterns back into shared platforms, though the model requires change management, talent investment and clear guardrails.]]></description>
-      <dc:creator>Rex Lee</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 06:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Connection Is Not Comprehension: Why AI Agents Need A Unified Semantic Layer</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/connection-is-not-comprehension-why-ai-agents-need-a-unified-semantic-layer/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/connection-is-not-comprehension-why-ai-agents-need-a-unified-semantic-layer/</guid>
-      <description><![CDATA[Denodo senior product director Felix Liao argues that protocols like MCP make it easy to connect AI agents to enterprise data, but "connection is not comprehension": without shared business definitions, agents guess at what fields like revenue mean and act on errors "at machine speed." Wiring agents directly to each source produces inconsistent answers and fragmented governance, he says, while centralizing data in a lakehouse misses sources that can't be moved and lags operational systems. He recommends a unified semantic layer that defines metrics, terms and access policies once across all sources, along with auditing existing definitions and assigning owners to core metrics.]]></description>
-      <dc:creator>Felix Liao</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 06:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Will Physical AI Bring A “Coding Agent” To Physical Businesses?</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/26/will-physical-ai-bring-a-coding-agent-to-physical-businesses/</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/26/will-physical-ai-bring-a-coding-agent-to-physical-businesses/</guid>
-      <description><![CDATA[Palona CEO Maria Zhang argues that restaurants, stores and warehouses could get the equivalent of coding agents, but only with AI models that understand real-world interactions rather than simply describing camera scenes. She says such models need spatial grounding, temporal continuity through occlusion and semantic context to tell, for instance, a customer waiting to order from one passing through, and points to self-supervised approaches like Meta's V-JEPA 2. Noting that live trials affect staff and customers in ways software tests do not ("A codebase can be branched; the lunch rush cannot."), she recommends advancing from recorded-event evaluation and simulation to shadow-mode recommendations before granting agents broader authority.]]></description>
-      <dc:creator>Maria Zhang</dc:creator>
-      <pubDate>Mon, 26 Oct 2026 06:15:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
