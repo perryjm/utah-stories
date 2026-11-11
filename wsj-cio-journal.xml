@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 22:25:31 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:49:33 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Why Nvidia CEO Jensen Huang Is Unique</title>
+      <link>https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8</guid>
+      <description><![CDATA[Steven Rosenbush writes that Nvidia's board may test whether anyone is truly irreplaceable, crediting Jensen Huang's founder vision for turning an early bet on videogame graphics chips into a $4.5 trillion AI powerhouse while warning that Huang's misstep has put the company "in a uniquely precarious position." Some attendees at the WSJ Leadership Institute's board summit questioned whether Nvidia's directors moved too quickly to protect Huang over his relationship with a Singapore-based data center executive whom U.S. officials believe fed intelligence to China, and the newsletter notes the chip maker has no chairman, no succession plan and, as of last spring, three of its 10 independent directors in their seats for 25 years or more. It also covers President Trump's defense of Huang ("I really believe him") and several tech leaders' plans to push ahead with AI whatever happens to regulation after the election.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 07:28:00 -0700</pubDate>
+    </item>
     <item>
       <title>Enterprises Say AI Regulation Won’t Stop Corporate Innovation</title>
       <link>https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c</link>
@@ -105,14 +113,6 @@
       <description><![CDATA[In this Morning Download, Belle Lin reports that Oracle has launched Oracle AI Workspace, a single ChatGPT entry point that draws on its connected applications and data, which Oracle Cloud Infrastructure's Karan Batta called "OpenAI's coming out party to be enterprise-ready." The companies are also co-engineering Oracle AI Security Mesh, a managed vulnerability service, as OpenAI CEO Sam Altman said at the same conference that he was shocked by how many flaws AI systems are finding. Oracle also said it will be the first major cloud outside Google to offer Google TPUs and will add Cerebras chips in 2027, as Nasdaq futures rose ahead of Microsoft and Alphabet earnings.]]></description>
       <dc:creator>Belle Lin</dc:creator>
       <pubDate>Wed, 28 Oct 2026 07:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Says Enterprise AI Adoption Remains in ‘Early Phases’</title>
-      <link>https://www.wsj.com/cio-journal/anthropic-says-enterprise-ai-adoption-remains-in-early-phases-d3e93c47</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/anthropic-says-enterprise-ai-adoption-remains-in-early-phases-d3e93c47</guid>
-      <description><![CDATA[In this Morning Download, Steven Rosenbush reads Anthropic's roughly 400-page S-1 as evidence that AI is paying off inside individual companies, citing a case study in which orders placed with Walmart's Sparky assistant, built using Anthropic models, are 35% higher in value, even as Apollo's Torsten Slok finds little macroeconomic payoff outside big tech. Anthropic itself says "enterprises are still in early phases of deployment," and Rosenbush argues its biggest challenge is the go-to-market side, including partnerships and Ode, an AI services company launched with Blackstone and Hellman & Friedman. The newsletter also notes the prospectus shows first-half revenue of $16.3 billion, up from $1.2 billion, an $80.7 billion net loss tied largely to an accounting adjustment, and more than $475 billion in compute commitments ahead of a listing under the ticker ANT.]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 07:24:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
