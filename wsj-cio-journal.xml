@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:49:33 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:11:08 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>AI Is Testing the Limits of Corporate Governance</title>
+      <link>https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d</guid>
+      <description><![CDATA[Drawing on remarks at the WSJ Leadership Institute's board summit in Palm Beach, Steven Rosenbush writes that directors regard AI as here to stay and want governance to keep pace, with SLB and Adidas board member Jing Ulrich saying "Technology changes faster than governance" and ExCo Group's Shellye Archambeau noting that the talk has shifted from cutting heads to driving strategy. GM and Procter & Gamble director Joe Jimenez asked how the next generation of leaders will develop if AI eliminates or radically reshapes entry-level jobs. The newsletter also notes that CoreWeave beat revenue expectations and raised its guidance, and that Wachtell Lipton will lead an independent probe into whether Nvidia was targeted by foreign espionage.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 07:38:00 -0700</pubDate>
+    </item>
     <item>
       <title>Why Nvidia CEO Jensen Huang Is Unique</title>
       <link>https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8</link>
@@ -105,14 +113,6 @@
       <description><![CDATA[In this Morning Download, Tom Loftus argues that this week's tech earnings show serving AI may be the easy part, while business models, organizational structure and staffing are far harder to fix and can't simply be bought the way capacity can. Google's cloud business grew 103% and Microsoft's Azure 48%, yet slowing search growth helped send Alphabet shares down about 10% after hours, ServiceNow fell 14% on fears AI will upend its business, and Microsoft offered buyouts to about 60,000 employees. Microsoft strategy chief Kathleen Hogan told the WSJ Leadership Institute that the company's biggest error was leading with technology rather than people and process, saying, "A bad process with AI is still a bad process."]]></description>
       <dc:creator>Tom Loftus</dc:creator>
       <pubDate>Thu, 29 Oct 2026 07:12:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Oracle Creates AI Workspace on ChatGPT</title>
-      <link>https://www.wsj.com/cio-journal/oracle-creates-ai-workspace-on-chatgpt-30d37410</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/oracle-creates-ai-workspace-on-chatgpt-30d37410</guid>
-      <description><![CDATA[In this Morning Download, Belle Lin reports that Oracle has launched Oracle AI Workspace, a single ChatGPT entry point that draws on its connected applications and data, which Oracle Cloud Infrastructure's Karan Batta called "OpenAI's coming out party to be enterprise-ready." The companies are also co-engineering Oracle AI Security Mesh, a managed vulnerability service, as OpenAI CEO Sam Altman said at the same conference that he was shocked by how many flaws AI systems are finding. Oracle also said it will be the first major cloud outside Google to offer Google TPUs and will add Cerebras chips in 2027, as Nasdaq futures rose ahead of Microsoft and Alphabet earnings.]]></description>
-      <dc:creator>Belle Lin</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 07:00:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
