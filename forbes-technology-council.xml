@@ -6,10 +6,82 @@
     <atom:link href="https://www.forbes.com/councils/forbestechcouncil/" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and innovation insights from Forbes Technology Council</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:27:10 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:39:06 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>The Bedside Is A New Attack Surface: Securing Medical Devices In The Age Of AI</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-bedside-is-a-new-attack-surface-securing-medical-devices-in-the-age-of-ai</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-bedside-is-a-new-attack-surface-securing-medical-devices-in-the-age-of-ai</guid>
+      <description><![CDATA[<p>Fractional vCISO Dan Sorensen argues that medical device security has become one of cybersecurity's most consequential areas, citing Claroty findings that 89% of 351 healthcare organizations had internet-exposed devices with vulnerabilities exploited in active ransomware campaigns. With more than a thousand FDA-authorized AI-enabled devices, he warns of threats such as data poisoning, model evasion and performance drift that traditional device security programs weren't built to catch. An attacker, he writes, could "quietly degrade the model so it misses a tumor" without anyone noticing for months.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6af5ee35dd403a4b47e029d5/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="The Bedside Is A New Attack Surface: Securing Medical Devices In The Age Of AI" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-bedside-is-a-new-attack-surface-securing-medical-devices-in-the-age-of-ai">The Bedside Is A New Attack Surface: Securing Medical Devices In The Age Of AI</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Dan Sorensen</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 07:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Beyond Good Intentions: Strong Algorithms, Weak Keys And The Assumptions AI Is Exposing</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/beyond-good-intentions-strong-algorithms-weak-keys-and-the-assumptions-ai-is-exposing</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/beyond-good-intentions-strong-algorithms-weak-keys-and-the-assumptions-ai-is-exposing</guid>
+      <description><![CDATA[<p>Qrypt cofounder Denis Mandich says two October disclosures — Anthropic's reconstruction of how several NIST elliptic-curve seeds were generated and the discovery of weak private keys in internet trust infrastructure — show that familiar standards and trusted institutions aren't sufficient assurance on their own. He cautions that a mundane cause, like a deprecated random-number generator, explains how a result arose but not why it was chosen, since "apparent carelessness cannot, by itself, establish innocence." He urges security teams to use new AI tools to "trust but verify" their cryptographic foundations.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6af5ed5be5fe985d2e816beb/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Beyond Good Intentions: Strong Algorithms, Weak Keys And The Assumptions AI Is Exposing" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/beyond-good-intentions-strong-algorithms-weak-keys-and-the-assumptions-ai-is-exposing">Beyond Good Intentions: Strong Algorithms, Weak Keys And The Assumptions AI Is Exposing</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Denis Mandich</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 07:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Securing The Modern Shop Floor: Why Cybersecurity Needs Operational Trust</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/securing-the-modern-shop-floor-why-cybersecurity-needs-operational-trust</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/securing-the-modern-shop-floor-why-cybersecurity-needs-operational-trust</guid>
+      <description><![CDATA[<p>Claudio Laterreur argues that getting systems back online after a cyber incident doesn't prove operations are safe, and proposes operational trust — confidence that operations behave as intended and that recovery returns them to a verified, known-good state. He lists warning signals such as unauthorized setpoint changes, abnormal machine behavior and quality drift, noting each could also stem from maintenance, sensor errors or human mistakes. Four tests — business exposure, approved tolerance, operating explanation and cyber pathway — help leaders decide when to escalate a joint cyber and operations investigation.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6af5ec6e9cdc6811f020c476/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Securing The Modern Shop Floor: Why Cybersecurity Needs Operational Trust" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/securing-the-modern-shop-floor-why-cybersecurity-needs-operational-trust">Securing The Modern Shop Floor: Why Cybersecurity Needs Operational Trust</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Claudio Laterreur</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 07:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Your AI Agents Need Performance Reviews, Too</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/your-ai-agents-need-performance-reviews-too</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/your-ai-agents-need-performance-reviews-too</guid>
+      <description><![CDATA[<p>Hack The Box CEO Haris Pylarinos recounts an AI coding agent that deleted his personal project's production database overnight, noting that "being honest about destroying a database doesn't undo the damage." He argues agents need ongoing evaluations much like employees, because their behavior can shift as models and inputs change, and should arguably be held to a higher standard than humans. Leaders should define each agent's tasks, permitted decisions, system access and escalation conditions, then assess accuracy, repeatability, scope discipline and recovery when things go wrong.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6ae22c54c40811ddcf5bed5e/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Your AI Agents Need Performance Reviews, Too" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/your-ai-agents-need-performance-reviews-too">Your AI Agents Need Performance Reviews, Too</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Haris Pylarinos</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>How Physical AI Will Make The Network Part Of The Machine</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/how-physical-ai-will-make-the-network-part-of-the-machine</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/how-physical-ai-will-make-the-network-part-of-the-machine</guid>
+      <description><![CDATA[<p>Lancesoft's Venkatesh Gokulraju envisions networks that don't just carry data for robots and autonomous machines but help them sense, decide and act, picturing an airfield baggage tractor that keeps working through satellite-navigation interference. Physical AI, he writes, scores networks on "whether the right decision arrives while it still applies," splitting intelligence across machine, edge and cloud or satellite layers. He expects radio sites to become AI sites, the edge to become a decision layer and determinism to become a product, with many of the hardest hurdles being organizational.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6af5ea88e6fe4eb0e63b6f59/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="How Physical AI Will Make The Network Part Of The Machine" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/how-physical-ai-will-make-the-network-part-of-the-machine">How Physical AI Will Make The Network Part Of The Machine</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Venkatesh Gokulraju</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 06:45:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Where To Draw The Line On Agentic AI's Autonomy</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/where-to-draw-the-line-on-agentic-ais-autonomy</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/where-to-draw-the-line-on-agentic-ais-autonomy</guid>
+      <description><![CDATA[<p>rSTAR's Vivek Ahuja says enterprises should set autonomy limits for each action an AI agent takes rather than for the agent as a whole, citing Deloitte research that close to three-quarters of companies plan to deploy agentic AI within two years while only 21% have a mature governance model. He suggests asking what happens if the agent errs, whether the action can be reversed and whether it affects a customer's rights, safety or finances, then sorting actions into acting independently, preparing for approval, or stopping and escalating. Those boundaries, he writes, should be enforced through system permissions, transaction limits and approval controls.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6a2850806a3b3377f395550e/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Where To Draw The Line On Agentic AI's Autonomy" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/where-to-draw-the-line-on-agentic-ais-autonomy">Where To Draw The Line On Agentic AI's Autonomy</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Vivek Ahuja</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 06:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>An AI Kill Switch Is A Comforting Illusion</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/an-ai-kill-switch-is-a-comforting-illusion</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/an-ai-kill-switch-is-a-comforting-illusion</guid>
+      <description><![CDATA[<p>Mindgard's Peter Garraghan argues that the AI kill switch debated in Congress amounts to existing operational controls — stopping inference, cutting access and rolling back — and that calling it an AI kill switch "is just marketing." The hard part is deciding what should trigger it, since most AI failures such as model drift and slow data leakage are quiet, and a switch waiting on a human engages only after the damage is done. He urges defense-in-depth through threat modeling, red teaming and continuous monitoring, keeping the kill switch as a last line of defense.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6af5e8c58be3c5525aff583e/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="An AI Kill Switch Is A Comforting Illusion" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/an-ai-kill-switch-is-a-comforting-illusion">An AI Kill Switch Is A Comforting Illusion</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Peter Garraghan</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 06:15:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Race To Produce Ads Faster Is A Race Toward The Middle</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-race-to-produce-ads-faster-is-a-race-toward-the-middle</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-race-to-produce-ads-faster-is-a-race-toward-the-middle</guid>
+      <description><![CDATA[<p>Predis.ai cofounder Tanmay Ratnaparkhe argues that generative tools have made ad production so fast that speed is now a baseline rather than an advantage, since competitors use the same tools. Because the models gravitate toward what is statistically likely, he says the race pushes everyone toward the middle, citing a 2026 meta-analysis that found a small but significant homogenization effect, and faster iteration "only gets you there faster." The scarce skill now is judging which of many options deserves a real budget and being able to justify that choice.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6af5e78d4bf5bba8d42dfa76/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="The Race To Produce Ads Faster Is A Race Toward The Middle" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-race-to-produce-ads-faster-is-a-race-toward-the-middle">The Race To Produce Ads Faster Is A Race Toward The Middle</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Tanmay Ratnaparkhe</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Application Bloat Is An Emergency Waiting To Happen</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/13/application-bloat-is-an-emergency-waiting-to-happen</link>
+      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/11/13/application-bloat-is-an-emergency-waiting-to-happen</guid>
+      <description><![CDATA[<p>Jason Rose describes a hospital IT leader who renewed a six-figure application contract just as the parent health system bought a different platform for the same function, an example of duplicated software spending he says costs health systems more than they realize. He recommends an application portfolio modernization analysis, using tools such as Gartner's TIME framework, to find overlapping systems, measure what they cost and pick which should become the standard. A 2026 CHIME survey found 76% of CIOs call application rationalization critical, but only one in five have a fully implemented program.</p><img src="https://imageio.forbes.com/specials-images/imageserve/69dd3a9300cf018b49a3ff47/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Application Bloat Is An Emergency Waiting To Happen" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/11/13/application-bloat-is-an-emergency-waiting-to-happen">Application Bloat Is An Emergency Waiting To Happen</a> - forbes.com</li></ul>]]></description>
+      <dc:creator>Jason Rose</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 05:45:00 -0700</pubDate>
+    </item>
     <item>
       <title>19 Ways To Rethink Network Design For Distributed Workloads</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2026/11/12/19-ways-to-rethink-network-design-for-distributed-workloads</link>
@@ -650,85 +722,5 @@
       <dc:creator>Shelli Brunswick</dc:creator>
       <pubDate>Mon, 02 Nov 2026 06:30:00 -0700</pubDate>
     </item>
-    <item>
-      <title>The Hidden Risk In Automating Financial Models With AI</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-hidden-risk-in-automating-financial-models-with-ai</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-hidden-risk-in-automating-financial-models-with-ai</guid>
-      <description><![CDATA[<p>Aritra Pal, who builds machine learning and risk models for regulated banks, argues the failure to fear in automated financial modeling isn't a wrong number but "a model still running smoothly after everyone who understood it has left," recalling a sound model pulled from production because nobody could explain an undocumented first-week design choice. Pal says leaders should ask where the data comes from rather than which algorithm is used, since stitching together legacy systems with undocumented quirks is the real work and automation lets bad inputs reach decisions faster. Pal's remedies include recording decisions as they're made, writing explainability into the design from day one, planning drift monitoring ahead of time, and sometimes choosing a simpler model a validator can follow.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6aa0793f5626f41373e0467d/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="The Hidden Risk In Automating Financial Models With AI" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-hidden-risk-in-automating-financial-models-with-ai">The Hidden Risk In Automating Financial Models With AI</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Aritra Pal</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 08:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Change Management For Agentic Data Modernization</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/change-management-for-agentic-data-modernization</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/change-management-for-agentic-data-modernization</guid>
-      <description><![CDATA[<p>Onix's Gaurav Aggarwal argues that agentic AI turns data modernization into a change-management problem, citing a McKinsey finding that nearly two-thirds of companies had piloted agents but fewer than 10% got value at scale. Using the ADKAR model, Aggarwal recommends explaining how employees' days will change, bringing frontline experts into setting an agent's boundaries, having agents propose actions before acting, and matching oversight to each action's consequences rather than demanding approvals that cause consent fatigue. In one invoice project, Aggarwal found finance staff still checking spreadsheets because they were catching exceptions the automation missed, a lesson that manual work can hold business knowledge.</p><img src="https://imageio.forbes.com/specials-images/imageserve/64e7e573efb4781c2d4af6c1/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Change Management For Agentic Data Modernization" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/change-management-for-agentic-data-modernization">Change Management For Agentic Data Modernization</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Gaurav Aggarwal</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Next Data Center Bottleneck Is Decision Intelligence At Speed</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed</guid>
-      <description><![CDATA[<p>Jayashree Arunkumar argues the AI data center buildout is constrained less by chips or power than by how quickly operators can coordinate decisions across construction, procurement, finance and operations, as GPU racks climb to 100-120 kW and transformers face long lead times. In an illustrative case, agents working in parallel find an idle high-voltage transformer at a permit-delayed Arizona site, weigh whether rerouting it to a Texas project creates more value than risk, and route the capital transfer to a financial controller for approval before booking the ledger entries. Arunkumar says the approach is only trustworthy with deterministic guardrails, approval thresholds, regional data boundaries and clear accountability for high-impact decisions.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6ae3ba6eac0cd901dda741d7/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="The Next Data Center Bottleneck Is Decision Intelligence At Speed" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed">The Next Data Center Bottleneck Is Decision Intelligence At Speed</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Jayashree Arunkumar</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 07:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why Your Compliance Vendor Might Be Your Biggest Security Risk</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-your-compliance-vendor-might-be-your-biggest-security-risk</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-your-compliance-vendor-might-be-your-biggest-security-risk</guid>
-      <description><![CDATA[<p>Casey Carlton of Treeline uses an unproven, denied whistleblower allegation that a compliance startup mass-produced SOC 2 reports from templated evidence to argue that automation has turned SOC 2 from security assurance into a sales asset. Because platforms, auditors and buyers each optimize for speed, throughput or convenience, Carlton writes, "the how is the product," and buyers should ask whether they can choose their own auditor, how insufficient evidence is handled, and what a vendor contractually guarantees. Companies caught with questionable reports may have made customer representations they can't back up, and several of the startup's customers had to recertify.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6ae3b8ce4185cdc39fd48e1a/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Why Your Compliance Vendor Might Be Your Biggest Security Risk" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-your-compliance-vendor-might-be-your-biggest-security-risk">Why Your Compliance Vendor Might Be Your Biggest Security Risk</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Casey Carlton</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 07:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Generative AI Demands A Reimagined Data Center</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/generative-ai-demands-a-reimagined-data-center</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/generative-ai-demands-a-reimagined-data-center</guid>
-      <description><![CDATA[<p>Xin Guo argues that with bot and agent traffic overtaking human traffic, AI capability now depends on data infrastructure, noting that a single chat prompt can generate gigabytes of context cache that, if it can't be stored and served promptly, leads to truncated answers, wasted recomputation or hallucination. Multimodal and physical AI multiply the volumes, so data centers should be designed as one continuous memory pool tiered from HBM through fast and high-capacity SSDs to archive, with high-capacity storage now a key choke point that shapes token throughput and return on capital. Guo warns against locking in rigid designs based on today's workloads in favor of standardized, flexible infrastructure that can scale.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6ae2376c9ddf5be26fa009ed/0x0.jpg?format=jpg&amp;crop=4300,2417,x0,y216,safe&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Generative AI Demands A Reimagined Data Center" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/generative-ai-demands-a-reimagined-data-center">Generative AI Demands A Reimagined Data Center</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Xin Guo</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 07:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Why The Biggest Risk In Enterprise AI Isn’t The Technology; It’s Waiting To Get Ready</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-the-biggest-risk-in-enterprise-ai-isnt-the-technology-its-waiting-to-get-ready</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-the-biggest-risk-in-enterprise-ai-isnt-the-technology-its-waiting-to-get-ready</guid>
-      <description><![CDATA[<p>Todd Bernson, chief AI officer at BSC Analytics, argues enterprises can wait on any particular AI model but not on building the data access, integrations, governance and skills needed to use one, comparing today's hesitation to firms that lagged on cloud and now carry monoliths that resist AI. Bernson says the hardest work is organizational, getting siloed teams to agree on access and responsibilities, and that showing what AI can do "is not a business case." Bernson's advice is to start from the highest-impact business problem, measure the current process, set targets and an owner, and make each deployment leave something reusable behind.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6aa45743acc13cbfb3220137/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Why The Biggest Risk In Enterprise AI Isn’t The Technology; It’s Waiting To Get Ready" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/why-the-biggest-risk-in-enterprise-ai-isnt-the-technology-its-waiting-to-get-ready">Why The Biggest Risk In Enterprise AI Isn’t The Technology; It’s Waiting To Get Ready</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Todd Bernson</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 07:15:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>The Decade Of Dashboards Is Over: Executives Need Adaptive AI Plus Decision Intelligence</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-decade-of-dashboards-is-over-executives-need-adaptive-ai-plus-decision-intelligence</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-decade-of-dashboards-is-over-executives-need-adaptive-ai-plus-decision-intelligence</guid>
-      <description><![CDATA[<p>Greg Genung, founder of Snowfire AI, argues that missed forecasts often trace not to missing data but to signals like support spikes or a disengaged champion that sat in separate systems and never reached the decision. Dashboards give "a static answer to a question someone asked months ago," Genung writes, so rather than replacing CRM, ERP and BI investments, companies should add an adaptive layer that reasons across them and updates a call, such as discounting a deal and then restoring confidence, as conditions change. Genung recommends starting with the handful of decisions that most move the quarter, naming owners and the systems that hold the evidence for each.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6a0cdcfed39e5b3e7133510e/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="The Decade Of Dashboards Is Over: Executives Need Adaptive AI Plus Decision Intelligence" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-decade-of-dashboards-is-over-executives-need-adaptive-ai-plus-decision-intelligence">The Decade Of Dashboards Is Over: Executives Need Adaptive AI Plus Decision Intelligence</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Greg Genung</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 07:00:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>20 Years Of Cybersecurity, One New Recovery Challenge</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/20-years-of-cybersecurity-one-new-recovery-challenge</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/20-years-of-cybersecurity-one-new-recovery-challenge</guid>
-      <description><![CDATA[<p>Veeam's Rick Vanover traces how cyber recovery has evolved over 20 years from tape retrieval after hardware failures to an assumption that attacks will happen, and argues agentic AI adds a new risk: authorized systems making unintended changes at machine speed. If an agent wrongly alters thousands of customer records, rolling back to an earlier point could also erase legitimate later changes, so teams need to know what each agent can access and change and be able to reverse only its bad actions. Vanover urges least-privilege access for agents, extra scrutiny for high-impact actions, and recovery drills tested against agent-caused incidents before one occurs.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6ab14e007cafbe78cc7f8a31/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="20 Years Of Cybersecurity, One New Recovery Challenge" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/20-years-of-cybersecurity-one-new-recovery-challenge">20 Years Of Cybersecurity, One New Recovery Challenge</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Rick Vanover</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 06:45:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>Building A Company That Can Thrive Without You</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/building-a-company-that-can-thrive-without-you</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/building-a-company-that-can-thrive-without-you</guid>
-      <description><![CDATA[<p>Steve Murphy, who announced in summer 2026 a plan to step down after nine years as Epicor's CEO, argues succession planning should begin years ahead, noting that serious work on it began four or five years ago and that every direct report was expected to have a plan as well. Murphy describes giving a whiplashed company a stable long-term plan, including a cloud re-architecture that took three years instead of the expected 18 months, and favoring internal promotion, with insider Vaibhav Vohra as successor. Murphy's lessons include micromanaging less, making it safe to deliver bad news, and, once on the board, giving the new CEO room to make different decisions.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6ae395e5c3e695a8e23c5061/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="Building A Company That Can Thrive Without You" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/building-a-company-that-can-thrive-without-you">Building A Company That Can Thrive Without You</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Steve Murphy</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 06:30:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI Forces Organizations To A Higher Security Testing Maturity</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/10/30/ai-forces-organizations-to-a-higher-security-testing-maturity</link>
-      <guid isPermaLink="true">https://www.forbes.com/councils/forbestechcouncil/2026/10/30/ai-forces-organizations-to-a-higher-security-testing-maturity</guid>
-      <description><![CDATA[<p>Fortra's Rohit Dhamankar argues that AI has shrunk the window between vulnerability disclosure and exploitation to minutes and lets attackers automatically chain individually minor flaws, as in a CISA-FBI advisory on Ivanti appliances where four moderate issues added up to full compromise. Dhamankar says the response differs by organization, with non-developers prioritizing asset visibility and fast patching while software makers should expect an initial "barrage" of AI-found bugs and focus on prioritization. AI can exhaustively find known vulnerability classes, but discovering a new technique still takes a human, so Dhamankar urges continuous red teaming instead of twice-yearly compliance pentests.</p><img src="https://imageio.forbes.com/specials-images/imageserve/6adfb081a7ef84f08d289f3a/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds" alt="AI Forces Organizations To A Higher Security Testing Maturity" /><br /><h3>Sources:</h3><ul><li><a href="https://www.forbes.com/councils/forbestechcouncil/2026/10/30/ai-forces-organizations-to-a-higher-security-testing-maturity">AI Forces Organizations To A Higher Security Testing Maturity</a> - forbes.com</li></ul>]]></description>
-      <dc:creator>Rohit Dhamankar</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 06:15:00 -0600</pubDate>
-    </item>
-  </channel>
+    </channel>
 </rss>

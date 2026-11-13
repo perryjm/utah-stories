@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:27:10 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:39:06 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Nvidia Needs Three CEOs in One</title>
+      <link>https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c</guid>
+      <description><![CDATA[<p>In the Morning Download, Steven Rosenbush and former Apple, Microsoft and Google executive Sophia Velastegui contrast Apple's carefully signaled handoff from Steve Jobs to Tim Cook with Nvidia's abrupt, unplanned search after Jensen Huang's exit. "Nvidia needs three leaders in one," Velastegui said: a technologist engineers will follow, a trusted steward of the CUDA platform, and a statesperson Washington and Taipei will take calls from. She names AMD's Lisa Su, Google's Amin Vahdat and insider Ian Buck as possibilities and argues the next CEO must sell entire AI factories to governments, not just chips to cloud companies.</p><img src="https://images.wsj.net/im-17737957/social" alt="Nvidia Needs Three CEOs in One" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c">Nvidia Needs Three CEOs in One</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 08:07:00 -0700</pubDate>
+    </item>
     <item>
       <title>Nvidia Board Must Craft Epic Job Description for New CEO</title>
       <link>https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb</link>
@@ -114,13 +122,5 @@
       <dc:creator>Tom Loftus</dc:creator>
       <pubDate>Mon, 02 Nov 2026 07:04:00 -0700</pubDate>
     </item>
-    <item>
-      <title>Enterprise AI Is on the Ballot Too</title>
-      <link>https://www.wsj.com/cio-journal/enterprise-ai-is-on-the-ballot-too-36cdf06d</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/enterprise-ai-is-on-the-ballot-too-36cdf06d</guid>
-      <description><![CDATA[<p>In this Morning Download, Isabelle Bousquette argues that midterm-season tech policy fights could reach CIOs' AI plans even if aimed at frontier developers, citing Cato Institute fellow Jennifer Huddleston's warning that rules meant for AI companies "are going to impact an array of industries," from chatbot age verification to a state-by-state legal patchwork. Guardrails Alliance director Shaunna Thomas adds that labor proposals and voter appetite for job guarantees could shape how companies pair AI agents with human workers. The newsletter also notes that cloud revenue grew strongly amid a week of tech earnings selloffs, and that Mistral released its open-weight Mistral Large 4, which it pitches for coding and cybersecurity.</p><img src="https://images.wsj.net/im-14949592/social" alt="Enterprise AI Is on the Ballot Too" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/enterprise-ai-is-on-the-ballot-too-36cdf06d">Enterprise AI Is on the Ballot Too</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Isabelle Bousquette</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 07:09:00 -0600</pubDate>
-    </item>
-  </channel>
+    </channel>
 </rss>
