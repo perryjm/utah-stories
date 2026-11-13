@@ -17,6 +17,11 @@ copied into the feeds because the source articles are copyrighted. WSJ pages may
 require a subscription; the skill uses only text visible without bypassing access
 controls.
 
+Each item's `description` uses the Kagi News HTML shape that
+[kagi-audio](https://github.com/perryjm/kagi-audio) renders: a `<p>` summary,
+the article's lead image (`og:image`) as an `<img>`, then a `Sources:` list whose
+first entry is always the item's own article link.
+
 ## Install the tracked skill
 
 The repository copy is the source of truth. Install it into the local Claude

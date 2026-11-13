@@ -111,6 +111,12 @@ Use only material visible on the public page and do not bypass access controls.
      contributor/byline, and publication metadata. Prefer structured publication
      metadata when present. Capture short direct quotes only from text visible on
      the page.
+   - Capture the article's lead image URL from `<meta property="og:image">`
+     (fall back to `twitter:image`, then the first in-article hero `<img>`).
+     Use the absolute `https://` URL exactly as published, HTML-unescaping
+     `&amp;` and preserving any signed query parameters (e.g. Deseret's
+     `auth=`). The image is optional: if none is present, build the item
+     without one rather than recording an error.
    - Restrict body extraction to the article itself, excluding navigation,
      related-story cards, comments, and advertisements.
    - If a required headline, author, date, or sufficient source text cannot be identified, record
@@ -118,12 +124,31 @@ Use only material visible on the public page and do not bypass access controls.
 
 5. **Build each new RSS item.** Use the article page's headline and canonical
    permalink for `title`, `link`, and `<guid isPermaLink="true">`; use the
-   cleaned author name(s) for `dc:creator`; put the brief source-grounded
-   synthesis in a CDATA-wrapped `description`; and convert the selected source
+   cleaned author name(s) for `dc:creator`; put the description (shape below)
+   in a CDATA-wrapped `description`; and convert the selected source
    timestamp to RFC 822 using `America/Denver` so daylight-saving offsets are
    correct. If a CDATA value contains `]]>`, split the terminator safely rather
    than emitting invalid XML. Insert new items at the top of their own channel
    in descending publication time.
+
+   The description is HTML matching the Kagi News item shape that kagi-audio
+   renders, all on one line inside the CDATA:
+
+   ```html
+   <p>SUMMARY</p><img src="IMAGE_URL" alt="TITLE" /><br /><h3>Sources:</h3><ul><li><a href="LINK">TITLE</a> - DOMAIN</li></ul>
+   ```
+
+   - `SUMMARY` is the brief source-grounded synthesis (plain text, no tags).
+   - Omit the whole `<img … />` when the article has no lead image.
+   - The article permalink (the item's `<link>`) is always the **first**
+     `<li>` under `Sources:`; `DOMAIN` is its host without `www.` (e.g.
+     `ksl.com`). Add further `<li>` entries only for other sources the
+     summary actually relies on.
+   - Inside `src`/`href`, write `&` as `&amp;`. In `alt` and link text, the app
+     decodes entities once more before parsing, so in `alt` replace `&` with
+     `and`, `"` with `'`, and drop `<`/`>`; in link text drop `<`/`>`.
+   - Use the headline for `alt` — never the source's photo caption (copyrighted
+     text).
 
 6. **Close the browser in all paths.** After all four source listings and all new
    article pages have been processed, call `mcp__playwright__browser_close`.
@@ -144,6 +169,9 @@ Use only material visible on the public page and do not bypass access controls.
    XML parser and verify that each item has exactly the expected title, link,
    guid, description, creator, and pubDate fields; every guid is unique; dates
    are parseable; and the item-count delta equals additions minus age prunes.
+   Verify every description starts with `<p>`, contains `<h3>Sources:</h3>`,
+   its first Sources `href` equals the item's `<link>`, and any `<img src>` is
+   an absolute `https://` URL.
    Confirm that every Deseret item belongs to the Faith section and every KSL
    item has a KSL article URL, and every WSJ item has a WSJ article URL and CIO
    Journal source identity, and every Forbes item has a Forbes article URL and
