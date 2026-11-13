@@ -6,10 +6,26 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:11:08 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:27:10 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Nvidia Board Must Craft Epic Job Description for New CEO</title>
+      <link>https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb</guid>
+      <description><![CDATA[In the Morning Download, Steven Rosenbush argues that Nvidia's board faces a daunting search after Jensen Huang resigned following two extramarital affairs, one of them with a suspected Chinese spy, since the company needs a successor with Jobs-level instincts for innovation and sales who can also instill greater calm and discipline and take "a less-imperial approach to leadership." Longtime CFO Colette Kress was named interim CEO, and Nvidia stock dropped more than 7% before the opening bell while other chip stocks slipped far less. The newsletter also notes that Nvidia quit reporting its Singapore revenue separately soon after cutting off Megaspeed, the Singapore firm tied to the espionage scandal, and has declined to say whether the two moves were connected.]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 07:37:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>AI Startup LangChain More Than Doubles Its Valuation to $3 Billion</title>
+      <link>https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad</guid>
+      <description><![CDATA[LangChain, whose software helps developers build AI apps and agents, raised $300 million in a round led by Alphabet's CapitalG that values it at $3 billion, more than twice its valuation from October of last year, Belle Lin reports. The money will go toward expanding LangSmith, the startup's platform for monitoring, evaluating and deploying agents, as many enterprises hold back on agents until governance is in place; "The agent's behavior is the hard part to control," said co-founder and CEO Harrison Chase. CapitalG partner Mo Jomaa called the field "an insanely competitive market" in which big players try to lock customers into their own ecosystems, and the three-year-old company plans to grow from 435 full-time staff to 850 by the end of next year.]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 -0700</pubDate>
+    </item>
     <item>
       <title>AI Is Testing the Limits of Corporate Governance</title>
       <link>https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d</link>
@@ -105,14 +121,6 @@
       <description><![CDATA[In this Morning Download, Isabelle Bousquette argues that midterm-season tech policy fights could reach CIOs' AI plans even if aimed at frontier developers, citing Cato Institute fellow Jennifer Huddleston's warning that rules meant for AI companies "are going to impact an array of industries," from chatbot age verification to a state-by-state legal patchwork. Guardrails Alliance director Shaunna Thomas adds that labor proposals and voter appetite for job guarantees could shape how companies pair AI agents with human workers. The newsletter also notes that cloud revenue grew strongly amid a week of tech earnings selloffs, and that Mistral released its open-weight Mistral Large 4, which it pitches for coding and cybersecurity.]]></description>
       <dc:creator>Isabelle Bousquette</dc:creator>
       <pubDate>Fri, 30 Oct 2026 07:09:00 -0600</pubDate>
-    </item>
-    <item>
-      <title>AI Is Almost the Easy Part. Everything Else Is Hard</title>
-      <link>https://www.wsj.com/cio-journal/ai-is-almost-the-easy-part-everything-else-is-hard-556c9204</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-is-almost-the-easy-part-everything-else-is-hard-556c9204</guid>
-      <description><![CDATA[In this Morning Download, Tom Loftus argues that this week's tech earnings show serving AI may be the easy part, while business models, organizational structure and staffing are far harder to fix and can't simply be bought the way capacity can. Google's cloud business grew 103% and Microsoft's Azure 48%, yet slowing search growth helped send Alphabet shares down about 10% after hours, ServiceNow fell 14% on fears AI will upend its business, and Microsoft offered buyouts to about 60,000 employees. Microsoft strategy chief Kathleen Hogan told the WSJ Leadership Institute that the company's biggest error was leading with technology rather than people and process, saying, "A bad process with AI is still a bad process."]]></description>
-      <dc:creator>Tom Loftus</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 07:12:00 -0600</pubDate>
     </item>
   </channel>
 </rss>
