@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:39:06 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:08:27 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Nvidia CEO Ouster Reverberates Globally</title>
+      <link>https://www.wsj.com/cio-journal/nvidia-ceo-ouster-reverberates-globally-c882938d</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-ceo-ouster-reverberates-globally-c882938d</guid>
+      <description><![CDATA[<p>The Morning Download argues that Jensen Huang's resignation as Nvidia CEO could rank among the most consequential corporate shake-ups ever, with effects rippling through chipmakers, venture-backed startups and geopolitics, though it says the move does not mean the end of Nvidia or of global AI adoption. According to records the Journal reviewed, Megaspeed, a company tied to Alice Huang, whom the newsletter identifies as Huang's onetime mistress, set up close to $12 billion in shipments of top Nvidia chips to Chinese buyers, though they don't show how many arrived and Megaspeed says it follows U.S. export controls. Startups expect Nvidia, now led by interim CEO Colette Kress, to pull back further from its role as an "open checkbook" for AI, a shift UBS estimates could remove $50 billion or more from the market, while Treasury Secretary Scott Bessent has urged the board to pick an outsider as CEO.</p><img src="https://images.wsj.net/im-54227208/social" alt="Nvidia CEO Ouster Reverberates Globally" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/nvidia-ceo-ouster-reverberates-globally-c882938d">Nvidia CEO Ouster Reverberates Globally</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 07:37:00 -0700</pubDate>
+    </item>
     <item>
       <title>Nvidia Needs Three CEOs in One</title>
       <link>https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c</link>
@@ -113,14 +121,6 @@
       <description><![CDATA[<p>Executive search firm Christian & Timbers found that elite forward-deployed engineers, those who have put agentic AI into production with at least $10 million in documented impact and led FDE teams, now earn $586,000 to $1.45 million a year, and about 80% are current or former Palantir engineers. Target, Barclays and American Express have posted FDE listings, and founder Jeff Christian said "Every company is thinking, 'We got to do this ourselves,'" as businesses bring the role in-house to keep their data private. Only about 2,000 of the roughly 17,000 U.S. FDEs count as elite, setting up a three-way tug-of-war among enterprises, tech companies and consulting firms, and Snowflake's Jonathan Beaulier called hiring them "massively hard."</p><img src="https://images.wsj.net/im-86795956/social" alt="Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a">Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Belle Lin</dc:creator>
       <pubDate>Tue, 03 Nov 2026 06:30:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>CIOs Say Companies Tighten Focus on AI Outcomes</title>
-      <link>https://www.wsj.com/cio-journal/cios-say-companies-tighten-focus-on-ai-outcomes-6d85fe46</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/cios-say-companies-tighten-focus-on-ai-outcomes-6d85fe46</guid>
-      <description><![CDATA[<p>In this Morning Download, Tom Loftus reports that the WSJ Leadership Institute found no slowdown in enterprise AI demand after last week's tech selloff, though CIOs expect a sharper focus on outcomes, clearer business cases and shorter payback periods. Grant Thornton CIO Mike Kempe called building and applying AI "two very different economic models," Smartsheet's Ravi Soin said "Spending will not cease, but it will become more selective," and Bristol Myers Squibb's Greg Meyers said falling vendor valuations can increase buyers' leverage in contract negotiations. The newsletter also covers SemiAnalysis' new GDPx industry benchmark, topped by Anthropic's Claude Opus 5.5, and OpenAI securing about $11 billion of a $30 billion round at a $1.25 trillion valuation.</p><img src="https://images.wsj.net/im-49436425/social" alt="CIOs Say Companies Tighten Focus on AI Outcomes" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/cios-say-companies-tighten-focus-on-ai-outcomes-6d85fe46">CIOs Say Companies Tighten Focus on AI Outcomes</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Tom Loftus</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 07:04:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
