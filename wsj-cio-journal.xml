@@ -6,10 +6,26 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 00:08:27 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:18:31 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Thomson Reuters Chief Forges Path With AI, Unique Content</title>
+      <link>https://www.wsj.com/cio-journal/thomson-reuters-chief-forges-path-with-ai-unique-content-f9105d24</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/thomson-reuters-chief-forges-path-with-ai-unique-content-f9105d24</guid>
+      <description><![CDATA[<p>Thomson Reuters CEO Steve Hasker told Rosenbush that he began rebuilding the company around AI in 2020, well before ChatGPT, and argues that proprietary, curated content matters more than even chips or energy in making AI output accurate, though the stock has lagged the S&P 500 since August 2025. Rosenbush writes that big-company CEOs sticking with long-term AI investments, along with startups such as Genesis AI that are still raising money, are providing "ballast" amid volatile valuations and policy. The newsletter also previews the Nvidia earnings report due that day and notes WSJ reporting that Nvidia's independent directors have drawn almost $188 million in board compensation over 20 years.</p><img src="https://images.wsj.net/im-11186414/social" alt="Thomson Reuters Chief Forges Path With AI, Unique Content" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/thomson-reuters-chief-forges-path-with-ai-unique-content-f9105d24">Thomson Reuters Chief Forges Path With AI, Unique Content</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 07:49:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Genesis AI, a Robotics Startup, Raises $500 Million</title>
+      <link>https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457</guid>
+      <description><![CDATA[<p>Paris-based Genesis AI, a robotics startup only about two years old, has raised $500 million in a Series A round led jointly by Premji Invest, Khosla Ventures and Eclipse that values it at $3.5 billion, with backers including Nvidia's and AMD's venture arms and individuals such as former Google CEO Eric Schmidt. The company builds its entire technology stack for a general-purpose robot called Eno, and CEO Zhou Xian said the money will expand data collection and large-scale training, while the round will also grow its team of researchers and engineers. Xian, 32, predicted a robotics model that "just works out of the box" sometime next year, and Khosla Ventures founder Vinod Khosla pointed to the team's "scrappiness and speed" as what caught his attention.</p><img src="https://images.wsj.net/im-50118049/social" alt="Genesis AI, a Robotics Startup, Raises $500 Million" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457">Genesis AI, a Robotics Startup, Raises $500 Million</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 -0700</pubDate>
+    </item>
     <item>
       <title>Nvidia CEO Ouster Reverberates Globally</title>
       <link>https://www.wsj.com/cio-journal/nvidia-ceo-ouster-reverberates-globally-c882938d</link>
@@ -105,22 +121,6 @@
       <description><![CDATA[<p>In this Morning Download, Steven Rosenbush writes that Democratic control of the House and Senate makes the long-held assumption that Congress would pass nothing on tech look less certain, though it is too early to know what might emerge on data center construction or AI safety, while analyst Dan Ives called the midterm "a seismic shift" likely to slow the planned buildout of 800 to 1,000 U.S. data centers. Newly elected Democratic governors in Texas, Ohio and Georgia have backed full or conditional data center moratoriums, with Bloomberg estimating about 13 GW of Texas capacity immediately exposed. The newsletter also notes AMD's $13.4 billion quarter, driven by data center GPU sales, and Google's decision to switch off its AI tools by default on K-12 student accounts.</p><img src="https://images.wsj.net/im-15167101/social" alt="Democratic Wave Changes AI Policy Calculus" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/democratic-wave-changes-ai-policy-calculus-bec0ffe5">Democratic Wave Changes AI Policy Calculus</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Wed, 04 Nov 2026 07:23:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>AI’s Most Wanted Hire Gets a Big Raise</title>
-      <link>https://www.wsj.com/cio-journal/ais-most-wanted-hire-gets-a-big-raise-4f084fc8</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ais-most-wanted-hire-gets-a-big-raise-4f084fc8</guid>
-      <description><![CDATA[<p>In this Morning Download, Tom Loftus writes that the forward-deployed engineer has gone "from hired gun to the hottest hire in tech" as Christian & Timbers data shows elite FDEs earning $586,000 to $1.45 million a year while Gartner finds 44% of CEOs struggle to show financial returns from AI. Enterprises are now putting FDEs on their own payrolls, setting off a scramble with tech companies and consulting firms as OpenAI and Anthropic launch dedicated FDE services firms. The newsletter also covers Palantir's 96% third-quarter revenue jump to $2.31 billion, led by U.S. commercial sales, and Apple's 12% September-quarter revenue gain alongside projections that fell short of estimates.</p><img src="https://images.wsj.net/im-66079196/social" alt="AI’s Most Wanted Hire Gets a Big Raise" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ais-most-wanted-hire-gets-a-big-raise-4f084fc8">AI’s Most Wanted Hire Gets a Big Raise</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Tom Loftus</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 06:45:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks</title>
-      <link>https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a</guid>
-      <description><![CDATA[<p>Executive search firm Christian & Timbers found that elite forward-deployed engineers, those who have put agentic AI into production with at least $10 million in documented impact and led FDE teams, now earn $586,000 to $1.45 million a year, and about 80% are current or former Palantir engineers. Target, Barclays and American Express have posted FDE listings, and founder Jeff Christian said "Every company is thinking, 'We got to do this ourselves,'" as businesses bring the role in-house to keep their data private. Only about 2,000 of the roughly 17,000 U.S. FDEs count as elite, setting up a three-way tug-of-war among enterprises, tech companies and consulting firms, and Snowflake's Jonathan Beaulier called hiring them "massively hard."</p><img src="https://images.wsj.net/im-86795956/social" alt="Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a">Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Belle Lin</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 06:30:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
