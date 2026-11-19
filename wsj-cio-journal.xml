@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:18:31 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:28:35 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Nvidia Results Show AI Demand Remains Robust</title>
+      <link>https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4</guid>
+      <description><![CDATA[<p>The Morning Download argues that Nvidia's first investor call under interim chief executive Colette Kress showed AI demand is not only robust but accelerating nearly four years after ChatGPT's debut, and that the call settled the market's acceptance of Kress, marking what felt like the real end of former CEO Jensen Huang's era. The newsletter also takes up the past week's run of outages, from a global Microsoft disruption to an FAA ground stop and a National Security Agency network failure, which the companies blame on botched upgrades rather than hackers; security experts largely attribute this year's record volume of upgrades in North America to AI, and Microsoft's update last month fixed about 1,400 flaws versus about 170 a year earlier. Its advice is that leaders explain quickly before fear fills the gap, pointing to the federal response to Friday's ground stop, which former DHS official Brian Harrell called "bumbling" and "insufficient".</p><img src="https://images.wsj.net/im-32830230/social" alt="Nvidia Results Show AI Demand Remains Robust" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4">Nvidia Results Show AI Demand Remains Robust</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 07:08:00 -0700</pubDate>
+    </item>
     <item>
       <title>Thomson Reuters Chief Forges Path With AI, Unique Content</title>
       <link>https://www.wsj.com/cio-journal/thomson-reuters-chief-forges-path-with-ai-unique-content-f9105d24</link>
@@ -113,14 +121,6 @@
       <description><![CDATA[<p>Mercedes-Benz has begun rolling out conversational AI in some North American cars using on-device foundation models from MIT spinout Liquid AI, which handle routine requests like navigation, seat settings and calls, and pass broader questions such as restaurant tips to larger cloud models, with a fleetwide rollout planned for the second quarter of 2027 at no extra charge. Mercedes-Benz North America CEO Jason Hoff cites privacy, speed, offline operation and better handling of accents, calling the effort "more about the user interface and user experience inside the vehicle" than autonomy. Cars are an especially strong case for on-device AI because they can't count on a cloud connection, Bousquette notes, while Gartner's Craig Roth says most enterprise applications still default to cloud models, even as Gartner projects on-device models will handle 30% of user-initiated enterprise AI tasks by 2029.</p><img src="https://images.wsj.net/im-81754044/social" alt="Mercedes Gives Its Cars an AI Upgrade" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2">Mercedes Gives Its Cars an AI Upgrade</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Isabelle Bousquette</dc:creator>
       <pubDate>Thu, 05 Nov 2026 05:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Democratic Wave Changes AI Policy Calculus</title>
-      <link>https://www.wsj.com/cio-journal/democratic-wave-changes-ai-policy-calculus-bec0ffe5</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/democratic-wave-changes-ai-policy-calculus-bec0ffe5</guid>
-      <description><![CDATA[<p>In this Morning Download, Steven Rosenbush writes that Democratic control of the House and Senate makes the long-held assumption that Congress would pass nothing on tech look less certain, though it is too early to know what might emerge on data center construction or AI safety, while analyst Dan Ives called the midterm "a seismic shift" likely to slow the planned buildout of 800 to 1,000 U.S. data centers. Newly elected Democratic governors in Texas, Ohio and Georgia have backed full or conditional data center moratoriums, with Bloomberg estimating about 13 GW of Texas capacity immediately exposed. The newsletter also notes AMD's $13.4 billion quarter, driven by data center GPU sales, and Google's decision to switch off its AI tools by default on K-12 student accounts.</p><img src="https://images.wsj.net/im-15167101/social" alt="Democratic Wave Changes AI Policy Calculus" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/democratic-wave-changes-ai-policy-calculus-bec0ffe5">Democratic Wave Changes AI Policy Calculus</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 07:23:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
