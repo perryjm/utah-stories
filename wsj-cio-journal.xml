@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:28:35 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:37:39 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Anthropic Pushes the Reset Button for AI</title>
+      <link>https://www.wsj.com/cio-journal/anthropic-pushes-the-reset-button-for-ai-2c3c9d96</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/anthropic-pushes-the-reset-button-for-ai-2c3c9d96</guid>
+      <description><![CDATA[<p>The Morning Download argues that Anthropic's record IPO brings some clarity to an AI boom long dogged by doubts over whether revenue and enterprise returns can justify historic capital spending, pointing to the $900.9 billion in compute commitments disclosed in the company's filing, though Yorkville Ives analyst Dan Ives noted that "The debate from here is margin against growth." Other demand signals come from Alibaba, whose fiscal second-quarter profit surged as its AI profitability improved, and Walmart, whose global e-commerce sales grew 17% after years of technology investment. The newsletter also covers tech founders rallying behind Jensen Huang's return to Nvidia and AI talk at the CMO Council Summit, where Visa CMO Frank Cooper III said marketers are now "entering B to AI."</p><img src="https://images.wsj.net/im-74124544/social" alt="Anthropic Pushes the Reset Button for AI" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/anthropic-pushes-the-reset-button-for-ai-2c3c9d96">Anthropic Pushes the Reset Button for AI</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 07:31:00 -0700</pubDate>
+    </item>
     <item>
       <title>Nvidia Results Show AI Demand Remains Robust</title>
       <link>https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4</link>
@@ -105,22 +113,6 @@
       <description><![CDATA[<p>This Morning Download leads with OpenAI's GPT-6 Cyber model, which the company says was trained with alignment as a central focus to keep it within authorized scope and paired with stronger safeguards against misuse, including attempts to distill its models; OpenAI reports a 51% relative improvement over GPT-5.6 Cyber on the ExploitGym benchmark. "It is clear that we have a limited window to use frontier models to secure software," the company said, while JPMorgan Chase CEO Jamie Dimon recently called cyber threats "our biggest risk". The newsletter also covers Thursday's tech selloff, in which the Magnificent Seven lost about $1 trillion in market value, and reports that three major investors now expect Anthropic's planned IPO valuation of about $1.5 trillion will probably have to come down.</p><img src="https://images.wsj.net/im-93037341/social" alt="OpenAI Bolsters Cyber Defenses" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/openai-bolsters-cyber-defenses-cf7cafb5">OpenAI Bolsters Cyber Defenses</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Fri, 06 Nov 2026 07:16:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>What AI Leaders Can Learn from the Midterms</title>
-      <link>https://www.wsj.com/cio-journal/what-ai-leaders-can-learn-from-the-midterms-291f5f01</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/what-ai-leaders-can-learn-from-the-midterms-291f5f01</guid>
-      <description><![CDATA[<p>In this Morning Download, Steven Rosenbush argues that the AI industry's troubles with data center opposition and broader AI anxiety are a political problem, and offers lessons from the midterms: situational awareness, openness to dissent and compromise, clarity, accountability and explaining the larger mission. Meta President Dina Powell McCormick said data centers are "going to be harder" to build after the election, voters sided against data centers in every one of 41 local ballot measures but one in Harwood, North Dakota, and PitchBook reported global AI venture funding fell 43.4% in the third quarter. Barclays analyst Andrew Keches noted that operators already running or powered up gain "scarcity value" if construction slows, and Amazon and Microsoft rallied more than 6% on Wednesday.</p><img src="https://images.wsj.net/im-61040220/social" alt="What AI Leaders Can Learn from the Midterms" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/what-ai-leaders-can-learn-from-the-midterms-291f5f01">What AI Leaders Can Learn from the Midterms</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 07:05:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Mercedes Gives Its Cars an AI Upgrade</title>
-      <link>https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2</guid>
-      <description><![CDATA[<p>Mercedes-Benz has begun rolling out conversational AI in some North American cars using on-device foundation models from MIT spinout Liquid AI, which handle routine requests like navigation, seat settings and calls, and pass broader questions such as restaurant tips to larger cloud models, with a fleetwide rollout planned for the second quarter of 2027 at no extra charge. Mercedes-Benz North America CEO Jason Hoff cites privacy, speed, offline operation and better handling of accents, calling the effort "more about the user interface and user experience inside the vehicle" than autonomy. Cars are an especially strong case for on-device AI because they can't count on a cloud connection, Bousquette notes, while Gartner's Craig Roth says most enterprise applications still default to cloud models, even as Gartner projects on-device models will handle 30% of user-initiated enterprise AI tasks by 2029.</p><img src="https://images.wsj.net/im-81754044/social" alt="Mercedes Gives Its Cars an AI Upgrade" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2">Mercedes Gives Its Cars an AI Upgrade</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Isabelle Bousquette</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 05:00:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
