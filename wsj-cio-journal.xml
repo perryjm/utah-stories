@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:37:39 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:54:27 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.</title>
+      <link>https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa</guid>
+      <description><![CDATA[<p>Belle Lin's Morning Download argues that after a string of disruptions that began late last week as more than 450 million Microsoft 365 users lost email, tech leaders should accept that outages are inevitable and focus on resilience, including rehearsing worst-case scenarios and building an undo button for changes. Executives Lin interviewed stressed settling decision rights before a crisis, with TIAA's Sastry Durvasula warning that "Organizations that have to figure this out mid-incident lose hours they don't have," while Netskope's Mike Anderson favored rolling out updates to a small group of employees first. The newsletter also reports that National Cyber Director Sean Cairncross is leaving, to be succeeded by Defense Department CIO Kirsten Davies, as the White House draws criticism over its handling of the recent outages.</p><img src="https://images.wsj.net/im-86578361/social" alt="Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be." /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa">Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Belle Lin</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 07:12:00 -0700</pubDate>
+    </item>
     <item>
       <title>Anthropic Pushes the Reset Button for AI</title>
       <link>https://www.wsj.com/cio-journal/anthropic-pushes-the-reset-button-for-ai-2c3c9d96</link>
@@ -105,14 +113,6 @@
       <description><![CDATA[<p>This Morning Download leads with BMW's new U.S. ChatGPT app, which lets shoppers check local inventory, configure a vehicle, build a lease financing package and book a test drive, though the lease itself must still be completed at a dealer. BMW of North America marketing vice president Leigh Moynihan called the app "a must do" as more customers research cars with chatbots, and North America chief customer officer Andreas Walter said the team tested heavily to make sure "there's no hallucination going on" in financial answers. The newsletter also covers the Nvidia board's probe of reports that CEO Jensen Huang was targeted by a suspected Chinese spy, and a jobs report showing a 70,000-job gain in professional and business services.</p><img src="https://images.wsj.net/im-32612734/social" alt="Ready to Start Your Next Car Lease With an AI Chatbot? BMW Wants to Help." /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9">Ready to Start Your Next Car Lease With an AI Chatbot? BMW Wants to Help.</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Isabelle Bousquette</dc:creator>
       <pubDate>Mon, 09 Nov 2026 07:11:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Bolsters Cyber Defenses</title>
-      <link>https://www.wsj.com/cio-journal/openai-bolsters-cyber-defenses-cf7cafb5</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/openai-bolsters-cyber-defenses-cf7cafb5</guid>
-      <description><![CDATA[<p>This Morning Download leads with OpenAI's GPT-6 Cyber model, which the company says was trained with alignment as a central focus to keep it within authorized scope and paired with stronger safeguards against misuse, including attempts to distill its models; OpenAI reports a 51% relative improvement over GPT-5.6 Cyber on the ExploitGym benchmark. "It is clear that we have a limited window to use frontier models to secure software," the company said, while JPMorgan Chase CEO Jamie Dimon recently called cyber threats "our biggest risk". The newsletter also covers Thursday's tech selloff, in which the Magnificent Seven lost about $1 trillion in market value, and reports that three major investors now expect Anthropic's planned IPO valuation of about $1.5 trillion will probably have to come down.</p><img src="https://images.wsj.net/im-93037341/social" alt="OpenAI Bolsters Cyber Defenses" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/openai-bolsters-cyber-defenses-cf7cafb5">OpenAI Bolsters Cyber Defenses</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 07:16:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
