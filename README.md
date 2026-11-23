@@ -9,18 +9,20 @@ listings:
 - `forbes-technology-council.xml` — [Forbes Technology Council](https://www.forbes.com/councils/forbestechcouncil/)
 
 The `/ksl-feed` skill updates all four feeds in one run. It visits only the
-initially-rendered listings and genuinely new article pages, writes brief
-source-grounded summaries with short attributed quotes when available, prunes
-items older than two weeks, validates the XML, and pushes only the feed files.
+initially-rendered listings and genuinely new article pages, prunes items older
+than two weeks, validates the XML, and pushes only the feed files.
 Article paragraphs, listing deks, descriptions, and lengthy quotes must not be
 copied into the feeds because the source articles are copyrighted. WSJ pages may
 require a subscription; the skill uses only text visible without bypassing access
 controls.
 
 Each item's `description` uses the Kagi News HTML shape that
-[kagi-audio](https://github.com/perryjm/kagi-audio) renders: a `<p>` summary,
-the article's lead image (`og:image`) as an `<img>`, then a `Sources:` list whose
-first entry is always the item's own article link.
+[kagi-audio](https://github.com/perryjm/kagi-audio) renders. New items open with
+exactly two sentences stating the bottom line, followed by a short context
+paragraph when useful. That paragraph prioritizes short, exact, attributed
+quotes from the people the story is about when the article provides them.
+The article's lead image (`og:image`), when available, comes next, followed by
+a `Sources:` list whose first entry is the item's own article link.
 
 ## Install the tracked skill
 

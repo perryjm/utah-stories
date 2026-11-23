@@ -21,18 +21,25 @@ the expected caller, not a competing sync. Do not defer or ask to wait because
 that process is active; use the wrapper's lock and clean-worktree guard for
 concurrency.
 
-## Copyright constraint — read first
+## Summary and copyright rules — read first
 
 The source articles are copyrighted. **Do not copy article paragraphs, deks, or
-descriptions into any feed.** For every new story, after reading the article,
-write a brief, source-grounded summary of no more than 3 sentences in the item's
-`description` field. Prefer the source's own wording where it makes the summary
-more informative: include up to two short, exact, attributed direct quotes when
-the article provides them, while keeping the total description concise and
-avoiding lengthy or consecutive copied passages. Use the article's own words for
-names, figures, technical terms, and distinctive characterizations, but keep the
-surrounding facts compressed in your own synthesis. Never invent or silently
-alter a quote. The listing teaser is not a substitute for the article.
+descriptions into any feed.** The listing teaser is not a substitute for the
+article. After reading each new story, write its `description` in this order:
+
+- **Bottom line:** Start with a paragraph of exactly two short, original
+  sentences. The first states the main development, finding, or recommendation
+  and who is involved. The second gives the clearest reported consequence or
+  next step; if neither is known, give the most useful confirmed detail. Don't
+  bury the news under setup or present a contributor's opinion as fact.
+- **Context and voices:** Add at most two short sentences in a separate
+  paragraph, without repeating the lead. If the article quotes someone the
+  story is about or someone directly affected, include one relevant, brief,
+  exact excerpt and identify the speaker as the source does. Use a second
+  excerpt only if it adds a distinct detail or perspective. Prefer these voices
+  to incidental commentary or the reporter's narration. Keep excerpts to a
+  phrase or short clause, never invent or alter a quote, and omit quotes when no
+  suitable one is available. Omit the paragraph if there is nothing to add.
 
 ## Source rules
 
@@ -135,10 +142,12 @@ Use only material visible on the public page and do not bypass access controls.
    renders, all on one line inside the CDATA:
 
    ```html
-   <p>SUMMARY</p><img src="IMAGE_URL" alt="TITLE" /><br /><h3>Sources:</h3><ul><li><a href="LINK">TITLE</a> - DOMAIN</li></ul>
+   <p>BOTTOM_LINE</p><p>DETAILS</p><img src="IMAGE_URL" alt="TITLE" /><br /><h3>Sources:</h3><ul><li><a href="LINK">TITLE</a> - DOMAIN</li></ul>
    ```
 
-   - `SUMMARY` is the brief source-grounded synthesis (plain text, no tags).
+   - `BOTTOM_LINE` is the required two-sentence summary. `DETAILS` is the
+     optional context and quotes paragraph; omit its `<p>` if unused. Both
+     are plain text inside their paragraphs.
    - Omit the whole `<img … />` when the article has no lead image.
    - The article permalink (the item's `<link>`) is always the **first**
      `<li>` under `Sources:`; `DOMAIN` is its host without `www.` (e.g.
@@ -172,6 +181,9 @@ Use only material visible on the public page and do not bypass access controls.
    Verify every description starts with `<p>`, contains `<h3>Sources:</h3>`,
    its first Sources `href` equals the item's `<link>`, and any `<img src>` is
    an absolute `https://` URL.
+   For new items only, confirm the first paragraph has exactly two sentences
+   and leads with the main takeaway, then verify each direct quote and its
+   speaker against the source. Do not rewrite existing items for the new format.
    Confirm that every Deseret item belongs to the Faith section and every KSL
    item has a KSL article URL, and every WSJ item has a WSJ article URL and CIO
    Journal source identity, and every Forbes item has a Forbes article URL and
