@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:54:27 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:29:37 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Jensen Huang Upends AI Outlook Once Again</title>
+      <link>https://www.wsj.com/cio-journal/jensen-huang-upends-ai-outlook-once-again-b2bdb17d</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/jensen-huang-upends-ai-outlook-once-again-b2bdb17d</guid>
+      <description><![CDATA[<p>Steven Rosenbush's Morning Download, relaying Journal reporting, says Nvidia's board reinstated Jensen Huang as CEO 11 days after his scandal-driven resignation, citing input from senior U.S. government officials. Nvidia shares surged nearly 30% Monday morning, and Rosenbush argues the reversal forces a fresh look at the outlook for AI.</p><p>The newsletter also highlights OpenAI chief scientist Jakub Pachocki's proposal for shared industry limits on model development, as AI advances in math and cybersecurity accelerate. CrowdStrike Chief Executive George Kurtz said "safety is required to let AI in," and the newsletter cites a WSJ report that CrowdStrike agreed to an all-stock Zscaler purchase valued at $43.9 billion.</p><img src="https://images.wsj.net/im-77891911/social" alt="Jensen Huang Upends AI Outlook Once Again" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/jensen-huang-upends-ai-outlook-once-again-b2bdb17d">Jensen Huang Upends AI Outlook Once Again</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 09:09:00 -0700</pubDate>
+    </item>
     <item>
       <title>Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.</title>
       <link>https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa</link>
@@ -97,22 +105,6 @@
       <description><![CDATA[<p>Steven Rosenbush writes that Nvidia's board may test whether anyone is truly irreplaceable, crediting Jensen Huang's founder vision for turning an early bet on videogame graphics chips into a $4.5 trillion AI powerhouse while warning that Huang's misstep has put the company "in a uniquely precarious position." Some attendees at the WSJ Leadership Institute's board summit questioned whether Nvidia's directors moved too quickly to protect Huang over his relationship with a Singapore-based data center executive whom U.S. officials believe fed intelligence to China, and the newsletter notes the chip maker has no chairman, no succession plan and, as of last spring, three of its 10 independent directors in their seats for 25 years or more. It also covers President Trump's defense of Huang ("I really believe him") and several tech leaders' plans to push ahead with AI whatever happens to regulation after the election.</p><img src="https://images.wsj.net/im-49033720/social" alt="Why Nvidia CEO Jensen Huang Is Unique" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8">Why Nvidia CEO Jensen Huang Is Unique</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Tue, 10 Nov 2026 07:28:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Enterprises Say AI Regulation Won’t Stop Corporate Innovation</title>
-      <link>https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c</guid>
-      <description><![CDATA[<p>Corporate tech leaders who spoke with the WSJ Leadership Institute say they will press ahead with AI whatever rules emerge under Democratic control of Congress and state offices, citing their own internal guardrails and the view that today's models already do what they need. Sutherland CIO Doug Gilbert said everyday work has an "extremely low" need for the most powerful frontier models, and Intuit CTO Alex Balazs said his company is investing heavily in its AI harness, the software layer that runs models and lets businesses mix providers. Many of the executives expect AI policy to stay at the state level for now, a patchwork that Appian CEO Matt Calkins warned could be "irregular across the nation".</p><img src="https://images.wsj.net/im-77861707/social" alt="Enterprises Say AI Regulation Won’t Stop Corporate Innovation" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c">Enterprises Say AI Regulation Won’t Stop Corporate Innovation</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Belle Lin</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 09:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Ready to Start Your Next Car Lease With an AI Chatbot? BMW Wants to Help.</title>
-      <link>https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9</guid>
-      <description><![CDATA[<p>This Morning Download leads with BMW's new U.S. ChatGPT app, which lets shoppers check local inventory, configure a vehicle, build a lease financing package and book a test drive, though the lease itself must still be completed at a dealer. BMW of North America marketing vice president Leigh Moynihan called the app "a must do" as more customers research cars with chatbots, and North America chief customer officer Andreas Walter said the team tested heavily to make sure "there's no hallucination going on" in financial answers. The newsletter also covers the Nvidia board's probe of reports that CEO Jensen Huang was targeted by a suspected Chinese spy, and a jobs report showing a 70,000-job gain in professional and business services.</p><img src="https://images.wsj.net/im-32612734/social" alt="Ready to Start Your Next Car Lease With an AI Chatbot? BMW Wants to Help." /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9">Ready to Start Your Next Car Lease With an AI Chatbot? BMW Wants to Help.</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Isabelle Bousquette</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 07:11:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
