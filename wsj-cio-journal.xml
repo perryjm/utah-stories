@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 01:29:37 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:41:26 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>AI’s Unanswered Questions</title>
+      <link>https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c</guid>
+      <description><![CDATA[<p>Jensen Huang's return as Nvidia CEO leaves plenty of open questions hanging over AI, Steven Rosenbush writes in WSJ's Morning Download, noting that stock-market swings can ripple into venture capital and corporate tech buying. Lawmakers in both parties criticized the reinstatement on national-security grounds, the Journal reports, and Bloomberg reports that the Commerce Department moved Monday to put Megaspeed on its Entity List.</p><p>"The climate became more and more right as the company stock began to tumble", President Trump told the Journal, explaining that he pressed for Huang's return once told the government hadn't found that Huang broke the law. PitchBook said Nvidia is signaling tighter standards for neocloud providers, a shift Huang's return "hasn't changed".</p><img src="https://images.wsj.net/im-39339116/social" alt="AI’s Unanswered Questions" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c">AI’s Unanswered Questions</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 08:08:00 -0700</pubDate>
+    </item>
     <item>
       <title>Jensen Huang Upends AI Outlook Once Again</title>
       <link>https://www.wsj.com/cio-journal/jensen-huang-upends-ai-outlook-once-again-b2bdb17d</link>
@@ -97,14 +105,6 @@
       <description><![CDATA[<p>Drawing on remarks at the WSJ Leadership Institute's board summit in Palm Beach, Steven Rosenbush writes that directors regard AI as here to stay and want governance to keep pace, with SLB and Adidas board member Jing Ulrich saying "Technology changes faster than governance" and ExCo Group's Shellye Archambeau noting that the talk has shifted from cutting heads to driving strategy. GM and Procter & Gamble director Joe Jimenez asked how the next generation of leaders will develop if AI eliminates or radically reshapes entry-level jobs. The newsletter also notes that CoreWeave beat revenue expectations and raised its guidance, and that Wachtell Lipton will lead an independent probe into whether Nvidia was targeted by foreign espionage.</p><img src="https://images.wsj.net/im-98992049/social" alt="AI Is Testing the Limits of Corporate Governance" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d">AI Is Testing the Limits of Corporate Governance</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Wed, 11 Nov 2026 07:38:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Why Nvidia CEO Jensen Huang Is Unique</title>
-      <link>https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8</guid>
-      <description><![CDATA[<p>Steven Rosenbush writes that Nvidia's board may test whether anyone is truly irreplaceable, crediting Jensen Huang's founder vision for turning an early bet on videogame graphics chips into a $4.5 trillion AI powerhouse while warning that Huang's misstep has put the company "in a uniquely precarious position." Some attendees at the WSJ Leadership Institute's board summit questioned whether Nvidia's directors moved too quickly to protect Huang over his relationship with a Singapore-based data center executive whom U.S. officials believe fed intelligence to China, and the newsletter notes the chip maker has no chairman, no succession plan and, as of last spring, three of its 10 independent directors in their seats for 25 years or more. It also covers President Trump's defense of Huang ("I really believe him") and several tech leaders' plans to push ahead with AI whatever happens to regulation after the election.</p><img src="https://images.wsj.net/im-49033720/social" alt="Why Nvidia CEO Jensen Huang Is Unique" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8">Why Nvidia CEO Jensen Huang Is Unique</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 07:28:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
