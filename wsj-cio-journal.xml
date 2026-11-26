@@ -6,10 +6,18 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 01:41:26 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:52:34 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
+    <item>
+      <title>Anthropic’s Claude Output Can Be Installed as Software</title>
+      <link>https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45</link>
+      <guid isPermaLink="true">https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45</guid>
+      <description><![CDATA[<p>Anthropic said Tuesday that Claude users can now install artifacts as standalone desktop apps, with an "Install as app" feature rolling out in beta for Mac and Windows, Steven Rosenbush writes in the Morning Download. According to the company, installed apps get their own icon and window outside Claude and must ask the user's permission before they can interact with the computer.</p><p>The newsletter also cites WSJ reporting that Dell and Workday topped forecasts on AI demand this week, yet Dell's shares were down more than 7% before the market opened and Workday's more than 10%. Sen. John Kennedy (R., La.), who anticipates that Nvidia's Jensen Huang will invoke the Fifth Amendment at his Dec. 3 Senate Banking Committee appearance, is quoted saying, "If I were in his shoes, I'd be pretty dadgum careful right now."</p><img src="https://images.wsj.net/im-30757736/social" alt="Anthropic’s Claude Output Can Be Installed as Software" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45">Anthropic’s Claude Output Can Be Installed as Software</a> - wsj.com</li></ul>]]></description>
+      <dc:creator>Steven Rosenbush</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 07:26:00 -0700</pubDate>
+    </item>
     <item>
       <title>AI’s Unanswered Questions</title>
       <link>https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c</link>
@@ -97,14 +105,6 @@
       <description><![CDATA[<p>LangChain, whose software helps developers build AI apps and agents, raised $300 million in a round led by Alphabet's CapitalG that values it at $3 billion, more than twice its valuation from October of last year, Belle Lin reports. The money will go toward expanding LangSmith, the startup's platform for monitoring, evaluating and deploying agents, as many enterprises hold back on agents until governance is in place; "The agent's behavior is the hard part to control," said co-founder and CEO Harrison Chase. CapitalG partner Mo Jomaa called the field "an insanely competitive market" in which big players try to lock customers into their own ecosystems, and the three-year-old company plans to grow from 435 full-time staff to 850 by the end of next year.</p><img src="https://images.wsj.net/im-23818061/social" alt="AI Startup LangChain More Than Doubles Its Valuation to $3 Billion" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">AI Startup LangChain More Than Doubles Its Valuation to $3 Billion</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Belle Lin</dc:creator>
       <pubDate>Thu, 12 Nov 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>AI Is Testing the Limits of Corporate Governance</title>
-      <link>https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d</guid>
-      <description><![CDATA[<p>Drawing on remarks at the WSJ Leadership Institute's board summit in Palm Beach, Steven Rosenbush writes that directors regard AI as here to stay and want governance to keep pace, with SLB and Adidas board member Jing Ulrich saying "Technology changes faster than governance" and ExCo Group's Shellye Archambeau noting that the talk has shifted from cutting heads to driving strategy. GM and Procter & Gamble director Joe Jimenez asked how the next generation of leaders will develop if AI eliminates or radically reshapes entry-level jobs. The newsletter also notes that CoreWeave beat revenue expectations and raised its guidance, and that Wachtell Lipton will lead an independent probe into whether Nvidia was targeted by foreign espionage.</p><img src="https://images.wsj.net/im-98992049/social" alt="AI Is Testing the Limits of Corporate Governance" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d">AI Is Testing the Limits of Corporate Governance</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 07:38:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
