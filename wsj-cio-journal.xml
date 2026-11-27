@@ -6,7 +6,7 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:52:34 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:01:06 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
@@ -89,22 +89,6 @@
       <description><![CDATA[<p>In the Morning Download, Steven Rosenbush and former Apple, Microsoft and Google executive Sophia Velastegui contrast Apple's carefully signaled handoff from Steve Jobs to Tim Cook with Nvidia's abrupt, unplanned search after Jensen Huang's exit. "Nvidia needs three leaders in one," Velastegui said: a technologist engineers will follow, a trusted steward of the CUDA platform, and a statesperson Washington and Taipei will take calls from. She names AMD's Lisa Su, Google's Amin Vahdat and insider Ian Buck as possibilities and argues the next CEO must sell entire AI factories to governments, not just chips to cloud companies.</p><img src="https://images.wsj.net/im-17737957/social" alt="Nvidia Needs Three CEOs in One" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c">Nvidia Needs Three CEOs in One</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Fri, 13 Nov 2026 08:07:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Board Must Craft Epic Job Description for New CEO</title>
-      <link>https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb</guid>
-      <description><![CDATA[<p>In the Morning Download, Steven Rosenbush argues that Nvidia's board faces a daunting search after Jensen Huang resigned following two extramarital affairs, one of them with a suspected Chinese spy, since the company needs a successor with Jobs-level instincts for innovation and sales who can also instill greater calm and discipline and take "a less-imperial approach to leadership." Longtime CFO Colette Kress was named interim CEO, and Nvidia stock dropped more than 7% before the opening bell while other chip stocks slipped far less. The newsletter also notes that Nvidia quit reporting its Singapore revenue separately soon after cutting off Megaspeed, the Singapore firm tied to the espionage scandal, and has declined to say whether the two moves were connected.</p><img src="https://images.wsj.net/im-77219506/social" alt="Nvidia Board Must Craft Epic Job Description for New CEO" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb">Nvidia Board Must Craft Epic Job Description for New CEO</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 07:37:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>AI Startup LangChain More Than Doubles Its Valuation to $3 Billion</title>
-      <link>https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad</guid>
-      <description><![CDATA[<p>LangChain, whose software helps developers build AI apps and agents, raised $300 million in a round led by Alphabet's CapitalG that values it at $3 billion, more than twice its valuation from October of last year, Belle Lin reports. The money will go toward expanding LangSmith, the startup's platform for monitoring, evaluating and deploying agents, as many enterprises hold back on agents until governance is in place; "The agent's behavior is the hard part to control," said co-founder and CEO Harrison Chase. CapitalG partner Mo Jomaa called the field "an insanely competitive market" in which big players try to lock customers into their own ecosystems, and the three-year-old company plans to grow from 435 full-time staff to 850 by the end of next year.</p><img src="https://images.wsj.net/im-23818061/social" alt="AI Startup LangChain More Than Doubles Its Valuation to $3 Billion" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">AI Startup LangChain More Than Doubles Its Valuation to $3 Billion</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Belle Lin</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 07:00:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
