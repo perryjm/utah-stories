@@ -6,7 +6,7 @@
     <atom:link href="https://www.wsj.com/cio-journal" rel="self" type="application/rss+xml"/>
     <description>Technology leadership and enterprise technology news from CIO Journal</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:01:06 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:13:45 -0700</lastBuildDate>
     <generator>Claude Code (Playwright MCP capture)</generator>
 
 
@@ -81,14 +81,6 @@
       <description><![CDATA[<p>The Morning Download argues that Jensen Huang's resignation as Nvidia CEO could rank among the most consequential corporate shake-ups ever, with effects rippling through chipmakers, venture-backed startups and geopolitics, though it says the move does not mean the end of Nvidia or of global AI adoption. According to records the Journal reviewed, Megaspeed, a company tied to Alice Huang, whom the newsletter identifies as Huang's onetime mistress, set up close to $12 billion in shipments of top Nvidia chips to Chinese buyers, though they don't show how many arrived and Megaspeed says it follows U.S. export controls. Startups expect Nvidia, now led by interim CEO Colette Kress, to pull back further from its role as an "open checkbook" for AI, a shift UBS estimates could remove $50 billion or more from the market, while Treasury Secretary Scott Bessent has urged the board to pick an outsider as CEO.</p><img src="https://images.wsj.net/im-54227208/social" alt="Nvidia CEO Ouster Reverberates Globally" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/nvidia-ceo-ouster-reverberates-globally-c882938d">Nvidia CEO Ouster Reverberates Globally</a> - wsj.com</li></ul>]]></description>
       <dc:creator>Steven Rosenbush</dc:creator>
       <pubDate>Mon, 16 Nov 2026 07:37:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Needs Three CEOs in One</title>
-      <link>https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c</link>
-      <guid isPermaLink="true">https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c</guid>
-      <description><![CDATA[<p>In the Morning Download, Steven Rosenbush and former Apple, Microsoft and Google executive Sophia Velastegui contrast Apple's carefully signaled handoff from Steve Jobs to Tim Cook with Nvidia's abrupt, unplanned search after Jensen Huang's exit. "Nvidia needs three leaders in one," Velastegui said: a technologist engineers will follow, a trusted steward of the CUDA platform, and a statesperson Washington and Taipei will take calls from. She names AMD's Lisa Su, Google's Amin Vahdat and insider Ian Buck as possibilities and argues the next CEO must sell entire AI factories to governments, not just chips to cloud companies.</p><img src="https://images.wsj.net/im-17737957/social" alt="Nvidia Needs Three CEOs in One" /><br /><h3>Sources:</h3><ul><li><a href="https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c">Nvidia Needs Three CEOs in One</a> - wsj.com</li></ul>]]></description>
-      <dc:creator>Steven Rosenbush</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 08:07:00 -0700</pubDate>
     </item>
     </channel>
 </rss>
